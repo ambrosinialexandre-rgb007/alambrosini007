@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-09T15:39:17.917693+00:00",
+ "generatedAt": "2026-10-09T15:49:28.064533+00:00",
  "topics": {
   "fr-national": [
    {
@@ -10,7 +10,7 @@
     "topic": "fr-national"
    },
    {
-    "title": "“Ségolène Royal a mis la lumière sur cette primaire et pourrait créer la surprise” (Béatrice Gelot”",
+    "title": "“Ségolène Royal a mis la lumière sur cette primaire et pourrait créer la surprise” (Béatrice Gelot)",
     "url": "https://www.youtube.com/watch?v=kX276Uoj540",
     "channel": "franceinfo",
     "published": "2026-10-09T15:06:43+00:00",
@@ -173,6 +173,13 @@
   ],
   "fr-international": [
    {
+    "title": "Manque d'enseignants, vétusté des établissements, classes surchargées... les lycéens en colère",
+    "url": "https://www.youtube.com/watch?v=HUZ0C_0pcxA",
+    "channel": "FRANCE 24",
+    "published": "2026-10-09T15:37:33+00:00",
+    "topic": "fr-international"
+   },
+   {
     "title": "Des neurones humains dans le cerveau des souris : pour quoi faire ? • FRANCE 24",
     "url": "https://www.youtube.com/watch?v=NCF_bLxUedQ",
     "channel": "FRANCE 24",
@@ -219,13 +226,6 @@
     "url": "https://www.youtube.com/watch?v=JLUS4TH-mLo",
     "channel": "FRANCE 24",
     "published": "2026-10-09T13:09:31+00:00",
-    "topic": "fr-international"
-   },
-   {
-    "title": "Les lycéens réagissent aux mesures proposées par Édouard Geffray • FRANCE 24",
-    "url": "https://www.youtube.com/watch?v=-BWoFdh-1Bg",
-    "channel": "FRANCE 24",
-    "published": "2026-10-09T13:05:27+00:00",
     "topic": "fr-international"
    },
    {
@@ -287,6 +287,13 @@
   ],
   "me-region": [
    {
+    "title": "2026 Nobel Peace Prize: Who is Navanethem “Navi” Pillay? • FRANCE 24 English",
+    "url": "https://www.youtube.com/watch?v=HBNDwYPidrM",
+    "channel": "FRANCE 24 English",
+    "published": "2026-10-09T15:47:44+00:00",
+    "topic": "me-region"
+   },
+   {
     "title": "Pakistan fuel subsidy: Govt announces new measure to cushion consumers",
     "url": "https://www.youtube.com/watch?v=v-mVLbAhmMI",
     "channel": "Al Jazeera English",
@@ -294,7 +301,7 @@
     "topic": "me-region"
    },
    {
-    "title": "2027 spring-summer ready-to-wear collections: Audacity, movement and sensuality • FRANCE 24 English",
+    "title": "2027 spring-summer ready-to-wear collections: Audacity, movement and sensuality • FRANCE 24",
     "url": "https://www.youtube.com/watch?v=D5gjtf2XhiM",
     "channel": "FRANCE 24 English",
     "published": "2026-10-09T15:27:22+00:00",
@@ -459,13 +466,6 @@
     "url": "https://www.youtube.com/watch?v=VFTtGEGLhks",
     "channel": "Al Arabiya English",
     "published": "2026-10-09T13:55:31+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Russia says all clear after contact tracing in reported plague case • FRANCE 24 English",
-    "url": "https://www.youtube.com/watch?v=D-wdL4akipo",
-    "channel": "FRANCE 24 English",
-    "published": "2026-10-09T13:53:21+00:00",
     "topic": "me-region"
    },
    {
@@ -1042,6 +1042,34 @@
   ],
   "football": [
    {
+    "title": "🇲🇦🇸🇳 La finale la plus longue de l'histoire #foot #CAN #maroc #senegal",
+    "url": "https://www.youtube.com/watch?v=y3cZr4s7Nj0",
+    "channel": "L'Équipe",
+    "published": "2026-10-09T15:48:09+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "🏃\"Septembre bouge\" et en novembre aussi ! #shorts #sport",
+    "url": "https://www.youtube.com/watch?v=HSGVFp1fVNk",
+    "channel": "L'Équipe",
+    "published": "2026-10-09T15:45:19+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "🇫🇷 Pas mal, non ? C'est Français ! #shorts #tennisdetable #lebrun",
+    "url": "https://www.youtube.com/watch?v=OVFsHWYDgFw",
+    "channel": "L'Équipe",
+    "published": "2026-10-09T15:40:54+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "🏠Le PSG bientôt hors du Parc des Princes ?  #foot #shorts #psg  #ligue1",
+    "url": "https://www.youtube.com/watch?v=Ttu76avhFzI",
+    "channel": "L'Équipe",
+    "published": "2026-10-09T15:40:51+00:00",
+    "topic": "football"
+   },
+   {
     "title": "🥊 \"Mbappé n'est pas à la hauteur du Real Madrid pour l'instant\" (Ludo Obraniak) #shorts #mbappe",
     "url": "https://www.youtube.com/watch?v=qDEM5DqFwJA",
     "channel": "L'Équipe",
@@ -1074,34 +1102,6 @@
     "url": "https://www.youtube.com/watch?v=wrBgXx1bRQA",
     "channel": "L'Équipe",
     "published": "2026-10-09T14:00:04+00:00",
-    "topic": "football"
-   },
-   {
-    "title": "Sport à l'école, féminisation, parasport... L'interview de Marina Ferrari, ministre des Sports",
-    "url": "https://www.youtube.com/watch?v=N75j6EXMKfM",
-    "channel": "L'Équipe",
-    "published": "2026-10-09T12:00:26+00:00",
-    "topic": "football"
-   },
-   {
-    "title": "🤩🇫🇷 La papinade, un geste devenu mythique ! #papin #football #sports",
-    "url": "https://www.youtube.com/watch?v=FYC31DmoPKI",
-    "channel": "L'Équipe",
-    "published": "2026-10-09T10:15:29+00:00",
-    "topic": "football"
-   },
-   {
-    "title": "Tennis de table : Les Lebrun en FINALE ? Le replay intégral de la demi-finale du Grand Smash Chine",
-    "url": "https://www.youtube.com/watch?v=xFxDFF0mfFU",
-    "channel": "L'Équipe",
-    "published": "2026-10-09T10:13:00+00:00",
-    "topic": "football"
-   },
-   {
-    "title": "Mbappé/Real Madrid : Est-il ingérable ?",
-    "url": "https://www.youtube.com/watch?v=UBA5zUnJWjQ",
-    "channel": "L'Équipe",
-    "published": "2026-10-09T10:00:07+00:00",
     "topic": "football"
    },
    {
@@ -1354,6 +1354,13 @@
     "topic": "markets"
    },
    {
+    "title": "Nobel winner Pillay warns international law is under attack",
+    "url": "https://www.youtube.com/watch?v=8z-bdH69n-E",
+    "channel": "Reuters",
+    "published": "2026-10-09T15:31:01+00:00",
+    "topic": "markets"
+   },
+   {
     "title": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong",
     "url": "https://www.youtube.com/watch?v=D26z1IUk0rU",
     "channel": "CNBC Television",
@@ -1372,6 +1379,27 @@
     "url": "https://www.youtube.com/watch?v=EnjO56HHiZQ",
     "channel": "CNBC Television",
     "published": "2026-10-09T15:28:47+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Bloomberg Surveillance 10/9/2026",
+    "url": "https://www.youtube.com/watch?v=MJYib7fiqWw",
+    "channel": "Bloomberg Television",
+    "published": "2026-10-09T15:26:41+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Inside Brooklyn’s WNBA Boom and Barclays Revamp",
+    "url": "https://www.youtube.com/watch?v=NTnGr2nZeJc",
+    "channel": "Bloomberg Television",
+    "published": "2026-10-09T15:25:03+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Inside Fort Lauderdale’s Luxury Condo Boom",
+    "url": "https://www.youtube.com/watch?v=QqziqJazzb0",
+    "channel": "Bloomberg Television",
+    "published": "2026-10-09T15:21:20+00:00",
     "topic": "markets"
    },
    {
@@ -1487,31 +1515,10 @@
     "topic": "markets"
    },
    {
-    "title": "Azadeh Moaveni on the Iranian Diaspora",
-    "url": "https://www.youtube.com/watch?v=u49np9jSn_Q",
-    "channel": "Bloomberg Television",
-    "published": "2026-10-09T14:05:54+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "NYC Mayor Mamdani Says ICE 'Makes Us Less Safe'",
-    "url": "https://www.youtube.com/watch?v=SLjRe7n-FjY",
-    "channel": "Bloomberg Television",
-    "published": "2026-10-09T14:02:16+00:00",
-    "topic": "markets"
-   },
-   {
     "title": "LIVE: Belgian students join trade unions for national strike",
     "url": "https://www.youtube.com/watch?v=hh2gKPZBXFs",
     "channel": "Reuters",
     "published": "2026-10-09T13:57:24+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Musk’s SpaceX Acquiring Crucial Swath of Spectrum",
-    "url": "https://www.youtube.com/watch?v=Y__sqjiw80A",
-    "channel": "Bloomberg Television",
-    "published": "2026-10-09T13:56:20+00:00",
     "topic": "markets"
    },
    {
@@ -1533,13 +1540,6 @@
     "url": "https://www.youtube.com/watch?v=oqAD0RZddf4",
     "channel": "Reuters",
     "published": "2026-10-09T12:51:45+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "LIVE: Navi Pillay speaks after Nobel Peace Prize win",
-    "url": "https://www.youtube.com/watch?v=W6xON4XcuY4",
-    "channel": "Reuters",
-    "published": "2026-10-09T12:21:39+00:00",
     "topic": "markets"
    },
    {
@@ -2023,6 +2023,13 @@
   "energy": [],
   "crypto": [
    {
+    "title": "Former NY Gov. Andrew Cuomo Talks Tokenization at OKX Now | Partner Content",
+    "url": "https://www.youtube.com/watch?v=fOrQ5eMW35E",
+    "channel": "CoinDesk",
+    "published": "2026-10-09T15:31:45+00:00",
+    "topic": "crypto"
+   },
+   {
     "title": "Cloudflare CEO: AI that \"really accelerates the haves over the have-nots.\"",
     "url": "https://www.youtube.com/watch?v=uz2wRnVQtNE",
     "channel": "CoinDesk",
@@ -2069,13 +2076,6 @@
     "url": "https://www.youtube.com/watch?v=LJARUexA508",
     "channel": "CoinDesk",
     "published": "2026-10-09T01:30:16+00:00",
-    "topic": "crypto"
-   },
-   {
-    "title": "Andrew Cuomo says OKX plans to roll out tokenized securities in about 30 days",
-    "url": "https://www.youtube.com/watch?v=8Fmp2RRyGfA",
-    "channel": "CoinDesk",
-    "published": "2026-10-08T20:17:14+00:00",
     "topic": "crypto"
    },
    {
