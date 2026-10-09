@@ -1,7 +1,21 @@
 {
- "generatedAt": "2026-10-09T15:03:24.134448+00:00",
+ "generatedAt": "2026-10-09T15:05:06.676975+00:00",
  "topics": {
   "fr-national": [
+   {
+    "title": "Une violente tornade ravage la Sicile",
+    "url": "https://www.youtube.com/watch?v=bxyzvkzvlEE",
+    "channel": "franceinfo",
+    "published": "2026-10-09T15:01:34+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "Vrai ou faux : Le Hamas n’a-t-il vraiment jamais sévi en Cisjordanie ?",
+    "url": "https://www.youtube.com/watch?v=Ge3QI3vwnjM",
+    "channel": "franceinfo",
+    "published": "2026-10-09T14:56:00+00:00",
+    "topic": "fr-national"
+   },
    {
     "title": "Exécution diffusée en direct aux États-Unis : Amnesty dénonce des \"pratiques autoritaires”",
     "url": "https://www.youtube.com/watch?v=ArYQGN0R4ZQ",
@@ -49,20 +63,6 @@
     "url": "https://www.youtube.com/watch?v=Wp8uzFBYXLE",
     "channel": "franceinfo",
     "published": "2026-10-09T12:30:49+00:00",
-    "topic": "fr-national"
-   },
-   {
-    "title": "La vallée de Campan-Payolle : L'évasion au cœur des Hautes-Pyrénées",
-    "url": "https://www.youtube.com/watch?v=Ilu_Sv_wQag",
-    "channel": "franceinfo",
-    "published": "2026-10-09T12:09:49+00:00",
-    "topic": "fr-national"
-   },
-   {
-    "title": "Le journal de 13h de France Télévisions - 9 octobre 2026",
-    "url": "https://www.youtube.com/watch?v=Kzqzu5HCiZc",
-    "channel": "franceinfo",
-    "published": "2026-10-09T12:08:26+00:00",
     "topic": "fr-national"
    },
    {
@@ -286,20 +286,6 @@
    }
   ],
   "me-region": [
-   {
-    "title": "Giants Brigades Storm Houthi Barriers Near Bab al-Mandab",
-    "url": "https://www.youtube.com/watch?v=ro-tCiBBYec",
-    "channel": "Al Arabiya English",
-    "published": "2026-10-09T14:55:59+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "ADHD and autism at risk of over-diagnosis in England, report says | BBC News",
-    "url": "https://www.youtube.com/watch?v=tCS5PmhZvkI",
-    "channel": "BBC News",
-    "published": "2026-10-09T14:47:59+00:00",
-    "topic": "me-region"
-   },
    {
     "title": "Four astronauts return to Earth after eight months in space • FRANCE 24 English",
     "url": "https://www.youtube.com/watch?v=H4ztvmkJzhs",
@@ -553,6 +539,13 @@
     "topic": "me-region"
    },
    {
+    "title": "Israeli Settlers Attack Palestinian Family in West Bank",
+    "url": "https://www.youtube.com/watch?v=CUQeg7sBjXs",
+    "channel": "Al Arabiya English",
+    "published": "2026-10-09T11:32:32+00:00",
+    "topic": "me-region"
+   },
+   {
     "title": "'Is it April fool's?' Navi Pillay reacts to Nobel Peace Prize news | AJ #shorts",
     "url": "https://www.youtube.com/watch?v=i9Chx-OTZWE",
     "channel": "Al Jazeera English",
@@ -620,6 +613,13 @@
     "url": "https://www.youtube.com/watch?v=JIZgfbTBIfw",
     "channel": "Asharq News",
     "published": "2026-10-09T07:30:01+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Shooting of man by ICE agent an 'outrage', says Zohran Mamdani. #BBCNews",
+    "url": "https://www.youtube.com/watch?v=HARqznIeUGM",
+    "channel": "BBC News",
+    "published": "2026-10-09T06:47:54+00:00",
     "topic": "me-region"
    },
    {
@@ -1347,13 +1347,6 @@
   ],
   "markets": [
    {
-    "title": "Fixing France's debt path is 'absolutely compulsory': Trichet",
-    "url": "https://www.youtube.com/watch?v=DbsTWLl2QaY",
-    "channel": "CNBC Television",
-    "published": "2026-10-09T15:00:30+00:00",
-    "topic": "markets"
-   },
-   {
     "title": "DHS Chief Mullin Says Man Shot by ICE Knew He Was Wanted",
     "url": "https://www.youtube.com/watch?v=2eVtV15qFu8",
     "channel": "Bloomberg Television",
@@ -1379,13 +1372,6 @@
     "url": "https://www.youtube.com/watch?v=hmiyn1nLQns",
     "channel": "Bloomberg Television",
     "published": "2026-10-09T14:46:03+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Gen Zers are now the biggest spenders in the art market, survey finds",
-    "url": "https://www.youtube.com/watch?v=WcFrnPiyblA",
-    "channel": "CNBC Television",
-    "published": "2026-10-09T14:45:15+00:00",
     "topic": "markets"
    },
    {
@@ -1592,10 +1578,24 @@
     "topic": "markets"
    },
    {
+    "title": "IRS Audits Plummet 10/9/26",
+    "url": "https://www.youtube.com/watch?v=520i5rd6fI4",
+    "channel": "CNBC Television",
+    "published": "2026-10-09T07:00:26+00:00",
+    "topic": "markets"
+   },
+   {
     "title": "[Podcast] · Mistral (1/3) : comment est né le champion européen de l'IA ?",
     "url": "https://www.youtube.com/watch?v=TsqJPb4j07A",
     "channel": "Les Echos",
     "published": "2026-10-09T05:00:01+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "PepsiCo is taking on additional costs to promote products and take market share, says Jim Cramer",
+    "url": "https://www.youtube.com/watch?v=Y2C17Wb2TsE",
+    "channel": "CNBC Television",
+    "published": "2026-10-09T00:15:19+00:00",
     "topic": "markets"
    },
    {
