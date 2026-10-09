@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-09T09:24:05.414682+00:00",
+ "generatedAt": "2026-10-09T09:32:40.424560+00:00",
  "topics": {
   "fr-national": [
    {
@@ -117,7 +117,14 @@
   ],
   "fr-international": [
    {
-    "title": "\"3024 professeurs ont vocation d'être affectés\" annonce Edouard Geffray • FRANCE 24",
+    "title": "Biélorussie : au service de Poutine",
+    "url": "https://www.youtube.com/watch?v=Oifx866AfKI",
+    "channel": "Le Dessous des Cartes – ARTE",
+    "published": "2026-10-09T09:11:42+00:00",
+    "topic": "fr-international"
+   },
+   {
+    "title": "\"3 024 professeurs ont vocation à être affectés\" annonce Edouard Geffray • FRANCE 24",
     "url": "https://www.youtube.com/watch?v=gcyQ9ELCKys",
     "channel": "FRANCE 24",
     "published": "2026-10-09T09:10:51+00:00",
@@ -219,13 +226,6 @@
     "url": "https://www.youtube.com/watch?v=xzCEbPY5nJU",
     "channel": "Le Dessous des Cartes – ARTE",
     "published": "2026-10-02T16:00:27+00:00",
-    "topic": "fr-international"
-   },
-   {
-    "title": "Révisons le monde ensemble ! | L'Académie du Dessous des cartes | ARTE",
-    "url": "https://www.youtube.com/watch?v=Hcjcxiuifg8",
-    "channel": "Le Dessous des Cartes – ARTE",
-    "published": "2026-10-02T10:08:17+00:00",
     "topic": "fr-international"
    }
   ],
@@ -962,6 +962,13 @@
     "topic": "markets"
    },
    {
+    "title": "Les entreprises dans le viseur du Conseil d'analyse économique",
+    "url": "https://www.youtube.com/watch?v=iz7zJdamofI",
+    "channel": "BFM Business",
+    "published": "2026-10-09T06:42:36+00:00",
+    "topic": "markets"
+   },
+   {
     "title": "L'IA menace les emplois des jeunes",
     "url": "https://www.youtube.com/watch?v=2BN4SAKpNNI",
     "channel": "BFM Business",
@@ -980,13 +987,6 @@
     "url": "https://www.youtube.com/watch?v=S1U8szwzzrY",
     "channel": "Reuters",
     "published": "2026-10-09T06:15:01+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "\"La Chine est habituée à la manipulation avec l'Union européenne depuis des années\" (Valérie Niquet)",
-    "url": "https://www.youtube.com/watch?v=v_uvoKyYbNw",
-    "channel": "BFM Business",
-    "published": "2026-10-09T06:11:22+00:00",
     "topic": "markets"
    },
    {
