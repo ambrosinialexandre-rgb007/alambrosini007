@@ -58,11 +58,33 @@ def perf_from_daily(t_list, c_list, price):
         "1Y": pct(price, pts[0][1] if len(pts) > 200 else None),
     }
 
+ANALYST_FILE = OUT / "analysts.json"
+SKIP_ANALYSTS = ("-USD", "=X", "^")
+
+def analyst_view(t):
+    """Wall Street consensus from Yahoo Finance: rating, mean target, number of analysts."""
+    info = t.info or {}
+    n = info.get("numberOfAnalystOpinions")
+    if not n:
+        return None
+    return {"rating": info.get("recommendationKey"), "score": info.get("recommendationMean"),
+            "target": info.get("targetMeanPrice"), "targetLow": info.get("targetLowPrice"),
+            "targetHigh": info.get("targetHighPrice"), "analysts": n}
+
+def load_analysts(now):
+    try:
+        a = json.loads(ANALYST_FILE.read_text(encoding="utf-8"))
+        fresh = (now - dt.datetime.fromisoformat(a["updatedAt"])).total_seconds() < 20 * 3600
+        return a, fresh
+    except Exception:
+        return {"updatedAt": None, "data": {}}, False
+
 def main():
     groups = json.loads((ROOT / "scripts" / "stocks.json").read_text(encoding="utf-8"))
     DOCS.mkdir(parents=True, exist_ok=True)
     now = dt.datetime.now(dt.timezone.utc)
     seen, rows, errors = {}, [], []
+    analysts, analysts_fresh = load_analysts(now)
     for topic, items in groups.items():
         for name, sym in items:
             row = {"topic": topic, "name": name, "symbol": sym}
@@ -103,11 +125,23 @@ def main():
                 hist = {"symbol": sym, "name": name, "currency": currency, "updatedAt": now.isoformat(),
                         "series": {k: v for k, v in ser.items() if v}}
                 (DOCS / f"{doc_id(sym)}.json").write_text(json.dumps(hist, separators=(",", ":")), encoding="utf-8")
+                if not analysts_fresh and not any(k in sym for k in SKIP_ANALYSTS):
+                    try:
+                        v = analyst_view(t)
+                        if v:
+                            analysts["data"][sym] = v
+                    except Exception:
+                        pass
+                if sym in analysts["data"]:
+                    row["analysts"] = analysts["data"][sym]
                 seen[sym] = row
             except Exception as e:
                 row["status"] = "error"
                 errors.append(f"{sym}: {e}")
             rows.append(row)
+    if not analysts_fresh:
+        analysts["updatedAt"] = now.isoformat()
+        ANALYST_FILE.write_text(json.dumps(analysts, separators=(",", ":")), encoding="utf-8")
     summary = {"updatedAt": now.isoformat(), "source": "Yahoo Finance (via yfinance)", "rows": rows, "errors": errors}
     (OUT / "summary.json").write_text(json.dumps(summary, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     ok = sum(1 for r in rows if r.get("status") == "ok")
