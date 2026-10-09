@@ -139,6 +139,18 @@
   [
    "NuScale Power",
    "SMR"
+  ],
+  [
+   "NANO Nuclear Energy",
+   "NNE"
+  ],
+  [
+   "Centrus Energy",
+   "LEU"
+  ],
+  [
+   "Lightbridge",
+   "LTBR"
   ]
  ],
  "robotics": [
@@ -189,6 +201,176 @@
   [
    "Solana",
    "SOL-USD"
+  ]
+ ],
+ "ai-chips": [
+  [
+   "NVIDIA",
+   "NVDA"
+  ],
+  [
+   "AMD",
+   "AMD"
+  ],
+  [
+   "Broadcom",
+   "AVGO"
+  ],
+  [
+   "TSMC",
+   "TSM"
+  ],
+  [
+   "ASML",
+   "ASML"
+  ],
+  [
+   "Arm Holdings",
+   "ARM"
+  ],
+  [
+   "Marvell Technology",
+   "MRVL"
+  ],
+  [
+   "Micron Technology",
+   "MU"
+  ],
+  [
+   "SK hynix",
+   "000660.KS"
+  ]
+ ],
+ "ai-infra": [
+  [
+   "Microsoft",
+   "MSFT"
+  ],
+  [
+   "Amazon",
+   "AMZN"
+  ],
+  [
+   "Alphabet",
+   "GOOGL"
+  ],
+  [
+   "Oracle",
+   "ORCL"
+  ],
+  [
+   "CoreWeave",
+   "CRWV"
+  ],
+  [
+   "Nebius Group",
+   "NBIS"
+  ],
+  [
+   "Vertiv",
+   "VRT"
+  ],
+  [
+   "Arista Networks",
+   "ANET"
+  ],
+  [
+   "Super Micro Computer",
+   "SMCI"
+  ],
+  [
+   "Equinix",
+   "EQIX"
+  ]
+ ],
+ "ai-models": [
+  [
+   "Alphabet (Gemini)",
+   "GOOGL"
+  ],
+  [
+   "Meta Platforms (Llama)",
+   "META"
+  ],
+  [
+   "Microsoft (OpenAI partner)",
+   "MSFT"
+  ],
+  [
+   "Amazon (Anthropic investor)",
+   "AMZN"
+  ],
+  [
+   "OpenAI",
+   null
+  ],
+  [
+   "Anthropic",
+   null
+  ],
+  [
+   "xAI",
+   null
+  ],
+  [
+   "Mistral AI",
+   null
+  ]
+ ],
+ "ai-apps": [
+  [
+   "Palantir",
+   "PLTR"
+  ],
+  [
+   "ServiceNow",
+   "NOW"
+  ],
+  [
+   "Salesforce",
+   "CRM"
+  ],
+  [
+   "Adobe",
+   "ADBE"
+  ],
+  [
+   "Snowflake",
+   "SNOW"
+  ],
+  [
+   "Datadog",
+   "DDOG"
+  ],
+  [
+   "CrowdStrike",
+   "CRWD"
+  ],
+  [
+   "AppLovin",
+   "APP"
+  ]
+ ],
+ "fx": [
+  [
+   "USD/SAR",
+   "USDSAR=X"
+  ],
+  [
+   "EUR/SAR",
+   "EURSAR=X"
+  ],
+  [
+   "CHF/SAR",
+   "CHFSAR=X"
+  ],
+  [
+   "HKD/SAR",
+   "HKDSAR=X"
+  ],
+  [
+   "AUD/SAR",
+   "AUDSAR=X"
   ]
  ]
 }
