@@ -365,12 +365,16 @@
    "CHFSAR=X"
   ],
   [
-   "HKD/SAR",
-   "HKDSAR=X"
-  ],
-  [
    "AUD/SAR",
    "AUDSAR=X"
+  ],
+  [
+   "USD/HKD",
+   "HKD=X"
+  ],
+  [
+   "USD/KRW",
+   "KRW=X"
   ]
  ]
 }
