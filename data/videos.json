@@ -1,7 +1,21 @@
 {
- "generatedAt": "2026-10-09T15:05:06.676975+00:00",
+ "generatedAt": "2026-10-09T15:31:27.672552+00:00",
  "topics": {
   "fr-national": [
+   {
+    "title": "Edouard Philippe, Jordan Bardella, la colère lycéenne : On/Off, épisode 2",
+    "url": "https://www.youtube.com/watch?v=57IvtIhGyHM",
+    "channel": "franceinfo",
+    "published": "2026-10-09T15:14:53+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "“Ségolène Royal a mis la lumière sur cette primaire et pourrait créer la surprise” (Béatrice Gelot”",
+    "url": "https://www.youtube.com/watch?v=kX276Uoj540",
+    "channel": "franceinfo",
+    "published": "2026-10-09T15:06:43+00:00",
+    "topic": "fr-national"
+   },
    {
     "title": "Une violente tornade ravage la Sicile",
     "url": "https://www.youtube.com/watch?v=bxyzvkzvlEE",
@@ -49,20 +63,6 @@
     "url": "https://www.youtube.com/watch?v=-UdJT1ZlLbk",
     "channel": "franceinfo",
     "published": "2026-10-09T13:36:01+00:00",
-    "topic": "fr-national"
-   },
-   {
-    "title": "“Parcoursup, c’est la plateforme du tri social par excellence” (Sofia Tizaoui, syndicat lycéen)",
-    "url": "https://www.youtube.com/watch?v=kFoNn749WTk",
-    "channel": "franceinfo",
-    "published": "2026-10-09T13:08:29+00:00",
-    "topic": "fr-national"
-   },
-   {
-    "title": "\"Toutes les matières possibles et inimaginables\" : D'où sortent ces 3 000 professeurs disponibles ?",
-    "url": "https://www.youtube.com/watch?v=Wp8uzFBYXLE",
-    "channel": "franceinfo",
-    "published": "2026-10-09T12:30:49+00:00",
     "topic": "fr-national"
    },
    {
@@ -173,6 +173,13 @@
   ],
   "fr-international": [
    {
+    "title": "Des neurones humains dans le cerveau des souris : pour quoi faire ? • FRANCE 24",
+    "url": "https://www.youtube.com/watch?v=NCF_bLxUedQ",
+    "channel": "FRANCE 24",
+    "published": "2026-10-09T15:08:07+00:00",
+    "topic": "fr-international"
+   },
+   {
     "title": "Le Paris des Arts avec Nikos Aliagas et Jean-Paul Enthoven • FRANCE 24",
     "url": "https://www.youtube.com/watch?v=g2t1VYqWOxY",
     "channel": "FRANCE 24",
@@ -219,13 +226,6 @@
     "url": "https://www.youtube.com/watch?v=-BWoFdh-1Bg",
     "channel": "FRANCE 24",
     "published": "2026-10-09T13:05:27+00:00",
-    "topic": "fr-international"
-   },
-   {
-    "title": "Procès Maradona : 4 à 12 ans de prison requis contre son équipe médicale • FRANCE 24",
-    "url": "https://www.youtube.com/watch?v=uI5ql4ivBhU",
-    "channel": "FRANCE 24",
-    "published": "2026-10-09T12:52:50+00:00",
     "topic": "fr-international"
    },
    {
@@ -286,6 +286,55 @@
    }
   ],
   "me-region": [
+   {
+    "title": "Southern Giants Brigades Capture Houthi Fighters",
+    "url": "https://www.youtube.com/watch?v=P7kJ-QBF8WU",
+    "channel": "Al Arabiya English",
+    "published": "2026-10-09T15:09:11+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Falling test scores in schools startle EU countries: Why are standards going down? • FRANCE 24",
+    "url": "https://www.youtube.com/watch?v=Sm-7XGMQH70",
+    "channel": "FRANCE 24 English",
+    "published": "2026-10-09T15:04:26+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Indonesia wildfires cause severe air pollution in Singapore and Malaysia",
+    "url": "https://www.youtube.com/watch?v=rup_Ulja3v0",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-09T15:02:56+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "غارات حكومية على مواقع الحوثيين.. وتقدم ميداني في تعز - أخبار الشرق",
+    "url": "https://www.youtube.com/watch?v=D_9phTq7ugA",
+    "channel": "Asharq News",
+    "published": "2026-10-09T15:00:36+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Who is Sagal Abdi-Wali, Labour's new MP? #SagalAbdiWali #Labour #BBCNews",
+    "url": "https://www.youtube.com/watch?v=L8Ouwc6Oz_A",
+    "channel": "BBC News",
+    "published": "2026-10-09T15:00:05+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Giants Brigades Storm Houthi Barriers Near Bab al-Mandab",
+    "url": "https://www.youtube.com/watch?v=ro-tCiBBYec",
+    "channel": "Al Arabiya English",
+    "published": "2026-10-09T14:55:59+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "ADHD and autism at risk of over-diagnosis in England, report says | BBC News",
+    "url": "https://www.youtube.com/watch?v=tCS5PmhZvkI",
+    "channel": "BBC News",
+    "published": "2026-10-09T14:47:59+00:00",
+    "topic": "me-region"
+   },
    {
     "title": "Four astronauts return to Earth after eight months in space • FRANCE 24 English",
     "url": "https://www.youtube.com/watch?v=H4ztvmkJzhs",
@@ -399,13 +448,6 @@
     "topic": "me-region"
    },
    {
-    "title": "No peace without international law: The message behind Navi Pillay’s Nobel • FRANCE 24 English",
-    "url": "https://www.youtube.com/watch?v=Kt0cmsYZlUQ",
-    "channel": "FRANCE 24 English",
-    "published": "2026-10-09T13:50:27+00:00",
-    "topic": "me-region"
-   },
-   {
     "title": "Schengen Visa Waiver details to be announced at GCC-EU Summit",
     "url": "https://www.youtube.com/watch?v=8fcd5VXlUZA",
     "channel": "Arab News",
@@ -490,13 +532,6 @@
     "topic": "me-region"
    },
    {
-    "title": "Navi Pillay: ‘Why do you  Need Courage  To Speak The Truth?’",
-    "url": "https://www.youtube.com/watch?v=juwCoiBufXE",
-    "channel": "Al Arabiya English",
-    "published": "2026-10-09T12:37:30+00:00",
-    "topic": "me-region"
-   },
-   {
     "title": "Jennifer Lawrence speaks up on Gaza in film festival",
     "url": "https://www.youtube.com/watch?v=ppFf5A1rD3Y",
     "channel": "Arab News",
@@ -539,13 +574,6 @@
     "topic": "me-region"
    },
    {
-    "title": "Israeli Settlers Attack Palestinian Family in West Bank",
-    "url": "https://www.youtube.com/watch?v=CUQeg7sBjXs",
-    "channel": "Al Arabiya English",
-    "published": "2026-10-09T11:32:32+00:00",
-    "topic": "me-region"
-   },
-   {
     "title": "'Is it April fool's?' Navi Pillay reacts to Nobel Peace Prize news | AJ #shorts",
     "url": "https://www.youtube.com/watch?v=i9Chx-OTZWE",
     "channel": "Al Jazeera English",
@@ -574,13 +602,6 @@
     "topic": "me-region"
    },
    {
-    "title": "Navi Pillay Wins Nobel Peace Prize",
-    "url": "https://www.youtube.com/watch?v=X0IjDGdCr2E",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-09T10:10:32+00:00",
-    "topic": "me-region"
-   },
-   {
     "title": "Does Green leader Zack Polanski face a leadership crisis after by-election defeat? | BBC Newscast",
     "url": "https://www.youtube.com/watch?v=QCemBuRKxa0",
     "channel": "BBC News",
@@ -595,13 +616,6 @@
     "topic": "me-region"
    },
    {
-    "title": "How Ukraine has transformed modern warfare | The Security Brief Live",
-    "url": "https://www.youtube.com/watch?v=zzdQU1JVpIQ",
-    "channel": "BBC News",
-    "published": "2026-10-09T09:18:29+00:00",
-    "topic": "me-region"
-   },
-   {
     "title": "كيف قاد ترمب معركة بسبب التصويت عن طريق البريد؟ تقرير واشنطن مع رنا أبتر 8-10-2026",
     "url": "https://www.youtube.com/watch?v=yVDKXCXK_u4",
     "channel": "Asharq News",
@@ -613,13 +627,6 @@
     "url": "https://www.youtube.com/watch?v=JIZgfbTBIfw",
     "channel": "Asharq News",
     "published": "2026-10-09T07:30:01+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Shooting of man by ICE agent an 'outrage', says Zohran Mamdani. #BBCNews",
-    "url": "https://www.youtube.com/watch?v=HARqznIeUGM",
-    "channel": "BBC News",
-    "published": "2026-10-09T06:47:54+00:00",
     "topic": "me-region"
    },
    {
@@ -676,13 +683,6 @@
     "url": "https://www.youtube.com/watch?v=hcKL2t9bQeE",
     "channel": "Arab News",
     "published": "2026-10-09T05:00:37+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "1729 عملية استهداف ضد الحوثيين..  الارتداد شرقًا مع عبد الله آل يحيى 8-10-2026",
-    "url": "https://www.youtube.com/watch?v=ZKGULY07DL0",
-    "channel": "Asharq News",
-    "published": "2026-10-09T03:00:23+00:00",
     "topic": "me-region"
    },
    {
@@ -1042,6 +1042,20 @@
   ],
   "football": [
    {
+    "title": "🤣 Voilà comment va se passer l'appel d'offres des droits TV de la Ligue 1 selon Antoine Pineau",
+    "url": "https://www.youtube.com/watch?v=y62p0MXxOKw",
+    "channel": "L'Équipe",
+    "published": "2026-10-09T15:29:53+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "💰 \"Y'a plus de sous dans la popoche\" du foot français #shorts  #ligue1",
+    "url": "https://www.youtube.com/watch?v=XSxtdwxfCog",
+    "channel": "L'Équipe",
+    "published": "2026-10-09T15:26:29+00:00",
+    "topic": "football"
+   },
+   {
     "title": "What makes old football stadiums so iconic 😍 | Lost Grounds | Episode 5",
     "url": "https://www.youtube.com/watch?v=YcgW_bQME-A",
     "channel": "Sky Sports Football",
@@ -1088,20 +1102,6 @@
     "url": "https://www.youtube.com/watch?v=nfxA9lWNbeE",
     "channel": "L'Équipe",
     "published": "2026-10-09T09:51:56+00:00",
-    "topic": "football"
-   },
-   {
-    "title": "Tennis de table : Le résumé du quart de finale du double Alexis et Felix Lebrun au Grand Smash Chine",
-    "url": "https://www.youtube.com/watch?v=1Kd-mwzMuD0",
-    "channel": "L'Équipe",
-    "published": "2026-10-09T09:51:30+00:00",
-    "topic": "football"
-   },
-   {
-    "title": "Tennis de table : Le replay intégral du match d'Alexis Lebrun contre Jang au Grand Smash Chine",
-    "url": "https://www.youtube.com/watch?v=GgQpQaD7KTE",
-    "channel": "L'Équipe",
-    "published": "2026-10-09T09:06:15+00:00",
     "topic": "football"
    },
    {
@@ -1233,6 +1233,13 @@
   ],
   "f1": [
    {
+    "title": "Lewis Was Locked In 👀",
+    "url": "https://www.youtube.com/watch?v=6sUbEN2OkxM",
+    "channel": "FORMULA 1",
+    "published": "2026-10-09T15:04:05+00:00",
+    "topic": "f1"
+   },
+   {
     "title": "Sprint Qualifying Highlights | 2026 Singapore Grand Prix",
     "url": "https://www.youtube.com/watch?v=1glxSkFKTPk",
     "channel": "FORMULA 1",
@@ -1296,13 +1303,6 @@
     "topic": "f1"
    },
    {
-    "title": "Max Verstappen Answers Fan Questions!",
-    "url": "https://www.youtube.com/watch?v=gyo-QEkILgI",
-    "channel": "FORMULA 1",
-    "published": "2026-10-08T13:30:08+00:00",
-    "topic": "f1"
-   },
-   {
     "title": "F1 takes action over software bug debacle 👊",
     "url": "https://www.youtube.com/watch?v=HPGqRFiOEEw",
     "channel": "The Race",
@@ -1347,6 +1347,48 @@
   ],
   "markets": [
    {
+    "title": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong",
+    "url": "https://www.youtube.com/watch?v=D26z1IUk0rU",
+    "channel": "CNBC Television",
+    "published": "2026-10-09T15:30:17+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Former United Airlines CEO Oscar Munoz on Delta earnings and Elon Musk’s spat with Ed Bastian",
+    "url": "https://www.youtube.com/watch?v=CGf2c0HgOec",
+    "channel": "CNBC Television",
+    "published": "2026-10-09T15:29:01+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Superintelligence will accelerate all scientific domains, says Michael Kratsios",
+    "url": "https://www.youtube.com/watch?v=EnjO56HHiZQ",
+    "channel": "CNBC Television",
+    "published": "2026-10-09T15:28:47+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "LIVE: Hot-air balloons fill the skies above New Mexico",
+    "url": "https://www.youtube.com/watch?v=J8ncWnqxpHI",
+    "channel": "Reuters",
+    "published": "2026-10-09T15:15:12+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "a16z's David George on tech's major contribution to capex",
+    "url": "https://www.youtube.com/watch?v=ZAsFHvmuuoU",
+    "channel": "CNBC Television",
+    "published": "2026-10-09T15:15:07+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Fixing France's debt path is 'absolutely compulsory': Trichet",
+    "url": "https://www.youtube.com/watch?v=DbsTWLl2QaY",
+    "channel": "CNBC Television",
+    "published": "2026-10-09T15:00:30+00:00",
+    "topic": "markets"
+   },
+   {
     "title": "DHS Chief Mullin Says Man Shot by ICE Knew He Was Wanted",
     "url": "https://www.youtube.com/watch?v=2eVtV15qFu8",
     "channel": "Bloomberg Television",
@@ -1372,6 +1414,13 @@
     "url": "https://www.youtube.com/watch?v=hmiyn1nLQns",
     "channel": "Bloomberg Television",
     "published": "2026-10-09T14:46:03+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Gen Zers are now the biggest spenders in the art market, survey finds",
+    "url": "https://www.youtube.com/watch?v=WcFrnPiyblA",
+    "channel": "CNBC Television",
+    "published": "2026-10-09T14:45:15+00:00",
     "topic": "markets"
    },
    {
@@ -1459,13 +1508,6 @@
     "topic": "markets"
    },
    {
-    "title": "LIVE: Hot-air balloons fill the skies above New Mexico",
-    "url": "https://www.youtube.com/watch?v=J8ncWnqxpHI",
-    "channel": "Reuters",
-    "published": "2026-10-09T13:56:02+00:00",
-    "topic": "markets"
-   },
-   {
     "title": "BFM Crypto, Bitcoin: quelle perspective pour la fin de l'année ?",
     "url": "https://www.youtube.com/watch?v=2rOeSh4vpnQ",
     "channel": "BFM Business",
@@ -1473,31 +1515,10 @@
     "topic": "markets"
    },
    {
-    "title": "Hunter Point Capital CEO on signs of thawing in private equity",
-    "url": "https://www.youtube.com/watch?v=AaBiKT4l4DM",
-    "channel": "CNBC Television",
-    "published": "2026-10-09T13:30:31+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Peter Boockvar on the impact of data center buildout on the stock market: It works until it doesn't",
-    "url": "https://www.youtube.com/watch?v=L5e3e899kUM",
-    "channel": "CNBC Television",
-    "published": "2026-10-09T13:22:16+00:00",
-    "topic": "markets"
-   },
-   {
     "title": "How high debt France gives markets a contagion fright",
     "url": "https://www.youtube.com/watch?v=B7A_bCL19Fc",
     "channel": "Reuters",
     "published": "2026-10-09T13:07:13+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Bradley Tusk on Anthropic IPO: Why add public market pressure if safety is your top priority?",
-    "url": "https://www.youtube.com/watch?v=VFp_qEaNyb8",
-    "channel": "CNBC Television",
-    "published": "2026-10-09T12:59:38+00:00",
     "topic": "markets"
    },
    {
@@ -1526,13 +1547,6 @@
     "url": "https://www.youtube.com/watch?v=njq5woAiDQE",
     "channel": "Financial Times",
     "published": "2026-10-09T12:00:33+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "NBA Commissioner Adam Silver on the 2026 China Games, NBA Europe plans and prediction markets",
-    "url": "https://www.youtube.com/watch?v=0188x3qhEfA",
-    "channel": "CNBC Television",
-    "published": "2026-10-09T11:33:19+00:00",
     "topic": "markets"
    },
    {
@@ -1578,24 +1592,10 @@
     "topic": "markets"
    },
    {
-    "title": "IRS Audits Plummet 10/9/26",
-    "url": "https://www.youtube.com/watch?v=520i5rd6fI4",
-    "channel": "CNBC Television",
-    "published": "2026-10-09T07:00:26+00:00",
-    "topic": "markets"
-   },
-   {
     "title": "[Podcast] · Mistral (1/3) : comment est né le champion européen de l'IA ?",
     "url": "https://www.youtube.com/watch?v=TsqJPb4j07A",
     "channel": "Les Echos",
     "published": "2026-10-09T05:00:01+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "PepsiCo is taking on additional costs to promote products and take market share, says Jim Cramer",
-    "url": "https://www.youtube.com/watch?v=Y2C17Wb2TsE",
-    "channel": "CNBC Television",
-    "published": "2026-10-09T00:15:19+00:00",
     "topic": "markets"
    },
    {
@@ -2023,6 +2023,20 @@
   "energy": [],
   "crypto": [
    {
+    "title": "Cloudflare CEO: AI that \"really accelerates the haves over the have-nots.\"",
+    "url": "https://www.youtube.com/watch?v=uz2wRnVQtNE",
+    "channel": "CoinDesk",
+    "published": "2026-10-09T15:01:06+00:00",
+    "topic": "crypto"
+   },
+   {
+    "title": "Kraken Parent Backs CFTC's Plan to Regulate Spot Crypto Without Congress",
+    "url": "https://www.youtube.com/watch?v=U0uQaiXMx4c",
+    "channel": "CoinDesk",
+    "published": "2026-10-09T15:00:26+00:00",
+    "topic": "crypto"
+   },
+   {
     "title": "Buterin: \"Not your silicon, not your keys.\"",
     "url": "https://www.youtube.com/watch?v=ZXBPJyrWX-Q",
     "channel": "CoinDesk",
@@ -2079,24 +2093,10 @@
     "topic": "crypto"
    },
    {
-    "title": "Cloudflare CEO Matthew Prince predicts agent traffic will be 1,000x human traffic within 5 years.",
-    "url": "https://www.youtube.com/watch?v=BpnenXc0Dao",
-    "channel": "CoinDesk",
-    "published": "2026-10-08T15:09:48+00:00",
-    "topic": "crypto"
-   },
-   {
     "title": "NFA Live! Bond Yields Surge, Crypto Stalls, & is AI Overhyped?",
     "url": "https://www.youtube.com/watch?v=7lBaoC08nEQ",
     "channel": "Into the Cryptoverse (Benjamin Cowen)",
     "published": "2026-10-08T13:40:13+00:00",
-    "topic": "crypto"
-   },
-   {
-    "title": "Iran Tanker Attacks Push Oil Higher and Bitcoin Lower",
-    "url": "https://www.youtube.com/watch?v=KefTntUyyZc",
-    "channel": "CoinDesk",
-    "published": "2026-10-07T16:18:32+00:00",
     "topic": "crypto"
    },
    {
