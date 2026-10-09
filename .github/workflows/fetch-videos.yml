@@ -1,0 +1,31 @@
+name: Fetch latest videos
+on:
+  schedule:
+    - cron: "15 */3 * * *"   # every 3 hours; includes 02:15 UTC = 05:15 Riyadh, before the 05:50 edition
+  workflow_dispatch:
+  push:
+    paths: ["scripts/**", ".github/workflows/fetch-videos.yml"]
+permissions:
+  contents: write
+concurrency:
+  group: fetch-videos
+  cancel-in-progress: false
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python scripts/fetch_videos.py
+      - name: Save results
+        run: |
+          git config user.name "morning-wire-bot"
+          git config user.email "morning-wire-bot@users.noreply.github.com"
+          git add data/videos.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Update latest videos"
+          git pull --rebase origin main
+          git push
