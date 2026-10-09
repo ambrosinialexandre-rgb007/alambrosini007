@@ -1,7 +1,21 @@
 {
- "generatedAt": "2026-10-09T14:51:52.163080+00:00",
+ "generatedAt": "2026-10-09T15:03:24.134448+00:00",
  "topics": {
   "fr-national": [
+   {
+    "title": "Exécution diffusée en direct aux États-Unis : Amnesty dénonce des \"pratiques autoritaires”",
+    "url": "https://www.youtube.com/watch?v=ArYQGN0R4ZQ",
+    "channel": "franceinfo",
+    "published": "2026-10-09T14:47:07+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "New York : l’ICE tire sur une voiture, un enfant de 5 ans sur la banquette arrière",
+    "url": "https://www.youtube.com/watch?v=YZERMfPMK-k",
+    "channel": "Le Monde",
+    "published": "2026-10-09T14:45:53+00:00",
+    "topic": "fr-national"
+   },
    {
     "title": "Les lycéens veulent en finir avec Parcoursup",
     "url": "https://www.youtube.com/watch?v=ncdMpHWybFI",
@@ -49,13 +63,6 @@
     "url": "https://www.youtube.com/watch?v=Kzqzu5HCiZc",
     "channel": "franceinfo",
     "published": "2026-10-09T12:08:26+00:00",
-    "topic": "fr-national"
-   },
-   {
-    "title": "Insolite : Un Français au championnat du monde de tiramisu",
-    "url": "https://www.youtube.com/watch?v=T2-eWPuirnw",
-    "channel": "franceinfo",
-    "published": "2026-10-09T12:04:09+00:00",
     "topic": "fr-national"
    },
    {
@@ -154,13 +161,6 @@
     "url": "https://www.youtube.com/watch?v=MtiaBt7kU1Y",
     "channel": "Le Monde",
     "published": "2026-10-08T08:16:47+00:00",
-    "topic": "fr-national"
-   },
-   {
-    "title": "\"Là, il y a une urgence climatique, une urgence environnementale.\"",
-    "url": "https://www.youtube.com/watch?v=_t-1DNwfc2U",
-    "channel": "Le Monde",
-    "published": "2026-10-08T07:01:06+00:00",
     "topic": "fr-national"
    },
    {
@@ -286,6 +286,20 @@
    }
   ],
   "me-region": [
+   {
+    "title": "Giants Brigades Storm Houthi Barriers Near Bab al-Mandab",
+    "url": "https://www.youtube.com/watch?v=ro-tCiBBYec",
+    "channel": "Al Arabiya English",
+    "published": "2026-10-09T14:55:59+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "ADHD and autism at risk of over-diagnosis in England, report says | BBC News",
+    "url": "https://www.youtube.com/watch?v=tCS5PmhZvkI",
+    "channel": "BBC News",
+    "published": "2026-10-09T14:47:59+00:00",
+    "topic": "me-region"
+   },
    {
     "title": "Four astronauts return to Earth after eight months in space • FRANCE 24 English",
     "url": "https://www.youtube.com/watch?v=H4ztvmkJzhs",
@@ -539,13 +553,6 @@
     "topic": "me-region"
    },
    {
-    "title": "Israeli Settlers Attack Palestinian Family in West Bank",
-    "url": "https://www.youtube.com/watch?v=CUQeg7sBjXs",
-    "channel": "Al Arabiya English",
-    "published": "2026-10-09T11:32:32+00:00",
-    "topic": "me-region"
-   },
-   {
     "title": "'Is it April fool's?' Navi Pillay reacts to Nobel Peace Prize news | AJ #shorts",
     "url": "https://www.youtube.com/watch?v=i9Chx-OTZWE",
     "channel": "Al Jazeera English",
@@ -613,13 +620,6 @@
     "url": "https://www.youtube.com/watch?v=JIZgfbTBIfw",
     "channel": "Asharq News",
     "published": "2026-10-09T07:30:01+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Shooting of man by ICE agent an 'outrage', says Zohran Mamdani. #BBCNews",
-    "url": "https://www.youtube.com/watch?v=HARqznIeUGM",
-    "channel": "BBC News",
-    "published": "2026-10-09T06:47:54+00:00",
     "topic": "me-region"
    },
    {
@@ -1042,6 +1042,13 @@
   ],
   "football": [
    {
+    "title": "What makes old football stadiums so iconic 😍 | Lost Grounds | Episode 5",
+    "url": "https://www.youtube.com/watch?v=YcgW_bQME-A",
+    "channel": "Sky Sports Football",
+    "published": "2026-10-09T15:00:20+00:00",
+    "topic": "football"
+   },
+   {
     "title": "Portugal : Après la polémique, Cristiano Ronaldo mérite-t-il le même hommage que Lionel Messi ?",
     "url": "https://www.youtube.com/watch?v=wrBgXx1bRQA",
     "channel": "L'Équipe",
@@ -1210,13 +1217,6 @@
     "topic": "football"
    },
    {
-    "title": "From a football stadium to a housing estate 🏘️ | Lost Grounds | Episode 2",
-    "url": "https://www.youtube.com/watch?v=jYXoqBdTC2k",
-    "channel": "Sky Sports Football",
-    "published": "2026-10-06T15:00:04+00:00",
-    "topic": "football"
-   },
-   {
     "title": "What's the difference between baseball and softball?",
     "url": "https://www.youtube.com/watch?v=CM65e7M604Y",
     "channel": "Tifo Sports (The Athletic)",
@@ -1347,6 +1347,48 @@
   ],
   "markets": [
    {
+    "title": "Fixing France's debt path is 'absolutely compulsory': Trichet",
+    "url": "https://www.youtube.com/watch?v=DbsTWLl2QaY",
+    "channel": "CNBC Television",
+    "published": "2026-10-09T15:00:30+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "DHS Chief Mullin Says Man Shot by ICE Knew He Was Wanted",
+    "url": "https://www.youtube.com/watch?v=2eVtV15qFu8",
+    "channel": "Bloomberg Television",
+    "published": "2026-10-09T14:58:18+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "LIVE: President Trump hosts Columbus Day event",
+    "url": "https://www.youtube.com/watch?v=0FDEU0r3mEw",
+    "channel": "Reuters",
+    "published": "2026-10-09T14:55:20+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "LIVE: Brazil’s Lula rallies supporters ahead of Brazil runoff",
+    "url": "https://www.youtube.com/watch?v=OjKvHD4M2Vs",
+    "channel": "Reuters",
+    "published": "2026-10-09T14:48:57+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Consumers Wary About High Prices and Economy, UMich's Hsu Says",
+    "url": "https://www.youtube.com/watch?v=hmiyn1nLQns",
+    "channel": "Bloomberg Television",
+    "published": "2026-10-09T14:46:03+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Gen Zers are now the biggest spenders in the art market, survey finds",
+    "url": "https://www.youtube.com/watch?v=WcFrnPiyblA",
+    "channel": "CNBC Television",
+    "published": "2026-10-09T14:45:15+00:00",
+    "topic": "markets"
+   },
+   {
     "title": "L'éco du monde : Chine, les leçons de la Golden Week",
     "url": "https://www.youtube.com/watch?v=TRsvVsEEiik",
     "channel": "BFM Business",
@@ -1354,10 +1396,24 @@
     "topic": "markets"
    },
    {
+    "title": "US Suspends Visa Program for Tech Firms Including Microsoft",
+    "url": "https://www.youtube.com/watch?v=_Wd9g_HviwI",
+    "channel": "Bloomberg Television",
+    "published": "2026-10-09T14:38:12+00:00",
+    "topic": "markets"
+   },
+   {
     "title": "LIVE: Student protests spread across France",
     "url": "https://www.youtube.com/watch?v=i1ZgDgIOPVQ",
     "channel": "Reuters",
     "published": "2026-10-09T14:36:57+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Flash Floods, Mudslides Sweep Through Chile's Capital",
+    "url": "https://www.youtube.com/watch?v=Y_Yg2GGankw",
+    "channel": "Bloomberg Television",
+    "published": "2026-10-09T14:35:24+00:00",
     "topic": "markets"
    },
    {
@@ -1424,13 +1480,6 @@
     "topic": "markets"
    },
    {
-    "title": "LIVE: Brazil’s Lula rallies supporters ahead of Brazil runoff",
-    "url": "https://www.youtube.com/watch?v=OjKvHD4M2Vs",
-    "channel": "Reuters",
-    "published": "2026-10-09T13:53:09+00:00",
-    "topic": "markets"
-   },
-   {
     "title": "BFM Crypto, Bitcoin: quelle perspective pour la fin de l'année ?",
     "url": "https://www.youtube.com/watch?v=2rOeSh4vpnQ",
     "channel": "BFM Business",
@@ -1438,24 +1487,10 @@
     "topic": "markets"
    },
    {
-    "title": "OpenAI Targets $70 Billion in Annualized Revenue by Year-End",
-    "url": "https://www.youtube.com/watch?v=qQwjUv-npdc",
-    "channel": "Bloomberg Television",
-    "published": "2026-10-09T13:44:49+00:00",
-    "topic": "markets"
-   },
-   {
     "title": "Hunter Point Capital CEO on signs of thawing in private equity",
     "url": "https://www.youtube.com/watch?v=AaBiKT4l4DM",
     "channel": "CNBC Television",
     "published": "2026-10-09T13:30:31+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Nobel Peace Prize Goes to Jurist Navi Pillay",
-    "url": "https://www.youtube.com/watch?v=3ye7uVWZr_0",
-    "channel": "Bloomberg Television",
-    "published": "2026-10-09T13:27:43+00:00",
     "topic": "markets"
    },
    {
@@ -1473,13 +1508,6 @@
     "topic": "markets"
    },
    {
-    "title": "Chile Emerges As Global Hub For Ice Swimming",
-    "url": "https://www.youtube.com/watch?v=FrGt8U8sS8s",
-    "channel": "Bloomberg Television",
-    "published": "2026-10-09T13:05:22+00:00",
-    "topic": "markets"
-   },
-   {
     "title": "Bradley Tusk on Anthropic IPO: Why add public market pressure if safety is your top priority?",
     "url": "https://www.youtube.com/watch?v=VFp_qEaNyb8",
     "channel": "CNBC Television",
@@ -1491,13 +1519,6 @@
     "url": "https://www.youtube.com/watch?v=oqAD0RZddf4",
     "channel": "Reuters",
     "published": "2026-10-09T12:51:45+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Stocks Rise as AI Concerns Ease; Dollar Rally Persists",
-    "url": "https://www.youtube.com/watch?v=LDYb4sM841c",
-    "channel": "Bloomberg Television",
-    "published": "2026-10-09T12:46:05+00:00",
     "topic": "markets"
    },
    {
@@ -1519,13 +1540,6 @@
     "url": "https://www.youtube.com/watch?v=njq5woAiDQE",
     "channel": "Financial Times",
     "published": "2026-10-09T12:00:33+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "IMF warnings fall on deaf ears",
-    "url": "https://www.youtube.com/watch?v=Aw_uAnAqDro",
-    "channel": "Reuters",
-    "published": "2026-10-09T11:57:14+00:00",
     "topic": "markets"
    },
    {
@@ -1578,24 +1592,10 @@
     "topic": "markets"
    },
    {
-    "title": "IRS Audits Plummet 10/9/26",
-    "url": "https://www.youtube.com/watch?v=520i5rd6fI4",
-    "channel": "CNBC Television",
-    "published": "2026-10-09T07:00:26+00:00",
-    "topic": "markets"
-   },
-   {
     "title": "[Podcast] · Mistral (1/3) : comment est né le champion européen de l'IA ?",
     "url": "https://www.youtube.com/watch?v=TsqJPb4j07A",
     "channel": "Les Echos",
     "published": "2026-10-09T05:00:01+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "PepsiCo is taking on additional costs to promote products and take market share, says Jim Cramer",
-    "url": "https://www.youtube.com/watch?v=Y2C17Wb2TsE",
-    "channel": "CNBC Television",
-    "published": "2026-10-09T00:15:19+00:00",
     "topic": "markets"
    },
    {
