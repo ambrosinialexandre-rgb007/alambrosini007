@@ -12,6 +12,24 @@ FEED = "https://www.youtube.com/feeds/videos.xml?channel_id={}"
 MAX_AGE = dt.timedelta(days=7)
 PER_CHANNEL = 8
 
+import re
+CACHE = ROOT / "data" / "channel_ids.json"
+
+def resolve(ref, cache):
+    """Channel references are UC ids, or YouTube addresses such as @handle, c/name, user/name or a custom name."""
+    if re.fullmatch(r"UC[\w-]{22}", ref):
+        return ref
+    if ref in cache:
+        return cache[ref]
+    req = urllib.request.Request("https://www.youtube.com/" + ref, headers={"User-Agent": "Mozilla/5.0", "Accept-Language": "en"})
+    with urllib.request.urlopen(req, timeout=20) as r:
+        html = r.read().decode("utf-8", "ignore")
+    m = re.search(r'"externalId":"(UC[\w-]{22})"', html) or re.search(r'<meta itemprop="identifier" content="(UC[\w-]{22})"', html) or re.search(r'"channelId":"(UC[\w-]{22})"', html)
+    if not m:
+        raise ValueError("could not resolve channel id for " + ref)
+    cache[ref] = m.group(1)
+    return cache[ref]
+
 def fetch(channel_id):
     req = urllib.request.Request(FEED.format(channel_id), headers={"User-Agent": "Mozilla/5.0 morning-wire"})
     with urllib.request.urlopen(req, timeout=20) as r:
@@ -21,11 +39,12 @@ def main():
     channels = json.loads((ROOT / "scripts" / "channels.json").read_text(encoding="utf-8"))
     now = dt.datetime.now(dt.timezone.utc)
     out, errors = {}, []
+    cache = json.loads(CACHE.read_text()) if CACHE.exists() else {}
     for topic, chans in channels.items():
         vids = []
         for name, cid in chans.items():
             try:
-                root = fetch(cid)
+                root = fetch(resolve(cid, cache))
             except Exception as e:  # keep going; one bad feed must not stop the rest
                 errors.append(f"{name}: {e}")
                 continue
@@ -49,6 +68,7 @@ def main():
         out[topic] = vids
     data = {"generatedAt": now.isoformat(), "topics": out, "errors": errors}
     (ROOT / "data").mkdir(exist_ok=True)
+    CACHE.write_text(json.dumps(cache, indent=1), encoding="utf-8")
     (ROOT / "data" / "videos.json").write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"{sum(len(v) for v in out.values())} videos, {len(errors)} feed errors")
 
