@@ -1,30 +1,31 @@
-name: Fetch latest videos
+name: Fetch stock prices
 on:
   schedule:
-    - cron: "15 */3 * * *"   # every 3 hours; includes 02:15 UTC = 05:15 Riyadh, before the 05:50 edition
+    - cron: "*/30 * * * *"   # every 30 minutes
   workflow_dispatch:
   push:
-    paths: ["scripts/**", ".github/workflows/fetch-videos.yml"]
+    paths: ["scripts/fetch_stocks.py", "scripts/stocks.json", ".github/workflows/fetch-stocks.yml"]
 permissions:
   contents: write
 concurrency:
-  group: fetch-videos
+  group: fetch-stocks
   cancel-in-progress: false
 jobs:
   fetch:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: python scripts/fetch_videos.py
+      - run: pip install --quiet yfinance
+      - run: python scripts/fetch_stocks.py
       - name: Save results
         run: |
           git config user.name "morning-wire-bot"
           git config user.email "morning-wire-bot@users.noreply.github.com"
-          git add data/videos.json
+          git add data/stocks
           git diff --cached --quiet && exit 0
-          git commit -m "Update latest videos"
+          git commit -m "Update stock prices"
           for i in 1 2 3; do git pull --rebase origin main && git push && break; sleep 5; done

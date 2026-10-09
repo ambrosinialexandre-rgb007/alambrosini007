@@ -1,0 +1,11 @@
+{
+  "ai-semis": [["NVIDIA","NVDA"],["TSMC","TSM"],["Broadcom","AVGO"],["Astera Labs","ALAB"],["Credo Technology","CRDO"]],
+  "transport": [["DHL Group","DHL.DE"],["FedEx","FDX"],["Aurora Innovation","AUR"],["Einride",null]],
+  "aerospace": [["SpaceX","SPCX"],["Rocket Lab","RKLB"],["AST SpaceMobile","ASTS"],["RTX","RTX"],["Lockheed Martin","LMT"]],
+  "minerals": [["Rio Tinto","RIO"],["Freeport-McMoRan","FCX"],["Lynas Rare Earths","LYC.AX"],["MP Materials","MP"]],
+  "luxury": [["LVMH","MC.PA"],["Richemont","CFR.SW"],["Ferrari","RACE"],["Prada","1913.HK"],["Brunello Cucinelli","BC.MI"]],
+  "energy": [["GE Vernova","GEV"],["Constellation Energy","CEG"],["Oklo","OKLO"],["NuScale Power","SMR"]],
+  "robotics": [["Tesla","TSLA"],["NVIDIA","NVDA"],["Symbotic","SYM"],["Serve Robotics","SERV"]],
+  "biotech": [["Eli Lilly","LLY"],["Vertex Pharmaceuticals","VRTX"],["CRISPR Therapeutics","CRSP"],["Recursion Pharmaceuticals","RXRX"]],
+  "crypto": [["Bitcoin","BTC-USD"],["Ethereum","ETH-USD"],["Solana","SOL-USD"]]
+}
