@@ -79,5 +79,25 @@
  },
  "robotics": {
   "NVIDIA": "@NVIDIA"
+ },
+ "us": {
+  "PBS NewsHour": "@PBSNewsHour",
+  "Associated Press": "@AP",
+  "NBC News": "@NBCNews",
+  "CBS News": "@CBSNews"
+ },
+ "europe": {
+  "DW News": "@dwnews",
+  "euronews": "@euronews",
+  "FRANCE 24 English": "UCQfwfsi5VrQ8yKZ-UWmAEFg",
+  "BBC News": "UC16niRr50-MSBwiO3YDb3RA"
+ },
+ "brics": {
+  "WION": "@WION",
+  "CGTN": "@CGTNOfficial",
+  "Al Jazeera English": "UCNye-wNBqNL5ZzHSJj3l8Bg",
+  "DW News": "@dwnews",
+  "Firstpost": "@Firstpost",
+  "TRT World": "@trtworld"
  }
 }
