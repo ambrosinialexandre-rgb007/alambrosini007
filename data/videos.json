@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-10T03:30:19.291269+00:00",
+ "generatedAt": "2026-10-10T06:34:59.243244+00:00",
  "topics": {
   "fr-national": [],
   "fr-international": [],
@@ -8,64 +8,7 @@
   "rugby": [],
   "football": [],
   "f1": [],
-  "markets": [
-   {
-    "title": "Plan to livestream execution creates 'theater' out of death penalty, Amnesty says",
-    "url": "https://www.youtube.com/watch?v=r-fDXehe41I",
-    "channel": "Reuters",
-    "published": "2026-10-09T21:21:45+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "How disinformation is fueling anti-migrant protests, violence in South Africa",
-    "url": "https://www.youtube.com/watch?v=qr73M0pUJnk",
-    "channel": "Reuters",
-    "published": "2026-10-09T21:21:41+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Vance says he would not watch livestream of military execution",
-    "url": "https://www.youtube.com/watch?v=FZDpOoRS7YQ",
-    "channel": "Reuters",
-    "published": "2026-10-09T21:21:39+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "LIVE: Tropical storm floods streets in Newport Beach, California",
-    "url": "https://www.youtube.com/watch?v=qIK9pSLCDC4",
-    "channel": "Reuters",
-    "published": "2026-10-09T21:11:54+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "LIVE: Florida Governor DeSantis on Hurricane Isaias",
-    "url": "https://www.youtube.com/watch?v=nDJboua3k0M",
-    "channel": "Reuters",
-    "published": "2026-10-09T20:33:19+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Navi Pillay wins Nobel as US hits ICC with sweeping sanctions | Reuters World News",
-    "url": "https://www.youtube.com/watch?v=Z-Wr2y7ZQqU",
-    "channel": "Reuters",
-    "published": "2026-10-09T20:23:04+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Vance says he wouldn't watch livestream of execution",
-    "url": "https://www.youtube.com/watch?v=v-dT8ARVDO4",
-    "channel": "Reuters",
-    "published": "2026-10-09T19:49:44+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "LIVE: Housing activists in Barcelona protest in tribute to Maricarmen Abascal",
-    "url": "https://www.youtube.com/watch?v=LJwhHhP6Nlc",
-    "channel": "Reuters",
-    "published": "2026-10-09T19:48:58+00:00",
-    "topic": "markets"
-   }
-  ],
+  "markets": [],
   "ai-semis": [],
   "transport": [],
   "aerospace": [],
@@ -76,68 +19,11 @@
   "luxury": [],
   "robotics": [],
   "us": [],
-  "europe": [
-   {
-    "title": "South African judge awarded Nobel Peace Prize • FRANCE 24 English",
-    "url": "https://www.youtube.com/watch?v=zOc7OPPGiT0",
-    "channel": "FRANCE 24 English",
-    "published": "2026-10-09T21:54:02+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Italy's biggest-ever wine heist • FRANCE 24 English",
-    "url": "https://www.youtube.com/watch?v=ZGohYtYX2i8",
-    "channel": "FRANCE 24 English",
-    "published": "2026-10-09T20:08:40+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "France Protests, Israel's 'politically charged' remembrance, Ethopia, Ukraine • FRANCE 24 English",
-    "url": "https://www.youtube.com/watch?v=YriQCFrUx4A",
-    "channel": "FRANCE 24 English",
-    "published": "2026-10-09T18:28:07+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Navi Pillay awarded Peace Prize: 'Lifetime spent fighting for what's right & to uphold human rights'",
-    "url": "https://www.youtube.com/watch?v=mEgyEg578qQ",
-    "channel": "FRANCE 24 English",
-    "published": "2026-10-09T17:27:54+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Unweaving Jeffrey Epstein’s web: What the files have revealed • FRANCE 24 English",
-    "url": "https://www.youtube.com/watch?v=8f5RFHmtRic",
-    "channel": "FRANCE 24 English",
-    "published": "2026-10-09T16:00:11+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "EU's Covid recovery fund was 'absolutely a success': European Court of Auditors' Pierre Moscovici",
-    "url": "https://www.youtube.com/watch?v=zCvVwApG_C4",
-    "channel": "FRANCE 24 English",
-    "published": "2026-10-09T15:51:48+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "2026 Nobel Peace Prize: Who is Navanethem “Navi” Pillay? • FRANCE 24 English",
-    "url": "https://www.youtube.com/watch?v=HBNDwYPidrM",
-    "channel": "FRANCE 24 English",
-    "published": "2026-10-09T15:47:44+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "2027 spring-summer ready-to-wear collections: Audacity, movement and sensuality • FRANCE 24",
-    "url": "https://www.youtube.com/watch?v=D5gjtf2XhiM",
-    "channel": "FRANCE 24 English",
-    "published": "2026-10-09T15:27:22+00:00",
-    "topic": "europe"
-   }
-  ],
+  "europe": [],
   "brics": []
  },
  "errors": [
-  "franceinfo: HTTP Error 500: Internal Server Error",
+  "franceinfo: HTTP Error 404: Not Found",
   "HugoDécrypte – Actus du jour: HTTP Error 404: Not Found",
   "Le Monde: HTTP Error 404: Not Found",
   "FRANCE 24: HTTP Error 404: Not Found",
@@ -152,9 +38,9 @@
   "i24NEWS English: HTTP Error 404: Not Found",
   "PGA TOUR: HTTP Error 404: Not Found",
   "DP World Tour: HTTP Error 404: Not Found",
-  "LIV Golf: HTTP Error 500: Internal Server Error",
+  "LIV Golf: HTTP Error 404: Not Found",
   "Golf Channel: HTTP Error 404: Not Found",
-  "World Rugby: HTTP Error 500: Internal Server Error",
+  "World Rugby: HTTP Error 404: Not Found",
   "RugbyPass: HTTP Error 404: Not Found",
   "Six Nations Rugby: HTTP Error 404: Not Found",
   "L'Équipe: HTTP Error 404: Not Found",
@@ -164,9 +50,10 @@
   "FORMULA 1: HTTP Error 404: Not Found",
   "The Race: HTTP Error 404: Not Found",
   "Bloomberg Television: HTTP Error 404: Not Found",
+  "Reuters: HTTP Error 404: Not Found",
   "Financial Times: HTTP Error 404: Not Found",
   "BFM Business: HTTP Error 404: Not Found",
-  "Les Echos: HTTP Error 500: Internal Server Error",
+  "Les Echos: HTTP Error 404: Not Found",
   "CNBC Television: HTTP Error 404: Not Found",
   "TechTechPotato: HTTP Error 404: Not Found",
   "Asianometry: HTTP Error 404: Not Found",
@@ -174,7 +61,7 @@
   "NASASpaceflight: HTTP Error 404: Not Found",
   "Scott Manley: HTTP Error 404: Not Found",
   "Breaking Defense: HTTP Error 404: Not Found",
-  "SpaceNews: HTTP Error 500: Internal Server Error",
+  "SpaceNews: HTTP Error 404: Not Found",
   "Defense News: HTTP Error 404: Not Found",
   "Benchmark Mineral Intelligence: HTTP Error 404: Not Found",
   "IEA: HTTP Error 404: Not Found",
@@ -189,10 +76,11 @@
   "CBS News: HTTP Error 404: Not Found",
   "DW News: HTTP Error 404: Not Found",
   "euronews: HTTP Error 404: Not Found",
-  "BBC News: HTTP Error 500: Internal Server Error",
+  "FRANCE 24 English: HTTP Error 404: Not Found",
+  "BBC News: HTTP Error 404: Not Found",
   "WION: HTTP Error 404: Not Found",
   "CGTN: HTTP Error 404: Not Found",
-  "Al Jazeera English: HTTP Error 500: Internal Server Error",
+  "Al Jazeera English: HTTP Error 404: Not Found",
   "DW News: HTTP Error 404: Not Found",
   "Firstpost: HTTP Error 404: Not Found",
   "TRT World: HTTP Error 404: Not Found"
