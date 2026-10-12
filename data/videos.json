@@ -1,17 +1,244 @@
 {
- "generatedAt": "2026-10-12T03:34:55.618317+00:00",
+ "generatedAt": "2026-10-12T06:42:49.981211+00:00",
  "topics": {
   "fr-national": [],
   "fr-international": [],
-  "me-region": [],
+  "me-region": [
+   {
+    "title": "Hackers target personal security devices in Israel and Ukraine",
+    "url": "https://www.youtube.com/watch?v=jvEiZBxY5eI",
+    "channel": "i24NEWS English",
+    "published": "2026-10-12T01:00:40+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Israel changes flight protocols following failed hijacking",
+    "url": "https://www.youtube.com/watch?v=8MDbgJOzDUI",
+    "channel": "i24NEWS English",
+    "published": "2026-10-11T21:30:27+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "IDF searches for mystery object detected at Lebanese border",
+    "url": "https://www.youtube.com/watch?v=626thl2ZX_s",
+    "channel": "i24NEWS English",
+    "published": "2026-10-11T21:07:43+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "How will Saudi Arabia respond to Houthi attacks?",
+    "url": "https://www.youtube.com/watch?v=Q11mfLVVrK8",
+    "channel": "i24NEWS English",
+    "published": "2026-10-11T20:42:07+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "EU warns media and LGBTQ+ crackdowns hurt Turkey's membership bid",
+    "url": "https://www.youtube.com/watch?v=THNgRIvH8Jg",
+    "channel": "i24NEWS English",
+    "published": "2026-10-11T19:30:32+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "🔴 i24NEWS LIVE BROADCAST",
+    "url": "https://www.youtube.com/watch?v=bI2WnD5UabQ",
+    "channel": "i24NEWS English",
+    "published": "2026-10-11T19:12:53+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Wine, tahini… are banks next? Israel’s Dutch trade fears",
+    "url": "https://www.youtube.com/watch?v=QWD49WBLnok",
+    "channel": "i24NEWS English",
+    "published": "2026-10-11T18:47:29+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "9/11-style plot: UAE says FlyDubai co-pilot planned to crash into Israel's airport",
+    "url": "https://www.youtube.com/watch?v=8i-b6mZ7aUo",
+    "channel": "i24NEWS English",
+    "published": "2026-10-11T18:30:26+00:00",
+    "topic": "me-region"
+   }
+  ],
   "golf": [],
   "rugby": [],
   "football": [],
   "f1": [],
-  "markets": [],
+  "markets": [
+   {
+    "title": "India's Cockroach Janta Party Renews Call for Poll Body Chief to Quit",
+    "url": "https://www.youtube.com/watch?v=4SYhFnAYJlk",
+    "channel": "Bloomberg Television",
+    "published": "2026-10-12T05:50:50+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "China Reaches Deal with EU on Hybrid Car Shipments",
+    "url": "https://www.youtube.com/watch?v=X_wvIbE-3nY",
+    "channel": "Bloomberg Television",
+    "published": "2026-10-12T05:25:58+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Trump Claims Russia-Ukraine Agree to ‘Energy’ Truce, Houthi Attacks on Saudi Airports Escalate",
+    "url": "https://www.youtube.com/watch?v=bjwCxsnRg-0",
+    "channel": "Bloomberg Television",
+    "published": "2026-10-12T04:38:23+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Why Wall Street Bosses Are Betting on India",
+    "url": "https://www.youtube.com/watch?v=odKyWIeSyxs",
+    "channel": "Bloomberg Television",
+    "published": "2026-10-12T04:09:40+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Lethal missile strikes on Riyadh show military power of Yemen's Houthi rebels | FT #shorts",
+    "url": "https://www.youtube.com/watch?v=NSH4OEwUhZ8",
+    "channel": "Financial Times",
+    "published": "2026-10-11T18:14:46+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "'Windows of Opportunity' to End War in Ukraine, SACEUR Says",
+    "url": "https://www.youtube.com/watch?v=cDKEMAwpAMI",
+    "channel": "Bloomberg Television",
+    "published": "2026-10-11T17:43:55+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Bookmarked: Stories That Caught Our Eye This Week",
+    "url": "https://www.youtube.com/watch?v=FyrlRpc-qvI",
+    "channel": "Bloomberg Television",
+    "published": "2026-10-11T17:20:37+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Former US Envoy Warns of broader Middle East Conflict",
+    "url": "https://www.youtube.com/watch?v=Vn8PpkSNKuM",
+    "channel": "Bloomberg Television",
+    "published": "2026-10-11T17:10:51+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Globalization Challenges a Decade of Populist Pushback",
+    "url": "https://www.youtube.com/watch?v=gPY3K0ef5h8",
+    "channel": "Bloomberg Television",
+    "published": "2026-10-11T17:02:12+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "How India is reshaping mental healthcare | FT Standpoint",
+    "url": "https://www.youtube.com/watch?v=IHO3i1g2Iro",
+    "channel": "Financial Times",
+    "published": "2026-10-10T04:00:37+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Have the Greens peaked? | FT #shorts",
+    "url": "https://www.youtube.com/watch?v=4Ec4wXIc57Y",
+    "channel": "Financial Times",
+    "published": "2026-10-09T19:23:06+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Venezuela opposition leader calls for ‘real political change’ | FT #shorts",
+    "url": "https://www.youtube.com/watch?v=njq5woAiDQE",
+    "channel": "Financial Times",
+    "published": "2026-10-09T12:00:33+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Can the world tame the ‘debt monster’? | FT #shorts",
+    "url": "https://www.youtube.com/watch?v=8AiGKMciMfI",
+    "channel": "Financial Times",
+    "published": "2026-10-09T07:04:58+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "What’s at stake for the Amazon rainforest in Brazil’s elections? | FT",
+    "url": "https://www.youtube.com/watch?v=W069_KnUkvw",
+    "channel": "Financial Times",
+    "published": "2026-10-08T18:00:38+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "The global energy order after Hormuz | FT Film",
+    "url": "https://www.youtube.com/watch?v=UkXml6HHbHE",
+    "channel": "Financial Times",
+    "published": "2026-10-08T15:18:01+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "How the US used propaganda to fund World War One | FT #shorts",
+    "url": "https://www.youtube.com/watch?v=9X-tSe9Porc",
+    "channel": "Financial Times",
+    "published": "2026-10-08T14:30:29+00:00",
+    "topic": "markets"
+   }
+  ],
   "ai-semis": [],
   "transport": [],
-  "aerospace": [],
+  "aerospace": [
+   {
+    "title": "Ship 40 Makes it Home - Starbase Summary",
+    "url": "https://www.youtube.com/watch?v=FyzUCghvy0g",
+    "channel": "NASASpaceflight",
+    "published": "2026-10-11T22:10:58+00:00",
+    "topic": "aerospace"
+   },
+   {
+    "title": "SpaceX Launches Falcon 9 with Starlink 15-25",
+    "url": "https://www.youtube.com/watch?v=KwOyWO98vGI",
+    "channel": "NASASpaceflight",
+    "published": "2026-10-11T16:41:20+00:00",
+    "topic": "aerospace"
+   },
+   {
+    "title": "SpaceX Laumches CRS-35 Dragon to the International Space Station",
+    "url": "https://www.youtube.com/watch?v=_gdbS1AAkq0",
+    "channel": "NASASpaceflight",
+    "published": "2026-10-11T16:08:24+00:00",
+    "topic": "aerospace"
+   },
+   {
+    "title": "SpaceX Ship 40 Homecoming Transport",
+    "url": "https://www.youtube.com/watch?v=Faph82jLG3Y",
+    "channel": "NASASpaceflight",
+    "published": "2026-10-11T07:41:56+00:00",
+    "topic": "aerospace"
+   },
+   {
+    "title": "Return to Launch Site (not how you think) - The Flame Trench",
+    "url": "https://www.youtube.com/watch?v=XvxwyA-qzn0",
+    "channel": "NASASpaceflight",
+    "published": "2026-10-10T00:44:59+00:00",
+    "topic": "aerospace"
+   },
+   {
+    "title": "SpaceX Launched 3 Rockets, Landed 4 Boosters! #spacex #rocket #booster #falcon",
+    "url": "https://www.youtube.com/watch?v=xaEOwK28H4M",
+    "channel": "NASASpaceflight",
+    "published": "2026-10-09T11:00:17+00:00",
+    "topic": "aerospace"
+   },
+   {
+    "title": "Could Engine Work Delay Starship Flight 15? | Starship Update",
+    "url": "https://www.youtube.com/watch?v=dPqDD39cBEw",
+    "channel": "NASASpaceflight",
+    "published": "2026-10-08T23:00:08+00:00",
+    "topic": "aerospace"
+   },
+   {
+    "title": "How This Starship Floated 12,000 MILES! #spacex #starship #ocean",
+    "url": "https://www.youtube.com/watch?v=6zObx7L3fBA",
+    "channel": "NASASpaceflight",
+    "published": "2026-10-08T21:35:04+00:00",
+    "topic": "aerospace"
+   }
+  ],
   "minerals": [],
   "energy": [],
   "crypto": [],
@@ -20,7 +247,120 @@
   "robotics": [],
   "us": [],
   "europe": [],
-  "brics": []
+  "brics": [
+   {
+    "title": "CCTV captures moment Houthi strike hits Riyadh Airport",
+    "url": "https://www.youtube.com/watch?v=MKpJE9tMWps",
+    "channel": "TRT World",
+    "published": "2026-10-12T05:23:42+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Clashes reported in Yemen as Houthis advance towards Taiz",
+    "url": "https://www.youtube.com/watch?v=d-mPtRzxY-I",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-12T05:22:53+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Israel expands Gaza occupation as settlers attack Palestinians in West Bank",
+    "url": "https://www.youtube.com/watch?v=I64yQpXqwIg",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-12T04:09:48+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Ethiopian troops enter Adigrat in Tigray, near the Eritrean border | #AJ shorts",
+    "url": "https://www.youtube.com/watch?v=ZqhcYoooHv4",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-12T03:57:41+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "At least 139 dead as migrant boat from Djibouti to Yemen capsizes | AJ Shorts",
+    "url": "https://www.youtube.com/watch?v=CZFHbsm1u4g",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-12T03:05:32+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Bridge washed away by torrent of water in Nepal",
+    "url": "https://www.youtube.com/watch?v=q5gxgDNsi-A",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-12T01:22:03+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Can Iran prevent a wider war between the US and Houthis?",
+    "url": "https://www.youtube.com/watch?v=5JCrMBtMF6A",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-12T00:41:53+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Exclusive: Inside an alleged crime kingpin’s Cambodian empire | 101 East #shorts",
+    "url": "https://www.youtube.com/watch?v=ERksaeIwtMg",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-12T00:18:51+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Saudi Arabia and Houthis escalate attacks as Yemen conflict intensifies",
+    "url": "https://www.youtube.com/watch?v=f4sEgvRJtoQ",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-11T23:41:15+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Deadly air strike hits a gold mine in Egypt border region",
+    "url": "https://www.youtube.com/watch?v=z6nYElCApCA",
+    "channel": "TRT World",
+    "published": "2026-10-11T21:33:36+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Poland investigates alleged plot against PM",
+    "url": "https://www.youtube.com/watch?v=jxuHBVnGHDc",
+    "channel": "TRT World",
+    "published": "2026-10-11T21:11:15+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Pakistan imposes state of emergency in Khyber Pakhtunkhwa",
+    "url": "https://www.youtube.com/watch?v=r0OoUZU91t4",
+    "channel": "TRT World",
+    "published": "2026-10-11T20:51:41+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Illegal Israeli settlers attack Palestinian olive harvesters in West Bank",
+    "url": "https://www.youtube.com/watch?v=BAaneDDRWH0",
+    "channel": "TRT World",
+    "published": "2026-10-11T20:46:04+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Houthis claim responsibility for Saturday’s airport attack",
+    "url": "https://www.youtube.com/watch?v=H4uTI5a7h7U",
+    "channel": "TRT World",
+    "published": "2026-10-11T20:22:06+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Indian protest leaders released amid voter registration dispute",
+    "url": "https://www.youtube.com/watch?v=YMFDc5KNY7g",
+    "channel": "TRT World",
+    "published": "2026-10-11T18:45:25+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Pro-Palestinian demonstrators call for sanctions against Israel",
+    "url": "https://www.youtube.com/watch?v=dA-hoh_6MGg",
+    "channel": "TRT World",
+    "published": "2026-10-11T18:45:05+00:00",
+    "topic": "brics"
+   }
+  ]
  },
  "errors": [
   "franceinfo: HTTP Error 404: Not Found",
@@ -29,19 +369,18 @@
   "FRANCE 24: HTTP Error 404: Not Found",
   "Le Dessous des Cartes – ARTE: HTTP Error 404: Not Found",
   "Al Jazeera English: HTTP Error 404: Not Found",
-  "FRANCE 24 English: HTTP Error 404: Not Found",
+  "FRANCE 24 English: HTTP Error 500: Internal Server Error",
   "Middle East Eye: HTTP Error 404: Not Found",
   "BBC News: HTTP Error 404: Not Found",
   "Arab News: HTTP Error 404: Not Found",
   "Al Arabiya English: HTTP Error 404: Not Found",
   "Asharq News: HTTP Error 404: Not Found",
-  "i24NEWS English: HTTP Error 404: Not Found",
   "PGA TOUR: HTTP Error 404: Not Found",
   "DP World Tour: HTTP Error 404: Not Found",
   "LIV Golf: HTTP Error 404: Not Found",
   "Golf Channel: HTTP Error 404: Not Found",
   "World Rugby: HTTP Error 404: Not Found",
-  "RugbyPass: HTTP Error 404: Not Found",
+  "RugbyPass: HTTP Error 500: Internal Server Error",
   "Six Nations Rugby: HTTP Error 404: Not Found",
   "L'Équipe: HTTP Error 404: Not Found",
   "Tifo Sports (The Athletic): HTTP Error 404: Not Found",
@@ -49,27 +388,24 @@
   "Sky Sports Football: HTTP Error 404: Not Found",
   "FORMULA 1: HTTP Error 404: Not Found",
   "The Race: HTTP Error 404: Not Found",
-  "Bloomberg Television: HTTP Error 404: Not Found",
-  "Reuters: HTTP Error 404: Not Found",
-  "Financial Times: HTTP Error 404: Not Found",
+  "Reuters: HTTP Error 500: Internal Server Error",
   "BFM Business: HTTP Error 404: Not Found",
   "Les Echos: HTTP Error 404: Not Found",
   "CNBC Television: HTTP Error 404: Not Found",
   "TechTechPotato: HTTP Error 404: Not Found",
   "Asianometry: HTTP Error 404: Not Found",
   "FreightWaves: HTTP Error 404: Not Found",
-  "NASASpaceflight: HTTP Error 404: Not Found",
   "Scott Manley: HTTP Error 404: Not Found",
-  "Breaking Defense: HTTP Error 404: Not Found",
+  "Breaking Defense: HTTP Error 500: Internal Server Error",
   "SpaceNews: HTTP Error 404: Not Found",
   "Defense News: HTTP Error 404: Not Found",
   "Benchmark Mineral Intelligence: HTTP Error 404: Not Found",
   "IEA: HTTP Error 404: Not Found",
   "Into the Cryptoverse (Benjamin Cowen): HTTP Error 404: Not Found",
   "CoinDesk: HTTP Error 404: Not Found",
-  "Tennis TV: HTTP Error 404: Not Found",
+  "Tennis TV: HTTP Error 500: Internal Server Error",
   "Business of Fashion: HTTP Error 404: Not Found",
-  "NVIDIA: HTTP Error 404: Not Found",
+  "NVIDIA: HTTP Error 500: Internal Server Error",
   "PBS NewsHour: HTTP Error 404: Not Found",
   "Associated Press: HTTP Error 404: Not Found",
   "NBC News: HTTP Error 404: Not Found",
@@ -80,9 +416,7 @@
   "BBC News: HTTP Error 404: Not Found",
   "WION: HTTP Error 404: Not Found",
   "CGTN: HTTP Error 404: Not Found",
-  "Al Jazeera English: HTTP Error 404: Not Found",
-  "DW News: HTTP Error 404: Not Found",
-  "Firstpost: HTTP Error 404: Not Found",
-  "TRT World: HTTP Error 404: Not Found"
+  "DW News: HTTP Error 500: Internal Server Error",
+  "Firstpost: HTTP Error 404: Not Found"
  ]
 }
