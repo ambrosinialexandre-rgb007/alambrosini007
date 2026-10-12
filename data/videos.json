@@ -1,592 +1,26 @@
 {
- "generatedAt": "2026-10-12T00:43:02.109449+00:00",
+ "generatedAt": "2026-10-12T03:34:55.618317+00:00",
  "topics": {
   "fr-national": [],
   "fr-international": [],
-  "me-region": [
-   {
-    "title": "Saudi Arabia is like ‘a phoenix,’ Prince Abdulaziz says",
-    "url": "https://www.youtube.com/watch?v=ZkhSAIE0jQc",
-    "channel": "Al Arabiya English",
-    "published": "2026-10-12T00:09:35+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Footage Shows Moment of Riyadh Airport Attack",
-    "url": "https://www.youtube.com/watch?v=FE9fy5chF5U",
-    "channel": "Al Arabiya English",
-    "published": "2026-10-11T20:37:17+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Footage Shows Moment of Riyadh Airport Attack",
-    "url": "https://www.youtube.com/watch?v=sE1JQn34m0Y",
-    "channel": "Al Arabiya English",
-    "published": "2026-10-11T20:32:01+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Footage Shows Moment of Riyadh Airport Attack",
-    "url": "https://www.youtube.com/watch?v=WMl96Z1ty-8",
-    "channel": "Al Arabiya English",
-    "published": "2026-10-11T20:24:48+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "How Does Saudi Support Oil Stability?",
-    "url": "https://www.youtube.com/watch?v=zVOI1sR1Iqw",
-    "channel": "Al Arabiya English",
-    "published": "2026-10-11T19:32:32+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "How Is Saudi Stabilizing Energy Markets?",
-    "url": "https://www.youtube.com/watch?v=2llJjLF38Y8",
-    "channel": "Al Arabiya English",
-    "published": "2026-10-11T19:24:58+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Yemen Military Launches 1,732 Strikes in Yemen",
-    "url": "https://www.youtube.com/watch?v=DihN0CCeucU",
-    "channel": "Al Arabiya English",
-    "published": "2026-10-11T19:24:34+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Why Has Energy Security Returned to Focus?",
-    "url": "https://www.youtube.com/watch?v=FAJUopbP1i4",
-    "channel": "Al Arabiya English",
-    "published": "2026-10-11T19:24:05+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Wildlife park where man fatally attacked by tiger gives update. #YorkshireWildlifePark #BBCNews",
-    "url": "https://www.youtube.com/watch?v=sV-YH_WifwU",
-    "channel": "BBC News",
-    "published": "2026-10-11T18:15:09+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Lagos street model Rachel Ojuromi who made it to Chanel's Runway. #BBCNews",
-    "url": "https://www.youtube.com/watch?v=voLQPbqENu8",
-    "channel": "BBC News",
-    "published": "2026-10-11T17:30:29+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Zelensky says Ukraine supports 'energy ceasefire' announced by Trump | BBC News",
-    "url": "https://www.youtube.com/watch?v=xIgTJMQcElM",
-    "channel": "BBC News",
-    "published": "2026-10-11T17:30:20+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Why is Trump calling for Zelensky to go? | BBC Newscast",
-    "url": "https://www.youtube.com/watch?v=idUdEfzZEDM",
-    "channel": "BBC News",
-    "published": "2026-10-11T17:00:09+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "More protests in Delhi as freed ‘cockroach’ group’s leaders vow to fight on. #BBCNews",
-    "url": "https://www.youtube.com/watch?v=qVH9BzPEbsY",
-    "channel": "BBC News",
-    "published": "2026-10-11T17:00:07+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Why is this historic ship going electric? | BBC News",
-    "url": "https://www.youtube.com/watch?v=eR_6A6wt2AM",
-    "channel": "BBC News",
-    "published": "2026-10-11T16:30:34+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "At least 12 people were killed in Saturday's attack on the airport in Riyadh. #SaudiArabia#BBCNews",
-    "url": "https://www.youtube.com/watch?v=5yFfBwFndu4",
-    "channel": "BBC News",
-    "published": "2026-10-11T16:14:48+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Inside the Pokémon World Championships | BBC News",
-    "url": "https://www.youtube.com/watch?v=83-H_wxJDnI",
-    "channel": "BBC News",
-    "published": "2026-10-11T16:00:17+00:00",
-    "topic": "me-region"
-   }
-  ],
+  "me-region": [],
   "golf": [],
   "rugby": [],
   "football": [],
   "f1": [],
   "markets": [],
   "ai-semis": [],
-  "transport": [
-   {
-    "title": "FreightWaves Today | October 9",
-    "url": "https://www.youtube.com/watch?v=5WL6ZPtpoxQ",
-    "channel": "FreightWaves",
-    "published": "2026-10-10T05:13:44+00:00",
-    "topic": "transport"
-   },
-   {
-    "title": "FreightWaves Today | October 9",
-    "url": "https://www.youtube.com/watch?v=VOxypIfXFNw",
-    "channel": "FreightWaves",
-    "published": "2026-10-09T17:53:41+00:00",
-    "topic": "transport"
-   },
-   {
-    "title": "$185M Breakup Fee? Inside the CH Robinson-RXO Merger",
-    "url": "https://www.youtube.com/watch?v=Iws5kpwdZ04",
-    "channel": "FreightWaves",
-    "published": "2026-10-09T17:53:13+00:00",
-    "topic": "transport"
-   },
-   {
-    "title": "The $3.5M Amazon Ghost Trailer Scam (And Why Peak Season Started Early) | WHAT THE TRUCK?!?",
-    "url": "https://www.youtube.com/watch?v=_XerDEmx1CI",
-    "channel": "FreightWaves",
-    "published": "2026-10-09T17:36:06+00:00",
-    "topic": "transport"
-   },
-   {
-    "title": "Trucking Rates Spike: Contracts at 52-Week High",
-    "url": "https://www.youtube.com/watch?v=zgPsNoyuRFk",
-    "channel": "FreightWaves",
-    "published": "2026-10-09T17:00:23+00:00",
-    "topic": "transport"
-   },
-   {
-    "title": "Logistics AI: Getting a Return on Your Investment",
-    "url": "https://www.youtube.com/watch?v=_10Uud8RwmU",
-    "channel": "FreightWaves",
-    "published": "2026-10-09T16:59:54+00:00",
-    "topic": "transport"
-   },
-   {
-    "title": "Amazon Fraud & Samsung's $186M Container Dispute: What Happened?",
-    "url": "https://www.youtube.com/watch?v=J4NJ6K64SM8",
-    "channel": "FreightWaves",
-    "published": "2026-10-09T16:25:43+00:00",
-    "topic": "transport"
-   },
-   {
-    "title": "Is Peak Season Dead? How the Freight Market is Evolving Now",
-    "url": "https://www.youtube.com/watch?v=Nc0deEkJ4WY",
-    "channel": "FreightWaves",
-    "published": "2026-10-09T16:00:05+00:00",
-    "topic": "transport"
-   }
-  ],
-  "aerospace": [
-   {
-    "title": "Ship 40 Makes it Home - Starbase Summary",
-    "url": "https://www.youtube.com/watch?v=FyzUCghvy0g",
-    "channel": "NASASpaceflight",
-    "published": "2026-10-11T22:10:58+00:00",
-    "topic": "aerospace"
-   },
-   {
-    "title": "SpaceX Launches Falcon 9 with Starlink 15-25",
-    "url": "https://www.youtube.com/watch?v=KwOyWO98vGI",
-    "channel": "NASASpaceflight",
-    "published": "2026-10-11T16:41:20+00:00",
-    "topic": "aerospace"
-   },
-   {
-    "title": "SpaceX Laumches CRS-35 Dragon to the International Space Station",
-    "url": "https://www.youtube.com/watch?v=_gdbS1AAkq0",
-    "channel": "NASASpaceflight",
-    "published": "2026-10-11T16:08:24+00:00",
-    "topic": "aerospace"
-   },
-   {
-    "title": "SpaceX Ship 40 Homecoming Transport",
-    "url": "https://www.youtube.com/watch?v=Faph82jLG3Y",
-    "channel": "NASASpaceflight",
-    "published": "2026-10-11T07:41:56+00:00",
-    "topic": "aerospace"
-   },
-   {
-    "title": "Return to Launch Site (not how you think) - The Flame Trench",
-    "url": "https://www.youtube.com/watch?v=XvxwyA-qzn0",
-    "channel": "NASASpaceflight",
-    "published": "2026-10-10T00:44:59+00:00",
-    "topic": "aerospace"
-   },
-   {
-    "title": "SpaceX Launched 3 Rockets, Landed 4 Boosters! #spacex #rocket #booster #falcon",
-    "url": "https://www.youtube.com/watch?v=xaEOwK28H4M",
-    "channel": "NASASpaceflight",
-    "published": "2026-10-09T11:00:17+00:00",
-    "topic": "aerospace"
-   },
-   {
-    "title": "Could Engine Work Delay Starship Flight 15? | Starship Update",
-    "url": "https://www.youtube.com/watch?v=dPqDD39cBEw",
-    "channel": "NASASpaceflight",
-    "published": "2026-10-08T23:00:08+00:00",
-    "topic": "aerospace"
-   },
-   {
-    "title": "How This Starship Floated 12,000 MILES! #spacex #starship #ocean",
-    "url": "https://www.youtube.com/watch?v=6zObx7L3fBA",
-    "channel": "NASASpaceflight",
-    "published": "2026-10-08T21:35:04+00:00",
-    "topic": "aerospace"
-   }
-  ],
+  "transport": [],
+  "aerospace": [],
   "minerals": [],
   "energy": [],
   "crypto": [],
   "tennis": [],
   "luxury": [],
   "robotics": [],
-  "us": [
-   {
-    "title": "Isaias moves north into Appalachians and mid-Atlantic",
-    "url": "https://www.youtube.com/watch?v=zYBBK_piZZ8",
-    "channel": "NBC News",
-    "published": "2026-10-11T23:28:24+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Pope Leo to undergo lung surgery this week",
-    "url": "https://www.youtube.com/watch?v=C60HFDXS2uA",
-    "channel": "NBC News",
-    "published": "2026-10-11T23:28:19+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Saudi airport struck again after deadly attack that killed American",
-    "url": "https://www.youtube.com/watch?v=-qxhOZLSwHs",
-    "channel": "NBC News",
-    "published": "2026-10-11T23:28:09+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Good News: Father and son bike to every MLB ballpark for charity",
-    "url": "https://www.youtube.com/watch?v=gkzCZ4dqi0k",
-    "channel": "NBC News",
-    "published": "2026-10-11T23:28:04+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Tiger kills man who entered its enclosure at wildlife park",
-    "url": "https://www.youtube.com/watch?v=xhFSB4h6X8E",
-    "channel": "NBC News",
-    "published": "2026-10-11T23:27:37+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Trump claims Russia and Ukraine agree to energy ceasefire",
-    "url": "https://www.youtube.com/watch?v=14SDg2kt0mc",
-    "channel": "NBC News",
-    "published": "2026-10-11T23:27:03+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Surveillance video captures strike in Ukraine’s Kharkiv",
-    "url": "https://www.youtube.com/watch?v=f5DGJdHaL9o",
-    "channel": "NBC News",
-    "published": "2026-10-11T22:08:46+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Missing dog reunited with owner",
-    "url": "https://www.youtube.com/watch?v=DVJDT5Fcjbk",
-    "channel": "NBC News",
-    "published": "2026-10-11T20:52:45+00:00",
-    "topic": "us"
-   }
-  ],
-  "europe": [
-   {
-    "title": "Trump's 'energy ceasefire' announcement catches Kyiv by surprise | DW News",
-    "url": "https://www.youtube.com/watch?v=hQyVqXCBn8M",
-    "channel": "DW News",
-    "published": "2026-10-12T00:21:54+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Pope Leo XIV faces surgery after lung diagnosis | DW News",
-    "url": "https://www.youtube.com/watch?v=K4HbdZJgfbI",
-    "channel": "DW News",
-    "published": "2026-10-11T21:15:28+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Indian 'cockroach' leaders released under one condition | DW News",
-    "url": "https://www.youtube.com/watch?v=kDSx_wSAwyA",
-    "channel": "DW News",
-    "published": "2026-10-11T21:10:06+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Tens of thousands urge EU for climate action at Brussels demonstration",
-    "url": "https://www.youtube.com/watch?v=krZN2JgHT8E",
-    "channel": "euronews",
-    "published": "2026-10-11T20:46:05+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Pope Leo to have surgery to remove lung lesion | DW News",
-    "url": "https://www.youtube.com/watch?v=xbe53qauZok",
-    "channel": "DW News",
-    "published": "2026-10-11T20:18:10+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "New Saudi airport attacks raise stakes for Washington | DW News",
-    "url": "https://www.youtube.com/watch?v=xynwhHI95rg",
-    "channel": "DW News",
-    "published": "2026-10-11T20:05:04+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Judo: Japan reclaim mixed team world title with eighth gold in Baku",
-    "url": "https://www.youtube.com/watch?v=EqoKaarTvq4",
-    "channel": "euronews",
-    "published": "2026-10-11T19:43:13+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Judo: Japan reclaim mixed team world title with eighth gold in Baku",
-    "url": "https://www.youtube.com/watch?v=O067XGmlS18",
-    "channel": "euronews",
-    "published": "2026-10-11T19:43:12+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Poland treats threat against Prime Minister Donald Tusk as 'deadly seriously' | DW News",
-    "url": "https://www.youtube.com/watch?v=QxNYF5s8b04",
-    "channel": "DW News",
-    "published": "2026-10-11T19:25:00+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Wildlife park where man fatally attacked by tiger gives update. #YorkshireWildlifePark #BBCNews",
-    "url": "https://www.youtube.com/watch?v=sV-YH_WifwU",
-    "channel": "BBC News",
-    "published": "2026-10-11T18:15:09+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "At least 139 migrants die on route to war-torn Yemen | DW News",
-    "url": "https://www.youtube.com/watch?v=VtNFLpiGLaI",
-    "channel": "DW News",
-    "published": "2026-10-11T17:59:47+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Ukraine rejects Trump's call for new leadership | DW News",
-    "url": "https://www.youtube.com/watch?v=uttfxxmGTDU",
-    "channel": "DW News",
-    "published": "2026-10-11T17:33:18+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Lagos street model Rachel Ojuromi who made it to Chanel's Runway. #BBCNews",
-    "url": "https://www.youtube.com/watch?v=voLQPbqENu8",
-    "channel": "BBC News",
-    "published": "2026-10-11T17:30:29+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Zelensky says Ukraine supports 'energy ceasefire' announced by Trump | BBC News",
-    "url": "https://www.youtube.com/watch?v=xIgTJMQcElM",
-    "channel": "BBC News",
-    "published": "2026-10-11T17:30:20+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Why is Trump calling for Zelensky to go? | BBC Newscast",
-    "url": "https://www.youtube.com/watch?v=idUdEfzZEDM",
-    "channel": "BBC News",
-    "published": "2026-10-11T17:00:09+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "More protests in Delhi as freed ‘cockroach’ group’s leaders vow to fight on. #BBCNews",
-    "url": "https://www.youtube.com/watch?v=qVH9BzPEbsY",
-    "channel": "BBC News",
-    "published": "2026-10-11T17:00:07+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Why is this historic ship going electric? | BBC News",
-    "url": "https://www.youtube.com/watch?v=eR_6A6wt2AM",
-    "channel": "BBC News",
-    "published": "2026-10-11T16:30:34+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "At least 12 people were killed in Saturday's attack on the airport in Riyadh. #SaudiArabia#BBCNews",
-    "url": "https://www.youtube.com/watch?v=5yFfBwFndu4",
-    "channel": "BBC News",
-    "published": "2026-10-11T16:14:48+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Latest news bulletin | October 11th, 2026 – Evening",
-    "url": "https://www.youtube.com/watch?v=Vdi5w6Yo8iI",
-    "channel": "euronews",
-    "published": "2026-10-11T16:05:35+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Inside the Pokémon World Championships | BBC News",
-    "url": "https://www.youtube.com/watch?v=83-H_wxJDnI",
-    "channel": "BBC News",
-    "published": "2026-10-11T16:00:17+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Pope Leo XIV to have surgery in 'coming days' to remove nodule in lung",
-    "url": "https://www.youtube.com/watch?v=2Zy38rrJ7KI",
-    "channel": "euronews",
-    "published": "2026-10-11T14:26:17+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Pope Leo XIV to have surgery in 'coming days' to remove nodule in lung",
-    "url": "https://www.youtube.com/watch?v=67wHApCfmbA",
-    "channel": "euronews",
-    "published": "2026-10-11T14:19:05+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "12 killed and more than 300 wounded in attack on Riyadh airport",
-    "url": "https://www.youtube.com/watch?v=7Y7yHyV0Xlc",
-    "channel": "euronews",
-    "published": "2026-10-11T13:37:13+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "12 killed and more than 300 wounded in attack on Riyadh airport",
-    "url": "https://www.youtube.com/watch?v=9JWXdBqmM-s",
-    "channel": "euronews",
-    "published": "2026-10-11T13:33:19+00:00",
-    "topic": "europe"
-   }
-  ],
-  "brics": [
-   {
-    "title": "Trump's 'energy ceasefire' announcement catches Kyiv by surprise | DW News",
-    "url": "https://www.youtube.com/watch?v=hQyVqXCBn8M",
-    "channel": "DW News",
-    "published": "2026-10-12T00:21:54+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Saudi Arabia and Houthis escalate attacks as Yemen conflict intensifies",
-    "url": "https://www.youtube.com/watch?v=f4sEgvRJtoQ",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-11T23:41:15+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Djibouti migrant boat disaster: 139 dead, 100 missing",
-    "url": "https://www.youtube.com/watch?v=oLfpfTNDpnY",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-11T23:41:04+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Pakistani national killed in second Houthi strike on Riyadh airport | #AJ shorts",
-    "url": "https://www.youtube.com/watch?v=k6sXSe4PEf8",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-11T23:19:12+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Footage shows moment Russian strike hits Ukrainian grocery store | AJ Shorts",
-    "url": "https://www.youtube.com/watch?v=asZIKW2r06I",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-11T22:41:59+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "CCTV shows moment of deadly Houthi strike on Riyadh airport | #AJ shorts",
-    "url": "https://www.youtube.com/watch?v=pGGO-JVV3Ug",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-11T22:21:59+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Pope Leo XIV faces surgery after lung diagnosis | DW News",
-    "url": "https://www.youtube.com/watch?v=K4HbdZJgfbI",
-    "channel": "DW News",
-    "published": "2026-10-11T21:15:28+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Indian 'cockroach' leaders released under one condition | DW News",
-    "url": "https://www.youtube.com/watch?v=kDSx_wSAwyA",
-    "channel": "DW News",
-    "published": "2026-10-11T21:10:06+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Kenya's football league finally kicks off after six-week legal delay",
-    "url": "https://www.youtube.com/watch?v=8WcQZctitc0",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-11T21:08:15+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Waves crash into homes as excavators try to protect California properties",
-    "url": "https://www.youtube.com/watch?v=ah_-y2oqPRM",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-11T21:02:36+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Yemen war forces thousands into desperate conditions in displacement camps",
-    "url": "https://www.youtube.com/watch?v=msreQncNi5o",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-11T20:49:01+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Pope Leo to have surgery to remove lung lesion | DW News",
-    "url": "https://www.youtube.com/watch?v=xbe53qauZok",
-    "channel": "DW News",
-    "published": "2026-10-11T20:18:10+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "New Saudi airport attacks raise stakes for Washington | DW News",
-    "url": "https://www.youtube.com/watch?v=xynwhHI95rg",
-    "channel": "DW News",
-    "published": "2026-10-11T20:05:04+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Poland treats threat against Prime Minister Donald Tusk as 'deadly seriously' | DW News",
-    "url": "https://www.youtube.com/watch?v=QxNYF5s8b04",
-    "channel": "DW News",
-    "published": "2026-10-11T19:25:00+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "At least 139 migrants die on route to war-torn Yemen | DW News",
-    "url": "https://www.youtube.com/watch?v=VtNFLpiGLaI",
-    "channel": "DW News",
-    "published": "2026-10-11T17:59:47+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Ukraine rejects Trump's call for new leadership | DW News",
-    "url": "https://www.youtube.com/watch?v=uttfxxmGTDU",
-    "channel": "DW News",
-    "published": "2026-10-11T17:33:18+00:00",
-    "topic": "brics"
-   }
-  ]
+  "us": [],
+  "europe": [],
+  "brics": []
  },
  "errors": [
   "franceinfo: HTTP Error 404: Not Found",
@@ -596,8 +30,10 @@
   "Le Dessous des Cartes – ARTE: HTTP Error 404: Not Found",
   "Al Jazeera English: HTTP Error 404: Not Found",
   "FRANCE 24 English: HTTP Error 404: Not Found",
-  "Middle East Eye: HTTP Error 500: Internal Server Error",
+  "Middle East Eye: HTTP Error 404: Not Found",
+  "BBC News: HTTP Error 404: Not Found",
   "Arab News: HTTP Error 404: Not Found",
+  "Al Arabiya English: HTTP Error 404: Not Found",
   "Asharq News: HTTP Error 404: Not Found",
   "i24NEWS English: HTTP Error 404: Not Found",
   "PGA TOUR: HTTP Error 404: Not Found",
@@ -607,26 +43,28 @@
   "World Rugby: HTTP Error 404: Not Found",
   "RugbyPass: HTTP Error 404: Not Found",
   "Six Nations Rugby: HTTP Error 404: Not Found",
-  "L'Équipe: HTTP Error 500: Internal Server Error",
+  "L'Équipe: HTTP Error 404: Not Found",
   "Tifo Sports (The Athletic): HTTP Error 404: Not Found",
   "ESPN FC: HTTP Error 404: Not Found",
-  "Sky Sports Football: HTTP Error 500: Internal Server Error",
+  "Sky Sports Football: HTTP Error 404: Not Found",
   "FORMULA 1: HTTP Error 404: Not Found",
   "The Race: HTTP Error 404: Not Found",
   "Bloomberg Television: HTTP Error 404: Not Found",
   "Reuters: HTTP Error 404: Not Found",
   "Financial Times: HTTP Error 404: Not Found",
   "BFM Business: HTTP Error 404: Not Found",
-  "Les Echos: HTTP Error 500: Internal Server Error",
+  "Les Echos: HTTP Error 404: Not Found",
   "CNBC Television: HTTP Error 404: Not Found",
   "TechTechPotato: HTTP Error 404: Not Found",
   "Asianometry: HTTP Error 404: Not Found",
+  "FreightWaves: HTTP Error 404: Not Found",
+  "NASASpaceflight: HTTP Error 404: Not Found",
   "Scott Manley: HTTP Error 404: Not Found",
   "Breaking Defense: HTTP Error 404: Not Found",
   "SpaceNews: HTTP Error 404: Not Found",
   "Defense News: HTTP Error 404: Not Found",
   "Benchmark Mineral Intelligence: HTTP Error 404: Not Found",
-  "IEA: HTTP Error 500: Internal Server Error",
+  "IEA: HTTP Error 404: Not Found",
   "Into the Cryptoverse (Benjamin Cowen): HTTP Error 404: Not Found",
   "CoinDesk: HTTP Error 404: Not Found",
   "Tennis TV: HTTP Error 404: Not Found",
@@ -634,10 +72,16 @@
   "NVIDIA: HTTP Error 404: Not Found",
   "PBS NewsHour: HTTP Error 404: Not Found",
   "Associated Press: HTTP Error 404: Not Found",
+  "NBC News: HTTP Error 404: Not Found",
   "CBS News: HTTP Error 404: Not Found",
+  "DW News: HTTP Error 404: Not Found",
+  "euronews: HTTP Error 404: Not Found",
   "FRANCE 24 English: HTTP Error 404: Not Found",
-  "WION: HTTP Error 500: Internal Server Error",
+  "BBC News: HTTP Error 404: Not Found",
+  "WION: HTTP Error 404: Not Found",
   "CGTN: HTTP Error 404: Not Found",
+  "Al Jazeera English: HTTP Error 404: Not Found",
+  "DW News: HTTP Error 404: Not Found",
   "Firstpost: HTTP Error 404: Not Found",
   "TRT World: HTTP Error 404: Not Found"
  ]
