@@ -1,66 +1,9 @@
 {
- "generatedAt": "2026-10-14T00:55:05.240218+00:00",
+ "generatedAt": "2026-10-14T03:44:03.150456+00:00",
  "topics": {
   "fr-national": [],
   "fr-international": [],
-  "me-region": [
-   {
-    "title": "Saudi Arabia says Yemen's Houthis will face 'consequences' after series of deadly attacks | BBC News",
-    "url": "https://www.youtube.com/watch?v=mnpXWu63z7I",
-    "channel": "BBC News",
-    "published": "2026-10-13T22:30:15+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Pope Leo has lung cancer - Vatican reveals diagnosis and details of surgery | BBC News",
-    "url": "https://www.youtube.com/watch?v=ewijnM_2kyc",
-    "channel": "BBC News",
-    "published": "2026-10-13T22:17:24+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "What we know about US man who died after fall from rollercoaster #BBCNews",
-    "url": "https://www.youtube.com/watch?v=Q4dCuL_snvc",
-    "channel": "BBC News",
-    "published": "2026-10-13T22:00:27+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Raye hits back at ticket touts who 'overwhelmed' sign-up for London show. #Raye #London #BBCNews",
-    "url": "https://www.youtube.com/watch?v=nS83uPwh3_4",
-    "channel": "BBC News",
-    "published": "2026-10-13T21:30:19+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Greta Thunberg joins France school protests. #France #BBCNews",
-    "url": "https://www.youtube.com/watch?v=lzlfmzwKP9Y",
-    "channel": "BBC News",
-    "published": "2026-10-13T20:45:35+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "The attacks exposing Saudi Arabia's biggest weakness | BBC News",
-    "url": "https://www.youtube.com/watch?v=qBaB8NO0Mzs",
-    "channel": "BBC News",
-    "published": "2026-10-13T20:45:24+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Ex-gang boss Duane \"Keffe D\" Davis sentenced for orchestrating Tupac Shakur's murder | BBC News",
-    "url": "https://www.youtube.com/watch?v=guucFYKNqQU",
-    "channel": "BBC News",
-    "published": "2026-10-13T19:52:20+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Christa Pike: 911 calls reveal chaos after failed execution and other stories | Global News Podcast",
-    "url": "https://www.youtube.com/watch?v=sznvwF51OsU",
-    "channel": "BBC News",
-    "published": "2026-10-13T19:15:11+00:00",
-    "topic": "me-region"
-   }
-  ],
+  "me-region": [],
   "golf": [],
   "rugby": [],
   "football": [],
@@ -76,64 +19,7 @@
   "luxury": [],
   "robotics": [],
   "us": [],
-  "europe": [
-   {
-    "title": "Saudi Arabia says Yemen's Houthis will face 'consequences' after series of deadly attacks | BBC News",
-    "url": "https://www.youtube.com/watch?v=mnpXWu63z7I",
-    "channel": "BBC News",
-    "published": "2026-10-13T22:30:15+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Pope Leo has lung cancer - Vatican reveals diagnosis and details of surgery | BBC News",
-    "url": "https://www.youtube.com/watch?v=ewijnM_2kyc",
-    "channel": "BBC News",
-    "published": "2026-10-13T22:17:24+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "What we know about US man who died after fall from rollercoaster #BBCNews",
-    "url": "https://www.youtube.com/watch?v=Q4dCuL_snvc",
-    "channel": "BBC News",
-    "published": "2026-10-13T22:00:27+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Raye hits back at ticket touts who 'overwhelmed' sign-up for London show. #Raye #London #BBCNews",
-    "url": "https://www.youtube.com/watch?v=nS83uPwh3_4",
-    "channel": "BBC News",
-    "published": "2026-10-13T21:30:19+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Greta Thunberg joins France school protests. #France #BBCNews",
-    "url": "https://www.youtube.com/watch?v=lzlfmzwKP9Y",
-    "channel": "BBC News",
-    "published": "2026-10-13T20:45:35+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "The attacks exposing Saudi Arabia's biggest weakness | BBC News",
-    "url": "https://www.youtube.com/watch?v=qBaB8NO0Mzs",
-    "channel": "BBC News",
-    "published": "2026-10-13T20:45:24+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Ex-gang boss Duane \"Keffe D\" Davis sentenced for orchestrating Tupac Shakur's murder | BBC News",
-    "url": "https://www.youtube.com/watch?v=guucFYKNqQU",
-    "channel": "BBC News",
-    "published": "2026-10-13T19:52:20+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Christa Pike: 911 calls reveal chaos after failed execution and other stories | Global News Podcast",
-    "url": "https://www.youtube.com/watch?v=sznvwF51OsU",
-    "channel": "BBC News",
-    "published": "2026-10-13T19:15:11+00:00",
-    "topic": "europe"
-   }
-  ],
+  "europe": [],
   "brics": []
  },
  "errors": [
@@ -141,11 +27,12 @@
   "HugoDécrypte – Actus du jour: HTTP Error 404: Not Found",
   "Le Monde: HTTP Error 404: Not Found",
   "FRANCE 24: HTTP Error 404: Not Found",
-  "Le Dessous des Cartes – ARTE: HTTP Error 500: Internal Server Error",
+  "Le Dessous des Cartes – ARTE: HTTP Error 404: Not Found",
   "Al Jazeera English: HTTP Error 404: Not Found",
   "FRANCE 24 English: HTTP Error 404: Not Found",
   "Middle East Eye: HTTP Error 404: Not Found",
-  "Arab News: HTTP Error 500: Internal Server Error",
+  "BBC News: HTTP Error 404: Not Found",
+  "Arab News: HTTP Error 404: Not Found",
   "Al Arabiya English: HTTP Error 404: Not Found",
   "Asharq News: HTTP Error 404: Not Found",
   "i24NEWS English: HTTP Error 404: Not Found",
@@ -174,7 +61,7 @@
   "NASASpaceflight: HTTP Error 404: Not Found",
   "Scott Manley: HTTP Error 404: Not Found",
   "Breaking Defense: HTTP Error 404: Not Found",
-  "SpaceNews: HTTP Error 500: Internal Server Error",
+  "SpaceNews: HTTP Error 404: Not Found",
   "Defense News: HTTP Error 404: Not Found",
   "Benchmark Mineral Intelligence: HTTP Error 404: Not Found",
   "IEA: HTTP Error 404: Not Found",
@@ -190,6 +77,7 @@
   "DW News: HTTP Error 404: Not Found",
   "euronews: HTTP Error 404: Not Found",
   "FRANCE 24 English: HTTP Error 404: Not Found",
+  "BBC News: HTTP Error 404: Not Found",
   "WION: HTTP Error 404: Not Found",
   "CGTN: HTTP Error 404: Not Found",
   "Al Jazeera English: HTTP Error 404: Not Found",
