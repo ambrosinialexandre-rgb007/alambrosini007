@@ -1,66 +1,9 @@
 {
- "generatedAt": "2026-10-15T03:43:52.773245+00:00",
+ "generatedAt": "2026-10-15T06:55:19.982287+00:00",
  "topics": {
   "fr-national": [],
   "fr-international": [],
-  "me-region": [
-   {
-    "title": "Trump plays Muslim Brotherhood card against Senate candidate El-Sayed | #AJ shorts",
-    "url": "https://www.youtube.com/watch?v=nO7qYf1KJ8Y",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-15T02:52:30+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Istanbul in chaos, shut down by heaviest rainfall since 1985 | #AJ shorts",
-    "url": "https://www.youtube.com/watch?v=8eDdLaJ5o8Y",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-15T01:27:40+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "US destroys dhow suspected of Iranian command and control | AJ Shorts",
-    "url": "https://www.youtube.com/watch?v=I6qDybSzVrs",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-14T23:56:44+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Zelenskyy visits Downing Street as UK pledges more military aid to Ukraine",
-    "url": "https://www.youtube.com/watch?v=vYgooP3XNUs",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-14T21:31:59+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "DR Congo Ebola cases surpass 9,000 as fear keeps patients away from hospitals",
-    "url": "https://www.youtube.com/watch?v=NLv6F6B5xro",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-14T21:30:35+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Qatar Foundation's autism strategy | Centre Stage",
-    "url": "https://www.youtube.com/watch?v=NnmrMSYd7CQ",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-14T21:11:19+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "US midterms 2026: Is ICE still a Republican strength? | This Is America",
-    "url": "https://www.youtube.com/watch?v=qx_CIuoAGJs",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-14T20:52:13+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Israeli quadcopter drone drops bomb in Lebanon | AJ #shorts",
-    "url": "https://www.youtube.com/watch?v=53H_1pt7gPw",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-14T20:47:05+00:00",
-    "topic": "me-region"
-   }
-  ],
+  "me-region": [],
   "golf": [],
   "rugby": [],
   "football": [],
@@ -85,6 +28,7 @@
   "Le Monde: HTTP Error 404: Not Found",
   "FRANCE 24: HTTP Error 404: Not Found",
   "Le Dessous des Cartes – ARTE: HTTP Error 404: Not Found",
+  "Al Jazeera English: HTTP Error 404: Not Found",
   "FRANCE 24 English: HTTP Error 404: Not Found",
   "Middle East Eye: HTTP Error 404: Not Found",
   "BBC News: HTTP Error 404: Not Found",
@@ -100,15 +44,15 @@
   "RugbyPass: HTTP Error 404: Not Found",
   "Six Nations Rugby: HTTP Error 404: Not Found",
   "L'Équipe: HTTP Error 404: Not Found",
-  "Tifo Sports (The Athletic): HTTP Error 404: Not Found",
+  "Tifo Sports (The Athletic): HTTP Error 500: Internal Server Error",
   "ESPN FC: HTTP Error 404: Not Found",
   "Sky Sports Football: HTTP Error 404: Not Found",
   "FORMULA 1: HTTP Error 404: Not Found",
   "The Race: HTTP Error 404: Not Found",
   "Bloomberg Television: HTTP Error 404: Not Found",
-  "Reuters: HTTP Error 404: Not Found",
+  "Reuters: HTTP Error 500: Internal Server Error",
   "Financial Times: HTTP Error 404: Not Found",
-  "BFM Business: HTTP Error 404: Not Found",
+  "BFM Business: HTTP Error 500: Internal Server Error",
   "Les Echos: HTTP Error 404: Not Found",
   "CNBC Television: HTTP Error 404: Not Found",
   "TechTechPotato: HTTP Error 404: Not Found",
@@ -130,7 +74,7 @@
   "Associated Press: HTTP Error 404: Not Found",
   "NBC News: HTTP Error 404: Not Found",
   "CBS News: HTTP Error 404: Not Found",
-  "DW News: HTTP Error 404: Not Found",
+  "DW News: HTTP Error 500: Internal Server Error",
   "euronews: HTTP Error 404: Not Found",
   "FRANCE 24 English: HTTP Error 404: Not Found",
   "BBC News: HTTP Error 404: Not Found",
