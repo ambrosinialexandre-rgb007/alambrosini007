@@ -1,266 +1,17 @@
 {
- "generatedAt": "2026-10-16T00:52:06.409524+00:00",
+ "generatedAt": "2026-10-16T03:43:58.228804+00:00",
  "topics": {
   "fr-national": [],
   "fr-international": [],
-  "me-region": [
-   {
-    "title": "ماذا لو انضمت كندا إلى الولايات المتحدة؟ -  أبعاد مع أرفد",
-    "url": "https://www.youtube.com/watch?v=ECGgd489n48",
-    "channel": "Asharq News",
-    "published": "2026-10-16T00:00:09+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "لقطات كاميرات المراقبة توثق لحظة استهداف الحوثيين لمطارات بالسعودية",
-    "url": "https://www.youtube.com/watch?v=pFaH1sF5qxw",
-    "channel": "Asharq News",
-    "published": "2026-10-15T23:20:01+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "مقاعد جمهورية مهددة.. هل يخسر ترمب قبضته على الكونجرس؟ - تقرير واشنطن",
-    "url": "https://www.youtube.com/watch?v=wScDavMLcnk",
-    "channel": "Asharq News",
-    "published": "2026-10-15T23:00:25+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "إشارات عسكرية لافتة.. ماذا يخفي خطاب تحالف دعم الشرعية؟ - مساء الشرق",
-    "url": "https://www.youtube.com/watch?v=OMnE7xEYmfw",
-    "channel": "Asharq News",
-    "published": "2026-10-15T22:00:17+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "مشاهد حية لمواجهات عنيفة بين الجيش اليمني والحوثيين في تعز - مساء الشرق",
-    "url": "https://www.youtube.com/watch?v=DtxV2-fUl5I",
-    "channel": "Asharq News",
-    "published": "2026-10-15T21:00:00+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "وزيرة الشؤون القانونية اليمنية تكشف تفاصيل استهداف قصر معاشيق الرئاسي اليمني - دائرة الشرق",
-    "url": "https://www.youtube.com/watch?v=4Yb5gxtRpjI",
-    "channel": "Asharq News",
-    "published": "2026-10-15T20:00:24+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "هل يفقد الديمقراطيون قدرتهم على مواجهة ترمب؟ - تقرير واشنطن",
-    "url": "https://www.youtube.com/watch?v=Ok5CPvxf9S0",
-    "channel": "Asharq News",
-    "published": "2026-10-15T19:00:08+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "ماذا يحدث في اليمن الأن بين الجيش والحوثيين؟ - أخبار الشرق",
-    "url": "https://www.youtube.com/watch?v=9LDMyCU9j_k",
-    "channel": "Asharq News",
-    "published": "2026-10-15T18:00:13+00:00",
-    "topic": "me-region"
-   }
-  ],
+  "me-region": [],
   "golf": [],
   "rugby": [],
-  "football": [
-   {
-    "title": "Why do so many baseball teams have Sox in the title?",
-    "url": "https://www.youtube.com/watch?v=rVdx8XF2aIc",
-    "channel": "Tifo Sports (The Athletic)",
-    "published": "2026-10-15T14:00:08+00:00",
-    "topic": "football"
-   },
-   {
-    "title": "How cycling punished Lance Armstrong",
-    "url": "https://www.youtube.com/watch?v=61sTxPxwu_4",
-    "channel": "Tifo Sports (The Athletic)",
-    "published": "2026-10-14T14:00:37+00:00",
-    "topic": "football"
-   },
-   {
-    "title": "Why swimmers breathe out underwater",
-    "url": "https://www.youtube.com/watch?v=PrAf6OygtL0",
-    "channel": "Tifo Sports (The Athletic)",
-    "published": "2026-10-12T14:00:27+00:00",
-    "topic": "football"
-   }
-  ],
+  "football": [],
   "f1": [],
-  "markets": [
-   {
-    "title": "Zelenskyy: ‘Pity’ Ukraine Losing Strong Partner",
-    "url": "https://www.youtube.com/watch?v=DQIb3xm_7u0",
-    "channel": "Bloomberg Television",
-    "published": "2026-10-15T23:08:25+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Surveillance Pricing May Be Coming to a Store Near You",
-    "url": "https://www.youtube.com/watch?v=tQn_e9Yw1gM",
-    "channel": "Bloomberg Television",
-    "published": "2026-10-15T23:07:48+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "To Make GTA VI, Rockstar Had To Remake Itself",
-    "url": "https://www.youtube.com/watch?v=HjAgSG8vmzU",
-    "channel": "Bloomberg Television",
-    "published": "2026-10-15T23:06:07+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Power On: Is Apple’s HomeView Ecosystem Worth Buying Into?",
-    "url": "https://www.youtube.com/watch?v=6cFHczxh4W0",
-    "channel": "Bloomberg Television",
-    "published": "2026-10-15T23:05:22+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Costa Rica opens mega-prison as it steps up fight against organized crime",
-    "url": "https://www.youtube.com/watch?v=3yoQEaXMuDE",
-    "channel": "Reuters",
-    "published": "2026-10-15T22:58:16+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Conley Says Putin Is Testing NATO Unity",
-    "url": "https://www.youtube.com/watch?v=bJd57x4-kDc",
-    "channel": "Bloomberg Television",
-    "published": "2026-10-15T22:32:32+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Rep. Amo Says Trump Should Enforce Russia Sanctions",
-    "url": "https://www.youtube.com/watch?v=jaRcaf0OGA0",
-    "channel": "Bloomberg Television",
-    "published": "2026-10-15T22:27:14+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Short: Corruption Is Growing Liability for Republicans",
-    "url": "https://www.youtube.com/watch?v=8hwwDVmzHZ0",
-    "channel": "Bloomberg Television",
-    "published": "2026-10-15T22:22:42+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Inside Albania's protest movement: what's fanning the flames?",
-    "url": "https://www.youtube.com/watch?v=D-C1CnAQPyI",
-    "channel": "Reuters",
-    "published": "2026-10-15T22:18:26+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "US Says Trump Did Not Restrict Ukraine's Access to SpaceX Defense Tech",
-    "url": "https://www.youtube.com/watch?v=2DbUmaCLdaU",
-    "channel": "Bloomberg Television",
-    "published": "2026-10-15T22:17:02+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "🐋 Daniel Kraus on the surprising research behind 'Whalefall'",
-    "url": "https://www.youtube.com/watch?v=9UreuzdOwxA",
-    "channel": "Reuters",
-    "published": "2026-10-15T22:00:26+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "LIVE: Argentines hold protest over university funding",
-    "url": "https://www.youtube.com/watch?v=TdGYfkT_g1o",
-    "channel": "Reuters",
-    "published": "2026-10-15T21:57:39+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Stocks are up. So why does life in the US feel so expensive?",
-    "url": "https://www.youtube.com/watch?v=5pD1AgZLVtw",
-    "channel": "Reuters",
-    "published": "2026-10-15T20:09:16+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Infantino faces FIFA critics in Zurich. Here’s what to expect",
-    "url": "https://www.youtube.com/watch?v=K6VTVXuaOWQ",
-    "channel": "Reuters",
-    "published": "2026-10-15T19:59:13+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "LIVE: Albanian students protest over education costs",
-    "url": "https://www.youtube.com/watch?v=UH4D9_byzVI",
-    "channel": "Reuters",
-    "published": "2026-10-15T19:49:05+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Macro Matters: Inflation's 'self-fufilling prophecy'",
-    "url": "https://www.youtube.com/watch?v=1-_laultAZ0",
-    "channel": "Reuters",
-    "published": "2026-10-15T19:43:42+00:00",
-    "topic": "markets"
-   }
-  ],
+  "markets": [],
   "ai-semis": [],
   "transport": [],
-  "aerospace": [
-   {
-    "title": "Ship 40 stands up (one last time?) - Starbase Summary",
-    "url": "https://www.youtube.com/watch?v=76MROJzIisg",
-    "channel": "NASASpaceflight",
-    "published": "2026-10-15T21:59:32+00:00",
-    "topic": "aerospace"
-   },
-   {
-    "title": "Aliens? Nope. SpaceX and Physics! #spacex #jellyfish #launch #alien",
-    "url": "https://www.youtube.com/watch?v=1m4boZ_V3t4",
-    "channel": "NASASpaceflight",
-    "published": "2026-10-15T10:22:58+00:00",
-    "topic": "aerospace"
-   },
-   {
-    "title": "Starship Flight 15 Date In Sight - With Catches Planned | Starship Update",
-    "url": "https://www.youtube.com/watch?v=t9iGVxSx0aw",
-    "channel": "NASASpaceflight",
-    "published": "2026-10-14T23:00:10+00:00",
-    "topic": "aerospace"
-   },
-   {
-    "title": "Rising from the ashes...to vertical - The Flame Trench",
-    "url": "https://www.youtube.com/watch?v=n3fTTOumqis",
-    "channel": "NASASpaceflight",
-    "published": "2026-10-13T15:17:03+00:00",
-    "topic": "aerospace"
-   },
-   {
-    "title": "SpaceX Launches CRS-35 Dragon to the International Space Station",
-    "url": "https://www.youtube.com/watch?v=_gdbS1AAkq0",
-    "channel": "NASASpaceflight",
-    "published": "2026-10-13T11:30:48+00:00",
-    "topic": "aerospace"
-   },
-   {
-    "title": "SpaceX Launches Falcon 9 with Starlink 15-25",
-    "url": "https://www.youtube.com/watch?v=KwOyWO98vGI",
-    "channel": "NASASpaceflight",
-    "published": "2026-10-13T00:50:37+00:00",
-    "topic": "aerospace"
-   },
-   {
-    "title": "Blue Origin’s Crew Spacecraft Is Real—And Starlink Goes Cellular | This Week in Spaceflight",
-    "url": "https://www.youtube.com/watch?v=19DHLVEIP-8",
-    "channel": "NASASpaceflight",
-    "published": "2026-10-13T00:45:07+00:00",
-    "topic": "aerospace"
-   },
-   {
-    "title": "Ship 40 Makes it Home - Starbase Summary",
-    "url": "https://www.youtube.com/watch?v=FyzUCghvy0g",
-    "channel": "NASASpaceflight",
-    "published": "2026-10-11T22:10:58+00:00",
-    "topic": "aerospace"
-   }
-  ],
+  "aerospace": [],
   "minerals": [],
   "energy": [],
   "crypto": [],
@@ -276,33 +27,38 @@
   "HugoDécrypte – Actus du jour: HTTP Error 404: Not Found",
   "Le Monde: HTTP Error 404: Not Found",
   "FRANCE 24: HTTP Error 404: Not Found",
-  "Le Dessous des Cartes – ARTE: HTTP Error 500: Internal Server Error",
+  "Le Dessous des Cartes – ARTE: HTTP Error 404: Not Found",
   "Al Jazeera English: HTTP Error 404: Not Found",
   "FRANCE 24 English: HTTP Error 404: Not Found",
   "Middle East Eye: HTTP Error 404: Not Found",
   "BBC News: HTTP Error 404: Not Found",
   "Arab News: HTTP Error 404: Not Found",
   "Al Arabiya English: HTTP Error 404: Not Found",
+  "Asharq News: HTTP Error 404: Not Found",
   "i24NEWS English: HTTP Error 404: Not Found",
   "PGA TOUR: HTTP Error 404: Not Found",
   "DP World Tour: HTTP Error 404: Not Found",
   "LIV Golf: HTTP Error 404: Not Found",
   "Golf Channel: HTTP Error 404: Not Found",
   "World Rugby: HTTP Error 404: Not Found",
-  "RugbyPass: HTTP Error 500: Internal Server Error",
-  "Six Nations Rugby: HTTP Error 500: Internal Server Error",
+  "RugbyPass: HTTP Error 404: Not Found",
+  "Six Nations Rugby: HTTP Error 404: Not Found",
   "L'Équipe: HTTP Error 404: Not Found",
+  "Tifo Sports (The Athletic): HTTP Error 404: Not Found",
   "ESPN FC: HTTP Error 404: Not Found",
   "Sky Sports Football: HTTP Error 404: Not Found",
   "FORMULA 1: HTTP Error 404: Not Found",
   "The Race: HTTP Error 404: Not Found",
+  "Bloomberg Television: HTTP Error 404: Not Found",
+  "Reuters: HTTP Error 404: Not Found",
   "Financial Times: HTTP Error 404: Not Found",
-  "BFM Business: HTTP Error 500: Internal Server Error",
+  "BFM Business: HTTP Error 404: Not Found",
   "Les Echos: HTTP Error 404: Not Found",
   "CNBC Television: HTTP Error 404: Not Found",
-  "TechTechPotato: HTTP Error 500: Internal Server Error",
+  "TechTechPotato: HTTP Error 404: Not Found",
   "Asianometry: HTTP Error 404: Not Found",
-  "FreightWaves: HTTP Error 500: Internal Server Error",
+  "FreightWaves: HTTP Error 404: Not Found",
+  "NASASpaceflight: HTTP Error 404: Not Found",
   "Scott Manley: HTTP Error 404: Not Found",
   "Breaking Defense: HTTP Error 404: Not Found",
   "SpaceNews: HTTP Error 404: Not Found",
@@ -311,8 +67,8 @@
   "IEA: HTTP Error 404: Not Found",
   "Into the Cryptoverse (Benjamin Cowen): HTTP Error 404: Not Found",
   "CoinDesk: HTTP Error 404: Not Found",
-  "Tennis TV: HTTP Error 500: Internal Server Error",
-  "Business of Fashion: HTTP Error 500: Internal Server Error",
+  "Tennis TV: HTTP Error 404: Not Found",
+  "Business of Fashion: HTTP Error 404: Not Found",
   "NVIDIA: HTTP Error 404: Not Found",
   "PBS NewsHour: HTTP Error 404: Not Found",
   "Associated Press: HTTP Error 404: Not Found",
@@ -320,11 +76,11 @@
   "CBS News: HTTP Error 404: Not Found",
   "DW News: HTTP Error 404: Not Found",
   "euronews: HTTP Error 404: Not Found",
-  "FRANCE 24 English: HTTP Error 500: Internal Server Error",
+  "FRANCE 24 English: HTTP Error 404: Not Found",
   "BBC News: HTTP Error 404: Not Found",
   "WION: HTTP Error 404: Not Found",
   "CGTN: HTTP Error 404: Not Found",
-  "Al Jazeera English: HTTP Error 500: Internal Server Error",
+  "Al Jazeera English: HTTP Error 404: Not Found",
   "DW News: HTTP Error 404: Not Found",
   "Firstpost: HTTP Error 404: Not Found",
   "TRT World: HTTP Error 404: Not Found"
