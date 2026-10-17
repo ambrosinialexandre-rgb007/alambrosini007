@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-17T03:42:02.856816+00:00",
+ "generatedAt": "2026-10-17T06:50:19.692278+00:00",
  "topics": {
   "fr-national": [],
   "fr-international": [],
@@ -9,7 +9,22 @@
   "football": [],
   "f1": [],
   "markets": [],
-  "ai-semis": [],
+  "ai-semis": [
+   {
+    "title": "IGBTs Took Silicon Power to the Next Level",
+    "url": "https://www.youtube.com/watch?v=pGQWq_q1gnM",
+    "channel": "Asianometry",
+    "published": "2026-10-15T23:00:03+00:00",
+    "topic": "ai-semis"
+   },
+   {
+    "title": "ASML’s New Multibeam Inspection Tool is Familiar",
+    "url": "https://www.youtube.com/watch?v=CqPsGYJHozM",
+    "channel": "Asianometry",
+    "published": "2026-10-11T23:00:38+00:00",
+    "topic": "ai-semis"
+   }
+  ],
   "transport": [],
   "aerospace": [],
   "minerals": [],
@@ -37,9 +52,9 @@
   "Asharq News: HTTP Error 404: Not Found",
   "i24NEWS English: HTTP Error 404: Not Found",
   "PGA TOUR: HTTP Error 404: Not Found",
-  "DP World Tour: HTTP Error 404: Not Found",
-  "LIV Golf: HTTP Error 404: Not Found",
-  "Golf Channel: HTTP Error 404: Not Found",
+  "DP World Tour: HTTP Error 500: Internal Server Error",
+  "LIV Golf: HTTP Error 500: Internal Server Error",
+  "Golf Channel: HTTP Error 500: Internal Server Error",
   "World Rugby: HTTP Error 404: Not Found",
   "RugbyPass: HTTP Error 404: Not Found",
   "Six Nations Rugby: HTTP Error 404: Not Found",
@@ -55,10 +70,9 @@
   "BFM Business: HTTP Error 404: Not Found",
   "Les Echos: HTTP Error 404: Not Found",
   "CNBC Television: HTTP Error 404: Not Found",
-  "TechTechPotato: HTTP Error 404: Not Found",
-  "Asianometry: HTTP Error 404: Not Found",
+  "TechTechPotato: HTTP Error 500: Internal Server Error",
   "FreightWaves: HTTP Error 404: Not Found",
-  "NASASpaceflight: HTTP Error 404: Not Found",
+  "NASASpaceflight: HTTP Error 500: Internal Server Error",
   "Scott Manley: HTTP Error 404: Not Found",
   "Breaking Defense: HTTP Error 404: Not Found",
   "SpaceNews: HTTP Error 404: Not Found",
@@ -75,7 +89,7 @@
   "NBC News: HTTP Error 404: Not Found",
   "CBS News: HTTP Error 404: Not Found",
   "DW News: HTTP Error 404: Not Found",
-  "euronews: HTTP Error 404: Not Found",
+  "euronews: HTTP Error 500: Internal Server Error",
   "FRANCE 24 English: HTTP Error 404: Not Found",
   "BBC News: HTTP Error 404: Not Found",
   "WION: HTTP Error 404: Not Found",
