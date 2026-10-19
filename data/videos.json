@@ -1,163 +1,70 @@
 {
- "generatedAt": "2026-10-19T03:45:57.405790+00:00",
+ "generatedAt": "2026-10-19T06:58:50.035397+00:00",
  "topics": {
-  "fr-national": [],
+  "fr-national": [
+   {
+    "title": "Ce qu’il s’est passé le 17 octobre",
+    "url": "https://www.youtube.com/watch?v=HFncBhBdP30",
+    "channel": "HugoDécrypte – Actus du jour",
+    "published": "2026-10-17T20:07:59+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "Un jeune homme a eu la main arrachée lors d’une manifestation à Saint-Etienne (17/10)",
+    "url": "https://www.youtube.com/watch?v=Ym3kBM23WPM",
+    "channel": "HugoDécrypte – Actus du jour",
+    "published": "2026-10-17T16:42:37+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "Plus de 500 000 personnes ont manifesté en France ce samedi, selon la CGT (Actus du 17/10)",
+    "url": "https://www.youtube.com/watch?v=rlXhRBqyP14",
+    "channel": "HugoDécrypte – Actus du jour",
+    "published": "2026-10-17T15:49:18+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "La mairie de Marseille a été prise pour cible (17/10)",
+    "url": "https://www.youtube.com/watch?v=_8hAotsRdQI",
+    "channel": "HugoDécrypte – Actus du jour",
+    "published": "2026-10-17T15:32:56+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "« On soutient la révolte des lycéens face aux méthodes de police » nous déclare cet avocat à Lyon",
+    "url": "https://www.youtube.com/watch?v=zPikr0bJfpI",
+    "channel": "HugoDécrypte – Actus du jour",
+    "published": "2026-10-17T14:57:36+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "Les étudiants de l’école Boulle ont rejoint la manifestation avec leur cheval de Troie (17/10)",
+    "url": "https://www.youtube.com/watch?v=GBL6SuxZdsk",
+    "channel": "HugoDécrypte – Actus du jour",
+    "published": "2026-10-17T14:45:14+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "Les pompiers applaudis par les manifestants près de la place de la République a Paris (17/10)",
+    "url": "https://www.youtube.com/watch?v=NW4gG-b-9wg",
+    "channel": "HugoDécrypte – Actus du jour",
+    "published": "2026-10-17T14:43:31+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "Une antenne de l’office de tourisme de Lyon a été incendiée ce samedi 17 octobre",
+    "url": "https://www.youtube.com/watch?v=DnbJy9m_Xjc",
+    "channel": "HugoDécrypte – Actus du jour",
+    "published": "2026-10-17T14:42:19+00:00",
+    "topic": "fr-national"
+   }
+  ],
   "fr-international": [],
   "me-region": [],
-  "golf": [
-   {
-    "title": "This got WAY more competitive than expected 😂🏏⛳ #sachintendulkar",
-    "url": "https://www.youtube.com/watch?v=u4DDE3Y0WcU",
-    "channel": "DP World Tour",
-    "published": "2026-10-18T14:00:12+00:00",
-    "topic": "golf"
-   },
-   {
-    "title": "Final Round Highlights | 2026 DP World India Championship",
-    "url": "https://www.youtube.com/watch?v=4294sDLyS4I",
-    "channel": "DP World Tour",
-    "published": "2026-10-18T13:50:54+00:00",
-    "topic": "golf"
-   },
-   {
-    "title": "Tournament champion LIVE in the studio | DP World India Championship Full Debrief",
-    "url": "https://www.youtube.com/watch?v=RPu9nsXXFtk",
-    "channel": "DP World Tour",
-    "published": "2026-10-18T12:34:13+00:00",
-    "topic": "golf"
-   },
-   {
-    "title": "Everything You Need To Know Before The Final Round | DP World India Championship",
-    "url": "https://www.youtube.com/watch?v=H4wNOAqv_-4",
-    "channel": "DP World Tour",
-    "published": "2026-10-18T07:10:50+00:00",
-    "topic": "golf"
-   },
-   {
-    "title": "Round 3 Highlights | 2026 DP World India Championship",
-    "url": "https://www.youtube.com/watch?v=YRNNyIinEa0",
-    "channel": "DP World Tour",
-    "published": "2026-10-17T13:24:01+00:00",
-    "topic": "golf"
-   },
-   {
-    "title": "Near ALBATROSS or lucky break? 🤯",
-    "url": "https://www.youtube.com/watch?v=X9zcOshDjz0",
-    "channel": "DP World Tour",
-    "published": "2026-10-17T13:00:04+00:00",
-    "topic": "golf"
-   },
-   {
-    "title": "Sachin Tendulkar joins Pietersen and Faldo LIVE | DP World India Championship",
-    "url": "https://www.youtube.com/watch?v=CoW-Js3E0Zk",
-    "channel": "DP World Tour",
-    "published": "2026-10-17T12:34:02+00:00",
-    "topic": "golf"
-   },
-   {
-    "title": "Sporting legends discuss the future of Indian Sport and Day 3 Preview | DP World India Championship",
-    "url": "https://www.youtube.com/watch?v=C2rdjwKCs7E",
-    "channel": "DP World Tour",
-    "published": "2026-10-17T06:28:28+00:00",
-    "topic": "golf"
-   }
-  ],
-  "rugby": [
-   {
-    "title": "When an ex linebacker plays rugby...",
-    "url": "https://www.youtube.com/watch?v=zgxgcqF0LfM",
-    "channel": "RugbyPass",
-    "published": "2026-10-14T19:04:46+00:00",
-    "topic": "rugby"
-   },
-   {
-    "title": "The air time is unbelievable 🤯#Rugby #RWC2023",
-    "url": "https://www.youtube.com/watch?v=F65QSpJtGSg",
-    "channel": "RugbyPass",
-    "published": "2026-10-13T10:09:32+00:00",
-    "topic": "rugby"
-   },
-   {
-    "title": "When America Shocked the Fastest Man in Rugby 👀",
-    "url": "https://www.youtube.com/watch?v=uqt4w5e-Gzo",
-    "channel": "RugbyPass",
-    "published": "2026-10-12T21:00:18+00:00",
-    "topic": "rugby"
-   },
-   {
-    "title": "Rugby is better in Slow Motion",
-    "url": "https://www.youtube.com/watch?v=KBxRvdeJBjA",
-    "channel": "RugbyPass",
-    "published": "2026-10-12T16:08:49+00:00",
-    "topic": "rugby"
-   },
-   {
-    "title": "If you don't ask you don't get in rugby 🤷🏻‍♂️",
-    "url": "https://www.youtube.com/watch?v=MIH4IjpaWRA",
-    "channel": "RugbyPass",
-    "published": "2026-10-12T14:55:25+00:00",
-    "topic": "rugby"
-   }
-  ],
+  "golf": [],
+  "rugby": [],
   "football": [],
-  "f1": [
-   {
-    "title": "The Legendary 2016 Mercedes Title Race",
-    "url": "https://www.youtube.com/watch?v=zhTOMKTc3fE",
-    "channel": "FORMULA 1",
-    "published": "2026-10-18T13:00:35+00:00",
-    "topic": "f1"
-   },
-   {
-    "title": "The Story Of The 2026 F3 Season!",
-    "url": "https://www.youtube.com/watch?v=G02jGYjOKn8",
-    "channel": "FORMULA 1",
-    "published": "2026-10-17T12:00:28+00:00",
-    "topic": "f1"
-   },
-   {
-    "title": "The Struggle Of Singapore 🥵",
-    "url": "https://www.youtube.com/watch?v=zGsygOHLCHs",
-    "channel": "FORMULA 1",
-    "published": "2026-10-17T10:00:05+00:00",
-    "topic": "f1"
-   },
-   {
-    "title": "This Charles & Checo Moment 😬👀",
-    "url": "https://www.youtube.com/watch?v=yvEcmu9e0Ik",
-    "channel": "FORMULA 1",
-    "published": "2026-10-16T15:32:38+00:00",
-    "topic": "f1"
-   },
-   {
-    "title": "Rafael Camara's Journey To F1 | Haas' New Driver From 2027!",
-    "url": "https://www.youtube.com/watch?v=4FMOXQHonSo",
-    "channel": "FORMULA 1",
-    "published": "2026-10-15T14:48:16+00:00",
-    "topic": "f1"
-   },
-   {
-    "title": "Throwing back to the inchident... 🧐😅",
-    "url": "https://www.youtube.com/watch?v=yltw4ayFBXc",
-    "channel": "FORMULA 1",
-    "published": "2026-10-14T15:00:30+00:00",
-    "topic": "f1"
-   },
-   {
-    "title": "50 Years Since James Hunt’s Dramatic Win - With Freddie Hunt | F1 Beyond The Grid Podcast",
-    "url": "https://www.youtube.com/watch?v=o4xOUGirL-4",
-    "channel": "FORMULA 1",
-    "published": "2026-10-14T11:30:01+00:00",
-    "topic": "f1"
-   },
-   {
-    "title": "A Closer Look At The Race Start & Strategies In Singapore | F1 TV Palmer's Analysis",
-    "url": "https://www.youtube.com/watch?v=UjVcLXIrlkY",
-    "channel": "FORMULA 1",
-    "published": "2026-10-13T16:00:10+00:00",
-    "topic": "f1"
-   }
-  ],
+  "f1": [],
   "markets": [],
   "ai-semis": [],
   "transport": [],
@@ -168,270 +75,45 @@
   "tennis": [],
   "luxury": [],
   "robotics": [],
-  "us": [
-   {
-    "title": "4th-grade student recounts Oregon school shooting",
-    "url": "https://www.youtube.com/watch?v=JLWwMS_e99Y",
-    "channel": "NBC News",
-    "published": "2026-10-19T02:57:12+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Two killed after truck drives through Wichita soccer game",
-    "url": "https://www.youtube.com/watch?v=k8Hpd4L7XkI",
-    "channel": "NBC News",
-    "published": "2026-10-19T01:24:06+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "NBC Nightly News Full Episode - Oct. 18",
-    "url": "https://www.youtube.com/watch?v=ZQbntiErkKA",
-    "channel": "NBC News",
-    "published": "2026-10-18T23:36:09+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Good News: Football ‘Victory Day’ inspires movement at schools nationwide",
-    "url": "https://www.youtube.com/watch?v=0MH0rwcXm5Q",
-    "channel": "NBC News",
-    "published": "2026-10-18T23:19:33+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "4 service members killed and dozens injured in fire at Canadian military base",
-    "url": "https://www.youtube.com/watch?v=R9s2RXuaAf8",
-    "channel": "NBC News",
-    "published": "2026-10-18T23:19:31+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "U.S. taking Putin’s side would be a ‘historic mistake,’ Zelenskyy says",
-    "url": "https://www.youtube.com/watch?v=4wtSMpsZCbU",
-    "channel": "NBC News",
-    "published": "2026-10-18T23:19:27+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "French president speaks out on violent nationwide unrest across France",
-    "url": "https://www.youtube.com/watch?v=5w5K12DHhdU",
-    "channel": "NBC News",
-    "published": "2026-10-18T23:19:27+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Oregon community mourns victims from elementary school shooting",
-    "url": "https://www.youtube.com/watch?v=fSeyHlWdfuA",
-    "channel": "NBC News",
-    "published": "2026-10-18T23:19:22+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Alberta is voting on staying in Canada. Here's a look at other separatist movements.",
-    "url": "https://www.youtube.com/watch?v=RGcc8RGoSlk",
-    "channel": "CBS News",
-    "published": "2026-10-18T18:36:06+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Watch: Highlights from Vance's CBS News town hall",
-    "url": "https://www.youtube.com/watch?v=C7T3oeL_HGg",
-    "channel": "CBS News",
-    "published": "2026-10-18T04:21:48+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "A Town Hall with JD Vance",
-    "url": "https://www.youtube.com/watch?v=h9mkeEe5ZU8",
-    "channel": "CBS News",
-    "published": "2026-10-18T04:07:50+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Watch: JD Vance on whether he will run for president in 2028",
-    "url": "https://www.youtube.com/watch?v=Th31fRONUAY",
-    "channel": "CBS News",
-    "published": "2026-10-18T02:18:21+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Father of children who survived Michigan temple attack shares antisemitism concerns with Vance",
-    "url": "https://www.youtube.com/watch?v=JsYYfEsj_v4",
-    "channel": "CBS News",
-    "published": "2026-10-18T02:09:06+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Watch: Voter who lives near data center confronts Vance on \"\"unbearable\" outdoor conditions",
-    "url": "https://www.youtube.com/watch?v=x3pAKHsyBFs",
-    "channel": "CBS News",
-    "published": "2026-10-18T01:53:48+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Watch: Vance says \"D.C. is a corrupt town\" but claims no evidence Trump engaged with it",
-    "url": "https://www.youtube.com/watch?v=1mRVdxU1nNw",
-    "channel": "CBS News",
-    "published": "2026-10-18T01:51:45+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Watch: Man whose wife died in Iran strike confronts Vance on \"fundamental failures\"",
-    "url": "https://www.youtube.com/watch?v=g4uddap57HQ",
-    "channel": "CBS News",
-    "published": "2026-10-18T01:26:49+00:00",
-    "topic": "us"
-   }
-  ],
-  "europe": [
-   {
-    "title": "Paralysed three weeks after giving birth: Becki’s recovery story",
-    "url": "https://www.youtube.com/watch?v=UAhZyoZwSf4",
-    "channel": "BBC News",
-    "published": "2026-10-19T02:00:01+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Macron addresses rioters after protests and disorder in France. #BBCNews",
-    "url": "https://www.youtube.com/watch?v=TxJ-uqNDqYY",
-    "channel": "BBC News",
-    "published": "2026-10-19T00:30:12+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Four soldiers killed after major fire at Canadian military base | BBC News",
-    "url": "https://www.youtube.com/watch?v=lhVE4tFen6c",
-    "channel": "BBC News",
-    "published": "2026-10-19T00:00:22+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "2,400 arrests in France's worst street violence for decades | BBC News",
-    "url": "https://www.youtube.com/watch?v=xhVv8I9j3KI",
-    "channel": "BBC News",
-    "published": "2026-10-18T22:48:07+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "America's Synthetic Drug Crisis | BBC News",
-    "url": "https://www.youtube.com/watch?v=jlejQVL_YD8",
-    "channel": "BBC News",
-    "published": "2026-10-18T21:49:34+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Why is Gen Z protesting around the world? #GenZ #BBCNews",
-    "url": "https://www.youtube.com/watch?v=zgXCOSgSVjo",
-    "channel": "BBC News",
-    "published": "2026-10-18T19:20:07+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Four killed and dozens seriously injured in major fire at Canadian military base - Carney. #BBCNews",
-    "url": "https://www.youtube.com/watch?v=8-QqHaqLAsE",
-    "channel": "BBC News",
-    "published": "2026-10-18T18:24:11+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Can smart glasses lose their ‘creepy’ reputation? | BBC News",
-    "url": "https://www.youtube.com/watch?v=-S1oSeORfhA",
-    "channel": "BBC News",
-    "published": "2026-10-18T18:15:01+00:00",
-    "topic": "europe"
-   }
-  ],
-  "brics": [
-   {
-    "title": "Tehran WARNS Regional Entities Assisting Military AI Ventures | World DNA News",
-    "url": "https://www.youtube.com/watch?v=cCvjy9WPE_s",
-    "channel": "WION",
-    "published": "2026-10-19T03:30:00+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "BOMB SCARE on Tel Aviv-Vienna Flight | WION News",
-    "url": "https://www.youtube.com/watch?v=3_c-uFbHbyM",
-    "channel": "WION",
-    "published": "2026-10-19T03:14:48+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Fire at Canada Military Base Kills Four Soldiers | WION News",
-    "url": "https://www.youtube.com/watch?v=IQ8d8iB9mwY",
-    "channel": "WION",
-    "published": "2026-10-19T03:14:22+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "World DNA LIVE: Macron Slams Protests as France Burns | Tiger Shroff Shooting: CCTV Shows Shooters",
-    "url": "https://www.youtube.com/watch?v=9f0FFPYB8RY",
-    "channel": "WION",
-    "published": "2026-10-19T03:01:43+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Trump Gives Netanyahu Election Endorsement Nine Days Before Pivotal Vote | WION News",
-    "url": "https://www.youtube.com/watch?v=v6pQlgnd7LE",
-    "channel": "WION",
-    "published": "2026-10-19T02:54:20+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Saudi-Houthi War LIVE: Saudi Arabia Under Fire? | Houthis Claim Major Strike as War Escalates | WION",
-    "url": "https://www.youtube.com/watch?v=sH__O82SFgk",
-    "channel": "WION",
-    "published": "2026-10-19T01:49:10+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "US Iran War LIVE: Trump’s BIG Iran THREAT! ‘Mother Of All Bombs’ STRIKE Looms? | WION Live",
-    "url": "https://www.youtube.com/watch?v=3qknZ1_YSDY",
-    "channel": "WION",
-    "published": "2026-10-19T01:29:35+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Aden Airport Under FIRE LIVE: Houthi Missiles Turn Yemen’s Skies Into a War Zone | WION Live",
-    "url": "https://www.youtube.com/watch?v=8Ew1TO3zz1s",
-    "channel": "WION",
-    "published": "2026-10-19T01:17:08+00:00",
-    "topic": "brics"
-   }
-  ]
+  "us": [],
+  "europe": [],
+  "brics": []
  },
  "errors": [
-  "franceinfo: HTTP Error 500: Internal Server Error",
-  "HugoDécrypte – Actus du jour: HTTP Error 404: Not Found",
+  "franceinfo: HTTP Error 404: Not Found",
   "Le Monde: HTTP Error 404: Not Found",
   "FRANCE 24: HTTP Error 404: Not Found",
   "Le Dessous des Cartes – ARTE: HTTP Error 404: Not Found",
   "Al Jazeera English: HTTP Error 404: Not Found",
   "FRANCE 24 English: HTTP Error 404: Not Found",
   "Middle East Eye: HTTP Error 404: Not Found",
-  "BBC News: HTTP Error 500: Internal Server Error",
+  "BBC News: HTTP Error 404: Not Found",
   "Arab News: HTTP Error 404: Not Found",
   "Al Arabiya English: HTTP Error 404: Not Found",
   "Asharq News: HTTP Error 404: Not Found",
   "i24NEWS English: HTTP Error 404: Not Found",
-  "PGA TOUR: HTTP Error 500: Internal Server Error",
+  "PGA TOUR: HTTP Error 404: Not Found",
+  "DP World Tour: HTTP Error 404: Not Found",
   "LIV Golf: HTTP Error 404: Not Found",
   "Golf Channel: HTTP Error 404: Not Found",
   "World Rugby: HTTP Error 404: Not Found",
+  "RugbyPass: HTTP Error 404: Not Found",
   "Six Nations Rugby: HTTP Error 404: Not Found",
   "L'Équipe: HTTP Error 404: Not Found",
   "Tifo Sports (The Athletic): HTTP Error 404: Not Found",
   "ESPN FC: HTTP Error 404: Not Found",
-  "Sky Sports Football: HTTP Error 500: Internal Server Error",
-  "The Race: HTTP Error 500: Internal Server Error",
-  "Bloomberg Television: HTTP Error 500: Internal Server Error",
+  "Sky Sports Football: HTTP Error 404: Not Found",
+  "FORMULA 1: HTTP Error 404: Not Found",
+  "The Race: HTTP Error 404: Not Found",
+  "Bloomberg Television: HTTP Error 404: Not Found",
   "Reuters: HTTP Error 404: Not Found",
   "Financial Times: HTTP Error 404: Not Found",
   "BFM Business: HTTP Error 404: Not Found",
   "Les Echos: HTTP Error 404: Not Found",
   "CNBC Television: HTTP Error 404: Not Found",
-  "TechTechPotato: HTTP Error 500: Internal Server Error",
+  "TechTechPotato: HTTP Error 404: Not Found",
   "Asianometry: HTTP Error 404: Not Found",
-  "FreightWaves: HTTP Error 500: Internal Server Error",
+  "FreightWaves: HTTP Error 404: Not Found",
   "NASASpaceflight: HTTP Error 404: Not Found",
   "Scott Manley: HTTP Error 404: Not Found",
   "Breaking Defense: HTTP Error 404: Not Found",
@@ -445,9 +127,14 @@
   "Business of Fashion: HTTP Error 404: Not Found",
   "NVIDIA: HTTP Error 404: Not Found",
   "PBS NewsHour: HTTP Error 404: Not Found",
+  "Associated Press: HTTP Error 404: Not Found",
+  "NBC News: HTTP Error 404: Not Found",
+  "CBS News: HTTP Error 404: Not Found",
   "DW News: HTTP Error 404: Not Found",
   "euronews: HTTP Error 404: Not Found",
   "FRANCE 24 English: HTTP Error 404: Not Found",
+  "BBC News: HTTP Error 404: Not Found",
+  "WION: HTTP Error 404: Not Found",
   "CGTN: HTTP Error 404: Not Found",
   "Al Jazeera English: HTTP Error 404: Not Found",
   "DW News: HTTP Error 404: Not Found",
