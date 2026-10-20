@@ -1,378 +1,37 @@
 {
- "generatedAt": "2026-10-20T03:44:20.713891+00:00",
+ "generatedAt": "2026-10-20T06:53:25.715622+00:00",
  "topics": {
   "fr-national": [],
   "fr-international": [],
-  "me-region": [
-   {
-    "title": "Eerily quiet as curfews come into effect across France | AJ #shorts",
-    "url": "https://www.youtube.com/watch?v=K4dZcIpNXRY",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-20T03:02:10+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Man claims arm broken in violent ICE arrest",
-    "url": "https://www.youtube.com/watch?v=sR1LJZDh8fM",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-20T02:44:03+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Yemen: Houthi missile strike kills at least 58 recruits in Shabwah",
-    "url": "https://www.youtube.com/watch?v=EcEhJRbmESM",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-20T02:35:29+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Zelenskyy seeks answers to why SpaceX Starshield defence is failing",
-    "url": "https://www.youtube.com/watch?v=LCZcIEyuZoI",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-20T01:47:25+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Altantuya's murder: 20 years fighting for justice | 101 East #shorts",
-    "url": "https://www.youtube.com/watch?v=3y8XVeRmiIY",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-20T00:24:10+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "US midterms: Immigration crackdown tests Republican support among Cuban Americans",
-    "url": "https://www.youtube.com/watch?v=1kHRY2ba7jc",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-20T00:21:47+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "France imposes nighttime curfews after violent protests",
-    "url": "https://www.youtube.com/watch?v=lIQgjgYZQEo",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-20T00:21:43+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Kristi Noem: US-GCC security partnership is critical to regional stability",
-    "url": "https://www.youtube.com/watch?v=O21YyetqTTA",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-20T00:21:38+00:00",
-    "topic": "me-region"
-   }
-  ],
+  "me-region": [],
   "golf": [],
   "rugby": [],
   "football": [],
   "f1": [],
-  "markets": [
-   {
-    "title": "Trump Open to Putin-Xi Talks Without Zelenskyy, Early Voting  Underway for Majority of US",
-    "url": "https://www.youtube.com/watch?v=41CWwtFQ_no",
-    "channel": "Bloomberg Television",
-    "published": "2026-10-19T23:51:56+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Harman: US Foreign Policy in 'Freefall'",
-    "url": "https://www.youtube.com/watch?v=2qrX2aFebG0",
-    "channel": "Bloomberg Television",
-    "published": "2026-10-19T23:11:31+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Rep. Malliotakis Sees Diesel Prices in Trump’s Russia Shift",
-    "url": "https://www.youtube.com/watch?v=i9A8OH93enI",
-    "channel": "Bloomberg Television",
-    "published": "2026-10-19T23:07:06+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Zelenskyy Says Trump Is Pushing Ukraine to Yield",
-    "url": "https://www.youtube.com/watch?v=AnyfiwRNra0",
-    "channel": "Bloomberg Television",
-    "published": "2026-10-19T22:16:48+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Tech Stocks Rebound as Investors Reassess the AI Trade",
-    "url": "https://www.youtube.com/watch?v=3AR5dskKi98",
-    "channel": "Bloomberg Television",
-    "published": "2026-10-19T22:12:50+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Big Tech Earnings Could Validate AI, Ives Says",
-    "url": "https://www.youtube.com/watch?v=DBAIqz7s2-Y",
-    "channel": "Bloomberg Television",
-    "published": "2026-10-19T21:50:33+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Retailers Will Struggle During Earnings Season, Says Meredith Whitney",
-    "url": "https://www.youtube.com/watch?v=gX_hyq8CB8Q",
-    "channel": "Bloomberg Television",
-    "published": "2026-10-19T21:40:05+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Elon Musk Will Give SpaceX Shares to ‘Every Kid in America’",
-    "url": "https://www.youtube.com/watch?v=bNsolDIUZ-o",
-    "channel": "Bloomberg Television",
-    "published": "2026-10-19T21:13:47+00:00",
-    "topic": "markets"
-   }
-  ],
+  "markets": [],
   "ai-semis": [],
   "transport": [],
   "aerospace": [],
   "minerals": [],
   "energy": [],
-  "crypto": [
-   {
-    "title": "Citi Reveals Top Crypto Stock Picks Ahead of Q3 Earnings",
-    "url": "https://www.youtube.com/watch?v=UEDQ8URn3hk",
-    "channel": "CoinDesk",
-    "published": "2026-10-19T18:10:22+00:00",
-    "topic": "crypto"
-   },
-   {
-    "title": "Tom Lee Says Ethereum Could Surge Past $10,000 in the Next 12 Months",
-    "url": "https://www.youtube.com/watch?v=WDfhSrA4Z7A",
-    "channel": "CoinDesk",
-    "published": "2026-10-19T15:40:00+00:00",
-    "topic": "crypto"
-   },
-   {
-    "title": "JPMorgan Brings JPM Coin to Ethereum",
-    "url": "https://www.youtube.com/watch?v=ELRIyppedMc",
-    "channel": "CoinDesk",
-    "published": "2026-10-19T15:36:21+00:00",
-    "topic": "crypto"
-   },
-   {
-    "title": "Nvidia Leads Tokenized Stock Trading on Arcus as RWA Demand Grows",
-    "url": "https://www.youtube.com/watch?v=g6ZSP5olxuY",
-    "channel": "CoinDesk",
-    "published": "2026-10-18T21:00:33+00:00",
-    "topic": "crypto"
-   },
-   {
-    "title": "AI Agents Are Set to Become a Trillion-Dollar Market, CEO Predicts",
-    "url": "https://www.youtube.com/watch?v=1RM3JqeLwc0",
-    "channel": "CoinDesk",
-    "published": "2026-10-18T15:00:29+00:00",
-    "topic": "crypto"
-   },
-   {
-    "title": "The Future of Trading Could Look More Like Social Media, Says FOMO Co-Founder",
-    "url": "https://www.youtube.com/watch?v=cRc516yYhoc",
-    "channel": "CoinDesk",
-    "published": "2026-10-17T21:00:31+00:00",
-    "topic": "crypto"
-   },
-   {
-    "title": "Arthur Hayes Warns AI Boom Could End in Massive Government Bailout",
-    "url": "https://www.youtube.com/watch?v=WioPGJaDmNs",
-    "channel": "CoinDesk",
-    "published": "2026-10-17T15:00:28+00:00",
-    "topic": "crypto"
-   },
-   {
-    "title": "Elon Musk's Flying Tesla Roadster Unveiling Boosts Tokenized TSLA",
-    "url": "https://www.youtube.com/watch?v=0swQMVnvfOA",
-    "channel": "CoinDesk",
-    "published": "2026-10-16T15:14:42+00:00",
-    "topic": "crypto"
-   }
-  ],
+  "crypto": [],
   "tennis": [],
   "luxury": [],
   "robotics": [],
-  "us": [
-   {
-    "title": "Jury convicts man who stole Flamingo in Las Vegas",
-    "url": "https://www.youtube.com/watch?v=QrEDXBI42CA",
-    "channel": "NBC News",
-    "published": "2026-10-20T03:15:29+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Trump uses antisemitic slur in defending Sen. Marshall",
-    "url": "https://www.youtube.com/watch?v=NOeRue4PbD0",
-    "channel": "NBC News",
-    "published": "2026-10-20T02:42:56+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "NBC Nightly News with Tom Llamas Full Episode - Oct. 19",
-    "url": "https://www.youtube.com/watch?v=krT6eKZIGeM",
-    "channel": "NBC News",
-    "published": "2026-10-20T01:52:05+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "How does hypnotherapy actually work, and what can it treat?",
-    "url": "https://www.youtube.com/watch?v=M4Nco5qq9fU",
-    "channel": "NBC News",
-    "published": "2026-10-20T01:37:22+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "AI and the cognitive confidence trap",
-    "url": "https://www.youtube.com/watch?v=N1_3fGmMHbM",
-    "channel": "NBC News",
-    "published": "2026-10-20T01:27:57+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Man convicted of animal cruelty for stealing flamingo from Las Vegas hotel",
-    "url": "https://www.youtube.com/watch?v=-RmbxLo_aqw",
-    "channel": "NBC News",
-    "published": "2026-10-20T01:20:40+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "U.S. and Ukrainian officials to meet in Norway",
-    "url": "https://www.youtube.com/watch?v=LdliaUGCnRo",
-    "channel": "NBC News",
-    "published": "2026-10-20T01:13:45+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Stay Tuned NOW Streaming Behind The Scenes! - Oct 19",
-    "url": "https://www.youtube.com/watch?v=FH6AT-WpDQg",
-    "channel": "NBC News",
-    "published": "2026-10-20T01:03:59+00:00",
-    "topic": "us"
-   }
-  ],
-  "europe": [
-   {
-    "title": "France tells online marketplaces to crack down on resale of looted items • FRANCE 24 English",
-    "url": "https://www.youtube.com/watch?v=UcpjHrf0TT8",
-    "channel": "FRANCE 24 English",
-    "published": "2026-10-19T21:25:55+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Le Pen 'trying to use these events to push her popularity', expert says • FRANCE 24 English",
-    "url": "https://www.youtube.com/watch?v=ArOJ6zeOlKE",
-    "channel": "FRANCE 24 English",
-    "published": "2026-10-19T20:53:09+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Art crime detective Arthur Brand warns: 'All museums have been, and will be, victims of theft'",
-    "url": "https://www.youtube.com/watch?v=2Yp1u0BXkA4",
-    "channel": "FRANCE 24 English",
-    "published": "2026-10-19T20:13:18+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "France riots: AI photos falsely depict elderly couple 'stripped and robbed' • FRANCE 24 English",
-    "url": "https://www.youtube.com/watch?v=ltqJdK-rPM8",
-    "channel": "FRANCE 24 English",
-    "published": "2026-10-19T19:46:43+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "French far right seeks to capitalise on protests with calls for law and order • FRANCE 24 English",
-    "url": "https://www.youtube.com/watch?v=uTBWm1iCLTs",
-    "channel": "FRANCE 24 English",
-    "published": "2026-10-19T19:41:44+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Russia-China-US summit would prolong the war, Kyiv says • FRANCE 24 English",
-    "url": "https://www.youtube.com/watch?v=lPtqYPWe1YM",
-    "channel": "FRANCE 24 English",
-    "published": "2026-10-19T19:20:58+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Paris weekend riots raise concerns for tourism industry • FRANCE 24 English",
-    "url": "https://www.youtube.com/watch?v=W1sS1pG33tw",
-    "channel": "FRANCE 24 English",
-    "published": "2026-10-19T19:06:19+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Zelensky says Starshield speed limits slowing down frontline response • FRANCE 24 English",
-    "url": "https://www.youtube.com/watch?v=gZMKa_K4RYI",
-    "channel": "FRANCE 24 English",
-    "published": "2026-10-19T18:45:55+00:00",
-    "topic": "europe"
-   }
-  ],
-  "brics": [
-   {
-    "title": "Eerily quiet as curfews come into effect across France | AJ #shorts",
-    "url": "https://www.youtube.com/watch?v=K4dZcIpNXRY",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-20T03:02:10+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Man claims arm broken in violent ICE arrest",
-    "url": "https://www.youtube.com/watch?v=sR1LJZDh8fM",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-20T02:44:03+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Yemen: Houthi missile strike kills at least 58 recruits in Shabwah",
-    "url": "https://www.youtube.com/watch?v=EcEhJRbmESM",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-20T02:35:29+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Zelenskyy seeks answers to why SpaceX Starshield defence is failing",
-    "url": "https://www.youtube.com/watch?v=LCZcIEyuZoI",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-20T01:47:25+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Altantuya's murder: 20 years fighting for justice | 101 East #shorts",
-    "url": "https://www.youtube.com/watch?v=3y8XVeRmiIY",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-20T00:24:10+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "US midterms: Immigration crackdown tests Republican support among Cuban Americans",
-    "url": "https://www.youtube.com/watch?v=1kHRY2ba7jc",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-20T00:21:47+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "France imposes nighttime curfews after violent protests",
-    "url": "https://www.youtube.com/watch?v=lIQgjgYZQEo",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-20T00:21:43+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Kristi Noem: US-GCC security partnership is critical to regional stability",
-    "url": "https://www.youtube.com/watch?v=O21YyetqTTA",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-20T00:21:38+00:00",
-    "topic": "brics"
-   }
-  ]
+  "us": [],
+  "europe": [],
+  "brics": []
  },
  "errors": [
   "franceinfo: HTTP Error 404: Not Found",
-  "HugoDécrypte – Actus du jour: HTTP Error 500: Internal Server Error",
+  "HugoDécrypte – Actus du jour: HTTP Error 404: Not Found",
   "Le Monde: HTTP Error 404: Not Found",
-  "FRANCE 24: HTTP Error 404: Not Found",
+  "FRANCE 24: HTTP Error 500: Internal Server Error",
   "Le Dessous des Cartes – ARTE: HTTP Error 404: Not Found",
-  "FRANCE 24 English: HTTP Error 500: Internal Server Error",
+  "Al Jazeera English: HTTP Error 404: Not Found",
+  "FRANCE 24 English: HTTP Error 404: Not Found",
   "Middle East Eye: HTTP Error 404: Not Found",
-  "BBC News: HTTP Error 404: Not Found",
+  "BBC News: HTTP Error 500: Internal Server Error",
   "Arab News: HTTP Error 404: Not Found",
   "Al Arabiya English: HTTP Error 404: Not Found",
   "Asharq News: HTTP Error 404: Not Found",
@@ -380,7 +39,7 @@
   "PGA TOUR: HTTP Error 404: Not Found",
   "DP World Tour: HTTP Error 404: Not Found",
   "LIV Golf: HTTP Error 404: Not Found",
-  "Golf Channel: HTTP Error 404: Not Found",
+  "Golf Channel: HTTP Error 500: Internal Server Error",
   "World Rugby: HTTP Error 404: Not Found",
   "RugbyPass: HTTP Error 404: Not Found",
   "Six Nations Rugby: HTTP Error 404: Not Found",
@@ -390,15 +49,16 @@
   "Sky Sports Football: HTTP Error 404: Not Found",
   "FORMULA 1: HTTP Error 404: Not Found",
   "The Race: HTTP Error 404: Not Found",
+  "Bloomberg Television: HTTP Error 404: Not Found",
   "Reuters: HTTP Error 404: Not Found",
   "Financial Times: HTTP Error 404: Not Found",
   "BFM Business: HTTP Error 404: Not Found",
-  "Les Echos: HTTP Error 500: Internal Server Error",
+  "Les Echos: HTTP Error 404: Not Found",
   "CNBC Television: HTTP Error 404: Not Found",
   "TechTechPotato: HTTP Error 404: Not Found",
   "Asianometry: HTTP Error 404: Not Found",
   "FreightWaves: HTTP Error 404: Not Found",
-  "NASASpaceflight: HTTP Error 404: Not Found",
+  "NASASpaceflight: HTTP Error 500: Internal Server Error",
   "Scott Manley: HTTP Error 404: Not Found",
   "Breaking Defense: HTTP Error 404: Not Found",
   "SpaceNews: HTTP Error 404: Not Found",
@@ -406,17 +66,21 @@
   "Benchmark Mineral Intelligence: HTTP Error 404: Not Found",
   "IEA: HTTP Error 404: Not Found",
   "Into the Cryptoverse (Benjamin Cowen): HTTP Error 404: Not Found",
+  "CoinDesk: HTTP Error 404: Not Found",
   "Tennis TV: HTTP Error 404: Not Found",
   "Business of Fashion: HTTP Error 404: Not Found",
   "NVIDIA: HTTP Error 404: Not Found",
   "PBS NewsHour: HTTP Error 404: Not Found",
   "Associated Press: HTTP Error 404: Not Found",
+  "NBC News: HTTP Error 500: Internal Server Error",
   "CBS News: HTTP Error 404: Not Found",
   "DW News: HTTP Error 404: Not Found",
   "euronews: HTTP Error 404: Not Found",
+  "FRANCE 24 English: HTTP Error 404: Not Found",
   "BBC News: HTTP Error 404: Not Found",
   "WION: HTTP Error 404: Not Found",
   "CGTN: HTTP Error 404: Not Found",
+  "Al Jazeera English: HTTP Error 404: Not Found",
   "DW News: HTTP Error 404: Not Found",
   "Firstpost: HTTP Error 404: Not Found",
   "TRT World: HTTP Error 404: Not Found"
