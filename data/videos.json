@@ -1,322 +1,209 @@
 {
- "generatedAt": "2026-10-22T03:44:56.275353+00:00",
+ "generatedAt": "2026-10-22T06:55:28.885342+00:00",
  "topics": {
   "fr-national": [],
   "fr-international": [],
-  "me-region": [
-   {
-    "title": "Europe's wave of anger: how far will youth-led protests go? • FRANCE 24 English",
-    "url": "https://www.youtube.com/watch?v=4v0G5lXPK_4",
-    "channel": "FRANCE 24 English",
-    "published": "2026-10-21T23:56:17+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Sudan’s war escalates as UN warns of wider regional crisis • FRANCE 24 English",
-    "url": "https://www.youtube.com/watch?v=s17Y8i8pd9w",
-    "channel": "FRANCE 24 English",
-    "published": "2026-10-21T22:40:11+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Trump admin 'destroying' US democracy with 'autocratic, terrorist version of Christian nationalism'",
-    "url": "https://www.youtube.com/watch?v=tUe2ZbX3ENI",
-    "channel": "FRANCE 24 English",
-    "published": "2026-10-21T22:06:42+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "In run-up to mass protests and riots, pro-Russian accounts amplified French anger, NGO finds",
-    "url": "https://www.youtube.com/watch?v=u9vMLCADktk",
-    "channel": "FRANCE 24 English",
-    "published": "2026-10-21T21:21:45+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "French bond yields hit 24-year high after unrest • FRANCE 24 English",
-    "url": "https://www.youtube.com/watch?v=vZr3VBwMLcM",
-    "channel": "FRANCE 24 English",
-    "published": "2026-10-21T20:44:33+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "EU prosecutors search European Parliament offices of far-right group • FRANCE 24 English",
-    "url": "https://www.youtube.com/watch?v=sArBNxpKN_A",
-    "channel": "FRANCE 24 English",
-    "published": "2026-10-21T20:21:15+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Putin agrees to resume three-way talks with Kyiv and Washington • FRANCE 24 English",
-    "url": "https://www.youtube.com/watch?v=1wNHwZmAoFU",
-    "channel": "FRANCE 24 English",
-    "published": "2026-10-21T19:32:51+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "'Neither the Sudanese military, nor the RSF take any acknowledgement of human life in this war'",
-    "url": "https://www.youtube.com/watch?v=KMylsVx2Zu4",
-    "channel": "FRANCE 24 English",
-    "published": "2026-10-21T19:28:19+00:00",
-    "topic": "me-region"
-   }
-  ],
+  "me-region": [],
   "golf": [],
   "rugby": [],
-  "football": [],
+  "football": [
+   {
+    "title": "Tension at Man United following UCL loss? 👀 + FC Bayern & Arsenal draw | ESPN FC",
+    "url": "https://www.youtube.com/watch?v=r0Odv6pLuT0",
+    "channel": "ESPN FC",
+    "published": "2026-10-21T23:34:19+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "How Cesc Fabregas & Como found success in HUGE win over Man United 👏 | ESPN FC Extra Time",
+    "url": "https://www.youtube.com/watch?v=y38unP-92Qc",
+    "channel": "ESPN FC",
+    "published": "2026-10-21T23:29:54+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "Next steps for PSG after Kvaratskhelia ruled out the rest of the season with ruptured ACL | ESPN FC",
+    "url": "https://www.youtube.com/watch?v=sgARA8gWc7U",
+    "channel": "ESPN FC",
+    "published": "2026-10-21T23:23:19+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "A new low? ⚽ ESPN FC reacts to Como’s 4-1 win vs. Manchester United",
+    "url": "https://www.youtube.com/watch?v=xtvvTr_wva0",
+    "channel": "ESPN FC",
+    "published": "2026-10-21T22:42:26+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "FC Bayern vs. Arsenal Reaction 👀 Ale questions Harry Kane’s role | ESPN FC",
+    "url": "https://www.youtube.com/watch?v=DAtlZXQQdok",
+    "channel": "ESPN FC",
+    "published": "2026-10-21T22:14:31+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "‘Without Courtois it’d be a different story’ - Frank Leboeuf after Real Madrid's UCL win | ESPN FC",
+    "url": "https://www.youtube.com/watch?v=0V4nAPThz6A",
+    "channel": "ESPN FC",
+    "published": "2026-10-21T22:10:53+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "Levante vs. Athletic Club | LALIGA Highlights | ESPN FC",
+    "url": "https://www.youtube.com/watch?v=2-1ogixnQYU",
+    "channel": "ESPN FC",
+    "published": "2026-10-21T20:30:56+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "UCL REACTION ⚽️ Barca suffers first loss of the season to PSG + FC Bayern-Arsenal preview | ESPN FC",
+    "url": "https://www.youtube.com/watch?v=R9mGMF2os-s",
+    "channel": "ESPN FC",
+    "published": "2026-10-20T23:41:26+00:00",
+    "topic": "football"
+   }
+  ],
   "f1": [],
   "markets": [],
   "ai-semis": [],
-  "transport": [],
-  "aerospace": [
+  "transport": [
    {
-    "title": "Elon Says SpaceX Is Go For Double Catch | Starship Update",
-    "url": "https://www.youtube.com/watch?v=jpmXdGzy4gk",
-    "channel": "NASASpaceflight",
-    "published": "2026-10-21T23:06:10+00:00",
-    "topic": "aerospace"
+    "title": "FreightWaves Today | October 21",
+    "url": "https://www.youtube.com/watch?v=lW01G5DDD54",
+    "channel": "FreightWaves",
+    "published": "2026-10-22T05:11:46+00:00",
+    "topic": "transport"
    },
    {
-    "title": "Soon Becoming Reality? Starship Catch At Starbase! #spacex #starship #elonmusk",
-    "url": "https://www.youtube.com/watch?v=4UpRUQfczpg",
-    "channel": "NASASpaceflight",
-    "published": "2026-10-21T22:40:34+00:00",
-    "topic": "aerospace"
+    "title": "FreightWaves Today | October 21",
+    "url": "https://www.youtube.com/watch?v=REvfJzuF06c",
+    "channel": "FreightWaves",
+    "published": "2026-10-21T18:04:46+00:00",
+    "topic": "transport"
    },
    {
-    "title": "SpaceX Launches Falcon 9 with Bandwagon-5",
-    "url": "https://www.youtube.com/watch?v=8t6CQp9-bpk",
-    "channel": "NASASpaceflight",
-    "published": "2026-10-20T11:42:45+00:00",
-    "topic": "aerospace"
+    "title": "Vertical Aerospace eVTOL: The Future of Urgent Air Cargo",
+    "url": "https://www.youtube.com/watch?v=FGsqzoCIrrk",
+    "channel": "FreightWaves",
+    "published": "2026-10-21T17:51:17+00:00",
+    "topic": "transport"
    },
    {
-    "title": "Neutron Slips to 2027—Can Relativity or Stoke Beat Rocket Lab? | This Week in Spaceflight",
-    "url": "https://www.youtube.com/watch?v=TUiyzHFJlJ0",
-    "channel": "NASASpaceflight",
-    "published": "2026-10-20T00:45:09+00:00",
-    "topic": "aerospace"
+    "title": "Rail Traffic SURGE: Why Intermodal Volume is Climbing",
+    "url": "https://www.youtube.com/watch?v=K4OHvYNZX6k",
+    "channel": "FreightWaves",
+    "published": "2026-10-21T17:51:00+00:00",
+    "topic": "transport"
    },
    {
-    "title": "The Universe Is Hiding Something. NASA plans to find it. - Intrepid Museum Astro Live",
-    "url": "https://www.youtube.com/watch?v=96X9Tt47ND0",
-    "channel": "NASASpaceflight",
-    "published": "2026-10-18T20:42:08+00:00",
-    "topic": "aerospace"
+    "title": "Truckload Pricing Power? Diesel Is Eating It Up",
+    "url": "https://www.youtube.com/watch?v=wrysuZqW920",
+    "channel": "FreightWaves",
+    "published": "2026-10-21T17:00:06+00:00",
+    "topic": "transport"
    },
    {
-    "title": "Rising from the ashes...to vertical - The Flame Trench",
-    "url": "https://www.youtube.com/watch?v=n3fTTOumqis",
-    "channel": "NASASpaceflight",
-    "published": "2026-10-17T00:49:08+00:00",
-    "topic": "aerospace"
+    "title": "Nearly $1M in Pokémon Cards STOLEN from FedEx",
+    "url": "https://www.youtube.com/watch?v=d5CA_EVk-Z0",
+    "channel": "FreightWaves",
+    "published": "2026-10-21T16:46:36+00:00",
+    "topic": "transport"
    },
    {
-    "title": "Ship 40 stands up (one last time?) - Starbase Summary",
-    "url": "https://www.youtube.com/watch?v=76MROJzIisg",
-    "channel": "NASASpaceflight",
-    "published": "2026-10-15T21:59:32+00:00",
-    "topic": "aerospace"
+    "title": "$100 Bribes, Rat Poison, and 40,000 lbs of Spoiled Meat | WHAT THE TRUCK?!?",
+    "url": "https://www.youtube.com/watch?v=BMO6pKI1n7s",
+    "channel": "FreightWaves",
+    "published": "2026-10-21T16:36:50+00:00",
+    "topic": "transport"
    },
    {
-    "title": "Aliens? Nope. SpaceX and Physics! #spacex #jellyfish #launch #alien",
-    "url": "https://www.youtube.com/watch?v=1m4boZ_V3t4",
-    "channel": "NASASpaceflight",
-    "published": "2026-10-15T10:22:58+00:00",
-    "topic": "aerospace"
+    "title": "Are Criminals Outsmarting Your Supply Chain?",
+    "url": "https://www.youtube.com/watch?v=WpkwD6kq_jo",
+    "channel": "FreightWaves",
+    "published": "2026-10-21T16:14:22+00:00",
+    "topic": "transport"
    }
   ],
-  "minerals": [],
+  "aerospace": [],
+  "minerals": [
+   {
+    "title": "Five things to watch in copper at LME Week I Benchmark's Copper Weekly",
+    "url": "https://www.youtube.com/watch?v=6bDrvqrFdoQ",
+    "channel": "Benchmark Mineral Intelligence",
+    "published": "2026-10-19T09:51:40+00:00",
+    "topic": "minerals"
+   },
+   {
+    "title": "Benchmark Mineral Intelligence launches ten new critical mineral markets",
+    "url": "https://www.youtube.com/watch?v=-FyfNOgVgm8",
+    "channel": "Benchmark Mineral Intelligence",
+    "published": "2026-10-16T16:48:52+00:00",
+    "topic": "minerals"
+   },
+   {
+    "title": "Lithium hydroxide falls to $16.40/kg I Benchmark Mineral Intelligence Update 15 October 2026",
+    "url": "https://www.youtube.com/watch?v=gvgqvF9jNkk",
+    "channel": "Benchmark Mineral Intelligence",
+    "published": "2026-10-15T13:15:18+00:00",
+    "topic": "minerals"
+   }
+  ],
   "energy": [],
   "crypto": [],
   "tennis": [],
   "luxury": [],
   "robotics": [],
-  "us": [
-   {
-    "title": "The story behind the bug threatening up to 70% of the internet",
-    "url": "https://www.youtube.com/watch?v=gC2YRFeFmmU",
-    "channel": "CBS News",
-    "published": "2026-10-22T00:55:07+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Childcare costs rising faster than rent, new research shows",
-    "url": "https://www.youtube.com/watch?v=GUnPsId4i2s",
-    "channel": "CBS News",
-    "published": "2026-10-22T00:37:04+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Former U.S. ambassador says Putin is a war criminal, calls Witkoff's comment \"fatuous\"",
-    "url": "https://www.youtube.com/watch?v=NXHlc6hqbX4",
-    "channel": "CBS News",
-    "published": "2026-10-21T23:53:04+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Russia releases American Stephen Hubbard, Witkoff calls Putin a \"humanitarian,\" more | The Takeout",
-    "url": "https://www.youtube.com/watch?v=AL356h5uLvg",
-    "channel": "CBS News",
-    "published": "2026-10-21T23:44:40+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "More details on report that Musk intentionally restricted Ukraine's access to SpaceX network",
-    "url": "https://www.youtube.com/watch?v=5xv9XFw7r74",
-    "channel": "CBS News",
-    "published": "2026-10-21T23:33:37+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Son of detained American Stephen Hubbard reacts to Russia releasing him after 4 years",
-    "url": "https://www.youtube.com/watch?v=BIQ7zsrJmAw",
-    "channel": "CBS News",
-    "published": "2026-10-21T23:03:42+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Broad support for populist policies found across party lines in Wall Street Journal poll",
-    "url": "https://www.youtube.com/watch?v=uoerxNp4mHU",
-    "channel": "CBS News",
-    "published": "2026-10-21T22:58:59+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-    "url": "https://www.youtube.com/watch?v=DFdWWKa2rc4",
-    "channel": "CBS News",
-    "published": "2026-10-21T18:18:26+00:00",
-    "topic": "us"
-   }
-  ],
-  "europe": [
-   {
-    "title": "AI helps uncover critical flaws powering the internet | DW News",
-    "url": "https://www.youtube.com/watch?v=3EB16ZFkRhw",
-    "channel": "DW News",
-    "published": "2026-10-22T02:56:19+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Iranian art installation depicts Trump behind bars | DW News",
-    "url": "https://www.youtube.com/watch?v=JvOZ8d-AeQ0",
-    "channel": "DW News",
-    "published": "2026-10-22T02:39:36+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Europe's wave of anger: how far will youth-led protests go? • FRANCE 24 English",
-    "url": "https://www.youtube.com/watch?v=4v0G5lXPK_4",
-    "channel": "FRANCE 24 English",
-    "published": "2026-10-21T23:56:17+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Trump’s popularity is falling. Will it cost Republicans the midterms? | DW News",
-    "url": "https://www.youtube.com/watch?v=pKrQEtxw3SA",
-    "channel": "DW News",
-    "published": "2026-10-21T23:00:08+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Sudan’s war escalates as UN warns of wider regional crisis • FRANCE 24 English",
-    "url": "https://www.youtube.com/watch?v=s17Y8i8pd9w",
-    "channel": "FRANCE 24 English",
-    "published": "2026-10-21T22:40:11+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Trump admin 'destroying' US democracy with 'autocratic, terrorist version of Christian nationalism'",
-    "url": "https://www.youtube.com/watch?v=tUe2ZbX3ENI",
-    "channel": "FRANCE 24 English",
-    "published": "2026-10-21T22:06:42+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "In run-up to mass protests and riots, pro-Russian accounts amplified French anger, NGO finds",
-    "url": "https://www.youtube.com/watch?v=u9vMLCADktk",
-    "channel": "FRANCE 24 English",
-    "published": "2026-10-21T21:21:45+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Russia agrees in principle to new negotiations with Ukraine and US | DW News",
-    "url": "https://www.youtube.com/watch?v=FH3nL0od3zo",
-    "channel": "DW News",
-    "published": "2026-10-21T21:00:15+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "French bond yields hit 24-year high after unrest • FRANCE 24 English",
-    "url": "https://www.youtube.com/watch?v=vZr3VBwMLcM",
-    "channel": "FRANCE 24 English",
-    "published": "2026-10-21T20:44:33+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "How a 50-year-old Chilean protest song became a global anthem of resistance | DW News",
-    "url": "https://www.youtube.com/watch?v=JRmLA-aUEVQ",
-    "channel": "DW News",
-    "published": "2026-10-21T20:30:23+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "EU prosecutors search European Parliament offices of far-right group • FRANCE 24 English",
-    "url": "https://www.youtube.com/watch?v=sArBNxpKN_A",
-    "channel": "FRANCE 24 English",
-    "published": "2026-10-21T20:21:15+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Massive AfD email hack: What is actually verified? | DW News",
-    "url": "https://www.youtube.com/watch?v=SuhmQny_1fc",
-    "channel": "DW News",
-    "published": "2026-10-21T20:02:50+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Putin agrees to resume three-way talks with Kyiv and Washington • FRANCE 24 English",
-    "url": "https://www.youtube.com/watch?v=1wNHwZmAoFU",
-    "channel": "FRANCE 24 English",
-    "published": "2026-10-21T19:32:51+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "'Neither the Sudanese military, nor the RSF take any acknowledgement of human life in this war'",
-    "url": "https://www.youtube.com/watch?v=KMylsVx2Zu4",
-    "channel": "FRANCE 24 English",
-    "published": "2026-10-21T19:28:19+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "The internet's favorite shark is free | DW News",
-    "url": "https://www.youtube.com/watch?v=MlpB5ZSCqco",
-    "channel": "DW News",
-    "published": "2026-10-21T19:20:40+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "If Europe wants independence, why does it keep turning to the US? | Berlin Briefing Podcast",
-    "url": "https://www.youtube.com/watch?v=VsFgDP1y8O4",
-    "channel": "DW News",
-    "published": "2026-10-21T18:58:47+00:00",
-    "topic": "europe"
-   }
-  ],
+  "us": [],
+  "europe": [],
   "brics": [
    {
-    "title": "AI helps uncover critical flaws powering the internet | DW News",
-    "url": "https://www.youtube.com/watch?v=3EB16ZFkRhw",
-    "channel": "DW News",
-    "published": "2026-10-22T02:56:19+00:00",
+    "title": "Macron makes surprise Saudi visit as France secures extra diesel supplies",
+    "url": "https://www.youtube.com/watch?v=v6jc7JN-9e0",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-22T06:31:48+00:00",
     "topic": "brics"
    },
    {
-    "title": "Iranian art installation depicts Trump behind bars | DW News",
-    "url": "https://www.youtube.com/watch?v=JvOZ8d-AeQ0",
-    "channel": "DW News",
-    "published": "2026-10-22T02:39:36+00:00",
+    "title": "Brazil election: Lula rallies swing voters in final campaign push",
+    "url": "https://www.youtube.com/watch?v=dwMoyefAY3Q",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-22T05:33:08+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Utah police slam woman to ground at data centre protest | AJ #shorts",
+    "url": "https://www.youtube.com/watch?v=XsSSBKRSYRk",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-22T05:04:23+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "El-Sayed in face-off against rival Rogers for Michigan Senate seat",
+    "url": "https://www.youtube.com/watch?v=SWeR6i_F5Go",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-22T04:59:39+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Australian TV reporter rescues man from sinking car",
+    "url": "https://www.youtube.com/watch?v=ufsCeWjksuk",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-22T04:17:32+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Indonesia wildfires: Activists sue government over toxic haze",
+    "url": "https://www.youtube.com/watch?v=34MKSr5dwi0",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-22T04:12:32+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "US congressional candidate detained at Occ. West Bank olive harvest | AJ #shorts",
+    "url": "https://www.youtube.com/watch?v=HCK0acAjYFs",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-22T03:57:45+00:00",
     "topic": "brics"
    },
    {
@@ -324,97 +211,6 @@
     "url": "https://www.youtube.com/watch?v=BA-FX1d495w",
     "channel": "Al Jazeera English",
     "published": "2026-10-22T02:31:12+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Russia frees American Stephen Hubbard after 4 years behind bars",
-    "url": "https://www.youtube.com/watch?v=ruqYCgRTfpI",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-22T02:14:58+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "South Africa water crisis: E. coli contamination leaves hundreds ill",
-    "url": "https://www.youtube.com/watch?v=_tR-5Y1I1Ts",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-22T01:27:14+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "France protests: Deputy mayor tear-gassed as students demand better funding",
-    "url": "https://www.youtube.com/watch?v=utfvaEAQ9sQ",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-22T00:04:15+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "‘No one is safe’, African CDC warns after Ebola found in Nigeria | AJ #shorts",
-    "url": "https://www.youtube.com/watch?v=lgIKmdxO-AI",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-22T00:00:58+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Trump’s popularity is falling. Will it cost Republicans the midterms? | DW News",
-    "url": "https://www.youtube.com/watch?v=pKrQEtxw3SA",
-    "channel": "DW News",
-    "published": "2026-10-21T23:00:08+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Pressure mounts for an investigation into claims Altantuya's murderers acted under orders | 101 East",
-    "url": "https://www.youtube.com/watch?v=pniP6YVMi60",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-21T22:59:26+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Video shows Israeli settler assaulting Palestinian child | AJ #shorts",
-    "url": "https://www.youtube.com/watch?v=H3NbrDW9PFg",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-21T22:01:34+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "US Midterms 2026 latest: Trump explodes at hecklers in NC",
-    "url": "https://www.youtube.com/watch?v=OBK_1RThixs",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-21T21:43:57+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Russia agrees in principle to new negotiations with Ukraine and US | DW News",
-    "url": "https://www.youtube.com/watch?v=FH3nL0od3zo",
-    "channel": "DW News",
-    "published": "2026-10-21T21:00:15+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "How a 50-year-old Chilean protest song became a global anthem of resistance | DW News",
-    "url": "https://www.youtube.com/watch?v=JRmLA-aUEVQ",
-    "channel": "DW News",
-    "published": "2026-10-21T20:30:23+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Massive AfD email hack: What is actually verified? | DW News",
-    "url": "https://www.youtube.com/watch?v=SuhmQny_1fc",
-    "channel": "DW News",
-    "published": "2026-10-21T20:02:50+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "The internet's favorite shark is free | DW News",
-    "url": "https://www.youtube.com/watch?v=MlpB5ZSCqco",
-    "channel": "DW News",
-    "published": "2026-10-21T19:20:40+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "If Europe wants independence, why does it keep turning to the US? | Berlin Briefing Podcast",
-    "url": "https://www.youtube.com/watch?v=VsFgDP1y8O4",
-    "channel": "DW News",
-    "published": "2026-10-21T18:58:47+00:00",
     "topic": "brics"
    }
   ]
@@ -426,10 +222,11 @@
   "FRANCE 24: HTTP Error 404: Not Found",
   "Le Dessous des Cartes – ARTE: HTTP Error 404: Not Found",
   "Al Jazeera English: HTTP Error 404: Not Found",
+  "FRANCE 24 English: HTTP Error 404: Not Found",
   "Middle East Eye: HTTP Error 404: Not Found",
   "BBC News: HTTP Error 404: Not Found",
   "Arab News: HTTP Error 404: Not Found",
-  "Al Arabiya English: HTTP Error 404: Not Found",
+  "Al Arabiya English: HTTP Error 500: Internal Server Error",
   "Asharq News: HTTP Error 404: Not Found",
   "i24NEWS English: HTTP Error 404: Not Found",
   "PGA TOUR: HTTP Error 404: Not Found",
@@ -441,38 +238,40 @@
   "Six Nations Rugby: HTTP Error 404: Not Found",
   "L'Équipe: HTTP Error 404: Not Found",
   "Tifo Sports (The Athletic): HTTP Error 404: Not Found",
-  "ESPN FC: HTTP Error 404: Not Found",
   "Sky Sports Football: HTTP Error 404: Not Found",
   "FORMULA 1: HTTP Error 404: Not Found",
-  "The Race: HTTP Error 500: Internal Server Error",
+  "The Race: HTTP Error 404: Not Found",
   "Bloomberg Television: HTTP Error 404: Not Found",
-  "Reuters: HTTP Error 404: Not Found",
+  "Reuters: HTTP Error 500: Internal Server Error",
   "Financial Times: HTTP Error 404: Not Found",
   "BFM Business: HTTP Error 404: Not Found",
   "Les Echos: HTTP Error 404: Not Found",
   "CNBC Television: HTTP Error 404: Not Found",
   "TechTechPotato: HTTP Error 404: Not Found",
   "Asianometry: HTTP Error 404: Not Found",
-  "FreightWaves: HTTP Error 404: Not Found",
-  "Scott Manley: HTTP Error 500: Internal Server Error",
-  "Breaking Defense: HTTP Error 404: Not Found",
+  "NASASpaceflight: HTTP Error 404: Not Found",
+  "Scott Manley: HTTP Error 404: Not Found",
+  "Breaking Defense: HTTP Error 500: Internal Server Error",
   "SpaceNews: HTTP Error 404: Not Found",
-  "Defense News: HTTP Error 500: Internal Server Error",
-  "Benchmark Mineral Intelligence: HTTP Error 404: Not Found",
-  "IEA: HTTP Error 404: Not Found",
+  "Defense News: HTTP Error 404: Not Found",
+  "IEA: HTTP Error 500: Internal Server Error",
   "Into the Cryptoverse (Benjamin Cowen): HTTP Error 404: Not Found",
   "CoinDesk: HTTP Error 404: Not Found",
-  "Tennis TV: HTTP Error 404: Not Found",
+  "Tennis TV: HTTP Error 500: Internal Server Error",
   "Business of Fashion: HTTP Error 404: Not Found",
   "NVIDIA: HTTP Error 404: Not Found",
   "PBS NewsHour: HTTP Error 404: Not Found",
   "Associated Press: HTTP Error 404: Not Found",
   "NBC News: HTTP Error 404: Not Found",
+  "CBS News: HTTP Error 404: Not Found",
+  "DW News: HTTP Error 404: Not Found",
   "euronews: HTTP Error 404: Not Found",
-  "BBC News: HTTP Error 500: Internal Server Error",
+  "FRANCE 24 English: HTTP Error 404: Not Found",
+  "BBC News: HTTP Error 404: Not Found",
   "WION: HTTP Error 404: Not Found",
   "CGTN: HTTP Error 404: Not Found",
-  "Firstpost: HTTP Error 500: Internal Server Error",
+  "DW News: HTTP Error 404: Not Found",
+  "Firstpost: HTTP Error 404: Not Found",
   "TRT World: HTTP Error 404: Not Found"
  ]
 }
