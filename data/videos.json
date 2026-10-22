@@ -1,12 +1,990 @@
 {
- "generatedAt": "2026-10-22T06:55:28.885342+00:00",
+ "generatedAt": "2026-10-22T09:47:08.809826+00:00",
  "topics": {
-  "fr-national": [],
-  "fr-international": [],
-  "me-region": [],
-  "golf": [],
-  "rugby": [],
+  "fr-national": [
+   {
+    "title": "Congrès du RN à Orléans : \"L’objectif est d’assurer la sécurité des Orléanais\" (Serge Grouard)",
+    "url": "https://www.youtube.com/watch?v=mNvjrqRIHZ4",
+    "channel": "franceinfo",
+    "published": "2026-10-22T09:33:29+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "La France doit-elle se préparer à une grève générale qui risque de durer longtemps ?",
+    "url": "https://www.youtube.com/watch?v=4UI4mlfSZHA",
+    "channel": "franceinfo",
+    "published": "2026-10-22T09:24:38+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "Après le 17 octobre, les ventes d'armes d'autodéfense explosent chez les commerçants",
+    "url": "https://www.youtube.com/watch?v=Cja4eOMDYqw",
+    "channel": "franceinfo",
+    "published": "2026-10-22T09:09:44+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "L'acteur et humoriste dans Le monde d'Élodie",
+    "url": "https://www.youtube.com/watch?v=8jETpunAEBc",
+    "channel": "franceinfo",
+    "published": "2026-10-22T08:58:24+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "Jouer avec son frère au badminton à haut niveau ça fait quoi?",
+    "url": "https://www.youtube.com/watch?v=YIYxVdj5Q5o",
+    "channel": "HugoDécrypte – Actus du jour",
+    "published": "2026-10-22T08:57:02+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "\"Emmanuel Macron ne peut pas se rater, car c’est l’État qui est en danger\" (Serge Cimino)",
+    "url": "https://www.youtube.com/watch?v=B1GG1nVZ4Jk",
+    "channel": "franceinfo",
+    "published": "2026-10-22T08:46:03+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "Manifestation du 24 octobre : Quel sera le parcours à Paris ?",
+    "url": "https://www.youtube.com/watch?v=PgNj6GYs6EU",
+    "channel": "franceinfo",
+    "published": "2026-10-22T08:45:11+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "Les manifs étudiantes et lycéennes de retour",
+    "url": "https://www.youtube.com/watch?v=EYdbXS_DjFI",
+    "channel": "franceinfo",
+    "published": "2026-10-22T08:26:19+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "Manifestations en France : \"Il y a un lien qui s’est cassé entre les forces de l’ordre et l’État\"",
+    "url": "https://www.youtube.com/watch?v=0E41xdzIFQ8",
+    "channel": "franceinfo",
+    "published": "2026-10-22T07:59:20+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "« A bout portant, tirer à un mètre, ça peut tuer quelqu’un »",
+    "url": "https://www.youtube.com/watch?v=Awk7YGpfslU",
+    "channel": "Le Monde",
+    "published": "2026-10-22T07:00:49+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "Le gouvernement vient d'annoncer un dispositif massif, il fait vivement réagir",
+    "url": "https://www.youtube.com/watch?v=PRnkMPx6lSE",
+    "channel": "HugoDécrypte – Actus du jour",
+    "published": "2026-10-21T18:00:39+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "En France, 2 hommes ont été retrouvés morts après été emportés par les eaux (21/10)",
+    "url": "https://www.youtube.com/watch?v=em1scgc336I",
+    "channel": "HugoDécrypte – Actus du jour",
+    "published": "2026-10-21T17:41:46+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "De nombreux sites internet sont actuellement inaccessibles partout dans le monde. Voici pourquoi ➡️",
+    "url": "https://www.youtube.com/watch?v=gVjcBbduhi8",
+    "channel": "HugoDécrypte – Actus du jour",
+    "published": "2026-10-21T17:19:36+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "Emmanuel Macron réagit aux déclarations de Donald Trump après le 17 octobre",
+    "url": "https://www.youtube.com/watch?v=mVd_UXlLHxI",
+    "channel": "Le Monde",
+    "published": "2026-10-21T13:54:55+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "Orange et sa filiale Sosh sont touchés par une panne nationale majeure",
+    "url": "https://www.youtube.com/watch?v=xKe6__sDmuQ",
+    "channel": "HugoDécrypte – Actus du jour",
+    "published": "2026-10-21T12:54:11+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "A Paris, des agents d'entretien nettoient la statue place de la République après le 17 octobre",
+    "url": "https://www.youtube.com/watch?v=6HXWY3CazxQ",
+    "channel": "Le Monde",
+    "published": "2026-10-21T12:01:15+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "Les images des intempéries dans le Sud-Est, qui ont fait deux morts",
+    "url": "https://www.youtube.com/watch?v=44HF7XeOE_k",
+    "channel": "Le Monde",
+    "published": "2026-10-21T10:00:32+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "Amine annonce le « Final Slam » une compétition de catch entre créateurs de contenus.",
+    "url": "https://www.youtube.com/watch?v=-vuR57A3YqY",
+    "channel": "HugoDécrypte – Actus du jour",
+    "published": "2026-10-20T18:33:25+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "17 octobre : enquête sur une nouvelle grenade de la police qui a déjà blessé plusieurs personnes",
+    "url": "https://www.youtube.com/watch?v=T4AySSZWY0w",
+    "channel": "Le Monde",
+    "published": "2026-10-20T18:30:37+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "Le nettoyage de la statue de la République après le 17 octobre à Paris.",
+    "url": "https://www.youtube.com/watch?v=dlBTXGgHDCw",
+    "channel": "HugoDécrypte – Actus du jour",
+    "published": "2026-10-20T18:20:20+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "En Ukraine, ce soldat blessé aurait été évacué par drone pour la première fois.",
+    "url": "https://www.youtube.com/watch?v=qjK1L--_LkQ",
+    "channel": "HugoDécrypte – Actus du jour",
+    "published": "2026-10-20T18:06:29+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "Violences en manifestations : échange tendu entre Manuel Bompard et Laurent Nuñez",
+    "url": "https://www.youtube.com/watch?v=TmPfcz68hXs",
+    "channel": "Le Monde",
+    "published": "2026-10-20T16:30:56+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "Au Kenya, un gourou est reconnu coupable du meurtre de 190 enfants",
+    "url": "https://www.youtube.com/watch?v=icZMqpElSfs",
+    "channel": "Le Monde",
+    "published": "2026-10-20T16:01:01+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "A Lyon, des activistes d’ultradroite défilent dans la rue deux jours après le 17 octobre",
+    "url": "https://www.youtube.com/watch?v=X_ENSz7zqIk",
+    "channel": "Le Monde",
+    "published": "2026-10-20T13:40:10+00:00",
+    "topic": "fr-national"
+   }
+  ],
+  "fr-international": [
+   {
+    "title": "Ligue des champions : Manchester United s'incline lourdement à Côme • FRANCE 24",
+    "url": "https://www.youtube.com/watch?v=EibrueOYWtk",
+    "channel": "FRANCE 24",
+    "published": "2026-10-22T07:47:50+00:00",
+    "topic": "fr-international"
+   },
+   {
+    "title": "Black bloc : tactique de l'ultragauche controversée • FRANCE 24",
+    "url": "https://www.youtube.com/watch?v=oOLv-S5WYwo",
+    "channel": "FRANCE 24",
+    "published": "2026-10-21T22:52:50+00:00",
+    "topic": "fr-international"
+   },
+   {
+    "title": "Ben Gvir déporte un Gazaoui vers un Paris dévasté ... et généré par IA • FRANCE 24",
+    "url": "https://www.youtube.com/watch?v=26h6adUrTzI",
+    "channel": "FRANCE 24",
+    "published": "2026-10-21T21:18:20+00:00",
+    "topic": "fr-international"
+   },
+   {
+    "title": "Déraillement d’un train à Eséka : 10 ans après la catastrophe, le Cameroun se souvient • FRANCE 24",
+    "url": "https://www.youtube.com/watch?v=3tJ26YEtAbw",
+    "channel": "FRANCE 24",
+    "published": "2026-10-21T20:53:40+00:00",
+    "topic": "fr-international"
+   },
+   {
+    "title": "Ébola gagne du terrain : au Nigeria, le \"choc\" après l'annonce d'un premier cas de souche Bundibugyo",
+    "url": "https://www.youtube.com/watch?v=O34y58N0h1g",
+    "channel": "FRANCE 24",
+    "published": "2026-10-21T20:46:16+00:00",
+    "topic": "fr-international"
+   },
+   {
+    "title": "Le Cameroun commémore le 10e anniversaire de la catastrophe ferroviaire d'Eseka • FRANCE 24",
+    "url": "https://www.youtube.com/watch?v=fskTLgkOKxE",
+    "channel": "FRANCE 24",
+    "published": "2026-10-21T20:06:44+00:00",
+    "topic": "fr-international"
+   },
+   {
+    "title": "Le taux d'emprunt de la France à 10 ans franchit les 5 % • FRANCE 24",
+    "url": "https://www.youtube.com/watch?v=LyNfY979WAQ",
+    "channel": "FRANCE 24",
+    "published": "2026-10-21T20:00:13+00:00",
+    "topic": "fr-international"
+   },
+   {
+    "title": "Midterms : Trump peut-il encore convaincre ? • FRANCE 24",
+    "url": "https://www.youtube.com/watch?v=ZSpqJkmkyzM",
+    "channel": "FRANCE 24",
+    "published": "2026-10-21T18:16:37+00:00",
+    "topic": "fr-international"
+   },
+   {
+    "title": "Macron dans le golfe : sécuriser les stocks de gazole | L'Essentiel du Dessous des cartes | ARTE",
+    "url": "https://www.youtube.com/watch?v=ZPWH9o_sEkM",
+    "channel": "Le Dessous des Cartes – ARTE",
+    "published": "2026-10-21T15:57:18+00:00",
+    "topic": "fr-international"
+   },
+   {
+    "title": "Les guerres de Netanyahou | L'Essentiel du Dessous des cartes | ARTE",
+    "url": "https://www.youtube.com/watch?v=jMehfI97QVQ",
+    "channel": "Le Dessous des Cartes – ARTE",
+    "published": "2026-10-20T17:05:41+00:00",
+    "topic": "fr-international"
+   },
+   {
+    "title": "Pourquoi plusieurs pays d'Europe semblent vivre les mêmes crises sociales ? | ARTE",
+    "url": "https://www.youtube.com/watch?v=KN8NzMN6hbw",
+    "channel": "Le Dessous des Cartes – ARTE",
+    "published": "2026-10-19T17:32:50+00:00",
+    "topic": "fr-international"
+   },
+   {
+    "title": "Législatives en Israël : pour ou contre Nétanyahou ? | Une leçon de géopolitique - ARTE",
+    "url": "https://www.youtube.com/watch?v=6YVTAy7wvjE",
+    "channel": "Le Dessous des Cartes – ARTE",
+    "published": "2026-10-16T14:40:39+00:00",
+    "topic": "fr-international"
+   },
+   {
+    "title": "Ukraine : comment faire sans les satellites d'Elon Musk ? | L'Essentiel du Dessous des cartes | ARTE",
+    "url": "https://www.youtube.com/watch?v=0eqHnV67NDE",
+    "channel": "Le Dessous des Cartes – ARTE",
+    "published": "2026-10-15T16:19:27+00:00",
+    "topic": "fr-international"
+   }
+  ],
+  "me-region": [
+   {
+    "title": "Trucks Engulfed in Flames After Russian Strikes",
+    "url": "https://www.youtube.com/watch?v=dADZytNsMwo",
+    "channel": "Al Arabiya English",
+    "published": "2026-10-22T09:35:24+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Meta's Zuckerberg pitches AI successes to investors with 26% rise in quarterly revenue • FRANCE 24",
+    "url": "https://www.youtube.com/watch?v=CmzsFn7J-YM",
+    "channel": "FRANCE 24 English",
+    "published": "2026-10-22T09:18:53+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "تخيل أن تلعب ضد فريق، ومدربهم هو من يُملي عليك التعليمات",
+    "url": "https://www.youtube.com/watch?v=NlfrMMXzEkI",
+    "channel": "Asharq News",
+    "published": "2026-10-22T09:10:33+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "How Is Saudi Arabia Weakening the Houthis?",
+    "url": "https://www.youtube.com/watch?v=sT3iOgdlKuE",
+    "channel": "Al Arabiya English",
+    "published": "2026-10-22T09:03:31+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "'Popular dissatisfaction' across Europe: 'Promises of more economic growth haven't come true'",
+    "url": "https://www.youtube.com/watch?v=7lQvYxVFu0A",
+    "channel": "FRANCE 24 English",
+    "published": "2026-10-22T09:01:58+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Why are US judges visiting Israel?",
+    "url": "https://www.youtube.com/watch?v=06tcqcKc_hQ",
+    "channel": "i24NEWS English",
+    "published": "2026-10-22T09:00:36+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "السيسي يرسل رسالة إلى الملك سلمان.. ما الذي بداخلها؟.. البعد الرابع مع دينا فياض 21-10-2026",
+    "url": "https://www.youtube.com/watch?v=qYS7QODvDcc",
+    "channel": "Asharq News",
+    "published": "2026-10-22T09:00:22+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Israeli elections: Is it just right wing versus right?",
+    "url": "https://www.youtube.com/watch?v=CjDsFnKFsZw",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-22T08:50:11+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Strait of Hormuz near ‘maximum danger’ as US-Iran diplomacy stalls, analyst says",
+    "url": "https://www.youtube.com/watch?v=bRLhP89HAKk",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-22T08:30:14+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Biddy Blas actor 'overwhelmed' by response of Star Wars and gaming fans. #BiddyBlas #BBCNews",
+    "url": "https://www.youtube.com/watch?v=0vEedDGzRrA",
+    "channel": "BBC News",
+    "published": "2026-10-22T08:30:07+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Bill Clinton quotes Quran and condemns anti-Muslim rhetoric | AJ #shorts",
+    "url": "https://www.youtube.com/watch?v=Kk55xzZSh8E",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-22T08:28:41+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Looter Caught Stealing Italian Dessert in Milan",
+    "url": "https://www.youtube.com/watch?v=LMu-BrYe1gg",
+    "channel": "Al Arabiya English",
+    "published": "2026-10-22T08:25:42+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Can language affect our capacity for love? #DohaDebates",
+    "url": "https://www.youtube.com/watch?v=MMGy0WLGAiE",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-22T08:19:19+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Taiwan Cancels Flights Ahead of Typhoon Champi",
+    "url": "https://www.youtube.com/watch?v=C6SeCzzA_3k",
+    "channel": "Al Arabiya English",
+    "published": "2026-10-22T08:18:33+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Aerial Video Shows White House Ballroom Construction",
+    "url": "https://www.youtube.com/watch?v=tGSO9nXP2Vg",
+    "channel": "Al Arabiya English",
+    "published": "2026-10-22T08:17:25+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Indonesian riot police disperse protest against toxic haze",
+    "url": "https://www.youtube.com/watch?v=Zpa5Pk-NgRc",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-22T08:06:44+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "‘She Hates America’: GOP Strategist Adolfo Franco Backs Trump’s Attack on Ilhan Omar",
+    "url": "https://www.youtube.com/watch?v=CmYT4kFU0j4",
+    "channel": "Al Arabiya English",
+    "published": "2026-10-22T08:00:58+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "‘Tommy Exposed Him’: GOP Strategist Adolfo Franco on El-Sayed Muslim Brotherhood Claims",
+    "url": "https://www.youtube.com/watch?v=glP7j9K4Z1Q",
+    "channel": "Al Arabiya English",
+    "published": "2026-10-22T07:55:45+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Fresh US-Israeli strikes on Iran in the pipeline? • FRANCE 24 English",
+    "url": "https://www.youtube.com/watch?v=f_a6rekbnkg",
+    "channel": "FRANCE 24 English",
+    "published": "2026-10-22T07:53:34+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Is money ruining US elections? | Let's Focus #shorts",
+    "url": "https://www.youtube.com/watch?v=nVxpc_4tFhk",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-22T07:53:31+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Reality is Worse Than AI: How Fake Images Blur the Truth About France’s Riots",
+    "url": "https://www.youtube.com/watch?v=oqWKXs_9wh4",
+    "channel": "Al Arabiya English",
+    "published": "2026-10-22T07:51:03+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "22/10 6AM GMT - 5 Top Stories",
+    "url": "https://www.youtube.com/watch?v=xrD-aFGBZxI",
+    "channel": "Arab News",
+    "published": "2026-10-22T07:33:28+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "ماذا تحمل زيارة ماكرون إلى السعودية في هذا التوقيت بالتحديد؟ - دائرة الشرق",
+    "url": "https://www.youtube.com/watch?v=D9NPdV6kyxc",
+    "channel": "Asharq News",
+    "published": "2026-10-22T07:30:24+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Iran’s IRGC says four ships hit in Gulf, three others struck mines near Hormuz",
+    "url": "https://www.youtube.com/watch?v=bQ2L-aPxcQc",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-22T07:26:08+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "What does Dame Judi Dench think about ageing? #Shorts",
+    "url": "https://www.youtube.com/watch?v=ZeoKNbozhhI",
+    "channel": "BBC News",
+    "published": "2026-10-22T07:24:19+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Iran's offer to mediate between Saudi Arabia and the Houthis was ignored",
+    "url": "https://www.youtube.com/watch?v=CwcEY4yBJCM",
+    "channel": "i24NEWS English",
+    "published": "2026-10-22T07:00:39+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Bill Clinton: ‘I’m tired of people denigrating Muslims for being Muslims’",
+    "url": "https://www.youtube.com/watch?v=cgowl6qe640",
+    "channel": "Middle East Eye",
+    "published": "2026-10-22T06:53:55+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Yemeni government forces hit Houthi elements in Taiz",
+    "url": "https://www.youtube.com/watch?v=jh3sAsdZPh8",
+    "channel": "Arab News",
+    "published": "2026-10-22T06:33:06+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Macron makes surprise Saudi visit as France secures extra diesel supplies",
+    "url": "https://www.youtube.com/watch?v=v6jc7JN-9e0",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-22T06:31:48+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Trump insults reporters at White House",
+    "url": "https://www.youtube.com/watch?v=rDCRME8GDeQ",
+    "channel": "Arab News",
+    "published": "2026-10-22T06:15:57+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Manchester United blown out of the water by Como in Champions League rout • FRANCE 24 English",
+    "url": "https://www.youtube.com/watch?v=eRiq1dTdieA",
+    "channel": "FRANCE 24 English",
+    "published": "2026-10-22T06:14:08+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "هل اختلف اللقاء بين بوتين وويتكوف في هذه المرة؟ - مساء الشرق",
+    "url": "https://www.youtube.com/watch?v=avdGKd50oBE",
+    "channel": "Asharq News",
+    "published": "2026-10-22T06:00:19+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "US congressional candidate detained by Israeli army for olive harvesting in West Bank",
+    "url": "https://www.youtube.com/watch?v=8kymDfsYQb0",
+    "channel": "Middle East Eye",
+    "published": "2026-10-22T05:16:06+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Dame Judi Dench on losing her sight, lunch at MI6 and remembering her husband | BBC News",
+    "url": "https://www.youtube.com/watch?v=CdHfW0r1UPY",
+    "channel": "BBC News",
+    "published": "2026-10-22T05:00:20+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Israeli politicians hunt for last few votes six days ahead of elections",
+    "url": "https://www.youtube.com/watch?v=LRm8m9FjWIA",
+    "channel": "i24NEWS English",
+    "published": "2026-10-22T04:00:36+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Sisi says Egypt will defend Saudi territory without attacking Yemen",
+    "url": "https://www.youtube.com/watch?v=Gof7h-BtdMk",
+    "channel": "Middle East Eye",
+    "published": "2026-10-22T03:23:48+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Qatar, Turkey, Pakistan and Indonesia sign new deal to jointly produce weapons",
+    "url": "https://www.youtube.com/watch?v=5H6YKLC8-zk",
+    "channel": "Middle East Eye",
+    "published": "2026-10-22T02:06:09+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Who is Lana Nusseibeh? Meet the UAE's candidate for UN Secretary-General",
+    "url": "https://www.youtube.com/watch?v=uJ6RrYJzjY0",
+    "channel": "i24NEWS English",
+    "published": "2026-10-22T02:00:30+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "كيف استطاعت تركيا أن تقنع ليبيا باتفاقية ترسيم الحدود؟.الارتداد شرقًا مع عبد الله آل يحيى 21-10-2026",
+    "url": "https://www.youtube.com/watch?v=BiqJOKss7RA",
+    "channel": "Asharq News",
+    "published": "2026-10-22T02:00:21+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Israeli soldier abuses a cat by violently throwing it over a fence",
+    "url": "https://www.youtube.com/watch?v=iB2Mz3q_HCs",
+    "channel": "Middle East Eye",
+    "published": "2026-10-22T01:33:07+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Attack ad with candidate's estranged mother sparks backlash | BBC News",
+    "url": "https://www.youtube.com/watch?v=_9Q14VU0kpY",
+    "channel": "BBC News",
+    "published": "2026-10-22T01:20:16+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "هجوم يستهدف حقل شيبة التابع لـ أرامكو في السعودية..  ألوان الشرق مع هاجر بيوض 21-10-2026",
+    "url": "https://www.youtube.com/watch?v=dK6QukLw5qU",
+    "channel": "Asharq News",
+    "published": "2026-10-22T01:00:35+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Vance says he’s 'not endorsing' Netanyahu in Israeli election",
+    "url": "https://www.youtube.com/watch?v=lE_joGnLkVg",
+    "channel": "Middle East Eye",
+    "published": "2026-10-22T00:16:42+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Former IDF intelligence officer warns Israel is preparing for the wrong war | On The Record",
+    "url": "https://www.youtube.com/watch?v=Nu-erqUvwUM",
+    "channel": "i24NEWS English",
+    "published": "2026-10-22T00:00:06+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "ما الذي تسعى إدارة ترمب إلى تحقيقه؟..  دائرة الشرق مع دينا فياض 21-10-2026",
+    "url": "https://www.youtube.com/watch?v=RhmU0iPcixI",
+    "channel": "Asharq News",
+    "published": "2026-10-22T00:00:04+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "How far will youth-led protests go? • FRANCE 24 English",
+    "url": "https://www.youtube.com/watch?v=4v0G5lXPK_4",
+    "channel": "FRANCE 24 English",
+    "published": "2026-10-21T23:56:17+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "كيف ردت مصر على اتفاقية ترسيم الحدود البحرية بين تركيا وليبيا؟..  مساء الشرق مع هاجر بيوض 21-10-2026",
+    "url": "https://www.youtube.com/watch?v=TibKeH_XFXo",
+    "channel": "Asharq News",
+    "published": "2026-10-21T23:00:18+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Sudan's war escalates as UN warns of wider regional crisis • FRANCE 24 English",
+    "url": "https://www.youtube.com/watch?v=s17Y8i8pd9w",
+    "channel": "FRANCE 24 English",
+    "published": "2026-10-21T22:40:11+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Glee reboot set to return on Hulu and Disney+. #Glee #BBCNews",
+    "url": "https://www.youtube.com/watch?v=6MzY8cFwD5k",
+    "channel": "BBC News",
+    "published": "2026-10-21T22:30:23+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Trump admin 'destroying' US democracy with 'autocratic, terrorist version of Christian nationalism'",
+    "url": "https://www.youtube.com/watch?v=tUe2ZbX3ENI",
+    "channel": "FRANCE 24 English",
+    "published": "2026-10-21T22:06:42+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Websites taken down worldwide as AI reveals critical cyber-security threat | BBC News",
+    "url": "https://www.youtube.com/watch?v=moy3waNDQa8",
+    "channel": "BBC News",
+    "published": "2026-10-21T21:56:12+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Is Ukraine being shut out of its own future? | The Global Story",
+    "url": "https://www.youtube.com/watch?v=BAkY6gyq5q4",
+    "channel": "BBC News",
+    "published": "2026-10-21T21:45:20+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Websites taken down as critical security update issued. #BBCNews",
+    "url": "https://www.youtube.com/watch?v=jzXwVNUbyR8",
+    "channel": "BBC News",
+    "published": "2026-10-21T21:32:49+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "In run-up to mass protests and riots, pro-Russian accounts amplified French anger, NGO finds",
+    "url": "https://www.youtube.com/watch?v=u9vMLCADktk",
+    "channel": "FRANCE 24 English",
+    "published": "2026-10-21T21:21:45+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Syrian source says Druze militias preparing offensive",
+    "url": "https://www.youtube.com/watch?v=UpQgbDovjdI",
+    "channel": "i24NEWS English",
+    "published": "2026-10-21T21:00:47+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "‘Trump knows how to pronounce names like mine is when his begging the Qataris for a jet’",
+    "url": "https://www.youtube.com/watch?v=tAArSgOpRZM",
+    "channel": "Middle East Eye",
+    "published": "2026-10-21T20:55:17+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "How will the expat vote affect Israeli elections?",
+    "url": "https://www.youtube.com/watch?v=etkbw9Dad-k",
+    "channel": "i24NEWS English",
+    "published": "2026-10-21T20:00:28+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "🔴 i24NEWS LIVE BROADCAST",
+    "url": "https://www.youtube.com/watch?v=3VDkd9OXrYQ",
+    "channel": "i24NEWS English",
+    "published": "2026-10-21T19:17:09+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "King Charles quotes the prophet Muhammad while praising the people of Oman",
+    "url": "https://www.youtube.com/watch?v=eq7zRFIduoE",
+    "channel": "Middle East Eye",
+    "published": "2026-10-21T17:51:50+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Vance says ‘not endorsing’ Netanyahu in Israeli election",
+    "url": "https://www.youtube.com/watch?v=gWQglLdZyf0",
+    "channel": "Arab News",
+    "published": "2026-10-21T17:29:51+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Saudi crown prince meets with Egyptian FM in Riyadh",
+    "url": "https://www.youtube.com/watch?v=CIDmNuVet_4",
+    "channel": "Arab News",
+    "published": "2026-10-21T16:38:35+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Yemeni forces claim 835 strikes on Houthis in 24 hours, 285 killed",
+    "url": "https://www.youtube.com/watch?v=l_zSfDfV_kU",
+    "channel": "Arab News",
+    "published": "2026-10-21T16:13:47+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "King Charles welcoming Sultan of Oman, quoting the Prophet Muhammad",
+    "url": "https://www.youtube.com/watch?v=65LEJ1KAGcc",
+    "channel": "Arab News",
+    "published": "2026-10-21T16:06:53+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Saudi crown prince receives French president in Riyadh",
+    "url": "https://www.youtube.com/watch?v=M2nkxXTNDoc",
+    "channel": "Arab News",
+    "published": "2026-10-21T15:31:33+00:00",
+    "topic": "me-region"
+   }
+  ],
+  "golf": [
+   {
+    "title": "The FedExCup Fall race is heating up + Butterfield Bermuda Preview | The Drop",
+    "url": "https://www.youtube.com/watch?v=9RoVGSrAt-M",
+    "channel": "PGA TOUR",
+    "published": "2026-10-22T00:00:30+00:00",
+    "topic": "golf"
+   },
+   {
+    "title": "NCAA Golf Highlights: Abilene Christian Intercollegiate Final Round | Golf Channel",
+    "url": "https://www.youtube.com/watch?v=nMP-2PThi7U",
+    "channel": "Golf Channel",
+    "published": "2026-10-21T23:28:40+00:00",
+    "topic": "golf"
+   },
+   {
+    "title": "Blades Brown on His Rise, PGA Tour Dreams & What’s Next | Golf Channel",
+    "url": "https://www.youtube.com/watch?v=s0Jf_LfH_B4",
+    "channel": "Golf Channel",
+    "published": "2026-10-21T18:33:08+00:00",
+    "topic": "golf"
+   },
+   {
+    "title": "One of us! One of us!",
+    "url": "https://www.youtube.com/watch?v=SWzgtxAFU1Q",
+    "channel": "PGA TOUR",
+    "published": "2026-10-21T18:15:03+00:00",
+    "topic": "golf"
+   },
+   {
+    "title": "Could we see Steph Curry in a future U.S. Mid-Am? | Golf Channel",
+    "url": "https://www.youtube.com/watch?v=sdbpAlVMxzg",
+    "channel": "Golf Channel",
+    "published": "2026-10-21T17:17:00+00:00",
+    "topic": "golf"
+   },
+   {
+    "title": "Tick-Tock: LIV, DP World Tour Commit Deadline Fast Approaching | Golf Channel",
+    "url": "https://www.youtube.com/watch?v=poRxPgVkxC0",
+    "channel": "Golf Channel",
+    "published": "2026-10-21T17:14:11+00:00",
+    "topic": "golf"
+   },
+   {
+    "title": "Can They Break 50 on a Course They've NEVER Seen Before?!",
+    "url": "https://www.youtube.com/watch?v=WW3Sx4WrIWo",
+    "channel": "DP World Tour",
+    "published": "2026-10-21T16:30:19+00:00",
+    "topic": "golf"
+   },
+   {
+    "title": "Aim at the hotel 😳",
+    "url": "https://www.youtube.com/watch?v=EqXNF8VYsq0",
+    "channel": "DP World Tour",
+    "published": "2026-10-21T13:00:14+00:00",
+    "topic": "golf"
+   },
+   {
+    "title": "NCAA Golf Highlights: Abilene Christian Intercollegiate Second Round | Golf Channel",
+    "url": "https://www.youtube.com/watch?v=n5SiwrZbIvA",
+    "channel": "Golf Channel",
+    "published": "2026-10-20T23:20:14+00:00",
+    "topic": "golf"
+   },
+   {
+    "title": "HOLE OUT EAGLE 🦅",
+    "url": "https://www.youtube.com/watch?v=VmhPPTG6qPI",
+    "channel": "Golf Channel",
+    "published": "2026-10-20T23:09:12+00:00",
+    "topic": "golf"
+   },
+   {
+    "title": "A lesson on draining eagles,,, and politely asking people to move. 😂",
+    "url": "https://www.youtube.com/watch?v=ABLneYgXmGM",
+    "channel": "PGA TOUR",
+    "published": "2026-10-20T22:00:11+00:00",
+    "topic": "golf"
+   },
+   {
+    "title": "Golf Is Hard | Butterfield Bermuda Championship",
+    "url": "https://www.youtube.com/watch?v=O6eXwKkVYmU",
+    "channel": "PGA TOUR",
+    "published": "2026-10-20T20:00:33+00:00",
+    "topic": "golf"
+   },
+   {
+    "title": "Golf is hard, even for the pros.",
+    "url": "https://www.youtube.com/watch?v=Lbt4z_f7sxw",
+    "channel": "PGA TOUR",
+    "published": "2026-10-20T20:00:20+00:00",
+    "topic": "golf"
+   },
+   {
+    "title": "Can Rory McIlroy Win A 5 Man Play-Off? | 2019 Omega European Masters",
+    "url": "https://www.youtube.com/watch?v=cnRJ1lHiR0Q",
+    "channel": "DP World Tour",
+    "published": "2026-10-20T15:00:10+00:00",
+    "topic": "golf"
+   },
+   {
+    "title": "Callaway Speedrun: Every Birdie from Ruoning Yin's Final Round | Buick LPGA Shanghai | Golf Channel",
+    "url": "https://www.youtube.com/watch?v=gKWWkCQYzIM",
+    "channel": "Golf Channel",
+    "published": "2026-10-20T13:33:39+00:00",
+    "topic": "golf"
+   },
+   {
+    "title": "Amateur hits DRIVER on a par 3 👀",
+    "url": "https://www.youtube.com/watch?v=gXgyDDAnw4o",
+    "channel": "DP World Tour",
+    "published": "2026-10-20T13:00:01+00:00",
+    "topic": "golf"
+   },
+   {
+    "title": "NCAA Golf Highlights: Abilene Christian Intercollegiate First Round | Golf Channel",
+    "url": "https://www.youtube.com/watch?v=zaJBHWkts4w",
+    "channel": "Golf Channel",
+    "published": "2026-10-19T23:42:36+00:00",
+    "topic": "golf"
+   },
+   {
+    "title": "He was walking it in... 😩",
+    "url": "https://www.youtube.com/watch?v=dSKqntfjzQA",
+    "channel": "PGA TOUR",
+    "published": "2026-10-19T22:00:38+00:00",
+    "topic": "golf"
+   },
+   {
+    "title": "Scottie's reaction to this break 😭",
+    "url": "https://www.youtube.com/watch?v=BGUTdWKX4Qo",
+    "channel": "PGA TOUR",
+    "published": "2026-10-19T18:14:40+00:00",
+    "topic": "golf"
+   },
+   {
+    "title": "What It's Really Like Carrying the Expectations of 1 Billion People | Sachin Tendulkar",
+    "url": "https://www.youtube.com/watch?v=9uymhlYGSAU",
+    "channel": "DP World Tour",
+    "published": "2026-10-19T14:42:29+00:00",
+    "topic": "golf"
+   },
+   {
+    "title": "Michael McIntyre's HILARIOUS recovery! ✨",
+    "url": "https://www.youtube.com/watch?v=XLdAHnyXQrs",
+    "channel": "DP World Tour",
+    "published": "2026-10-19T13:00:21+00:00",
+    "topic": "golf"
+   },
+   {
+    "title": "Final Round DRAMA in New Delhi | 2026 DP World India Championship",
+    "url": "https://www.youtube.com/watch?v=irA4oNLBYm8",
+    "channel": "DP World Tour",
+    "published": "2026-10-19T09:25:11+00:00",
+    "topic": "golf"
+   },
+   {
+    "title": "UNLUCKIEST shots from the 2026 PGA Tour season",
+    "url": "https://www.youtube.com/watch?v=XC33tM9Qzmc",
+    "channel": "PGA TOUR",
+    "published": "2026-10-18T21:00:02+00:00",
+    "topic": "golf"
+   },
+   {
+    "title": "This got WAY more competitive than expected 😂🏏⛳ #sachintendulkar",
+    "url": "https://www.youtube.com/watch?v=u4DDE3Y0WcU",
+    "channel": "DP World Tour",
+    "published": "2026-10-18T14:00:12+00:00",
+    "topic": "golf"
+   }
+  ],
+  "rugby": [
+   {
+    "title": "An Unforgettable Pool Stage Clash! | Wales v Fiji | Extended Highlights | Rugby World Cup 2007",
+    "url": "https://www.youtube.com/watch?v=WVf44vX3-fE",
+    "channel": "World Rugby",
+    "published": "2026-10-21T16:45:02+00:00",
+    "topic": "rugby"
+   },
+   {
+    "title": "Fiji doing what they do best 🇫🇯",
+    "url": "https://www.youtube.com/watch?v=Sa7q9NQKcHo",
+    "channel": "World Rugby",
+    "published": "2026-10-21T09:21:33+00:00",
+    "topic": "rugby"
+   },
+   {
+    "title": "The FULL Extra Time as South Africa Conquer the WORLD! | v New Zealand | Rugby World Cup 1995 Final",
+    "url": "https://www.youtube.com/watch?v=QaZtl0qqqhE",
+    "channel": "World Rugby",
+    "published": "2026-10-20T16:20:17+00:00",
+    "topic": "rugby"
+   },
+   {
+    "title": "Entertainment with every touch! 🤩",
+    "url": "https://www.youtube.com/watch?v=w3Mr_7U4rnU",
+    "channel": "World Rugby",
+    "published": "2026-10-19T18:00:34+00:00",
+    "topic": "rugby"
+   },
+   {
+    "title": "This is USA Rugby’s strongest rugby player 🤯 #rugby #WXVGlobal",
+    "url": "https://www.youtube.com/watch?v=3Thl-NDz6QU",
+    "channel": "RugbyPass",
+    "published": "2026-10-19T17:28:51+00:00",
+    "topic": "rugby"
+   },
+   {
+    "title": "The All Blacks RUN RIOT in Sydney 🤯 | Australia v New Zealand | Bledisloe Cup 2026 Highlights",
+    "url": "https://www.youtube.com/watch?v=20c8PNfbPW0",
+    "channel": "World Rugby",
+    "published": "2026-10-19T11:40:43+00:00",
+    "topic": "rugby"
+   },
+   {
+    "title": "There Is More Happening In Rugby Than Meets The Eye │ Tryzone IQ │ Capgemini x Guinness Six Nations",
+    "url": "https://www.youtube.com/watch?v=DnTIxYDrY1w",
+    "channel": "Six Nations Rugby",
+    "published": "2026-10-19T09:35:17+00:00",
+    "topic": "rugby"
+   },
+   {
+    "title": "Jamison Gibson-Park on hand to finish it off! 👌",
+    "url": "https://www.youtube.com/watch?v=g3BBTHOCpiU",
+    "channel": "World Rugby",
+    "published": "2026-10-18T10:00:35+00:00",
+    "topic": "rugby"
+   },
+   {
+    "title": "Today sees the Jaguars versus the Texans, but why should you watch?",
+    "url": "https://www.youtube.com/watch?v=ZNzABo9Pkg4",
+    "channel": "Six Nations Rugby",
+    "published": "2026-10-18T09:00:40+00:00",
+    "topic": "rugby"
+   },
+   {
+    "title": "We know you'd want to watch The Garden Shields v The Masked Eagles!",
+    "url": "https://www.youtube.com/watch?v=ocCGOIjdgoE",
+    "channel": "Six Nations Rugby",
+    "published": "2026-10-17T18:15:26+00:00",
+    "topic": "rugby"
+   },
+   {
+    "title": "Are you not entertained!? 😮‍💨",
+    "url": "https://www.youtube.com/watch?v=tE8N8c6JS2Q",
+    "channel": "World Rugby",
+    "published": "2026-10-17T17:15:08+00:00",
+    "topic": "rugby"
+   },
+   {
+    "title": "🔴 LIVE | Australia v New Zealand | Second Bledisloe Test Match | International Rugby",
+    "url": "https://www.youtube.com/watch?v=iX46zW2zfqU",
+    "channel": "World Rugby",
+    "published": "2026-10-17T07:05:47+00:00",
+    "topic": "rugby"
+   }
+  ],
   "football": [
+   {
+    "title": "Lille 2-4 Galatasaray : Un match FOU, DOUBLÉ du jeune Diaoune, mais Lille SOMBRE, le débrief",
+    "url": "https://www.youtube.com/watch?v=r7tVXnRx1kA",
+    "channel": "L'Équipe",
+    "published": "2026-10-22T08:00:18+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "\"255 euros d'amende pour CR7, c'est un foutage de gueule\" (Raphaël Sebaoun) #cr7 #portugal",
+    "url": "https://www.youtube.com/watch?v=aVKTHeIGD_g",
+    "channel": "L'Équipe",
+    "published": "2026-10-22T07:00:02+00:00",
+    "topic": "football"
+   },
    {
     "title": "Tension at Man United following UCL loss? 👀 + FC Bayern & Arsenal draw | ESPN FC",
     "url": "https://www.youtube.com/watch?v=r0Odv6pLuT0",
@@ -50,10 +1028,80 @@
     "topic": "football"
    },
    {
+    "title": "Bruges 3-0 Lens : Les Sang et Or IMPUISSANTS face à Bruges, le débrief",
+    "url": "https://www.youtube.com/watch?v=3wwXwmtmjDA",
+    "channel": "L'Équipe",
+    "published": "2026-10-21T21:17:22+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "Lane STUNNER sends Royals up to sixth! ☄️ | Reading 1-0 Leyton Orient | EFL Highlights",
+    "url": "https://www.youtube.com/watch?v=Hzwyx1Bvajk",
+    "channel": "Sky Sports Football",
+    "published": "2026-10-21T21:14:43+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "😤 Pour Hansi Flick, les joueurs du FC Barcelone ont commis trop d’erreurs face au PSG #psg #barca",
+    "url": "https://www.youtube.com/watch?v=jLqimiIkAck",
+    "channel": "L'Équipe",
+    "published": "2026-10-21T20:52:15+00:00",
+    "topic": "football"
+   },
+   {
     "title": "Levante vs. Athletic Club | LALIGA Highlights | ESPN FC",
     "url": "https://www.youtube.com/watch?v=2-1ogixnQYU",
     "channel": "ESPN FC",
     "published": "2026-10-21T20:30:56+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "Dembélé, Kvara et Marquinhos blessés : \"Le PSG est plus fort que les blessures\" (Pierre Bouby)",
+    "url": "https://www.youtube.com/watch?v=qwfHNFYVJ70",
+    "channel": "L'Équipe",
+    "published": "2026-10-21T18:00:13+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "\"J’ai détesté le match de Lamine Yamal\" (Dave Appadoo)",
+    "url": "https://www.youtube.com/watch?v=cxQ80pwZYGc",
+    "channel": "L'Équipe",
+    "published": "2026-10-21T16:00:15+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "On a classé les 5 meilleurs rookies de l'histoire de la NBA",
+    "url": "https://www.youtube.com/watch?v=jSbBiuBjOl0",
+    "channel": "L'Équipe",
+    "published": "2026-10-21T15:53:30+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "🔥 \"Je ne sais pas si on se rend compte de ce que Luis Enrique a fait de ce PSG !\" #psg #luisenrique",
+    "url": "https://www.youtube.com/watch?v=Z_xjKBnVL8U",
+    "channel": "L'Équipe",
+    "published": "2026-10-21T15:08:14+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "Walsall goalkeeper Jed Ward with an INCREDIBLE assist 😍",
+    "url": "https://www.youtube.com/watch?v=Tz-SlIq5MiQ",
+    "channel": "Sky Sports Football",
+    "published": "2026-10-21T14:40:28+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "Jack Wilshere CLASHES with Barnsley dugout after full-time 🔥🥊",
+    "url": "https://www.youtube.com/watch?v=QfYr-eNTwkU",
+    "channel": "Sky Sports Football",
+    "published": "2026-10-21T10:03:08+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "Ronaldo MISSES penalty! ❌ | Al Nassr 1-0 NEOM | Saudi Pro League Highlights",
+    "url": "https://www.youtube.com/watch?v=pE8sSjvIooI",
+    "channel": "Sky Sports Football",
+    "published": "2026-10-21T06:38:18+00:00",
     "topic": "football"
    },
    {
@@ -62,11 +1110,532 @@
     "channel": "ESPN FC",
     "published": "2026-10-20T23:41:26+00:00",
     "topic": "football"
+   },
+   {
+    "title": "Davison bags last minute winner! 😱 | Crawley 2-3 Shrewsbury | EFL Highlights",
+    "url": "https://www.youtube.com/watch?v=LH_5SRjiquE",
+    "channel": "Sky Sports Football",
+    "published": "2026-10-20T22:26:35+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "Keyrol Figueroa saves point from the bench! 💥 | Gillingham 1-1 Port Vale | EFL Highlights",
+    "url": "https://www.youtube.com/watch?v=l4mvVemN8V8",
+    "channel": "Sky Sports Football",
+    "published": "2026-10-20T22:07:29+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "Notts County shock ten player Wednesday! 💪 | Notts County 2-0 Sheffield Wednesday | EFL Highlights",
+    "url": "https://www.youtube.com/watch?v=iKtfkK7F9xM",
+    "channel": "Sky Sports Football",
+    "published": "2026-10-20T21:51:34+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "Cheltenham edge goal fest! 💥 | Cheltenham 4-2 Fleetwood | EFL Highlights",
+    "url": "https://www.youtube.com/watch?v=L6OIBzVARes",
+    "channel": "Sky Sports Football",
+    "published": "2026-10-20T21:47:30+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "Why do NHL teams deliberately remove their goalie?",
+    "url": "https://www.youtube.com/watch?v=j479bF-3JPA",
+    "channel": "Tifo Sports (The Athletic)",
+    "published": "2026-10-19T14:00:25+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "What is the tallest tree ever climbed?",
+    "url": "https://www.youtube.com/watch?v=evbG4y1WAwg",
+    "channel": "Tifo Sports (The Athletic)",
+    "published": "2026-10-18T14:00:36+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "Why do so many baseball teams have Sox in the title?",
+    "url": "https://www.youtube.com/watch?v=rVdx8XF2aIc",
+    "channel": "Tifo Sports (The Athletic)",
+    "published": "2026-10-15T14:00:08+00:00",
+    "topic": "football"
    }
   ],
-  "f1": [],
-  "markets": [],
-  "ai-semis": [],
+  "f1": [
+   {
+    "title": "FIA INTERVENES in F1 wheel rim WAR 👀",
+    "url": "https://www.youtube.com/watch?v=9LbiWuDerag",
+    "channel": "The Race",
+    "published": "2026-10-22T08:21:35+00:00",
+    "topic": "f1"
+   },
+   {
+    "title": "Alex's Not So Quick-Fire Questions 🤣",
+    "url": "https://www.youtube.com/watch?v=xcDc7wD8L1I",
+    "channel": "FORMULA 1",
+    "published": "2026-10-21T18:15:22+00:00",
+    "topic": "f1"
+   },
+   {
+    "title": "Yeehaw, Charles! 🤠",
+    "url": "https://www.youtube.com/watch?v=LIOSyY1gFHY",
+    "channel": "FORMULA 1",
+    "published": "2026-10-21T17:02:57+00:00",
+    "topic": "f1"
+   },
+   {
+    "title": "No work in gyms or canteens: F1's WILD new rule 🤯",
+    "url": "https://www.youtube.com/watch?v=Lq17SNMf7VI",
+    "channel": "The Race",
+    "published": "2026-10-21T15:28:23+00:00",
+    "topic": "f1"
+   },
+   {
+    "title": "Fred Vesti: 'Making Champions' As Mercedes Third Driver | F1 Beyond The Grid Presented By Salesforce",
+    "url": "https://www.youtube.com/watch?v=cybiqrpbFrc",
+    "channel": "FORMULA 1",
+    "published": "2026-10-21T15:00:05+00:00",
+    "topic": "f1"
+   },
+   {
+    "title": "The genius behind Red Bull’s incredible F1 engine success",
+    "url": "https://www.youtube.com/watch?v=BoNoefG9SRQ",
+    "channel": "The Race",
+    "published": "2026-10-21T11:04:39+00:00",
+    "topic": "f1"
+   },
+   {
+    "title": "How F1 team bosses got RICH 🤑",
+    "url": "https://www.youtube.com/watch?v=Z3vUgMGLlK8",
+    "channel": "The Race",
+    "published": "2026-10-21T08:46:13+00:00",
+    "topic": "f1"
+   },
+   {
+    "title": "The Craziest View of McLaren Collision at COTA 🤯",
+    "url": "https://www.youtube.com/watch?v=7ZM-RjoehbA",
+    "channel": "FORMULA 1",
+    "published": "2026-10-20T19:00:23+00:00",
+    "topic": "f1"
+   },
+   {
+    "title": "THE Iconic Sunset Lap at COTA 🌅",
+    "url": "https://www.youtube.com/watch?v=HCOmFElJ-XQ",
+    "channel": "FORMULA 1",
+    "published": "2026-10-20T18:00:10+00:00",
+    "topic": "f1"
+   },
+   {
+    "title": "F1 Drivers' Famous Friends | On The Spot 📲",
+    "url": "https://www.youtube.com/watch?v=UudTPzY0m_s",
+    "channel": "FORMULA 1",
+    "published": "2026-10-20T17:00:16+00:00",
+    "topic": "f1"
+   },
+   {
+    "title": "Putting The 2026 F1 Grid On The Spot With Quick-fire Questions",
+    "url": "https://www.youtube.com/watch?v=YZXBJIHQHWI",
+    "channel": "FORMULA 1",
+    "published": "2026-10-20T16:00:33+00:00",
+    "topic": "f1"
+   },
+   {
+    "title": "Aston Martin should have poles in 2026 🤯",
+    "url": "https://www.youtube.com/watch?v=ZJu4MnEL1Ns",
+    "channel": "The Race",
+    "published": "2026-10-20T13:40:39+00:00",
+    "topic": "f1"
+   },
+   {
+    "title": "Final 10 Laps | 2018 United States Grand Prix",
+    "url": "https://www.youtube.com/watch?v=yZHUIxlxdFo",
+    "channel": "FORMULA 1",
+    "published": "2026-10-20T13:00:21+00:00",
+    "topic": "f1"
+   },
+   {
+    "title": "F1 geniuses are hard to manage 🧪",
+    "url": "https://www.youtube.com/watch?v=QjJEIypEV9g",
+    "channel": "The Race",
+    "published": "2026-10-20T08:15:24+00:00",
+    "topic": "f1"
+   },
+   {
+    "title": "👀 Red Bull ALMOST signed Alonso",
+    "url": "https://www.youtube.com/watch?v=eYib4u0wTZs",
+    "channel": "The Race",
+    "published": "2026-10-19T13:43:57+00:00",
+    "topic": "f1"
+   },
+   {
+    "title": "Christian Horner on Ferrari rumours, nearly signing Alonso & Newey's Aston Martin",
+    "url": "https://www.youtube.com/watch?v=EUzNjH3cH5c",
+    "channel": "The Race",
+    "published": "2026-10-18T23:01:30+00:00",
+    "topic": "f1"
+   }
+  ],
+  "markets": [
+   {
+    "title": "US cobblers ride Ozempic wave as Americans tighten their belts",
+    "url": "https://www.youtube.com/watch?v=upVgy8ueB8s",
+    "channel": "Reuters",
+    "published": "2026-10-22T09:29:37+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Nvidia's Huang Says Neoclouds Are 'Good Investment'",
+    "url": "https://www.youtube.com/watch?v=33qTrBrbBu4",
+    "channel": "Bloomberg Television",
+    "published": "2026-10-22T09:15:20+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "To vote again, some Indians have to prove that they're alive",
+    "url": "https://www.youtube.com/watch?v=hrGYBRqiWdg",
+    "channel": "Reuters",
+    "published": "2026-10-22T09:12:17+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Bruising Day for Stocks as Havens Rally: Market Analysis",
+    "url": "https://www.youtube.com/watch?v=R5WcYifGaT8",
+    "channel": "Bloomberg Television",
+    "published": "2026-10-22T09:11:50+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Meta gains on earnings beat despite rising AI costs | Morning Bid",
+    "url": "https://www.youtube.com/watch?v=_FI1xf1D_14",
+    "channel": "Reuters",
+    "published": "2026-10-22T09:07:30+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "To vote again, some Indians have to prove that they're alive",
+    "url": "https://www.youtube.com/watch?v=9VEVjIlcnVI",
+    "channel": "Reuters",
+    "published": "2026-10-22T08:54:52+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Les Experts : Colère des lycéens, quelles solutions ?",
+    "url": "https://www.youtube.com/watch?v=-tsjiefUCeI",
+    "channel": "BFM Business",
+    "published": "2026-10-22T08:49:25+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Hermès face à la difficulté du marché chinois",
+    "url": "https://www.youtube.com/watch?v=32zr9d8EVCo",
+    "channel": "BFM Business",
+    "published": "2026-10-22T08:39:50+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Le PDG de Ryanair prédit une envolée « historique » des prix des billets d’avion. Olivier t'explique",
+    "url": "https://www.youtube.com/watch?v=gmDHfDjKYew",
+    "channel": "Les Echos",
+    "published": "2026-10-22T08:30:18+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "\"À l’Assemblée nationale, ils sont complètement déconnectés du marché financier !\" '(Denis Payre)",
+    "url": "https://www.youtube.com/watch?v=CqE-3jqTyNc",
+    "channel": "BFM Business",
+    "published": "2026-10-22T08:28:53+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Tesla has a surprise for investors: a big cut in investment",
+    "url": "https://www.youtube.com/watch?v=OUnC9fLn_0o",
+    "channel": "Reuters",
+    "published": "2026-10-22T08:07:28+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "TV reporter helps rescue man from car sinking in Australian flood",
+    "url": "https://www.youtube.com/watch?v=30lN-oLK2N4",
+    "channel": "Reuters",
+    "published": "2026-10-22T07:56:46+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Tech Stocks Lead Asia Rout, Houthi Attacks Prompt US Diplomat Departures",
+    "url": "https://www.youtube.com/watch?v=YDwzCuO-Wqc",
+    "channel": "Bloomberg Television",
+    "published": "2026-10-22T07:45:09+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "On the road to Bahrain as Houthi attacks hit Saudi Arabia's haven status",
+    "url": "https://www.youtube.com/watch?v=lmjHE8CEhPM",
+    "channel": "Reuters",
+    "published": "2026-10-22T07:22:02+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "LIVE: Typhoon Champi approaches Taiwan",
+    "url": "https://www.youtube.com/watch?v=KT-x1mjBQVE",
+    "channel": "Reuters",
+    "published": "2026-10-22T07:20:18+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "US Orders Some Diplomats Out of Saudi Arabia After Deadly Attacks, Brent Tops $110",
+    "url": "https://www.youtube.com/watch?v=ETG9r3ReiQ4",
+    "channel": "Bloomberg Television",
+    "published": "2026-10-22T07:16:09+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Maurice Lévy (Solocal) : Solocal espère finir l'année 2026 en croissance",
+    "url": "https://www.youtube.com/watch?v=Er6fE9WXOEE",
+    "channel": "BFM Business",
+    "published": "2026-10-22T07:05:13+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Does rent control do more harm than good? | FT #shorts",
+    "url": "https://www.youtube.com/watch?v=iyhX5w0rVoE",
+    "channel": "Financial Times",
+    "published": "2026-10-22T07:04:05+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "\"Le plus simple pour équilibrer les comptes c'est d'augmenter encore les impôts\" (Jean-Marc Daniel)",
+    "url": "https://www.youtube.com/watch?v=4NDeyeqNbZg",
+    "channel": "BFM Business",
+    "published": "2026-10-22T07:02:37+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "AI Trade Jitters Return, Oil Gains After Deadly Saudi Attacks",
+    "url": "https://www.youtube.com/watch?v=2uUSOH3GCQo",
+    "channel": "Bloomberg Television",
+    "published": "2026-10-22T07:00:16+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "The Stilts Economy 10/22/26",
+    "url": "https://www.youtube.com/watch?v=tCZZkuuoSOI",
+    "channel": "CNBC Television",
+    "published": "2026-10-22T07:00:04+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "China Stocks Drop Most Since Liberation Day",
+    "url": "https://www.youtube.com/watch?v=TkQ7c1wbjMM",
+    "channel": "Bloomberg Television",
+    "published": "2026-10-22T06:54:09+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Meta performe à Wall Street",
+    "url": "https://www.youtube.com/watch?v=oyHZHbZDieY",
+    "channel": "BFM Business",
+    "published": "2026-10-22T06:32:43+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Macron en visite dans le Golfe : \"Il fait un pari\" (Soazig Quémener)",
+    "url": "https://www.youtube.com/watch?v=XB6c1dDBa3k",
+    "channel": "BFM Business",
+    "published": "2026-10-22T06:28:37+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Les économistes pessimistes face à un budget irréaliste",
+    "url": "https://www.youtube.com/watch?v=8kTRvXKYUeU",
+    "channel": "BFM Business",
+    "published": "2026-10-22T06:27:39+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Putin Gets Praised as 'Humanitarian' by Witkoff",
+    "url": "https://www.youtube.com/watch?v=xIX-4-cQOsI",
+    "channel": "Bloomberg Television",
+    "published": "2026-10-22T06:25:12+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Tesla Cuts Capex Guidance, Meta Hikes AI Spending Outlook, Announces New Stock Class",
+    "url": "https://www.youtube.com/watch?v=NIBwhc3-ob0",
+    "channel": "Bloomberg Television",
+    "published": "2026-10-22T06:10:24+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Treasury Counselor David Zervos: Energy shock, not sticky inflation, driving yields",
+    "url": "https://www.youtube.com/watch?v=4fVthA85pPM",
+    "channel": "CNBC Television",
+    "published": "2026-10-21T23:31:14+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Mad Money 10/21/26 | Audio Only",
+    "url": "https://www.youtube.com/watch?v=8hyuKwPjqyg",
+    "channel": "CNBC Television",
+    "published": "2026-10-21T23:14:29+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Market Close: S&P 500 Up For 3rd Day, SpaceX Drives AI Trade, AT&T Slips 10-21-2026",
+    "url": "https://www.youtube.com/watch?v=l-Ua9M0ks9s",
+    "channel": "CNBC Television",
+    "published": "2026-10-21T20:33:09+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Meta posts third-quarter revenue beat and strong guidance",
+    "url": "https://www.youtube.com/watch?v=KQA8Kh-ddak",
+    "channel": "CNBC Television",
+    "published": "2026-10-21T20:16:18+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Fundstrat’s Mark Newton: Markets remain resilient, earnings have started to kick off in good shape",
+    "url": "https://www.youtube.com/watch?v=ffiSgUoDNbQ",
+    "channel": "CNBC Television",
+    "published": "2026-10-21T20:10:00+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "CME CEO Terry Duffy: We're seeing a record-level of participation",
+    "url": "https://www.youtube.com/watch?v=Pbh69gLw9kU",
+    "channel": "CNBC Television",
+    "published": "2026-10-21T19:06:09+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Philip Morris CEO: 'Extremely optimistic' about demand for smoke-free products",
+    "url": "https://www.youtube.com/watch?v=_MRSe1NeVrI",
+    "channel": "CNBC Television",
+    "published": "2026-10-21T19:00:34+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Pourquoi ces quelques fleurs valent 22 millions d’euros ? Raphaëlle t'explique.",
+    "url": "https://www.youtube.com/watch?v=bChfIYMVvPk",
+    "channel": "Les Echos",
+    "published": "2026-10-21T16:30:20+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Les dark pools : le concurrent obscur de la bourse",
+    "url": "https://www.youtube.com/watch?v=_MYCHpBtF8c",
+    "channel": "Les Echos",
+    "published": "2026-10-21T16:00:37+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "UK bets on a boring budget | FT #shorts",
+    "url": "https://www.youtube.com/watch?v=VLpP_Ctdk00",
+    "channel": "Financial Times",
+    "published": "2026-10-21T15:45:20+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "How much protein is too much? | FT #shorts",
+    "url": "https://www.youtube.com/watch?v=l-m6qeFzlX4",
+    "channel": "Financial Times",
+    "published": "2026-10-21T11:15:22+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Musk promet 10 milliards de dollars d'actions aux enfants américains. Harold t'explique.",
+    "url": "https://www.youtube.com/watch?v=ptii3KUDnYY",
+    "channel": "Les Echos",
+    "published": "2026-10-21T07:45:27+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Is it time for a lunar time zone? | FT #shorts",
+    "url": "https://www.youtube.com/watch?v=85tfmX6rVBw",
+    "channel": "Financial Times",
+    "published": "2026-10-21T07:32:04+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Who is the best communicator among central bankers? | FT #shorts",
+    "url": "https://www.youtube.com/watch?v=xL7cn7ctXhY",
+    "channel": "Financial Times",
+    "published": "2026-10-20T18:15:33+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "France reels after severe violence from protesters | FT #shorts",
+    "url": "https://www.youtube.com/watch?v=WhioraTxPKI",
+    "channel": "Financial Times",
+    "published": "2026-10-20T17:47:49+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "17 octobre : Vinted et Leboncoin bloquent la revente d’objets volés. Pauline t'explique.",
+    "url": "https://www.youtube.com/watch?v=UcAo0_meNQU",
+    "channel": "Les Echos",
+    "published": "2026-10-20T16:30:10+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Africa’s explosive growth in cities | FT #shorts",
+    "url": "https://www.youtube.com/watch?v=Mw363cN0Rjg",
+    "channel": "Financial Times",
+    "published": "2026-10-20T13:08:10+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Comment Trump fait gagner Boeing. Clarisse t'explique.",
+    "url": "https://www.youtube.com/watch?v=2iwO5oe7-ZQ",
+    "channel": "Les Echos",
+    "published": "2026-10-20T08:30:34+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Are you the ‘digital PA’ for your parents? | FT #shorts",
+    "url": "https://www.youtube.com/watch?v=OHR_NBv5hIk",
+    "channel": "Financial Times",
+    "published": "2026-10-20T07:14:14+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "[Podcast] · Comment les géants du numérique exploitent et renforcent la solitude",
+    "url": "https://www.youtube.com/watch?v=91hZdt-HvKc",
+    "channel": "Les Echos",
+    "published": "2026-10-20T05:00:06+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "17 octobre : Quels dégâts pour les commerces ? Pauline t'explique.",
+    "url": "https://www.youtube.com/watch?v=aR2ng03W8zU",
+    "channel": "Les Echos",
+    "published": "2026-10-19T16:30:18+00:00",
+    "topic": "markets"
+   }
+  ],
+  "ai-semis": [
+   {
+    "title": "The Birth & Rise of India's IT Outsourcing Industry",
+    "url": "https://www.youtube.com/watch?v=NYej-KstgTg",
+    "channel": "Asianometry",
+    "published": "2026-10-18T23:00:26+00:00",
+    "topic": "ai-semis"
+   },
+   {
+    "title": "The Fastest Arm CPU Is... An IBM Mainframe?",
+    "url": "https://www.youtube.com/watch?v=0oNqfLl6YPE",
+    "channel": "TechTechPotato",
+    "published": "2026-10-16T13:00:24+00:00",
+    "topic": "ai-semis"
+   },
+   {
+    "title": "IGBTs Took Silicon Power to the Next Level",
+    "url": "https://www.youtube.com/watch?v=pGQWq_q1gnM",
+    "channel": "Asianometry",
+    "published": "2026-10-15T23:00:03+00:00",
+    "topic": "ai-semis"
+   }
+  ],
   "transport": [
    {
     "title": "FreightWaves Today | October 21",
@@ -125,7 +1694,148 @@
     "topic": "transport"
    }
   ],
-  "aerospace": [],
+  "aerospace": [
+   {
+    "title": "Elon Says SpaceX Is Go For Double Catch | Starship Update",
+    "url": "https://www.youtube.com/watch?v=jpmXdGzy4gk",
+    "channel": "NASASpaceflight",
+    "published": "2026-10-21T23:06:10+00:00",
+    "topic": "aerospace"
+   },
+   {
+    "title": "Army CTO Alex Miller describes big changes at the Drone Marketplace over the past year.",
+    "url": "https://www.youtube.com/watch?v=4pjkV3-B0rA",
+    "channel": "Breaking Defense",
+    "published": "2026-10-21T23:00:10+00:00",
+    "topic": "aerospace"
+   },
+   {
+    "title": "Soon Becoming Reality? Starship Catch At Starbase! #spacex #starship #elonmusk",
+    "url": "https://www.youtube.com/watch?v=4UpRUQfczpg",
+    "channel": "NASASpaceflight",
+    "published": "2026-10-21T22:40:34+00:00",
+    "topic": "aerospace"
+   },
+   {
+    "title": "Why US Army leaders are in a holding pattern for now... | The Weekly Break Out | Breaking Defense",
+    "url": "https://www.youtube.com/watch?v=pUnmQXI7dJc",
+    "channel": "Breaking Defense",
+    "published": "2026-10-21T19:00:14+00:00",
+    "topic": "aerospace"
+   },
+   {
+    "title": "Army’s tech chief talks autonomy, acquisition and the future of drones",
+    "url": "https://www.youtube.com/watch?v=vUuwbeWf2uw",
+    "channel": "Breaking Defense",
+    "published": "2026-10-21T14:30:15+00:00",
+    "topic": "aerospace"
+   },
+   {
+    "title": "Finding the adversary’s hidden signals is the Army’s next electromagnetic warfare challenge",
+    "url": "https://www.youtube.com/watch?v=_Zfm0KcLqzY",
+    "channel": "Breaking Defense",
+    "published": "2026-10-20T22:15:49+00:00",
+    "topic": "aerospace"
+   },
+   {
+    "title": "Drones take over AUSA, plus the Army’s plan to bring in new vendors",
+    "url": "https://www.youtube.com/watch?v=PJEENVQ6AZg",
+    "channel": "Breaking Defense",
+    "published": "2026-10-20T14:22:28+00:00",
+    "topic": "aerospace"
+   },
+   {
+    "title": "At least one key lawmaker is promising faster aid to Ukraine — if Dems win the House in November.",
+    "url": "https://www.youtube.com/watch?v=_qLtE13v6QU",
+    "channel": "Breaking Defense",
+    "published": "2026-10-20T14:17:08+00:00",
+    "topic": "aerospace"
+   },
+   {
+    "title": "SpaceX Launches Falcon 9 with Bandwagon-5",
+    "url": "https://www.youtube.com/watch?v=8t6CQp9-bpk",
+    "channel": "NASASpaceflight",
+    "published": "2026-10-20T11:42:45+00:00",
+    "topic": "aerospace"
+   },
+   {
+    "title": "Neutron Slips to 2027—Can Relativity or Stoke Beat Rocket Lab? | This Week in Spaceflight",
+    "url": "https://www.youtube.com/watch?v=TUiyzHFJlJ0",
+    "channel": "NASASpaceflight",
+    "published": "2026-10-20T00:45:09+00:00",
+    "topic": "aerospace"
+   },
+   {
+    "title": "The Universe Is Hiding Something. NASA plans to find it. - Intrepid Museum Astro Live",
+    "url": "https://www.youtube.com/watch?v=96X9Tt47ND0",
+    "channel": "NASASpaceflight",
+    "published": "2026-10-18T20:42:08+00:00",
+    "topic": "aerospace"
+   },
+   {
+    "title": "F-22 RAPTOR Goes INSANE! Stops Mid Air & Flies With Its WW2 Grandfather",
+    "url": "https://www.youtube.com/watch?v=Th5qw6z8DqI",
+    "channel": "Defense News",
+    "published": "2026-10-18T06:15:58+00:00",
+    "topic": "aerospace"
+   },
+   {
+    "title": "Let's Talk About Tesla's Rocket Car.... Even Though I'm Supposed to be On Vacation",
+    "url": "https://www.youtube.com/watch?v=ex4Qg-gkLNg",
+    "channel": "Scott Manley",
+    "published": "2026-10-17T16:25:02+00:00",
+    "topic": "aerospace"
+   },
+   {
+    "title": "Night Assault! 101st Rakkasans Storm Urban Complex at JRTC",
+    "url": "https://www.youtube.com/watch?v=D7viKi-oskQ",
+    "channel": "Defense News",
+    "published": "2026-10-17T07:24:19+00:00",
+    "topic": "aerospace"
+   },
+   {
+    "title": "Rising from the ashes...to vertical - The Flame Trench",
+    "url": "https://www.youtube.com/watch?v=n3fTTOumqis",
+    "channel": "NASASpaceflight",
+    "published": "2026-10-17T00:49:08+00:00",
+    "topic": "aerospace"
+   },
+   {
+    "title": "Air Assault Students Conduct FRIES Training from Black Hawk",
+    "url": "https://www.youtube.com/watch?v=jva98Qd0Z5M",
+    "channel": "Defense News",
+    "published": "2026-10-16T04:00:16+00:00",
+    "topic": "aerospace"
+   },
+   {
+    "title": "Ship 40 stands up (one last time?) - Starbase Summary",
+    "url": "https://www.youtube.com/watch?v=76MROJzIisg",
+    "channel": "NASASpaceflight",
+    "published": "2026-10-15T21:59:32+00:00",
+    "topic": "aerospace"
+   },
+   {
+    "title": "How NASA is thinking about a moon base",
+    "url": "https://www.youtube.com/watch?v=wbwZZwDGOFY",
+    "channel": "SpaceNews",
+    "published": "2026-10-15T15:13:25+00:00",
+    "topic": "aerospace"
+   },
+   {
+    "title": "Why the midterms could matter for Ukraine aid",
+    "url": "https://www.youtube.com/watch?v=gl0oA6hgf1k",
+    "channel": "Breaking Defense",
+    "published": "2026-10-15T14:33:48+00:00",
+    "topic": "aerospace"
+   },
+   {
+    "title": "Aliens? Nope. SpaceX and Physics! #spacex #jellyfish #launch #alien",
+    "url": "https://www.youtube.com/watch?v=1m4boZ_V3t4",
+    "channel": "NASASpaceflight",
+    "published": "2026-10-15T10:22:58+00:00",
+    "topic": "aerospace"
+   }
+  ],
   "minerals": [
    {
     "title": "Five things to watch in copper at LME Week I Benchmark's Copper Weekly",
@@ -149,14 +1859,854 @@
     "topic": "minerals"
    }
   ],
-  "energy": [],
-  "crypto": [],
-  "tennis": [],
-  "luxury": [],
-  "robotics": [],
-  "us": [],
-  "europe": [],
+  "energy": [
+   {
+    "title": "Podcast episode: The Strait of Hormuz crisis and the Middle East",
+    "url": "https://www.youtube.com/watch?v=jebhB8Xy224",
+    "channel": "IEA",
+    "published": "2026-10-19T09:15:24+00:00",
+    "topic": "energy"
+   }
+  ],
+  "crypto": [
+   {
+    "title": "The Market Doesn't Seem To Think There Will Be A Rate Hike In October",
+    "url": "https://www.youtube.com/watch?v=DyAcYp0hklU",
+    "channel": "Into the Cryptoverse (Benjamin Cowen)",
+    "published": "2026-10-22T02:24:05+00:00",
+    "topic": "crypto"
+   },
+   {
+    "title": "Bitcoin Holds Above $83k",
+    "url": "https://www.youtube.com/watch?v=oYPawyUxnnE",
+    "channel": "Into the Cryptoverse (Benjamin Cowen)",
+    "published": "2026-10-21T20:04:34+00:00",
+    "topic": "crypto"
+   },
+   {
+    "title": "Why Banks Can't Move Beyond Blockchain Pilots, According to Matter Labs",
+    "url": "https://www.youtube.com/watch?v=kp7mW2ByVDE",
+    "channel": "CoinDesk",
+    "published": "2026-10-21T17:31:40+00:00",
+    "topic": "crypto"
+   },
+   {
+    "title": "Musk Floats SpaceX-Tesla Merger With 30,000 Bitcoin",
+    "url": "https://www.youtube.com/watch?v=PdH0hERf064",
+    "channel": "CoinDesk",
+    "published": "2026-10-21T15:50:00+00:00",
+    "topic": "crypto"
+   },
+   {
+    "title": "South Korean Lawmakers Seek Lessons From U.S. GENIUS Act, Former White House Advisor Says",
+    "url": "https://www.youtube.com/watch?v=_iKFstztvYs",
+    "channel": "CoinDesk",
+    "published": "2026-10-21T12:00:39+00:00",
+    "topic": "crypto"
+   },
+   {
+    "title": "JPMorgan Says Bitcoin Will Beat Stocks, Bonds and Gold",
+    "url": "https://www.youtube.com/watch?v=h31e8hRS7-o",
+    "channel": "CoinDesk",
+    "published": "2026-10-20T16:05:36+00:00",
+    "topic": "crypto"
+   },
+   {
+    "title": "S&P Global Ratings Launches New Risk Assessment for DeFi Lending Vaults",
+    "url": "https://www.youtube.com/watch?v=C0n2NQjYES0",
+    "channel": "CoinDesk",
+    "published": "2026-10-20T14:00:01+00:00",
+    "topic": "crypto"
+   },
+   {
+    "title": "Will AI Agents Launch Their Own Tokens?",
+    "url": "https://www.youtube.com/watch?v=wcUXc6XinJw",
+    "channel": "CoinDesk",
+    "published": "2026-10-20T11:33:47+00:00",
+    "topic": "crypto"
+   },
+   {
+    "title": "Oil Prices Keep Rising, Is a Market Correction Coming",
+    "url": "https://www.youtube.com/watch?v=Z8NVlmD2hs8",
+    "channel": "Into the Cryptoverse (Benjamin Cowen)",
+    "published": "2026-10-19T23:25:32+00:00",
+    "topic": "crypto"
+   },
+   {
+    "title": "Citi Reveals Top Crypto Stock Picks Ahead of Q3 Earnings",
+    "url": "https://www.youtube.com/watch?v=UEDQ8URn3hk",
+    "channel": "CoinDesk",
+    "published": "2026-10-19T18:10:22+00:00",
+    "topic": "crypto"
+   },
+   {
+    "title": "What will the Federal Reserve Do Next?",
+    "url": "https://www.youtube.com/watch?v=WAMu9tSOyyY",
+    "channel": "Into the Cryptoverse (Benjamin Cowen)",
+    "published": "2026-10-19T17:48:56+00:00",
+    "topic": "crypto"
+   },
+   {
+    "title": "Tom Lee Says Ethereum Could Surge Past $10,000 in the Next 12 Months",
+    "url": "https://www.youtube.com/watch?v=WDfhSrA4Z7A",
+    "channel": "CoinDesk",
+    "published": "2026-10-19T15:40:00+00:00",
+    "topic": "crypto"
+   },
+   {
+    "title": "Has the Q4 Equity Correction Finally Arrived?",
+    "url": "https://www.youtube.com/watch?v=VA_Qr4-s994",
+    "channel": "Into the Cryptoverse (Benjamin Cowen)",
+    "published": "2026-10-18T14:05:02+00:00",
+    "topic": "crypto"
+   },
+   {
+    "title": "Bitcoin Extreme Uncertainty",
+    "url": "https://www.youtube.com/watch?v=H_JhpNaRPl8",
+    "channel": "Into the Cryptoverse (Benjamin Cowen)",
+    "published": "2026-10-16T16:09:37+00:00",
+    "topic": "crypto"
+   },
+   {
+    "title": "NFA Live! Bitcoin, Rates, SPX",
+    "url": "https://www.youtube.com/watch?v=U6sxotkGqPw",
+    "channel": "Into the Cryptoverse (Benjamin Cowen)",
+    "published": "2026-10-15T13:40:46+00:00",
+    "topic": "crypto"
+   }
+  ],
+  "tennis": [
+   {
+    "title": "Wawrinka & Musetti Headline; Kouame & Paul Also In Action | Lyon 2026 Day 3 Highlights",
+    "url": "https://www.youtube.com/watch?v=0m4VmeJXDao",
+    "channel": "Tennis TV",
+    "published": "2026-10-21T21:43:51+00:00",
+    "topic": "tennis"
+   },
+   {
+    "title": "Goffin Begins Final Tour Event; Cerundolo & Navone Also Feature 💪 | Brussels 2026 Day 3 Highlights",
+    "url": "https://www.youtube.com/watch?v=32rWlRHqWtE",
+    "channel": "Tennis TV",
+    "published": "2026-10-21T20:14:41+00:00",
+    "topic": "tennis"
+   },
+   {
+    "title": "Musetti Quiets The Home Crowd 🤫",
+    "url": "https://www.youtube.com/watch?v=1B1DgifrrMM",
+    "channel": "Tennis TV",
+    "published": "2026-10-21T20:02:28+00:00",
+    "topic": "tennis"
+   },
+   {
+    "title": "Moise Kouame vs Lorenzo Musetti Entertainment 🍿 | Lyon 2026 Highlights",
+    "url": "https://www.youtube.com/watch?v=hACAE8wNY2o",
+    "channel": "Tennis TV",
+    "published": "2026-10-21T19:26:32+00:00",
+    "topic": "tennis"
+   },
+   {
+    "title": "David Goffin EMOTIONAL Farewell Tour Continues 🤩 | Brussels 2026 Highlights",
+    "url": "https://www.youtube.com/watch?v=7sTTvFfiDc8",
+    "channel": "Tennis TV",
+    "published": "2026-10-21T18:38:08+00:00",
+    "topic": "tennis"
+   },
+   {
+    "title": "Tennis Or Football? 🤣⚽",
+    "url": "https://www.youtube.com/watch?v=DR2D4xUaLx4",
+    "channel": "Tennis TV",
+    "published": "2026-10-21T17:24:21+00:00",
+    "topic": "tennis"
+   },
+   {
+    "title": "Rublev vs Mannarino; Tsitsipas, Darderi & Machac Feature | Almaty 2026 Day 3 Highlights",
+    "url": "https://www.youtube.com/watch?v=Ee4_tiVmjZI",
+    "channel": "Tennis TV",
+    "published": "2026-10-21T16:30:16+00:00",
+    "topic": "tennis"
+   },
+   {
+    "title": "Stan Wawrinka vs Martin Landaluce Thrilling Match 🥵 | Lyon 2026 Highlights",
+    "url": "https://www.youtube.com/watch?v=WRKPpAktEYY",
+    "channel": "Tennis TV",
+    "published": "2026-10-21T15:35:51+00:00",
+    "topic": "tennis"
+   }
+  ],
+  "luxury": [
+   {
+    "title": "Ask Imran Anything: Vanity Metrics, Creativity and Commerce, Gucci’s Future | The BoF Podcast",
+    "url": "https://www.youtube.com/watch?v=Z7KULgVRjPg",
+    "channel": "Business of Fashion",
+    "published": "2026-10-16T18:31:56+00:00",
+    "topic": "luxury"
+   }
+  ],
+  "robotics": [
+   {
+    "title": "How AI Enables Better, More Connected Patient Care",
+    "url": "https://www.youtube.com/watch?v=4idQxzAyPDo",
+    "channel": "NVIDIA",
+    "published": "2026-10-21T16:16:52+00:00",
+    "topic": "robotics"
+   },
+   {
+    "title": "How Lila Sciences’ AI and Automated Labs Help Scientists Discover New Medicines Faster",
+    "url": "https://www.youtube.com/watch?v=Y39uub4n0LA",
+    "channel": "NVIDIA",
+    "published": "2026-10-21T14:00:29+00:00",
+    "topic": "robotics"
+   },
+   {
+    "title": "NVIDIA GTC Berlin 2026 | Live Keynote Pregame",
+    "url": "https://www.youtube.com/watch?v=PrA_ayyy22E",
+    "channel": "NVIDIA",
+    "published": "2026-10-21T13:32:16+00:00",
+    "topic": "robotics"
+   },
+   {
+    "title": "RFD4-Proteina: How IPD Researchers and NVIDIA Design New Proteins with AI",
+    "url": "https://www.youtube.com/watch?v=S2rX2NHzwOs",
+    "channel": "NVIDIA",
+    "published": "2026-10-21T11:30:10+00:00",
+    "topic": "robotics"
+   },
+   {
+    "title": "From Prompt to Walking Robot With NVIDIA RTX Spark",
+    "url": "https://www.youtube.com/watch?v=VvJai6HGfyE",
+    "channel": "NVIDIA",
+    "published": "2026-10-21T11:22:03+00:00",
+    "topic": "robotics"
+   },
+   {
+    "title": "NVIDIA Foundational Technology Montage | GTC Berlin 2026 Edition",
+    "url": "https://www.youtube.com/watch?v=JegVE_xMY_w",
+    "channel": "NVIDIA",
+    "published": "2026-10-21T11:21:20+00:00",
+    "topic": "robotics"
+   },
+   {
+    "title": "Official Keynote Closing Video | NVIDIA GTC Berlin 2026",
+    "url": "https://www.youtube.com/watch?v=qdUQJArUk30",
+    "channel": "NVIDIA",
+    "published": "2026-10-21T11:20:58+00:00",
+    "topic": "robotics"
+   },
+   {
+    "title": "Introducing NVIDIA OpenShell Reference Architecture for Safer AI Agents",
+    "url": "https://www.youtube.com/watch?v=xaHdyqGtG1M",
+    "channel": "NVIDIA",
+    "published": "2026-10-21T11:20:19+00:00",
+    "topic": "robotics"
+   }
+  ],
+  "us": [
+   {
+    "title": "Russia strikes Kyiv hours after talks with U.S.",
+    "url": "https://www.youtube.com/watch?v=b0Rq4wdMiHM",
+    "channel": "NBC News",
+    "published": "2026-10-22T09:44:54+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Could gas prices in rural Alaska decide the Senate?",
+    "url": "https://www.youtube.com/watch?v=3KBKS1u46HA",
+    "channel": "NBC News",
+    "published": "2026-10-22T09:00:00+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Australian reporter rescues man from sinking car",
+    "url": "https://www.youtube.com/watch?v=lvCGFX228xA",
+    "channel": "NBC News",
+    "published": "2026-10-22T08:55:40+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Meta ordered to pay $25 billion in data privacy case",
+    "url": "https://www.youtube.com/watch?v=Zi3aybjqDCE",
+    "channel": "NBC News",
+    "published": "2026-10-22T07:34:28+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Man charged after alleged bank robberies in 'old man' mask",
+    "url": "https://www.youtube.com/watch?v=CFurS2R_pnE",
+    "channel": "NBC News",
+    "published": "2026-10-22T06:38:29+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Thousands joined Key West's annual Zombie Bike Ride",
+    "url": "https://www.youtube.com/watch?v=RfS5pEVvLUk",
+    "channel": "NBC News",
+    "published": "2026-10-22T05:10:46+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Officers capture missing alligator in Oklahoma",
+    "url": "https://www.youtube.com/watch?v=ZmjUMtrY52w",
+    "channel": "NBC News",
+    "published": "2026-10-22T04:46:11+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Man jumps into school bus after driver has medical issue",
+    "url": "https://www.youtube.com/watch?v=kE5v03bGzMk",
+    "channel": "NBC News",
+    "published": "2026-10-22T04:19:34+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "The story behind the bug threatening up to 70% of the internet",
+    "url": "https://www.youtube.com/watch?v=gC2YRFeFmmU",
+    "channel": "CBS News",
+    "published": "2026-10-22T00:55:07+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Childcare costs rising faster than rent, new research shows",
+    "url": "https://www.youtube.com/watch?v=GUnPsId4i2s",
+    "channel": "CBS News",
+    "published": "2026-10-22T00:37:04+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "India's Gen Z youth flock to streets over voter roll purge",
+    "url": "https://www.youtube.com/watch?v=qWRvkLN4Oe4",
+    "channel": "PBS NewsHour",
+    "published": "2026-10-22T00:03:52+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Former U.S. ambassador says Putin is a war criminal, calls Witkoff's comment \"fatuous\"",
+    "url": "https://www.youtube.com/watch?v=NXHlc6hqbX4",
+    "channel": "CBS News",
+    "published": "2026-10-21T23:53:04+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Russia releases American Stephen Hubbard, Witkoff calls Putin a \"humanitarian,\" more | The Takeout",
+    "url": "https://www.youtube.com/watch?v=AL356h5uLvg",
+    "channel": "CBS News",
+    "published": "2026-10-21T23:44:40+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "More details on report that Musk intentionally restricted Ukraine's access to SpaceX network",
+    "url": "https://www.youtube.com/watch?v=5xv9XFw7r74",
+    "channel": "CBS News",
+    "published": "2026-10-21T23:33:37+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "PBS News Hour full episode, Oct. 21, 2026",
+    "url": "https://www.youtube.com/watch?v=F0p_t03WJYQ",
+    "channel": "PBS NewsHour",
+    "published": "2026-10-21T23:23:58+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Former GOP governor David Beasley says Trump's 'demeaning' rhetoric pushed him from party",
+    "url": "https://www.youtube.com/watch?v=kLXtpFHfSoA",
+    "channel": "PBS NewsHour",
+    "published": "2026-10-21T23:11:18+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Son of detained American Stephen Hubbard reacts to Russia releasing him after 4 years",
+    "url": "https://www.youtube.com/watch?v=BIQ7zsrJmAw",
+    "channel": "CBS News",
+    "published": "2026-10-21T23:03:42+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Investigation finds hundreds of U.S. citizens detained by ICE",
+    "url": "https://www.youtube.com/watch?v=E8Ymn3IYW6c",
+    "channel": "PBS NewsHour",
+    "published": "2026-10-21T23:02:14+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Broad support for populist policies found across party lines in Wall Street Journal poll",
+    "url": "https://www.youtube.com/watch?v=uoerxNp4mHU",
+    "channel": "CBS News",
+    "published": "2026-10-21T22:58:59+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "A look at the major state ballot measures voters will decide in the midterms",
+    "url": "https://www.youtube.com/watch?v=vgkGDOkuEKo",
+    "channel": "PBS NewsHour",
+    "published": "2026-10-21T22:57:43+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "How Idaho's abortion ban reshaped reproductive care and fueled a fight for change",
+    "url": "https://www.youtube.com/watch?v=DxkuAqRoQSg",
+    "channel": "PBS NewsHour",
+    "published": "2026-10-21T22:52:46+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Democratic and GOP strategists on the deeply personal attack ad in Ohio",
+    "url": "https://www.youtube.com/watch?v=FkINzRvWQ5Y",
+    "channel": "PBS NewsHour",
+    "published": "2026-10-21T22:41:47+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "News Wrap: Cybersecurity threat prompts scramble to protect websites around the world",
+    "url": "https://www.youtube.com/watch?v=VNNP5x59feM",
+    "channel": "PBS NewsHour",
+    "published": "2026-10-21T22:36:21+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+    "url": "https://www.youtube.com/watch?v=DFdWWKa2rc4",
+    "channel": "CBS News",
+    "published": "2026-10-21T18:18:26+00:00",
+    "topic": "us"
+   }
+  ],
+  "europe": [
+   {
+    "title": "Qatar in Motion | Made in Qatar: Local brands with global ambitions",
+    "url": "https://www.youtube.com/watch?v=2IpjkFdGkhc",
+    "channel": "euronews",
+    "published": "2026-10-22T09:28:23+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Tesla's profit drops as it explores a possible merger with Musk's other public company, SpaceX",
+    "url": "https://www.youtube.com/watch?v=DBo1tKgzetc",
+    "channel": "euronews",
+    "published": "2026-10-22T09:27:40+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Meta's Zuckerberg pitches AI successes to investors with 26% rise in quarterly revenue • FRANCE 24",
+    "url": "https://www.youtube.com/watch?v=CmzsFn7J-YM",
+    "channel": "FRANCE 24 English",
+    "published": "2026-10-22T09:18:53+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Putin signals Ukraine peace talks, but breakthrough remains elusive",
+    "url": "https://www.youtube.com/watch?v=IijG4Sw0q1U",
+    "channel": "euronews",
+    "published": "2026-10-22T09:09:15+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "'Popular dissatisfaction' across Europe: 'Promises of more economic growth haven't come true'",
+    "url": "https://www.youtube.com/watch?v=7lQvYxVFu0A",
+    "channel": "FRANCE 24 English",
+    "published": "2026-10-22T09:01:58+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "French MEP calls for more police and urgent social action",
+    "url": "https://www.youtube.com/watch?v=PDZELQlXL1U",
+    "channel": "euronews",
+    "published": "2026-10-22T08:39:52+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Biddy Blas actor 'overwhelmed' by response of Star Wars and gaming fans. #BiddyBlas #BBCNews",
+    "url": "https://www.youtube.com/watch?v=0vEedDGzRrA",
+    "channel": "BBC News",
+    "published": "2026-10-22T08:30:07+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Trump urges Zelenskyy to strike deal with Russia | DW News",
+    "url": "https://www.youtube.com/watch?v=bEgZhY6C7q8",
+    "channel": "DW News",
+    "published": "2026-10-22T08:17:15+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "EU probes whether Booking.com is doing enough to tackle fake listings and phishing scams",
+    "url": "https://www.youtube.com/watch?v=iOgB1sgCn7c",
+    "channel": "euronews",
+    "published": "2026-10-22T08:09:45+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Macron under fire as France faces unrest ahead of elections",
+    "url": "https://www.youtube.com/watch?v=XtK_ouHPOgY",
+    "channel": "euronews",
+    "published": "2026-10-22T07:56:16+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "EU probes whether Booking.com is doing enough to tackle fake listings and phishing scams",
+    "url": "https://www.youtube.com/watch?v=B-iRASv-2-Y",
+    "channel": "euronews",
+    "published": "2026-10-22T07:53:50+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Fresh US-Israeli strikes on Iran in the pipeline? • FRANCE 24 English",
+    "url": "https://www.youtube.com/watch?v=f_a6rekbnkg",
+    "channel": "FRANCE 24 English",
+    "published": "2026-10-22T07:53:34+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "'Everything' in Ukraine is now a target for Putin, says EPP MEP",
+    "url": "https://www.youtube.com/watch?v=HNGK0mleIv8",
+    "channel": "euronews",
+    "published": "2026-10-22T07:50:56+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Deadly Russian strikes in Ukraine after US envoy meets Putin | DW News",
+    "url": "https://www.youtube.com/watch?v=bjmagDuVwOo",
+    "channel": "DW News",
+    "published": "2026-10-22T07:44:35+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "What does Dame Judi Dench think about ageing? #Shorts",
+    "url": "https://www.youtube.com/watch?v=ZeoKNbozhhI",
+    "channel": "BBC News",
+    "published": "2026-10-22T07:24:19+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Manchester United blown out of the water by Como in Champions League rout • FRANCE 24 English",
+    "url": "https://www.youtube.com/watch?v=eRiq1dTdieA",
+    "channel": "FRANCE 24 English",
+    "published": "2026-10-22T06:14:08+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Dame Judi Dench on losing her sight, lunch at MI6 and remembering her husband | BBC News",
+    "url": "https://www.youtube.com/watch?v=CdHfW0r1UPY",
+    "channel": "BBC News",
+    "published": "2026-10-22T05:00:20+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Websites taken down worldwide over critical PHP vulnerabilities | DW News",
+    "url": "https://www.youtube.com/watch?v=3EB16ZFkRhw",
+    "channel": "DW News",
+    "published": "2026-10-22T02:56:19+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Attack ad with candidate's estranged mother sparks backlash | BBC News",
+    "url": "https://www.youtube.com/watch?v=_9Q14VU0kpY",
+    "channel": "BBC News",
+    "published": "2026-10-22T01:20:16+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "How far will youth-led protests go? • FRANCE 24 English",
+    "url": "https://www.youtube.com/watch?v=4v0G5lXPK_4",
+    "channel": "FRANCE 24 English",
+    "published": "2026-10-21T23:56:17+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Trump’s popularity is falling. Will it cost Republicans the midterms? | DW News",
+    "url": "https://www.youtube.com/watch?v=pKrQEtxw3SA",
+    "channel": "DW News",
+    "published": "2026-10-21T23:00:08+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Sudan's war escalates as UN warns of wider regional crisis • FRANCE 24 English",
+    "url": "https://www.youtube.com/watch?v=s17Y8i8pd9w",
+    "channel": "FRANCE 24 English",
+    "published": "2026-10-21T22:40:11+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Glee reboot set to return on Hulu and Disney+. #Glee #BBCNews",
+    "url": "https://www.youtube.com/watch?v=6MzY8cFwD5k",
+    "channel": "BBC News",
+    "published": "2026-10-21T22:30:23+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Trump admin 'destroying' US democracy with 'autocratic, terrorist version of Christian nationalism'",
+    "url": "https://www.youtube.com/watch?v=tUe2ZbX3ENI",
+    "channel": "FRANCE 24 English",
+    "published": "2026-10-21T22:06:42+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Websites taken down worldwide as AI reveals critical cyber-security threat | BBC News",
+    "url": "https://www.youtube.com/watch?v=moy3waNDQa8",
+    "channel": "BBC News",
+    "published": "2026-10-21T21:56:12+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Is Ukraine being shut out of its own future? | The Global Story",
+    "url": "https://www.youtube.com/watch?v=BAkY6gyq5q4",
+    "channel": "BBC News",
+    "published": "2026-10-21T21:45:20+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Websites taken down as critical security update issued. #BBCNews",
+    "url": "https://www.youtube.com/watch?v=jzXwVNUbyR8",
+    "channel": "BBC News",
+    "published": "2026-10-21T21:32:49+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "In run-up to mass protests and riots, pro-Russian accounts amplified French anger, NGO finds",
+    "url": "https://www.youtube.com/watch?v=u9vMLCADktk",
+    "channel": "FRANCE 24 English",
+    "published": "2026-10-21T21:21:45+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Russia agrees in principle to new negotiations with Ukraine and US | DW News",
+    "url": "https://www.youtube.com/watch?v=FH3nL0od3zo",
+    "channel": "DW News",
+    "published": "2026-10-21T21:00:15+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "How a 50-year-old Chilean protest song became a global anthem of resistance | DW News",
+    "url": "https://www.youtube.com/watch?v=JRmLA-aUEVQ",
+    "channel": "DW News",
+    "published": "2026-10-21T20:30:23+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Massive AfD email hack: What is actually verified? | DW News",
+    "url": "https://www.youtube.com/watch?v=SuhmQny_1fc",
+    "channel": "DW News",
+    "published": "2026-10-21T20:02:50+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "The internet's favorite shark is free | DW News",
+    "url": "https://www.youtube.com/watch?v=MlpB5ZSCqco",
+    "channel": "DW News",
+    "published": "2026-10-21T19:20:40+00:00",
+    "topic": "europe"
+   }
+  ],
   "brics": [
+   {
+    "title": "PM Modi Meets Polish PM Donald Tusk at Hyderabad House in Delhi",
+    "url": "https://www.youtube.com/watch?v=UOoOEXgdO58",
+    "channel": "Firstpost",
+    "published": "2026-10-22T09:38:06+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "MEA LIVE | 'India Is a Beacon of Hope for All of Us': Poland PM Tusk Praises PM Modi’s Global Role",
+    "url": "https://www.youtube.com/watch?v=DUiJN7ux-YM",
+    "channel": "Firstpost",
+    "published": "2026-10-22T09:20:01+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Report: Typhoon Champi Moving At 184 Kph, Set To Bring Rains In Taiwan & Southern Japan | WION",
+    "url": "https://www.youtube.com/watch?v=DDPzmmx7qDY",
+    "channel": "WION",
+    "published": "2026-10-22T09:14:13+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Elon Musk eyes historic $3.5 trillion Tesla-SpaceX merger",
+    "url": "https://www.youtube.com/watch?v=C0kpNJ2tHtA",
+    "channel": "TRT World",
+    "published": "2026-10-22T09:06:56+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "PM Modi-Tusk Summit LIVE: India-Poland Ties in Focus as Modi Holds Talks With Donald Tusk | WION",
+    "url": "https://www.youtube.com/watch?v=v12tyOYy_l0",
+    "channel": "WION",
+    "published": "2026-10-22T09:06:38+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "North Korea Puts Unspecified Military Systems On Alert | WION News",
+    "url": "https://www.youtube.com/watch?v=lYg_DFHO92Q",
+    "channel": "WION",
+    "published": "2026-10-22T09:00:07+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Students Hospitalised After Fresh Methane Gas Emissions in Ogun | WION Shorts",
+    "url": "https://www.youtube.com/watch?v=Jes9sVprG40",
+    "channel": "WION",
+    "published": "2026-10-22T08:55:33+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "JPMorgan Deposits N50 Billion With CBN for Banking Licence | WION Shorts",
+    "url": "https://www.youtube.com/watch?v=Xrq1n9lkVWs",
+    "channel": "WION",
+    "published": "2026-10-22T08:53:41+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "One person killed in Ukrainian attack on Russia's Belgorod region",
+    "url": "https://www.youtube.com/watch?v=oZj4ivLBCF0",
+    "channel": "TRT World",
+    "published": "2026-10-22T08:52:31+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Delhi Air Quality Worsens as AQI Hits 200+, Haze Blankets National Capital | WION Shorts",
+    "url": "https://www.youtube.com/watch?v=BTOWCLlMcyw",
+    "channel": "WION",
+    "published": "2026-10-22T08:52:09+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Ebola Fears Rise as Infected Diplomat Suffers Organ Failure | WION Shorts",
+    "url": "https://www.youtube.com/watch?v=fGZT4XgNH5M",
+    "channel": "WION",
+    "published": "2026-10-22T08:52:00+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Albania LIVE: 'No Surrender...': Turmoil Takes A Darker Turn After Rama's New Protest Shocker",
+    "url": "https://www.youtube.com/watch?v=NwbiMIjULrE",
+    "channel": "Firstpost",
+    "published": "2026-10-22T08:51:08+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Iran says it struck seven vessels near the Strait of Hormuz",
+    "url": "https://www.youtube.com/watch?v=SLmEh2dX-CA",
+    "channel": "TRT World",
+    "published": "2026-10-22T08:50:12+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Israeli elections: Is it just right wing versus right?",
+    "url": "https://www.youtube.com/watch?v=CjDsFnKFsZw",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-22T08:50:11+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Pakistan's power grid under pressure from falling demand",
+    "url": "https://www.youtube.com/watch?v=bssOg8wI090",
+    "channel": "TRT World",
+    "published": "2026-10-22T08:42:25+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Khartoum fish market reopens as livelihoods recover",
+    "url": "https://www.youtube.com/watch?v=k2K__ky5Eow",
+    "channel": "TRT World",
+    "published": "2026-10-22T08:37:51+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Vaccine uncertainty raises concerns in DRC",
+    "url": "https://www.youtube.com/watch?v=xtThSX-1O9U",
+    "channel": "TRT World",
+    "published": "2026-10-22T08:35:15+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Conscription row threatens Netanyahu's re-election",
+    "url": "https://www.youtube.com/watch?v=NAbufba-bBg",
+    "channel": "TRT World",
+    "published": "2026-10-22T08:33:37+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Kremlin says it is ready to resume trilateral talks in November",
+    "url": "https://www.youtube.com/watch?v=rYocRNNiE3A",
+    "channel": "TRT World",
+    "published": "2026-10-22T08:31:07+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Strait of Hormuz near ‘maximum danger’ as US-Iran diplomacy stalls, analyst says",
+    "url": "https://www.youtube.com/watch?v=bRLhP89HAKk",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-22T08:30:14+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "On Cam: Houthis Big Attacks; 70+ Saudi Troops Killed, Mass Funeral Held| Firstpost Live| 4K",
+    "url": "https://www.youtube.com/watch?v=vl4rLi4LDhU",
+    "channel": "Firstpost",
+    "published": "2026-10-22T08:30:07+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Bill Clinton quotes Quran and condemns anti-Muslim rhetoric | AJ #shorts",
+    "url": "https://www.youtube.com/watch?v=Kk55xzZSh8E",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-22T08:28:41+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "LIVE: ‘We Urgently Need…’: NATO Nation Turns To India: Desperate Defence Plea To Russia's Ally?",
+    "url": "https://www.youtube.com/watch?v=m8iAvKm8Sqo",
+    "channel": "Firstpost",
+    "published": "2026-10-22T08:28:02+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Can language affect our capacity for love? #DohaDebates",
+    "url": "https://www.youtube.com/watch?v=MMGy0WLGAiE",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-22T08:19:19+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Trump urges Zelenskyy to strike deal with Russia | DW News",
+    "url": "https://www.youtube.com/watch?v=bEgZhY6C7q8",
+    "channel": "DW News",
+    "published": "2026-10-22T08:17:15+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Indonesian riot police disperse protest against toxic haze",
+    "url": "https://www.youtube.com/watch?v=Zpa5Pk-NgRc",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-22T08:06:44+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Is money ruining US elections? | Let's Focus #shorts",
+    "url": "https://www.youtube.com/watch?v=nVxpc_4tFhk",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-22T07:53:31+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Deadly Russian strikes in Ukraine after US envoy meets Putin | DW News",
+    "url": "https://www.youtube.com/watch?v=bjmagDuVwOo",
+    "channel": "DW News",
+    "published": "2026-10-22T07:44:35+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Iran’s IRGC says four ships hit in Gulf, three others struck mines near Hormuz",
+    "url": "https://www.youtube.com/watch?v=bQ2L-aPxcQc",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-22T07:26:08+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "LIVE: Rafale Fighter Jets Roar Over Varanasi in Spectacular IAF Air Show | Namo Ghat | WION",
+    "url": "https://www.youtube.com/watch?v=qvOrGOxz9oo",
+    "channel": "WION",
+    "published": "2026-10-22T06:40:56+00:00",
+    "topic": "brics"
+   },
    {
     "title": "Macron makes surprise Saudi visit as France secures extra diesel supplies",
     "url": "https://www.youtube.com/watch?v=v6jc7JN-9e0",
@@ -165,113 +2715,71 @@
     "topic": "brics"
    },
    {
-    "title": "Brazil election: Lula rallies swing voters in final campaign push",
-    "url": "https://www.youtube.com/watch?v=dwMoyefAY3Q",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-22T05:33:08+00:00",
+    "title": "US Iran War LIVE: Iran Retaliation Fears? Trump Cuts Troops, Diplomatic Presence Across Middle East",
+    "url": "https://www.youtube.com/watch?v=0mw6YNAQUC8",
+    "channel": "Firstpost",
+    "published": "2026-10-22T03:44:41+00:00",
     "topic": "brics"
    },
    {
-    "title": "Utah police slam woman to ground at data centre protest | AJ #shorts",
-    "url": "https://www.youtube.com/watch?v=XsSSBKRSYRk",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-22T05:04:23+00:00",
+    "title": "LIVE | From WI To NZ In 5 Days: Are Indian Cricketers Getting Any Rest? | First Sports",
+    "url": "https://www.youtube.com/watch?v=3ciRKaqTZ9M",
+    "channel": "Firstpost",
+    "published": "2026-10-22T03:36:13+00:00",
     "topic": "brics"
    },
    {
-    "title": "El-Sayed in face-off against rival Rogers for Michigan Senate seat",
-    "url": "https://www.youtube.com/watch?v=SWeR6i_F5Go",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-22T04:59:39+00:00",
+    "title": "LIVE: Trump Announces Ukraine Peace Is Near, But Russia's War Rages On | Firstpost Live",
+    "url": "https://www.youtube.com/watch?v=59nSqKiEC8o",
+    "channel": "Firstpost",
+    "published": "2026-10-22T03:34:05+00:00",
     "topic": "brics"
    },
    {
-    "title": "Australian TV reporter rescues man from sinking car",
-    "url": "https://www.youtube.com/watch?v=ufsCeWjksuk",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-22T04:17:32+00:00",
+    "title": "Websites taken down worldwide over critical PHP vulnerabilities | DW News",
+    "url": "https://www.youtube.com/watch?v=3EB16ZFkRhw",
+    "channel": "DW News",
+    "published": "2026-10-22T02:56:19+00:00",
     "topic": "brics"
    },
    {
-    "title": "Indonesia wildfires: Activists sue government over toxic haze",
-    "url": "https://www.youtube.com/watch?v=34MKSr5dwi0",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-22T04:12:32+00:00",
+    "title": "Trump’s popularity is falling. Will it cost Republicans the midterms? | DW News",
+    "url": "https://www.youtube.com/watch?v=pKrQEtxw3SA",
+    "channel": "DW News",
+    "published": "2026-10-21T23:00:08+00:00",
     "topic": "brics"
    },
    {
-    "title": "US congressional candidate detained at Occ. West Bank olive harvest | AJ #shorts",
-    "url": "https://www.youtube.com/watch?v=HCK0acAjYFs",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-22T03:57:45+00:00",
+    "title": "Russia agrees in principle to new negotiations with Ukraine and US | DW News",
+    "url": "https://www.youtube.com/watch?v=FH3nL0od3zo",
+    "channel": "DW News",
+    "published": "2026-10-21T21:00:15+00:00",
     "topic": "brics"
    },
    {
-    "title": "Can Trump deport Congresswoman Ilhan Omar?",
-    "url": "https://www.youtube.com/watch?v=BA-FX1d495w",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-22T02:31:12+00:00",
+    "title": "How a 50-year-old Chilean protest song became a global anthem of resistance | DW News",
+    "url": "https://www.youtube.com/watch?v=JRmLA-aUEVQ",
+    "channel": "DW News",
+    "published": "2026-10-21T20:30:23+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Massive AfD email hack: What is actually verified? | DW News",
+    "url": "https://www.youtube.com/watch?v=SuhmQny_1fc",
+    "channel": "DW News",
+    "published": "2026-10-21T20:02:50+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "The internet's favorite shark is free | DW News",
+    "url": "https://www.youtube.com/watch?v=MlpB5ZSCqco",
+    "channel": "DW News",
+    "published": "2026-10-21T19:20:40+00:00",
     "topic": "brics"
    }
   ]
  },
  "errors": [
-  "franceinfo: HTTP Error 500: Internal Server Error",
-  "HugoDécrypte – Actus du jour: HTTP Error 404: Not Found",
-  "Le Monde: HTTP Error 404: Not Found",
-  "FRANCE 24: HTTP Error 404: Not Found",
-  "Le Dessous des Cartes – ARTE: HTTP Error 404: Not Found",
-  "Al Jazeera English: HTTP Error 404: Not Found",
-  "FRANCE 24 English: HTTP Error 404: Not Found",
-  "Middle East Eye: HTTP Error 404: Not Found",
-  "BBC News: HTTP Error 404: Not Found",
-  "Arab News: HTTP Error 404: Not Found",
-  "Al Arabiya English: HTTP Error 500: Internal Server Error",
-  "Asharq News: HTTP Error 404: Not Found",
-  "i24NEWS English: HTTP Error 404: Not Found",
-  "PGA TOUR: HTTP Error 404: Not Found",
-  "DP World Tour: HTTP Error 404: Not Found",
-  "LIV Golf: HTTP Error 404: Not Found",
-  "Golf Channel: HTTP Error 404: Not Found",
-  "World Rugby: HTTP Error 404: Not Found",
-  "RugbyPass: HTTP Error 404: Not Found",
-  "Six Nations Rugby: HTTP Error 404: Not Found",
-  "L'Équipe: HTTP Error 404: Not Found",
-  "Tifo Sports (The Athletic): HTTP Error 404: Not Found",
-  "Sky Sports Football: HTTP Error 404: Not Found",
-  "FORMULA 1: HTTP Error 404: Not Found",
-  "The Race: HTTP Error 404: Not Found",
-  "Bloomberg Television: HTTP Error 404: Not Found",
-  "Reuters: HTTP Error 500: Internal Server Error",
-  "Financial Times: HTTP Error 404: Not Found",
-  "BFM Business: HTTP Error 404: Not Found",
-  "Les Echos: HTTP Error 404: Not Found",
-  "CNBC Television: HTTP Error 404: Not Found",
-  "TechTechPotato: HTTP Error 404: Not Found",
-  "Asianometry: HTTP Error 404: Not Found",
-  "NASASpaceflight: HTTP Error 404: Not Found",
-  "Scott Manley: HTTP Error 404: Not Found",
-  "Breaking Defense: HTTP Error 500: Internal Server Error",
-  "SpaceNews: HTTP Error 404: Not Found",
-  "Defense News: HTTP Error 404: Not Found",
-  "IEA: HTTP Error 500: Internal Server Error",
-  "Into the Cryptoverse (Benjamin Cowen): HTTP Error 404: Not Found",
-  "CoinDesk: HTTP Error 404: Not Found",
-  "Tennis TV: HTTP Error 500: Internal Server Error",
-  "Business of Fashion: HTTP Error 404: Not Found",
-  "NVIDIA: HTTP Error 404: Not Found",
-  "PBS NewsHour: HTTP Error 404: Not Found",
-  "Associated Press: HTTP Error 404: Not Found",
-  "NBC News: HTTP Error 404: Not Found",
-  "CBS News: HTTP Error 404: Not Found",
-  "DW News: HTTP Error 404: Not Found",
-  "euronews: HTTP Error 404: Not Found",
-  "FRANCE 24 English: HTTP Error 404: Not Found",
-  "BBC News: HTTP Error 404: Not Found",
-  "WION: HTTP Error 404: Not Found",
-  "CGTN: HTTP Error 404: Not Found",
-  "DW News: HTTP Error 404: Not Found",
-  "Firstpost: HTTP Error 404: Not Found",
-  "TRT World: HTTP Error 404: Not Found"
+  "CGTN: HTTP Error 404: Not Found"
  ]
 }
