@@ -1,9 +1,66 @@
 {
- "generatedAt": "2026-10-22T00:55:07.188353+00:00",
+ "generatedAt": "2026-10-22T03:44:56.275353+00:00",
  "topics": {
   "fr-national": [],
   "fr-international": [],
-  "me-region": [],
+  "me-region": [
+   {
+    "title": "Europe's wave of anger: how far will youth-led protests go? • FRANCE 24 English",
+    "url": "https://www.youtube.com/watch?v=4v0G5lXPK_4",
+    "channel": "FRANCE 24 English",
+    "published": "2026-10-21T23:56:17+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Sudan’s war escalates as UN warns of wider regional crisis • FRANCE 24 English",
+    "url": "https://www.youtube.com/watch?v=s17Y8i8pd9w",
+    "channel": "FRANCE 24 English",
+    "published": "2026-10-21T22:40:11+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Trump admin 'destroying' US democracy with 'autocratic, terrorist version of Christian nationalism'",
+    "url": "https://www.youtube.com/watch?v=tUe2ZbX3ENI",
+    "channel": "FRANCE 24 English",
+    "published": "2026-10-21T22:06:42+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "In run-up to mass protests and riots, pro-Russian accounts amplified French anger, NGO finds",
+    "url": "https://www.youtube.com/watch?v=u9vMLCADktk",
+    "channel": "FRANCE 24 English",
+    "published": "2026-10-21T21:21:45+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "French bond yields hit 24-year high after unrest • FRANCE 24 English",
+    "url": "https://www.youtube.com/watch?v=vZr3VBwMLcM",
+    "channel": "FRANCE 24 English",
+    "published": "2026-10-21T20:44:33+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "EU prosecutors search European Parliament offices of far-right group • FRANCE 24 English",
+    "url": "https://www.youtube.com/watch?v=sArBNxpKN_A",
+    "channel": "FRANCE 24 English",
+    "published": "2026-10-21T20:21:15+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Putin agrees to resume three-way talks with Kyiv and Washington • FRANCE 24 English",
+    "url": "https://www.youtube.com/watch?v=1wNHwZmAoFU",
+    "channel": "FRANCE 24 English",
+    "published": "2026-10-21T19:32:51+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "'Neither the Sudanese military, nor the RSF take any acknowledgement of human life in this war'",
+    "url": "https://www.youtube.com/watch?v=KMylsVx2Zu4",
+    "channel": "FRANCE 24 English",
+    "published": "2026-10-21T19:28:19+00:00",
+    "topic": "me-region"
+   }
+  ],
   "golf": [],
   "rugby": [],
   "football": [],
@@ -11,7 +68,64 @@
   "markets": [],
   "ai-semis": [],
   "transport": [],
-  "aerospace": [],
+  "aerospace": [
+   {
+    "title": "Elon Says SpaceX Is Go For Double Catch | Starship Update",
+    "url": "https://www.youtube.com/watch?v=jpmXdGzy4gk",
+    "channel": "NASASpaceflight",
+    "published": "2026-10-21T23:06:10+00:00",
+    "topic": "aerospace"
+   },
+   {
+    "title": "Soon Becoming Reality? Starship Catch At Starbase! #spacex #starship #elonmusk",
+    "url": "https://www.youtube.com/watch?v=4UpRUQfczpg",
+    "channel": "NASASpaceflight",
+    "published": "2026-10-21T22:40:34+00:00",
+    "topic": "aerospace"
+   },
+   {
+    "title": "SpaceX Launches Falcon 9 with Bandwagon-5",
+    "url": "https://www.youtube.com/watch?v=8t6CQp9-bpk",
+    "channel": "NASASpaceflight",
+    "published": "2026-10-20T11:42:45+00:00",
+    "topic": "aerospace"
+   },
+   {
+    "title": "Neutron Slips to 2027—Can Relativity or Stoke Beat Rocket Lab? | This Week in Spaceflight",
+    "url": "https://www.youtube.com/watch?v=TUiyzHFJlJ0",
+    "channel": "NASASpaceflight",
+    "published": "2026-10-20T00:45:09+00:00",
+    "topic": "aerospace"
+   },
+   {
+    "title": "The Universe Is Hiding Something. NASA plans to find it. - Intrepid Museum Astro Live",
+    "url": "https://www.youtube.com/watch?v=96X9Tt47ND0",
+    "channel": "NASASpaceflight",
+    "published": "2026-10-18T20:42:08+00:00",
+    "topic": "aerospace"
+   },
+   {
+    "title": "Rising from the ashes...to vertical - The Flame Trench",
+    "url": "https://www.youtube.com/watch?v=n3fTTOumqis",
+    "channel": "NASASpaceflight",
+    "published": "2026-10-17T00:49:08+00:00",
+    "topic": "aerospace"
+   },
+   {
+    "title": "Ship 40 stands up (one last time?) - Starbase Summary",
+    "url": "https://www.youtube.com/watch?v=76MROJzIisg",
+    "channel": "NASASpaceflight",
+    "published": "2026-10-15T21:59:32+00:00",
+    "topic": "aerospace"
+   },
+   {
+    "title": "Aliens? Nope. SpaceX and Physics! #spacex #jellyfish #launch #alien",
+    "url": "https://www.youtube.com/watch?v=1m4boZ_V3t4",
+    "channel": "NASASpaceflight",
+    "published": "2026-10-15T10:22:58+00:00",
+    "topic": "aerospace"
+   }
+  ],
   "minerals": [],
   "energy": [],
   "crypto": [],
@@ -20,73 +134,298 @@
   "robotics": [],
   "us": [
    {
-    "title": "India's Gen Z youth flock to streets over voter roll purge",
-    "url": "https://www.youtube.com/watch?v=qWRvkLN4Oe4",
-    "channel": "PBS NewsHour",
-    "published": "2026-10-22T00:03:52+00:00",
+    "title": "The story behind the bug threatening up to 70% of the internet",
+    "url": "https://www.youtube.com/watch?v=gC2YRFeFmmU",
+    "channel": "CBS News",
+    "published": "2026-10-22T00:55:07+00:00",
     "topic": "us"
    },
    {
-    "title": "PBS News Hour full episode, Oct. 21, 2026",
-    "url": "https://www.youtube.com/watch?v=F0p_t03WJYQ",
-    "channel": "PBS NewsHour",
-    "published": "2026-10-21T23:23:58+00:00",
+    "title": "Childcare costs rising faster than rent, new research shows",
+    "url": "https://www.youtube.com/watch?v=GUnPsId4i2s",
+    "channel": "CBS News",
+    "published": "2026-10-22T00:37:04+00:00",
     "topic": "us"
    },
    {
-    "title": "Former GOP governor David Beasley says Trump's 'demeaning' rhetoric pushed him from party",
-    "url": "https://www.youtube.com/watch?v=kLXtpFHfSoA",
-    "channel": "PBS NewsHour",
-    "published": "2026-10-21T23:11:18+00:00",
+    "title": "Former U.S. ambassador says Putin is a war criminal, calls Witkoff's comment \"fatuous\"",
+    "url": "https://www.youtube.com/watch?v=NXHlc6hqbX4",
+    "channel": "CBS News",
+    "published": "2026-10-21T23:53:04+00:00",
     "topic": "us"
    },
    {
-    "title": "Investigation finds hundreds of U.S. citizens detained by ICE",
-    "url": "https://www.youtube.com/watch?v=E8Ymn3IYW6c",
-    "channel": "PBS NewsHour",
-    "published": "2026-10-21T23:02:14+00:00",
+    "title": "Russia releases American Stephen Hubbard, Witkoff calls Putin a \"humanitarian,\" more | The Takeout",
+    "url": "https://www.youtube.com/watch?v=AL356h5uLvg",
+    "channel": "CBS News",
+    "published": "2026-10-21T23:44:40+00:00",
     "topic": "us"
    },
    {
-    "title": "A look at the major state ballot measures voters will decide in the midterms",
-    "url": "https://www.youtube.com/watch?v=vgkGDOkuEKo",
-    "channel": "PBS NewsHour",
-    "published": "2026-10-21T22:57:43+00:00",
+    "title": "More details on report that Musk intentionally restricted Ukraine's access to SpaceX network",
+    "url": "https://www.youtube.com/watch?v=5xv9XFw7r74",
+    "channel": "CBS News",
+    "published": "2026-10-21T23:33:37+00:00",
     "topic": "us"
    },
    {
-    "title": "How Idaho's abortion ban reshaped reproductive care and fueled a fight for change",
-    "url": "https://www.youtube.com/watch?v=DxkuAqRoQSg",
-    "channel": "PBS NewsHour",
-    "published": "2026-10-21T22:52:46+00:00",
+    "title": "Son of detained American Stephen Hubbard reacts to Russia releasing him after 4 years",
+    "url": "https://www.youtube.com/watch?v=BIQ7zsrJmAw",
+    "channel": "CBS News",
+    "published": "2026-10-21T23:03:42+00:00",
     "topic": "us"
    },
    {
-    "title": "Democratic and GOP strategists on the deeply personal attack ad in Ohio",
-    "url": "https://www.youtube.com/watch?v=FkINzRvWQ5Y",
-    "channel": "PBS NewsHour",
-    "published": "2026-10-21T22:41:47+00:00",
+    "title": "Broad support for populist policies found across party lines in Wall Street Journal poll",
+    "url": "https://www.youtube.com/watch?v=uoerxNp4mHU",
+    "channel": "CBS News",
+    "published": "2026-10-21T22:58:59+00:00",
     "topic": "us"
    },
    {
-    "title": "News Wrap: Cybersecurity threat prompts scramble to protect websites around the world",
-    "url": "https://www.youtube.com/watch?v=VNNP5x59feM",
-    "channel": "PBS NewsHour",
-    "published": "2026-10-21T22:36:21+00:00",
+    "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+    "url": "https://www.youtube.com/watch?v=DFdWWKa2rc4",
+    "channel": "CBS News",
+    "published": "2026-10-21T18:18:26+00:00",
     "topic": "us"
    }
   ],
-  "europe": [],
-  "brics": []
+  "europe": [
+   {
+    "title": "AI helps uncover critical flaws powering the internet | DW News",
+    "url": "https://www.youtube.com/watch?v=3EB16ZFkRhw",
+    "channel": "DW News",
+    "published": "2026-10-22T02:56:19+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Iranian art installation depicts Trump behind bars | DW News",
+    "url": "https://www.youtube.com/watch?v=JvOZ8d-AeQ0",
+    "channel": "DW News",
+    "published": "2026-10-22T02:39:36+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Europe's wave of anger: how far will youth-led protests go? • FRANCE 24 English",
+    "url": "https://www.youtube.com/watch?v=4v0G5lXPK_4",
+    "channel": "FRANCE 24 English",
+    "published": "2026-10-21T23:56:17+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Trump’s popularity is falling. Will it cost Republicans the midterms? | DW News",
+    "url": "https://www.youtube.com/watch?v=pKrQEtxw3SA",
+    "channel": "DW News",
+    "published": "2026-10-21T23:00:08+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Sudan’s war escalates as UN warns of wider regional crisis • FRANCE 24 English",
+    "url": "https://www.youtube.com/watch?v=s17Y8i8pd9w",
+    "channel": "FRANCE 24 English",
+    "published": "2026-10-21T22:40:11+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Trump admin 'destroying' US democracy with 'autocratic, terrorist version of Christian nationalism'",
+    "url": "https://www.youtube.com/watch?v=tUe2ZbX3ENI",
+    "channel": "FRANCE 24 English",
+    "published": "2026-10-21T22:06:42+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "In run-up to mass protests and riots, pro-Russian accounts amplified French anger, NGO finds",
+    "url": "https://www.youtube.com/watch?v=u9vMLCADktk",
+    "channel": "FRANCE 24 English",
+    "published": "2026-10-21T21:21:45+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Russia agrees in principle to new negotiations with Ukraine and US | DW News",
+    "url": "https://www.youtube.com/watch?v=FH3nL0od3zo",
+    "channel": "DW News",
+    "published": "2026-10-21T21:00:15+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "French bond yields hit 24-year high after unrest • FRANCE 24 English",
+    "url": "https://www.youtube.com/watch?v=vZr3VBwMLcM",
+    "channel": "FRANCE 24 English",
+    "published": "2026-10-21T20:44:33+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "How a 50-year-old Chilean protest song became a global anthem of resistance | DW News",
+    "url": "https://www.youtube.com/watch?v=JRmLA-aUEVQ",
+    "channel": "DW News",
+    "published": "2026-10-21T20:30:23+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "EU prosecutors search European Parliament offices of far-right group • FRANCE 24 English",
+    "url": "https://www.youtube.com/watch?v=sArBNxpKN_A",
+    "channel": "FRANCE 24 English",
+    "published": "2026-10-21T20:21:15+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Massive AfD email hack: What is actually verified? | DW News",
+    "url": "https://www.youtube.com/watch?v=SuhmQny_1fc",
+    "channel": "DW News",
+    "published": "2026-10-21T20:02:50+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Putin agrees to resume three-way talks with Kyiv and Washington • FRANCE 24 English",
+    "url": "https://www.youtube.com/watch?v=1wNHwZmAoFU",
+    "channel": "FRANCE 24 English",
+    "published": "2026-10-21T19:32:51+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "'Neither the Sudanese military, nor the RSF take any acknowledgement of human life in this war'",
+    "url": "https://www.youtube.com/watch?v=KMylsVx2Zu4",
+    "channel": "FRANCE 24 English",
+    "published": "2026-10-21T19:28:19+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "The internet's favorite shark is free | DW News",
+    "url": "https://www.youtube.com/watch?v=MlpB5ZSCqco",
+    "channel": "DW News",
+    "published": "2026-10-21T19:20:40+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "If Europe wants independence, why does it keep turning to the US? | Berlin Briefing Podcast",
+    "url": "https://www.youtube.com/watch?v=VsFgDP1y8O4",
+    "channel": "DW News",
+    "published": "2026-10-21T18:58:47+00:00",
+    "topic": "europe"
+   }
+  ],
+  "brics": [
+   {
+    "title": "AI helps uncover critical flaws powering the internet | DW News",
+    "url": "https://www.youtube.com/watch?v=3EB16ZFkRhw",
+    "channel": "DW News",
+    "published": "2026-10-22T02:56:19+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Iranian art installation depicts Trump behind bars | DW News",
+    "url": "https://www.youtube.com/watch?v=JvOZ8d-AeQ0",
+    "channel": "DW News",
+    "published": "2026-10-22T02:39:36+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Can Trump deport Congresswoman Ilhan Omar?",
+    "url": "https://www.youtube.com/watch?v=BA-FX1d495w",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-22T02:31:12+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Russia frees American Stephen Hubbard after 4 years behind bars",
+    "url": "https://www.youtube.com/watch?v=ruqYCgRTfpI",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-22T02:14:58+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "South Africa water crisis: E. coli contamination leaves hundreds ill",
+    "url": "https://www.youtube.com/watch?v=_tR-5Y1I1Ts",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-22T01:27:14+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "France protests: Deputy mayor tear-gassed as students demand better funding",
+    "url": "https://www.youtube.com/watch?v=utfvaEAQ9sQ",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-22T00:04:15+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "‘No one is safe’, African CDC warns after Ebola found in Nigeria | AJ #shorts",
+    "url": "https://www.youtube.com/watch?v=lgIKmdxO-AI",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-22T00:00:58+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Trump’s popularity is falling. Will it cost Republicans the midterms? | DW News",
+    "url": "https://www.youtube.com/watch?v=pKrQEtxw3SA",
+    "channel": "DW News",
+    "published": "2026-10-21T23:00:08+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Pressure mounts for an investigation into claims Altantuya's murderers acted under orders | 101 East",
+    "url": "https://www.youtube.com/watch?v=pniP6YVMi60",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-21T22:59:26+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Video shows Israeli settler assaulting Palestinian child | AJ #shorts",
+    "url": "https://www.youtube.com/watch?v=H3NbrDW9PFg",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-21T22:01:34+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "US Midterms 2026 latest: Trump explodes at hecklers in NC",
+    "url": "https://www.youtube.com/watch?v=OBK_1RThixs",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-21T21:43:57+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Russia agrees in principle to new negotiations with Ukraine and US | DW News",
+    "url": "https://www.youtube.com/watch?v=FH3nL0od3zo",
+    "channel": "DW News",
+    "published": "2026-10-21T21:00:15+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "How a 50-year-old Chilean protest song became a global anthem of resistance | DW News",
+    "url": "https://www.youtube.com/watch?v=JRmLA-aUEVQ",
+    "channel": "DW News",
+    "published": "2026-10-21T20:30:23+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Massive AfD email hack: What is actually verified? | DW News",
+    "url": "https://www.youtube.com/watch?v=SuhmQny_1fc",
+    "channel": "DW News",
+    "published": "2026-10-21T20:02:50+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "The internet's favorite shark is free | DW News",
+    "url": "https://www.youtube.com/watch?v=MlpB5ZSCqco",
+    "channel": "DW News",
+    "published": "2026-10-21T19:20:40+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "If Europe wants independence, why does it keep turning to the US? | Berlin Briefing Podcast",
+    "url": "https://www.youtube.com/watch?v=VsFgDP1y8O4",
+    "channel": "DW News",
+    "published": "2026-10-21T18:58:47+00:00",
+    "topic": "brics"
+   }
+  ]
  },
  "errors": [
   "franceinfo: HTTP Error 500: Internal Server Error",
-  "HugoDécrypte – Actus du jour: HTTP Error 500: Internal Server Error",
+  "HugoDécrypte – Actus du jour: HTTP Error 404: Not Found",
   "Le Monde: HTTP Error 404: Not Found",
   "FRANCE 24: HTTP Error 404: Not Found",
   "Le Dessous des Cartes – ARTE: HTTP Error 404: Not Found",
   "Al Jazeera English: HTTP Error 404: Not Found",
-  "FRANCE 24 English: HTTP Error 404: Not Found",
   "Middle East Eye: HTTP Error 404: Not Found",
   "BBC News: HTTP Error 404: Not Found",
   "Arab News: HTTP Error 404: Not Found",
@@ -97,15 +436,15 @@
   "DP World Tour: HTTP Error 404: Not Found",
   "LIV Golf: HTTP Error 404: Not Found",
   "Golf Channel: HTTP Error 404: Not Found",
-  "World Rugby: HTTP Error 500: Internal Server Error",
-  "RugbyPass: HTTP Error 500: Internal Server Error",
+  "World Rugby: HTTP Error 404: Not Found",
+  "RugbyPass: HTTP Error 404: Not Found",
   "Six Nations Rugby: HTTP Error 404: Not Found",
-  "L'Équipe: HTTP Error 500: Internal Server Error",
+  "L'Équipe: HTTP Error 404: Not Found",
   "Tifo Sports (The Athletic): HTTP Error 404: Not Found",
   "ESPN FC: HTTP Error 404: Not Found",
   "Sky Sports Football: HTTP Error 404: Not Found",
   "FORMULA 1: HTTP Error 404: Not Found",
-  "The Race: HTTP Error 404: Not Found",
+  "The Race: HTTP Error 500: Internal Server Error",
   "Bloomberg Television: HTTP Error 404: Not Found",
   "Reuters: HTTP Error 404: Not Found",
   "Financial Times: HTTP Error 404: Not Found",
@@ -115,30 +454,25 @@
   "TechTechPotato: HTTP Error 404: Not Found",
   "Asianometry: HTTP Error 404: Not Found",
   "FreightWaves: HTTP Error 404: Not Found",
-  "NASASpaceflight: HTTP Error 404: Not Found",
-  "Scott Manley: HTTP Error 404: Not Found",
+  "Scott Manley: HTTP Error 500: Internal Server Error",
   "Breaking Defense: HTTP Error 404: Not Found",
   "SpaceNews: HTTP Error 404: Not Found",
-  "Defense News: HTTP Error 404: Not Found",
+  "Defense News: HTTP Error 500: Internal Server Error",
   "Benchmark Mineral Intelligence: HTTP Error 404: Not Found",
   "IEA: HTTP Error 404: Not Found",
   "Into the Cryptoverse (Benjamin Cowen): HTTP Error 404: Not Found",
   "CoinDesk: HTTP Error 404: Not Found",
   "Tennis TV: HTTP Error 404: Not Found",
-  "Business of Fashion: HTTP Error 500: Internal Server Error",
+  "Business of Fashion: HTTP Error 404: Not Found",
   "NVIDIA: HTTP Error 404: Not Found",
+  "PBS NewsHour: HTTP Error 404: Not Found",
   "Associated Press: HTTP Error 404: Not Found",
   "NBC News: HTTP Error 404: Not Found",
-  "CBS News: HTTP Error 500: Internal Server Error",
-  "DW News: HTTP Error 404: Not Found",
   "euronews: HTTP Error 404: Not Found",
-  "FRANCE 24 English: HTTP Error 404: Not Found",
   "BBC News: HTTP Error 500: Internal Server Error",
   "WION: HTTP Error 404: Not Found",
   "CGTN: HTTP Error 404: Not Found",
-  "Al Jazeera English: HTTP Error 404: Not Found",
-  "DW News: HTTP Error 404: Not Found",
-  "Firstpost: HTTP Error 404: Not Found",
+  "Firstpost: HTTP Error 500: Internal Server Error",
   "TRT World: HTTP Error 404: Not Found"
  ]
 }
