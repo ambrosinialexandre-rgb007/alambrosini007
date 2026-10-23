@@ -1,512 +1,64 @@
 {
- "generatedAt": "2026-10-23T03:44:36.469529+00:00",
+ "generatedAt": "2026-10-23T06:54:16.137771+00:00",
  "topics": {
   "fr-national": [],
   "fr-international": [],
-  "me-region": [
-   {
-    "title": "Indian developer turns ‘Cockroach' protests into video game | AJ #shorts",
-    "url": "https://www.youtube.com/watch?v=AvW0Za5c7sg",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-23T02:43:38+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Powerful earthquake hits Tibet, killing 16 people, reports say. #BBCNews",
-    "url": "https://www.youtube.com/watch?v=l43UYKzqS0M",
-    "channel": "BBC News",
-    "published": "2026-10-23T01:47:10+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Inside Ukraine’s steel plant hit by Russian attacks",
-    "url": "https://www.youtube.com/watch?v=Oee2rwgU_UQ",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-23T01:23:42+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Thousands flood streets for Serbia’s student movement election rally | AJ #shorts",
-    "url": "https://www.youtube.com/watch?v=MgnGGpjA7DY",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-23T01:13:50+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Tibet rocked by 7.0-magnitude earthquake",
-    "url": "https://www.youtube.com/watch?v=03uQT_e1MB8",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-23T00:31:01+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Are Democratic Socialists Reshaping the Democratic Party",
-    "url": "https://www.youtube.com/watch?v=0Iy3qJqoPzQ",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-22T23:57:23+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "UK Conservative Party leader responds to Al Jazeera investigation | AJ #shorts",
-    "url": "https://www.youtube.com/watch?v=GDT9CwAMcGQ",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-22T23:33:32+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Bryan Cranston on death of Breaking Bad co-star RJ Mitte at the age of 34. #BBCNews",
-    "url": "https://www.youtube.com/watch?v=6P2_kb0KljI",
-    "channel": "BBC News",
-    "published": "2026-10-22T23:31:47+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Yemen’s humanitarian crisis deepens following Houthi strikes on Saudi Arabia | BBC News",
-    "url": "https://www.youtube.com/watch?v=_pW4vIdJsU0",
-    "channel": "BBC News",
-    "published": "2026-10-22T23:04:46+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "President Trump ordered to answer questions under oath in BBC lawsuit | BBC News",
-    "url": "https://www.youtube.com/watch?v=2HiHQOy9PYA",
-    "channel": "BBC News",
-    "published": "2026-10-22T23:00:03+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Have we just entered a new era for cyber security? | BBC Newscast",
-    "url": "https://www.youtube.com/watch?v=LNZU5jqkZbI",
-    "channel": "BBC News",
-    "published": "2026-10-22T22:00:39+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Raye wins 2026 Mercury Prize award. #Raye #MercuryPrize #BBCNews",
-    "url": "https://www.youtube.com/watch?v=WlTYoTDlaM4",
-    "channel": "BBC News",
-    "published": "2026-10-22T21:56:21+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Michigan voters closely divided between Rogers and El-Sayed",
-    "url": "https://www.youtube.com/watch?v=pK2E7Qxkupg",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-22T21:51:29+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "US Midterms 2026 latest: Mississippi Blues",
-    "url": "https://www.youtube.com/watch?v=mDXzZV742_8",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-22T21:50:45+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Donald Trump blames Iran for high oil prices | BBC News",
-    "url": "https://www.youtube.com/watch?v=lVIi5lMJVlM",
-    "channel": "BBC News",
-    "published": "2026-10-22T21:00:51+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Is AI helping or harming cyber-security amid the PHP hacking attempts | Global News Podcast",
-    "url": "https://www.youtube.com/watch?v=zHzEshHcjLk",
-    "channel": "BBC News",
-    "published": "2026-10-22T19:18:14+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Canada, Turkiye launch free trade talks",
-    "url": "https://www.youtube.com/watch?v=-__qhwg07lQ",
-    "channel": "Arab News",
-    "published": "2026-10-22T18:32:10+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Yemeni forces have claimed 780 strikes against Houthis",
-    "url": "https://www.youtube.com/watch?v=uxNJMwGVHcY",
-    "channel": "Arab News",
-    "published": "2026-10-22T18:27:07+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "IMF's Azour: The war showed Saudi economy's resilience",
-    "url": "https://www.youtube.com/watch?v=EKSxH6w8ZDs",
-    "channel": "Arab News",
-    "published": "2026-10-22T16:01:35+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Israeli Knesset member blocks Gaza-bound aid trucks",
-    "url": "https://www.youtube.com/watch?v=FLceOQTssvE",
-    "channel": "Arab News",
-    "published": "2026-10-22T13:10:32+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Palestinians inspect site of Israeli strike on vehicle in Gaza City",
-    "url": "https://www.youtube.com/watch?v=EykWnYGuptU",
-    "channel": "Arab News",
-    "published": "2026-10-22T13:09:19+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Trump envoy Witkoff calls Putin 'humanitarian' after US citizen release",
-    "url": "https://www.youtube.com/watch?v=EyBbgXOuopA",
-    "channel": "Arab News",
-    "published": "2026-10-22T11:37:46+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "22/10 6AM GMT - 5 Top Stories",
-    "url": "https://www.youtube.com/watch?v=xrD-aFGBZxI",
-    "channel": "Arab News",
-    "published": "2026-10-22T07:33:28+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Yemeni government forces hit Houthi elements in Taiz",
-    "url": "https://www.youtube.com/watch?v=jh3sAsdZPh8",
-    "channel": "Arab News",
-    "published": "2026-10-22T06:33:06+00:00",
-    "topic": "me-region"
-   }
-  ],
+  "me-region": [],
   "golf": [],
   "rugby": [],
-  "football": [
-   {
-    "title": "The commentator's curse strikes again for Paul Merson 😅",
-    "url": "https://www.youtube.com/watch?v=IUYUQIH42M0",
-    "channel": "Sky Sports Football",
-    "published": "2026-10-22T12:07:27+00:00",
-    "topic": "football"
-   },
-   {
-    "title": "Lane STUNNER sends Royals up to sixth! ☄️ | Reading 1-0 Leyton Orient | EFL Highlights",
-    "url": "https://www.youtube.com/watch?v=Hzwyx1Bvajk",
-    "channel": "Sky Sports Football",
-    "published": "2026-10-21T21:14:43+00:00",
-    "topic": "football"
-   },
-   {
-    "title": "Walsall goalkeeper Jed Ward with an INCREDIBLE assist 😍",
-    "url": "https://www.youtube.com/watch?v=Tz-SlIq5MiQ",
-    "channel": "Sky Sports Football",
-    "published": "2026-10-21T14:40:28+00:00",
-    "topic": "football"
-   },
-   {
-    "title": "Jack Wilshere CLASHES with Barnsley dugout after full-time 🔥🥊",
-    "url": "https://www.youtube.com/watch?v=QfYr-eNTwkU",
-    "channel": "Sky Sports Football",
-    "published": "2026-10-21T10:03:08+00:00",
-    "topic": "football"
-   },
-   {
-    "title": "Ronaldo MISSES penalty! ❌ | Al Nassr 1-0 NEOM | Saudi Pro League Highlights",
-    "url": "https://www.youtube.com/watch?v=pE8sSjvIooI",
-    "channel": "Sky Sports Football",
-    "published": "2026-10-21T06:38:18+00:00",
-    "topic": "football"
-   },
-   {
-    "title": "Davison bags last minute winner! 😱 | Crawley 2-3 Shrewsbury | EFL Highlights",
-    "url": "https://www.youtube.com/watch?v=LH_5SRjiquE",
-    "channel": "Sky Sports Football",
-    "published": "2026-10-20T22:26:35+00:00",
-    "topic": "football"
-   },
-   {
-    "title": "Keyrol Figueroa saves point from the bench! 💥 | Gillingham 1-1 Port Vale | EFL Highlights",
-    "url": "https://www.youtube.com/watch?v=l4mvVemN8V8",
-    "channel": "Sky Sports Football",
-    "published": "2026-10-20T22:07:29+00:00",
-    "topic": "football"
-   },
-   {
-    "title": "Notts County shock ten player Wednesday! 💪 | Notts County 2-0 Sheffield Wednesday | EFL Highlights",
-    "url": "https://www.youtube.com/watch?v=iKtfkK7F9xM",
-    "channel": "Sky Sports Football",
-    "published": "2026-10-20T21:51:34+00:00",
-    "topic": "football"
-   }
-  ],
+  "football": [],
   "f1": [],
-  "markets": [
-   {
-    "title": "Trump: Musk ‘Put Back’ Ukraine Starlink Access",
-    "url": "https://www.youtube.com/watch?v=7Lkr-GIWNoc",
-    "channel": "Bloomberg Television",
-    "published": "2026-10-22T23:05:02+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Lehman Says Diesel, Tariffs Have Been Devastating for Farmers",
-    "url": "https://www.youtube.com/watch?v=DUD-mwGkAkA",
-    "channel": "Bloomberg Television",
-    "published": "2026-10-22T22:32:27+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Farkas Says Starlink Slowdown Helped the Russians",
-    "url": "https://www.youtube.com/watch?v=PFEI_xHUfJw",
-    "channel": "Bloomberg Television",
-    "published": "2026-10-22T22:24:03+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Lake Says Republicans in Trouble, Democrats Have a Lot to Prove",
-    "url": "https://www.youtube.com/watch?v=AJsy1_d-1c4",
-    "channel": "Bloomberg Television",
-    "published": "2026-10-22T22:19:50+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Tech Selloff Deepens as AI Spending Worries Investors",
-    "url": "https://www.youtube.com/watch?v=IvzjnLQlM1M",
-    "channel": "Bloomberg Television",
-    "published": "2026-10-22T21:55:45+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Russia Is Trying to Intensify War With Ukraine, Says Romania's President",
-    "url": "https://www.youtube.com/watch?v=FsKWqc-Dkzo",
-    "channel": "Bloomberg Television",
-    "published": "2026-10-22T21:08:48+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Mark Zuckerberg Plots Deal to Pay Wealth Tax, Keep Meta Control",
-    "url": "https://www.youtube.com/watch?v=P_L9aTswobs",
-    "channel": "Bloomberg Television",
-    "published": "2026-10-22T20:59:32+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Canada Tells Diplomats Stay Away From US Candidates",
-    "url": "https://www.youtube.com/watch?v=1kw3WCAVbXA",
-    "channel": "Bloomberg Television",
-    "published": "2026-10-22T20:55:27+00:00",
-    "topic": "markets"
-   }
-  ],
+  "markets": [],
   "ai-semis": [],
   "transport": [],
-  "aerospace": [
-   {
-    "title": "Pad 2 is getting ready for flight.. and two catches! - Starbase Summary",
-    "url": "https://www.youtube.com/watch?v=5NPgyfCRg5A",
-    "channel": "NASASpaceflight",
-    "published": "2026-10-23T03:08:02+00:00",
-    "topic": "aerospace"
-   },
-   {
-    "title": "Hardware? Is this something new? - The Flame Trench",
-    "url": "https://www.youtube.com/watch?v=1ByV3smKHBU",
-    "channel": "NASASpaceflight",
-    "published": "2026-10-22T17:47:32+00:00",
-    "topic": "aerospace"
-   },
-   {
-    "title": "Elon Says SpaceX Is Go For Double Catch | Starship Update",
-    "url": "https://www.youtube.com/watch?v=jpmXdGzy4gk",
-    "channel": "NASASpaceflight",
-    "published": "2026-10-21T23:06:10+00:00",
-    "topic": "aerospace"
-   },
-   {
-    "title": "Soon Becoming Reality? Starship Catch At Starbase! #spacex #starship #elonmusk",
-    "url": "https://www.youtube.com/watch?v=4UpRUQfczpg",
-    "channel": "NASASpaceflight",
-    "published": "2026-10-21T22:40:34+00:00",
-    "topic": "aerospace"
-   },
-   {
-    "title": "SpaceX Launches Falcon 9 with Bandwagon-5",
-    "url": "https://www.youtube.com/watch?v=8t6CQp9-bpk",
-    "channel": "NASASpaceflight",
-    "published": "2026-10-20T11:42:45+00:00",
-    "topic": "aerospace"
-   },
-   {
-    "title": "Neutron Slips to 2027—Can Relativity or Stoke Beat Rocket Lab? | This Week in Spaceflight",
-    "url": "https://www.youtube.com/watch?v=TUiyzHFJlJ0",
-    "channel": "NASASpaceflight",
-    "published": "2026-10-20T00:45:09+00:00",
-    "topic": "aerospace"
-   },
-   {
-    "title": "The Universe Is Hiding Something. NASA plans to find it. - Intrepid Museum Astro Live",
-    "url": "https://www.youtube.com/watch?v=96X9Tt47ND0",
-    "channel": "NASASpaceflight",
-    "published": "2026-10-18T20:42:08+00:00",
-    "topic": "aerospace"
-   },
-   {
-    "title": "Rising from the ashes...to vertical - The Flame Trench",
-    "url": "https://www.youtube.com/watch?v=n3fTTOumqis",
-    "channel": "NASASpaceflight",
-    "published": "2026-10-17T00:49:08+00:00",
-    "topic": "aerospace"
-   }
-  ],
+  "aerospace": [],
   "minerals": [],
   "energy": [],
   "crypto": [],
   "tennis": [],
   "luxury": [],
   "robotics": [],
-  "us": [
-   {
-    "title": "Trump defends controversial Ramaswamy ad featuring opponent's estranged mother #shorts",
-    "url": "https://www.youtube.com/watch?v=EvSZ0Gc4Z-U",
-    "channel": "CBS News",
-    "published": "2026-10-23T01:26:05+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Roughly 20 Americans remain imprisoned in Russia, some potentially on false charges #shorts",
-    "url": "https://www.youtube.com/watch?v=MoxV2uv5Y4M",
-    "channel": "CBS News",
-    "published": "2026-10-23T01:25:24+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Ohio Democrat Amy Acton slams Ramaswamy ad featuring her estranged mother #shorts",
-    "url": "https://www.youtube.com/watch?v=ZWCv7F9Sq5M",
-    "channel": "CBS News",
-    "published": "2026-10-23T01:24:38+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "\"Looksmaxxing\" influencer Clavicular pleads not guilty to rape charge #shorts",
-    "url": "https://www.youtube.com/watch?v=txdToiiupME",
-    "channel": "CBS News",
-    "published": "2026-10-23T01:23:38+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Bryan Cranston reflects on death of \"Breaking Bad\" co-star RJ Mitte #shorts",
-    "url": "https://www.youtube.com/watch?v=_I0DUc6XXWY",
-    "channel": "CBS News",
-    "published": "2026-10-23T01:22:44+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Lawyer explains Supreme Court decision on medical treatment for transgender inmates",
-    "url": "https://www.youtube.com/watch?v=KD0_Rd-GkvE",
-    "channel": "CBS News",
-    "published": "2026-10-22T23:49:52+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Trump praises controversial Ramaswamy ad, AOC and Jackson hold Maine town hall, more | The Takeout",
-    "url": "https://www.youtube.com/watch?v=x3i4Nj6atBc",
-    "channel": "CBS News",
-    "published": "2026-10-22T23:46:49+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Here's how GLP-1 drugs are changing how people shop",
-    "url": "https://www.youtube.com/watch?v=pOn3J7Y5hQg",
-    "channel": "CBS News",
-    "published": "2026-10-22T23:45:50+00:00",
-    "topic": "us"
-   }
-  ],
+  "us": [],
   "europe": [],
-  "brics": [
-   {
-    "title": "Is Trump trying to end the war in Ukraine, or helping Putin win it? | DW News",
-    "url": "https://www.youtube.com/watch?v=fkbbUDbtJdo",
-    "channel": "DW News",
-    "published": "2026-10-22T20:30:00+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Poland's ex-President Kwasniewski: Putin's war in Ukraine was a miscalculation | DW News",
-    "url": "https://www.youtube.com/watch?v=iPWJzxRt_Rs",
-    "channel": "DW News",
-    "published": "2026-10-22T19:00:22+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Ukrainians skeptical of proposed peace talks with Putin | DW News",
-    "url": "https://www.youtube.com/watch?v=9hshDu5zed0",
-    "channel": "DW News",
-    "published": "2026-10-22T18:03:56+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Germany holds Ukrainian on suspicion of spying for Russia | DW News",
-    "url": "https://www.youtube.com/watch?v=Ajqi40Oy7eo",
-    "channel": "DW News",
-    "published": "2026-10-22T17:41:44+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Has the Iran War hit a dead end? | DW News",
-    "url": "https://www.youtube.com/watch?v=b-GLs7vc2So",
-    "channel": "DW News",
-    "published": "2026-10-22T17:00:06+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "French businesses fear fresh attacks as new protests loom | DW News",
-    "url": "https://www.youtube.com/watch?v=xi2IkQHRsjs",
-    "channel": "DW News",
-    "published": "2026-10-22T16:30:01+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Is Ukraine running out of options? | DW News",
-    "url": "https://www.youtube.com/watch?v=beL4xX_RYYQ",
-    "channel": "DW News",
-    "published": "2026-10-22T14:00:12+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Students clash with police over Indonesia's haze crisis | DW News",
-    "url": "https://www.youtube.com/watch?v=l3q2tCkGNgk",
-    "channel": "DW News",
-    "published": "2026-10-22T13:00:20+00:00",
-    "topic": "brics"
-   }
-  ]
+  "brics": []
  },
  "errors": [
   "franceinfo: HTTP Error 404: Not Found",
   "HugoDécrypte – Actus du jour: HTTP Error 404: Not Found",
-  "Le Monde: HTTP Error 404: Not Found",
+  "Le Monde: HTTP Error 500: Internal Server Error",
   "FRANCE 24: HTTP Error 404: Not Found",
   "Le Dessous des Cartes – ARTE: HTTP Error 404: Not Found",
+  "Al Jazeera English: HTTP Error 404: Not Found",
   "FRANCE 24 English: HTTP Error 404: Not Found",
   "Middle East Eye: HTTP Error 404: Not Found",
-  "Al Arabiya English: HTTP Error 500: Internal Server Error",
+  "BBC News: HTTP Error 404: Not Found",
+  "Arab News: HTTP Error 404: Not Found",
+  "Al Arabiya English: HTTP Error 404: Not Found",
   "Asharq News: HTTP Error 404: Not Found",
   "i24NEWS English: HTTP Error 404: Not Found",
   "PGA TOUR: HTTP Error 404: Not Found",
   "DP World Tour: HTTP Error 404: Not Found",
   "LIV Golf: HTTP Error 404: Not Found",
-  "Golf Channel: HTTP Error 404: Not Found",
+  "Golf Channel: HTTP Error 500: Internal Server Error",
   "World Rugby: HTTP Error 404: Not Found",
   "RugbyPass: HTTP Error 404: Not Found",
   "Six Nations Rugby: HTTP Error 404: Not Found",
-  "L'Équipe: HTTP Error 500: Internal Server Error",
+  "L'Équipe: HTTP Error 404: Not Found",
   "Tifo Sports (The Athletic): HTTP Error 404: Not Found",
   "ESPN FC: HTTP Error 404: Not Found",
-  "FORMULA 1: HTTP Error 500: Internal Server Error",
+  "Sky Sports Football: HTTP Error 404: Not Found",
+  "FORMULA 1: HTTP Error 404: Not Found",
   "The Race: HTTP Error 404: Not Found",
-  "Reuters: HTTP Error 500: Internal Server Error",
+  "Bloomberg Television: HTTP Error 404: Not Found",
+  "Reuters: HTTP Error 404: Not Found",
   "Financial Times: HTTP Error 404: Not Found",
   "BFM Business: HTTP Error 404: Not Found",
   "Les Echos: HTTP Error 404: Not Found",
   "CNBC Television: HTTP Error 404: Not Found",
-  "TechTechPotato: HTTP Error 404: Not Found",
+  "TechTechPotato: HTTP Error 500: Internal Server Error",
   "Asianometry: HTTP Error 404: Not Found",
   "FreightWaves: HTTP Error 404: Not Found",
+  "NASASpaceflight: HTTP Error 404: Not Found",
   "Scott Manley: HTTP Error 404: Not Found",
   "Breaking Defense: HTTP Error 404: Not Found",
   "SpaceNews: HTTP Error 404: Not Found",
@@ -521,6 +73,7 @@
   "PBS NewsHour: HTTP Error 404: Not Found",
   "Associated Press: HTTP Error 404: Not Found",
   "NBC News: HTTP Error 404: Not Found",
+  "CBS News: HTTP Error 404: Not Found",
   "DW News: HTTP Error 404: Not Found",
   "euronews: HTTP Error 404: Not Found",
   "FRANCE 24 English: HTTP Error 404: Not Found",
@@ -528,6 +81,7 @@
   "WION: HTTP Error 404: Not Found",
   "CGTN: HTTP Error 404: Not Found",
   "Al Jazeera English: HTTP Error 404: Not Found",
+  "DW News: HTTP Error 404: Not Found",
   "Firstpost: HTTP Error 404: Not Found",
   "TRT World: HTTP Error 404: Not Found"
  ]
