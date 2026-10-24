@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-24T01:00:06.034460+00:00",
+ "generatedAt": "2026-10-24T03:43:29.536373+00:00",
  "topics": {
   "fr-national": [],
   "fr-international": [],
@@ -8,272 +8,23 @@
   "rugby": [],
   "football": [],
   "f1": [],
-  "markets": [
-   {
-    "title": "How to Retire Rich in India",
-    "url": "https://www.youtube.com/watch?v=RfNb_DvR1QM",
-    "channel": "Bloomberg Television",
-    "published": "2026-10-24T00:00:39+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Trump Pushes DOJ Lawsuit Over Alaska Senate Race",
-    "url": "https://www.youtube.com/watch?v=269Yu1UgYn8",
-    "channel": "Bloomberg Television",
-    "published": "2026-10-23T23:05:12+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Wall Street Week | Europe’s AI Player, Argentina’s Two Economies",
-    "url": "https://www.youtube.com/watch?v=9sL1WZsSeB0",
-    "channel": "Bloomberg Television",
-    "published": "2026-10-23T23:00:14+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Wealth Tax Debate, Midterm Investing, AI Anxiety",
-    "url": "https://www.youtube.com/watch?v=-nwjUI1U070",
-    "channel": "Bloomberg Television",
-    "published": "2026-10-23T22:46:33+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Gutierrez: US Has Gone Too Far With Tariffs",
-    "url": "https://www.youtube.com/watch?v=iaw6C36l2wQ",
-    "channel": "Bloomberg Television",
-    "published": "2026-10-23T22:28:27+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Gen. Hodges (Ret.) Says Trump Actions Help Russia's War",
-    "url": "https://www.youtube.com/watch?v=G0uOXddu6Pk",
-    "channel": "Bloomberg Television",
-    "published": "2026-10-23T22:19:54+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "$1,999 New iPhone 'Unfolds' During Affordability Crisis",
-    "url": "https://www.youtube.com/watch?v=Bsz-hcTYfA0",
-    "channel": "Bloomberg Television",
-    "published": "2026-10-23T22:18:42+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "'Notes on Being a Man', 'The Invisible Hand'",
-    "url": "https://www.youtube.com/watch?v=MipgtpyrPqQ",
-    "channel": "Bloomberg Television",
-    "published": "2026-10-23T22:06:32+00:00",
-    "topic": "markets"
-   }
-  ],
+  "markets": [],
   "ai-semis": [],
   "transport": [],
-  "aerospace": [
-   {
-    "title": "Japan Launches To Phobos, Rocket Lab Delays, SpaceX Flies Car - Deep Space Updates October 22",
-    "url": "https://www.youtube.com/watch?v=FGAVQgpt76w",
-    "channel": "Scott Manley",
-    "published": "2026-10-23T15:46:48+00:00",
-    "topic": "aerospace"
-   },
-   {
-    "title": "The First Spaceship Named After A Comic Book Character?",
-    "url": "https://www.youtube.com/watch?v=TS6T4fQFiek",
-    "channel": "Scott Manley",
-    "published": "2026-10-22T16:40:20+00:00",
-    "topic": "aerospace"
-   },
-   {
-    "title": "Let's Talk About Tesla's Rocket Car.... Even Though I'm Supposed to be On Vacation",
-    "url": "https://www.youtube.com/watch?v=ex4Qg-gkLNg",
-    "channel": "Scott Manley",
-    "published": "2026-10-17T16:25:02+00:00",
-    "topic": "aerospace"
-   }
-  ],
+  "aerospace": [],
   "minerals": [],
   "energy": [],
   "crypto": [],
   "tennis": [],
   "luxury": [],
   "robotics": [],
-  "us": [
-   {
-    "title": "New book, \"Formula 101,\" gives fans a crash course on F1 racing",
-    "url": "https://www.youtube.com/watch?v=pn6ATbFuhlg",
-    "channel": "CBS News",
-    "published": "2026-10-24T00:44:20+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Meghan Markle responds as estranged father investigated for alleged child porn posession",
-    "url": "https://www.youtube.com/watch?v=YNsK4XyDJZo",
-    "channel": "CBS News",
-    "published": "2026-10-24T00:20:32+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Legal expert on DOJ lawsuit to block certification of Alaska Senate election if Republican loses",
-    "url": "https://www.youtube.com/watch?v=B1zFScrsy4U",
-    "channel": "CBS News",
-    "published": "2026-10-23T23:54:45+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "What to expect from Brewers-Rays World Series",
-    "url": "https://www.youtube.com/watch?v=1KIdUpR9ye8",
-    "channel": "CBS News",
-    "published": "2026-10-23T23:46:30+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "France to deploy 70,000 police officers Saturday as it prepares for more mass protests",
-    "url": "https://www.youtube.com/watch?v=VFx8egHiGeU",
-    "channel": "CBS News",
-    "published": "2026-10-23T23:32:35+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "U.S. ambassador to U.N. says Iran war could last another year",
-    "url": "https://www.youtube.com/watch?v=dUeeaiuElco",
-    "channel": "CBS News",
-    "published": "2026-10-23T23:26:51+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "DOJ sues over Alaska Senate race certification, Kushner denies slush fund claims, more | The Takeout",
-    "url": "https://www.youtube.com/watch?v=5h40FB9OW3Q",
-    "channel": "CBS News",
-    "published": "2026-10-23T23:17:17+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "\"48 Hours\" marathon of Peter Van Sant's renowned cases",
-    "url": "https://www.youtube.com/watch?v=uhbWyUoiubs",
-    "channel": "CBS News",
-    "published": "2026-10-23T23:00:29+00:00",
-    "topic": "us"
-   }
-  ],
+  "us": [],
   "europe": [],
-  "brics": [
-   {
-    "title": "Israel imposes full closure of occupied West Bank after Hebron shooting kills two soldiers",
-    "url": "https://www.youtube.com/watch?v=fhWC0o8B0qo",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-24T00:00:37+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Macklemore: ‘I say free Palestine’ as he kicks off a new tour | AJ #shorts",
-    "url": "https://www.youtube.com/watch?v=yvl7qW5SOv8",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-23T23:25:27+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Syrians protest in Damascus against Israel’s expanding military presence in the south",
-    "url": "https://www.youtube.com/watch?v=MY2vdHB1CcM",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-23T23:18:14+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Masked gunmen kill seven in attack on church funeral in Jordan",
-    "url": "https://www.youtube.com/watch?v=_56NiRYkX7Q",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-23T21:27:08+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Why is Israel increasing its presence in the Balkans? | #ajshorts",
-    "url": "https://www.youtube.com/watch?v=aef4edzF3ag",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-23T20:56:24+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Russia, Ukraine agree to Melania Trump-brokered localised ceasefire",
-    "url": "https://www.youtube.com/watch?v=VcGeA5QH8iA",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-23T20:01:53+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Trump’s broken promises: economy, war and ICE: Steve Cortes and Mehdi Hasan | Head to Head",
-    "url": "https://www.youtube.com/watch?v=gLJVURhDcAQ",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-23T20:00:04+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "US Midterms 2026: Republicans split over attack ads as governor races heat up | This Is America",
-    "url": "https://www.youtube.com/watch?v=5vEp08Q_c2I",
-    "channel": "Al Jazeera English",
-    "published": "2026-10-23T19:53:56+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Cordellia Cruise Launch: Mumbai Welcomes India’s Largest Cruise Ship ‘Cordelia Sky’ | WION Shorts",
-    "url": "https://www.youtube.com/watch?v=OU-KN7kC2Bw",
-    "channel": "WION",
-    "published": "2026-10-23T18:36:58+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Callum Turner, Jack Lowden Among Contenders For 007 Role | WION Shorts",
-    "url": "https://www.youtube.com/watch?v=gRCEMJGSv2M",
-    "channel": "WION",
-    "published": "2026-10-23T18:31:44+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Oil Spill Off UAE Coast Prompts Beach Closures, Cleanup Effort | WION",
-    "url": "https://www.youtube.com/watch?v=Iiy1cRR30VI",
-    "channel": "WION",
-    "published": "2026-10-23T18:26:07+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "7 Killed In Jordan Church Shootout | Multi-Storey Building Collapses In Nairobi",
-    "url": "https://www.youtube.com/watch?v=rOFTDr8Ydwk",
-    "channel": "WION",
-    "published": "2026-10-23T18:25:45+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "India's Next-Gen Laser Weapons | WION Defence Pulse",
-    "url": "https://www.youtube.com/watch?v=47OHygH0Hi4",
-    "channel": "WION",
-    "published": "2026-10-23T18:25:12+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Can Laser Weapons Replace Expensive Missiles? | WION Defence Pulse",
-    "url": "https://www.youtube.com/watch?v=-JBvhkkmgvk",
-    "channel": "WION",
-    "published": "2026-10-23T18:23:44+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Tibet Earthquake: China Assesses Damage, Sets Up Shelters Following Deadly Quake | WION",
-    "url": "https://www.youtube.com/watch?v=scaAksuxLUM",
-    "channel": "WION",
-    "published": "2026-10-23T18:14:36+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "France's Unrest Raises a Fundamental Question About Democracy And The Limits of State Power | WION",
-    "url": "https://www.youtube.com/watch?v=Dyeq8sbTVHQ",
-    "channel": "WION",
-    "published": "2026-10-23T18:14:15+00:00",
-    "topic": "brics"
-   }
-  ]
+  "brics": []
  },
  "errors": [
   "franceinfo: HTTP Error 404: Not Found",
-  "HugoDécrypte – Actus du jour: HTTP Error 500: Internal Server Error",
+  "HugoDécrypte – Actus du jour: HTTP Error 404: Not Found",
   "Le Monde: HTTP Error 404: Not Found",
   "FRANCE 24: HTTP Error 404: Not Found",
   "Le Dessous des Cartes – ARTE: HTTP Error 404: Not Found",
@@ -283,12 +34,12 @@
   "BBC News: HTTP Error 404: Not Found",
   "Arab News: HTTP Error 404: Not Found",
   "Al Arabiya English: HTTP Error 404: Not Found",
-  "Asharq News: HTTP Error 500: Internal Server Error",
+  "Asharq News: HTTP Error 404: Not Found",
   "i24NEWS English: HTTP Error 404: Not Found",
-  "PGA TOUR: HTTP Error 500: Internal Server Error",
+  "PGA TOUR: HTTP Error 404: Not Found",
   "DP World Tour: HTTP Error 404: Not Found",
   "LIV Golf: HTTP Error 404: Not Found",
-  "Golf Channel: HTTP Error 500: Internal Server Error",
+  "Golf Channel: HTTP Error 404: Not Found",
   "World Rugby: HTTP Error 404: Not Found",
   "RugbyPass: HTTP Error 404: Not Found",
   "Six Nations Rugby: HTTP Error 404: Not Found",
@@ -297,16 +48,18 @@
   "ESPN FC: HTTP Error 404: Not Found",
   "Sky Sports Football: HTTP Error 404: Not Found",
   "FORMULA 1: HTTP Error 404: Not Found",
-  "The Race: HTTP Error 500: Internal Server Error",
+  "The Race: HTTP Error 404: Not Found",
+  "Bloomberg Television: HTTP Error 404: Not Found",
   "Reuters: HTTP Error 404: Not Found",
   "Financial Times: HTTP Error 404: Not Found",
   "BFM Business: HTTP Error 404: Not Found",
   "Les Echos: HTTP Error 404: Not Found",
   "CNBC Television: HTTP Error 404: Not Found",
-  "TechTechPotato: HTTP Error 500: Internal Server Error",
-  "Asianometry: HTTP Error 500: Internal Server Error",
+  "TechTechPotato: HTTP Error 404: Not Found",
+  "Asianometry: HTTP Error 404: Not Found",
   "FreightWaves: HTTP Error 404: Not Found",
   "NASASpaceflight: HTTP Error 404: Not Found",
+  "Scott Manley: HTTP Error 404: Not Found",
   "Breaking Defense: HTTP Error 404: Not Found",
   "SpaceNews: HTTP Error 404: Not Found",
   "Defense News: HTTP Error 404: Not Found",
@@ -320,11 +73,14 @@
   "PBS NewsHour: HTTP Error 404: Not Found",
   "Associated Press: HTTP Error 404: Not Found",
   "NBC News: HTTP Error 404: Not Found",
+  "CBS News: HTTP Error 404: Not Found",
   "DW News: HTTP Error 404: Not Found",
   "euronews: HTTP Error 404: Not Found",
   "FRANCE 24 English: HTTP Error 404: Not Found",
   "BBC News: HTTP Error 404: Not Found",
+  "WION: HTTP Error 404: Not Found",
   "CGTN: HTTP Error 404: Not Found",
+  "Al Jazeera English: HTTP Error 404: Not Found",
   "DW News: HTTP Error 404: Not Found",
   "Firstpost: HTTP Error 404: Not Found",
   "TRT World: HTTP Error 404: Not Found"
