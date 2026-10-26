@@ -1,88 +1,2777 @@
 {
- "generatedAt": "2026-10-26T06:59:12.800395+00:00",
+ "generatedAt": "2026-10-26T09:54:57.522938+00:00",
  "topics": {
-  "fr-national": [],
-  "fr-international": [],
-  "me-region": [],
-  "golf": [],
-  "rugby": [],
-  "football": [],
-  "f1": [],
-  "markets": [],
-  "ai-semis": [],
-  "transport": [],
-  "aerospace": [],
-  "minerals": [],
+  "fr-national": [
+   {
+    "title": "\"Les erreurs du RN, l’antisémitisme présumé de Bardella… ça glisse, ça passe crème\" (Yaël Goosz)",
+    "url": "https://www.youtube.com/watch?v=QZvNNN36ANg",
+    "channel": "franceinfo",
+    "published": "2026-10-26T09:52:31+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "\"Eric Zemmour est l'idiot utile du Rassemblement national\" (Yaël Goosz)",
+    "url": "https://www.youtube.com/watch?v=VgP4bFoysCo",
+    "channel": "franceinfo",
+    "published": "2026-10-26T09:48:33+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "Le gouvernement va recevoir les lycéens",
+    "url": "https://www.youtube.com/watch?v=gdq9EPrUrq0",
+    "channel": "franceinfo",
+    "published": "2026-10-26T09:01:44+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "\"Emmanuel Macron n’a pas rempli sa promesse d’éliminer les extrêmes\" (Jean Garrigues)",
+    "url": "https://www.youtube.com/watch?v=gTbiMJxpMBw",
+    "channel": "franceinfo",
+    "published": "2026-10-26T08:58:29+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "\"Une journée avec moins de pillages, c’est le minimum que pouvait faire le gouvernement\"(Yaël Goosz)",
+    "url": "https://www.youtube.com/watch?v=1PKiLRYh3Ww",
+    "channel": "franceinfo",
+    "published": "2026-10-26T08:41:04+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "Casserolades, manifestation, grève... Le calendrier des prochaines mobilisations sociales",
+    "url": "https://www.youtube.com/watch?v=t41NekDZ6IY",
+    "channel": "franceinfo",
+    "published": "2026-10-26T08:27:46+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "Brésil : Lula réélu président pour un quatrième mandat, à la surprise générale",
+    "url": "https://www.youtube.com/watch?v=JOGkATPU4yY",
+    "channel": "Le Monde",
+    "published": "2026-10-26T08:14:01+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "Meeting du RN: \"Médiapart était là pour filmer, c’est un coup monté pour bordéliser\" (Thomas Ménagé)",
+    "url": "https://www.youtube.com/watch?v=B7uDP5SfaLM",
+    "channel": "franceinfo",
+    "published": "2026-10-26T08:03:53+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "Lara Croft : 30 ans après, Tomb Raider revient là où tout a commencé",
+    "url": "https://www.youtube.com/watch?v=ihKa6ab2xfQ",
+    "channel": "franceinfo",
+    "published": "2026-10-26T07:42:24+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "Les proches de Pengo Bossio Wangi, tué dans l’attentat de Trappes ce vendredi, nous parlent de lui",
+    "url": "https://www.youtube.com/watch?v=oCXVogkgcg0",
+    "channel": "HugoDécrypte – Actus du jour",
+    "published": "2026-10-25T17:38:22+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "Une marche blanche en hommage à Pengo Bossio Wangi, tué dans l’attentat à Trappes,a eu lieu dimanche",
+    "url": "https://www.youtube.com/watch?v=ru0lq9NN65Q",
+    "channel": "HugoDécrypte – Actus du jour",
+    "published": "2026-10-25T14:24:49+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "La garde à vue du suspect de l’attentat de Trappes a été suspendue à pour des raisons psychiatriques",
+    "url": "https://www.youtube.com/watch?v=p70bmB54yTg",
+    "channel": "HugoDécrypte – Actus du jour",
+    "published": "2026-10-25T14:22:54+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "Élections législatives en Serbie : les serbes votent pour leur nouveau premier ministre",
+    "url": "https://www.youtube.com/watch?v=t8Ak0Bte0ho",
+    "channel": "Le Monde",
+    "published": "2026-10-25T12:26:26+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "Manifestations du 24 octobre : les mobilisations partout en France",
+    "url": "https://www.youtube.com/watch?v=nzKuwBC3HTI",
+    "channel": "Le Monde",
+    "published": "2026-10-24T20:34:13+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "Ce que l’on sait de l’attentat raciste en France",
+    "url": "https://www.youtube.com/watch?v=2GqCASIe2os",
+    "channel": "HugoDécrypte – Actus du jour",
+    "published": "2026-10-24T19:35:58+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "Voici les chiffres de la manifestation d’aujourd’hui.",
+    "url": "https://www.youtube.com/watch?v=StwbLhfhU9w",
+    "channel": "HugoDécrypte – Actus du jour",
+    "published": "2026-10-24T17:57:03+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "« Nos vies comptent aussi » : à Trappes, un rassemblement en hommage à la victime de l’attentat",
+    "url": "https://www.youtube.com/watch?v=YauyyVLZUcU",
+    "channel": "Le Monde",
+    "published": "2026-10-24T17:29:11+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "Elle était venue pacifiquement manifester avec des amis, place Jean-Macé ce samedi à Lyon.",
+    "url": "https://www.youtube.com/watch?v=muaKghPiUNk",
+    "channel": "HugoDécrypte – Actus du jour",
+    "published": "2026-10-24T17:10:29+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "Ce jeune fait une peinture pour raconter comment il a vécu le 17 octobre ⬆️",
+    "url": "https://www.youtube.com/watch?v=eFtVkTG5ECs",
+    "channel": "HugoDécrypte – Actus du jour",
+    "published": "2026-10-24T17:02:08+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "Les revendications des étudiants présents à la manifestation ce samedi à Marseille.",
+    "url": "https://www.youtube.com/watch?v=Yhx6R_1LxN4",
+    "channel": "HugoDécrypte – Actus du jour",
+    "published": "2026-10-24T16:25:05+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "Orléans : une manifestation anti-RN",
+    "url": "https://www.youtube.com/watch?v=u7MlybqFoqM",
+    "channel": "Le Monde",
+    "published": "2026-10-24T15:00:40+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "Les premières images du cortège parisien",
+    "url": "https://www.youtube.com/watch?v=hPV512f4cNg",
+    "channel": "Le Monde",
+    "published": "2026-10-24T14:54:19+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "Paris : des consignes de la police annoncées au mégaphone",
+    "url": "https://www.youtube.com/watch?v=rDc6-_pHk3w",
+    "channel": "Le Monde",
+    "published": "2026-10-24T12:40:41+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "24 octobre : un dispositif policier important, des premiers rassemblements assez calmes…",
+    "url": "https://www.youtube.com/watch?v=YHuPm-Ff5xs",
+    "channel": "Le Monde",
+    "published": "2026-10-24T11:42:31+00:00",
+    "topic": "fr-national"
+   }
+  ],
+  "fr-international": [
+   {
+    "title": "Lula réélu pour un quatrième mandat : \"un revirement historique\" • FRANCE 24",
+    "url": "https://www.youtube.com/watch?v=C61sV6JIFkg",
+    "channel": "FRANCE 24",
+    "published": "2026-10-26T06:39:56+00:00",
+    "topic": "fr-international"
+   },
+   {
+    "title": "Le Real Madrid remporte le Clasico face au FC Barcelone grâce à Kylian Mbappé • FRANCE 24",
+    "url": "https://www.youtube.com/watch?v=M13kNOeKfVI",
+    "channel": "FRANCE 24",
+    "published": "2026-10-26T06:30:22+00:00",
+    "topic": "fr-international"
+   },
+   {
+    "title": "Une électrice de Lula au Brésil : \"ce qui était en jeu ce soir, c'est la démocratie\"",
+    "url": "https://www.youtube.com/watch?v=S0tJEaDMjzA",
+    "channel": "FRANCE 24",
+    "published": "2026-10-26T01:20:32+00:00",
+    "topic": "fr-international"
+   },
+   {
+    "title": "Attentat à Trappes : \"le RN a une responsabilité toute particulière\" (Bally Bagayoko)",
+    "url": "https://www.youtube.com/watch?v=rWGWwbO9Djw",
+    "channel": "FRANCE 24",
+    "published": "2026-10-25T23:43:31+00:00",
+    "topic": "fr-international"
+   },
+   {
+    "title": "RD Congo : la proposition de loi fixant les conditions d’organisation du référendum adoptée",
+    "url": "https://www.youtube.com/watch?v=uDRNp6bJwAg",
+    "channel": "FRANCE 24",
+    "published": "2026-10-25T23:09:47+00:00",
+    "topic": "fr-international"
+   },
+   {
+    "title": "Éthiopie : que veut vraiment Abiy Ahmed pour son pays ? • FRANCE 24",
+    "url": "https://www.youtube.com/watch?v=U71xygDPGyE",
+    "channel": "FRANCE 24",
+    "published": "2026-10-25T21:36:47+00:00",
+    "topic": "fr-international"
+   },
+   {
+    "title": "Marine Le Pen lance sa campagne pour l'élection présidentielle à Orléans • FRANCE 24",
+    "url": "https://www.youtube.com/watch?v=rdmhLBbK-ZI",
+    "channel": "FRANCE 24",
+    "published": "2026-10-25T19:11:33+00:00",
+    "topic": "fr-international"
+   },
+   {
+    "title": "Midterms 2026 : Obama fait campagne pour les démocrates et épingle Trump • FRANCE 24",
+    "url": "https://www.youtube.com/watch?v=UTfPd6lejTI",
+    "channel": "FRANCE 24",
+    "published": "2026-10-25T17:13:44+00:00",
+    "topic": "fr-international"
+   },
+   {
+    "title": "Le système Poutine : comment continuer d'informer ? | Une leçon de gépolitique | ARTE",
+    "url": "https://www.youtube.com/watch?v=PKIcZuAUJrw",
+    "channel": "Le Dessous des Cartes – ARTE",
+    "published": "2026-10-23T16:00:15+00:00",
+    "topic": "fr-international"
+   },
+   {
+    "title": "France, Belgique, Italie : à l'heure des crises",
+    "url": "https://www.youtube.com/watch?v=Exey7yiFWnQ",
+    "channel": "Le Dessous des Cartes – ARTE",
+    "published": "2026-10-23T13:17:16+00:00",
+    "topic": "fr-international"
+   },
+   {
+    "title": "COP Biodiversité : peut-on encore sauver les animaux ? | L'Essentiel du Dessous des cartes | ARTE",
+    "url": "https://www.youtube.com/watch?v=EQvZNpLjZrE",
+    "channel": "Le Dessous des Cartes – ARTE",
+    "published": "2026-10-22T15:50:00+00:00",
+    "topic": "fr-international"
+   },
+   {
+    "title": "Macron dans le golfe : sécuriser les stocks de gazole | L'Essentiel du Dessous des cartes | ARTE",
+    "url": "https://www.youtube.com/watch?v=ZPWH9o_sEkM",
+    "channel": "Le Dessous des Cartes – ARTE",
+    "published": "2026-10-21T15:57:18+00:00",
+    "topic": "fr-international"
+   },
+   {
+    "title": "Les guerres de Netanyahou | L'Essentiel du Dessous des cartes | ARTE",
+    "url": "https://www.youtube.com/watch?v=jMehfI97QVQ",
+    "channel": "Le Dessous des Cartes – ARTE",
+    "published": "2026-10-20T17:05:41+00:00",
+    "topic": "fr-international"
+   },
+   {
+    "title": "Pourquoi plusieurs pays d'Europe semblent vivre les mêmes crises sociales ? | ARTE",
+    "url": "https://www.youtube.com/watch?v=KN8NzMN6hbw",
+    "channel": "Le Dessous des Cartes – ARTE",
+    "published": "2026-10-19T17:32:50+00:00",
+    "topic": "fr-international"
+   }
+  ],
+  "me-region": [
+   {
+    "title": "Brazil: What challenges await Lula in his fourth term as president? • FRANCE 24 English",
+    "url": "https://www.youtube.com/watch?v=OBl9XTeECsg",
+    "channel": "FRANCE 24 English",
+    "published": "2026-10-26T09:46:35+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Brazil's Lula wins historic fourth term • FRANCE 24 English",
+    "url": "https://www.youtube.com/watch?v=qjSNU9Dl-50",
+    "channel": "FRANCE 24 English",
+    "published": "2026-10-26T09:44:57+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Serbia's student movement ousts longtime leader Vucic in parliament poll • FRANCE 24 English",
+    "url": "https://www.youtube.com/watch?v=bEzRYOgc2go",
+    "channel": "FRANCE 24 English",
+    "published": "2026-10-26T09:41:13+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Settler calls for Palestinians to leave Gaza or be killed",
+    "url": "https://www.youtube.com/watch?v=DIpAFS8HexA",
+    "channel": "Arab News",
+    "published": "2026-10-26T09:38:19+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Brazil's Lula seals re-election in surprise win • FRANCE 24 English",
+    "url": "https://www.youtube.com/watch?v=PHGPWzIupdc",
+    "channel": "FRANCE 24 English",
+    "published": "2026-10-26T09:33:24+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Storm Boelo clean-up begins as thousands left without power in UK | BBC News",
+    "url": "https://www.youtube.com/watch?v=5xGNe6vBa_w",
+    "channel": "BBC News",
+    "published": "2026-10-26T09:08:59+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Doctors told Ozzy not to do his final show, he said 'I'm doing it'. #OzzyOsbourne #BBCNews",
+    "url": "https://www.youtube.com/watch?v=Yxfi5F_RpMM",
+    "channel": "BBC News",
+    "published": "2026-10-26T09:00:32+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Who is Gadi Eisenkot? Netanyahu's main rival in Israel's election",
+    "url": "https://www.youtube.com/watch?v=QR7AqhZjGa4",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-26T09:00:05+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "لماذا يلجأ الحوثيون لضرب الأعيان المدنية بعد انكسار الميدان؟ - دائرة الشرق",
+    "url": "https://www.youtube.com/watch?v=YYEw3nD78pM",
+    "channel": "Asharq News",
+    "published": "2026-10-26T09:00:01+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Venezuelan Opposition Leader Returns After 10 Months in Exile",
+    "url": "https://www.youtube.com/watch?v=Vu6OF0rBqsE",
+    "channel": "Al Arabiya English",
+    "published": "2026-10-26T08:50:50+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "How Israel’s 2026 election works and the race to reach 61 seats",
+    "url": "https://www.youtube.com/watch?v=B-OQdTc1nqU",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-26T08:45:27+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Nicki Minaj Floated as Press Secretary by WH Staffer",
+    "url": "https://www.youtube.com/watch?v=IPXVx2pA3wY",
+    "channel": "Al Arabiya English",
+    "published": "2026-10-26T08:42:29+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Lula's 'extraordinary victory' faces growing middle class, deeply-entrenched bolsonarismo & Big Tech",
+    "url": "https://www.youtube.com/watch?v=ww9J1A_unpI",
+    "channel": "FRANCE 24 English",
+    "published": "2026-10-26T08:41:45+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "اليمن.. مشاهد لاستهداف ثكنات عسكرية تابعة للحوثيين",
+    "url": "https://www.youtube.com/watch?v=bfAx99cyIe0",
+    "channel": "Asharq News",
+    "published": "2026-10-26T08:22:04+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Trump makes explicit remarks about Nicki Minaj at Michigan midterm rally | AJ #shorts",
+    "url": "https://www.youtube.com/watch?v=uZpyuicEfP8",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-26T08:20:12+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Lula Thanks Brazilians After Fourth Term Win",
+    "url": "https://www.youtube.com/watch?v=e3B9sH77W8A",
+    "channel": "Al Arabiya English",
+    "published": "2026-10-26T08:03:35+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Israel's shrinking left as right-wing parties dominate the campaign",
+    "url": "https://www.youtube.com/watch?v=jXouB6fTXhQ",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-26T08:02:55+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Sharon Osbourne reflects on Ozzy's final moments: 'He asked me to hold him tight' | BBC News",
+    "url": "https://www.youtube.com/watch?v=K1Ufboz7gZs",
+    "channel": "BBC News",
+    "published": "2026-10-26T07:57:48+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Sharon Osbourne reveals her final moments with Ozzy. #OzzyOsbourne #SharonOsbourne #BBCNews",
+    "url": "https://www.youtube.com/watch?v=pO-M7Hso5Z4",
+    "channel": "BBC News",
+    "published": "2026-10-26T07:57:04+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "ISRAELI POLITICS IN 60 seconds: Ra’am",
+    "url": "https://www.youtube.com/watch?v=GoIfVGXeoRQ",
+    "channel": "i24NEWS English",
+    "published": "2026-10-26T07:36:37+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "ISRAELI POLITICS IN 60 seconds: Shas & United Torah Judaism",
+    "url": "https://www.youtube.com/watch?v=9LPum5VQGZU",
+    "channel": "i24NEWS English",
+    "published": "2026-10-26T07:35:51+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "ISRAELI POLITICS IN 60 seconds: The Democrats",
+    "url": "https://www.youtube.com/watch?v=YyyUkYjJpe0",
+    "channel": "i24NEWS English",
+    "published": "2026-10-26T07:34:53+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "ISRAELI POLITICS IN 60 seconds: Amcha Israel",
+    "url": "https://www.youtube.com/watch?v=1uAjAjI2FDE",
+    "channel": "i24NEWS English",
+    "published": "2026-10-26T07:34:20+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "'An everyday habit': 2.5 billion lines of cocaine snorted in England per year • FRANCE 24 English",
+    "url": "https://www.youtube.com/watch?v=3Zd4DX9X0c0",
+    "channel": "FRANCE 24 English",
+    "published": "2026-10-26T07:33:55+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "هل تؤجل الانتخابات الأميركية والإسرائيلية ضرب إيران؟ - البعد الرابع مع ميراشا غازي 20-10-2026",
+    "url": "https://www.youtube.com/watch?v=aUsFB6i2_uc",
+    "channel": "Asharq News",
+    "published": "2026-10-26T07:30:30+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Footage Shows Hideout of Jordan Church Attackers",
+    "url": "https://www.youtube.com/watch?v=ee7u2_HH5pY",
+    "channel": "Al Arabiya English",
+    "published": "2026-10-26T07:24:53+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "انحراف طائرة ركاب عن المدرج أثناء هبوطها في بريطانيا",
+    "url": "https://www.youtube.com/watch?v=SbbmVo8jb-Q",
+    "channel": "Asharq News",
+    "published": "2026-10-26T07:20:27+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Trump Demands Metal Detectors for El-Sayed at US Capitol",
+    "url": "https://www.youtube.com/watch?v=eawdT5UWYLs",
+    "channel": "Al Arabiya English",
+    "published": "2026-10-26T07:07:18+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Queen Rania consoles families of Karak church attack victims",
+    "url": "https://www.youtube.com/watch?v=e8jOIfuSu8A",
+    "channel": "Arab News",
+    "published": "2026-10-26T06:55:44+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "اصطدام سفينة سياحية بسفينة حاويات في ميناء ألماني",
+    "url": "https://www.youtube.com/watch?v=_hajjt2FhCs",
+    "channel": "Asharq News",
+    "published": "2026-10-26T06:50:46+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Nicki Minaj Shares Video From Aboard Air Force One",
+    "url": "https://www.youtube.com/watch?v=DFZcAxelq_Q",
+    "channel": "Al Arabiya English",
+    "published": "2026-10-26T06:27:20+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Ossoff leads Georgia Senate race as Trump rallies again",
+    "url": "https://www.youtube.com/watch?v=JIam-_LA0EI",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-26T06:20:28+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Real Madrid win Clasico against Barcelona thanks to Mbappé • FRANCE 24 English",
+    "url": "https://www.youtube.com/watch?v=zx70hIFfAOI",
+    "channel": "FRANCE 24 English",
+    "published": "2026-10-26T06:11:15+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Thousands chant 'Free Palestine' at Turnstile concert in Washington DC",
+    "url": "https://www.youtube.com/watch?v=BnNRgc2oyoc",
+    "channel": "Middle East Eye",
+    "published": "2026-10-26T06:03:28+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Prince William leads tributes to Sir Kevin Sinfield in new BBC documentary | BBC News",
+    "url": "https://www.youtube.com/watch?v=xhr_2sylEEc",
+    "channel": "BBC News",
+    "published": "2026-10-26T06:00:11+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "جحيم الـ 753 عملية.. هل بدأت مرحلة السقوط النهائي للمليشيات في مختلف المحاور؟- مساء الشرق",
+    "url": "https://www.youtube.com/watch?v=Qt1higlyn7Q",
+    "channel": "Asharq News",
+    "published": "2026-10-26T06:00:09+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Prince William praises Sir Kevin Sinfield. #MND #Royals #BBCNews",
+    "url": "https://www.youtube.com/watch?v=Q1QN3yyTiX0",
+    "channel": "BBC News",
+    "published": "2026-10-26T06:00:03+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Social video captures moment Brazil's election turned",
+    "url": "https://www.youtube.com/watch?v=jBW9Z-krtLM",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-26T05:01:54+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Bolsonaro calls for Brazil election result to be annulled after defeat. #BBCNews",
+    "url": "https://www.youtube.com/watch?v=2LzdCtUGRHY",
+    "channel": "BBC News",
+    "published": "2026-10-26T04:51:10+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Young Israeli woman calls for the displacement of all Palestinians in the Gaza Strip or death",
+    "url": "https://www.youtube.com/watch?v=abshbFnWlis",
+    "channel": "Middle East Eye",
+    "published": "2026-10-26T04:49:49+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Bolsonaro calls for Brazil election result to be annulled | AJ #shorts",
+    "url": "https://www.youtube.com/watch?v=BqDOxyweOQU",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-26T04:34:43+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Lula wins reelection in Brazil, securing fourth presidential term",
+    "url": "https://www.youtube.com/watch?v=Jv5BJODdkLk",
+    "channel": "Middle East Eye",
+    "published": "2026-10-26T04:34:03+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "هل جن جنون معمر القذافي قبل سقوط نظامه؟",
+    "url": "https://www.youtube.com/watch?v=7BjcE9Y6bwA",
+    "channel": "Asharq News",
+    "published": "2026-10-26T04:10:29+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "حكايا وناس",
+    "url": "https://www.youtube.com/watch?v=0NObJgVgBcA",
+    "channel": "Asharq News",
+    "published": "2026-10-26T04:00:43+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Brazil's President Lula says election win is a 'defeat of lies'. #BBCNews",
+    "url": "https://www.youtube.com/watch?v=NzWqKrp58Vg",
+    "channel": "BBC News",
+    "published": "2026-10-26T03:51:35+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Lula thanks Brazil's youth for historic election win | AJ #shorts",
+    "url": "https://www.youtube.com/watch?v=iqAbT2kkOuk",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-26T03:13:14+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Israeli court protects right of sperm donors to remain anonymous",
+    "url": "https://www.youtube.com/watch?v=jWiZ9fcPpWo",
+    "channel": "i24NEWS English",
+    "published": "2026-10-26T03:00:37+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Brazil's President Lula da Silva beats Flavio Bolsonaro to win re-election • FRANCE 24 English",
+    "url": "https://www.youtube.com/watch?v=gPTnDcSNbnE",
+    "channel": "FRANCE 24 English",
+    "published": "2026-10-26T02:06:27+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Columbian singer stomps on Israeli flag during performance",
+    "url": "https://www.youtube.com/watch?v=N5XJnjeo3tA",
+    "channel": "Middle East Eye",
+    "published": "2026-10-26T01:34:33+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Israel and Greece hold joint naval drills amid Turkish tension",
+    "url": "https://www.youtube.com/watch?v=hWFu3ZQKMSQ",
+    "channel": "i24NEWS English",
+    "published": "2026-10-26T00:00:34+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Albanian PM Rama Vows Fines for Violent Protesters",
+    "url": "https://www.youtube.com/watch?v=pHt9bVMs9-U",
+    "channel": "Al Arabiya English",
+    "published": "2026-10-25T23:31:34+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Baghdad Jewish Museum opens in former Jewish school",
+    "url": "https://www.youtube.com/watch?v=64sEZas9XvE",
+    "channel": "i24NEWS English",
+    "published": "2026-10-25T22:00:38+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Latest polls show no political bloc has enough seats to form a coalition government in Israel",
+    "url": "https://www.youtube.com/watch?v=7IQY98YSwoM",
+    "channel": "i24NEWS English",
+    "published": "2026-10-25T22:00:38+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Israeli soldier assaults elderly Palestinian man",
+    "url": "https://www.youtube.com/watch?v=lUHMOL8Dc0M",
+    "channel": "Middle East Eye",
+    "published": "2026-10-25T21:51:08+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Netanyahu warns Iran against 'disrupting'Israeli elections",
+    "url": "https://www.youtube.com/watch?v=GA8mJSt0NhQ",
+    "channel": "Middle East Eye",
+    "published": "2026-10-25T21:31:27+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Houthis target three sites across Saudi Arabia, killing soldiers",
+    "url": "https://www.youtube.com/watch?v=ZbhaFdXS6xM",
+    "channel": "Middle East Eye",
+    "published": "2026-10-25T21:26:04+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Netanyahu Says Iran May try to Disrupt Election",
+    "url": "https://www.youtube.com/watch?v=GZ4TL-MhmF0",
+    "channel": "Al Arabiya English",
+    "published": "2026-10-25T21:14:07+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Funerals held in Jordan for the victims of unprecedented terror attack on a church",
+    "url": "https://www.youtube.com/watch?v=q-8l6gBhfRk",
+    "channel": "Middle East Eye",
+    "published": "2026-10-25T20:12:41+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "25/10 6PM GMT - 5 Top Stories",
+    "url": "https://www.youtube.com/watch?v=8lfSpJqrFsc",
+    "channel": "Arab News",
+    "published": "2026-10-25T18:10:36+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "25/10 6PM GMT - 5 Top Stories",
+    "url": "https://www.youtube.com/watch?v=-88vh8Hk1vA",
+    "channel": "Arab News",
+    "published": "2026-10-25T18:03:10+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Strike on Gaza university kills three",
+    "url": "https://www.youtube.com/watch?v=Cf4S_U6eNi8",
+    "channel": "Arab News",
+    "published": "2026-10-25T17:15:30+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Queen Rania visits families after deadly church attack",
+    "url": "https://www.youtube.com/watch?v=k38vqld5qKU",
+    "channel": "Arab News",
+    "published": "2026-10-25T16:07:37+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Saudi Crown Prince, Greek prime minister hold talks",
+    "url": "https://www.youtube.com/watch?v=uTLBQ4t88Eo",
+    "channel": "Arab News",
+    "published": "2026-10-25T16:06:38+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Arab League chief Nabil Fahmy meets UN chief Antonio Guterres",
+    "url": "https://www.youtube.com/watch?v=ptZWhf9SaK8",
+    "channel": "Arab News",
+    "published": "2026-10-25T13:46:31+00:00",
+    "topic": "me-region"
+   }
+  ],
+  "golf": [
+   {
+    "title": "LPGA Highlights: 2026 BMW Ladies Championship, Final Round | Golf Channel",
+    "url": "https://www.youtube.com/watch?v=4iPOqyPUp88",
+    "channel": "Golf Channel",
+    "published": "2026-10-25T15:04:49+00:00",
+    "topic": "golf"
+   },
+   {
+    "title": "The sweet emotion of your first win ❤️",
+    "url": "https://www.youtube.com/watch?v=3NSPrgG1jxA",
+    "channel": "PGA TOUR",
+    "published": "2026-10-25T14:25:47+00:00",
+    "topic": "golf"
+   },
+   {
+    "title": "Round 4 Highlights | 2026 Genesis Championship",
+    "url": "https://www.youtube.com/watch?v=bbiK6PWEPAE",
+    "channel": "DP World Tour",
+    "published": "2026-10-25T09:10:29+00:00",
+    "topic": "golf"
+   },
+   {
+    "title": "PGA Tour Champions Highlights: 2026 Stifel Charity Classic, Second Round | Golf Channel",
+    "url": "https://www.youtube.com/watch?v=ALqoFBH2ruM",
+    "channel": "Golf Channel",
+    "published": "2026-10-24T22:00:26+00:00",
+    "topic": "golf"
+   },
+   {
+    "title": "What Happens When Pro Golfers Can't Talk About Golf?",
+    "url": "https://www.youtube.com/watch?v=hqVXV99E00U",
+    "channel": "DP World Tour",
+    "published": "2026-10-24T21:58:38+00:00",
+    "topic": "golf"
+   },
+   {
+    "title": "PGA Tour Highlights | Round 3 | Butterfield Bermuda Championship | 2026",
+    "url": "https://www.youtube.com/watch?v=uikFme16Z7s",
+    "channel": "PGA TOUR",
+    "published": "2026-10-24T20:18:50+00:00",
+    "topic": "golf"
+   },
+   {
+    "title": "PGA Tour Highlights: 2026 Butterfield Bermuda Championship, Third Round | Golf Channel",
+    "url": "https://www.youtube.com/watch?v=rsylqzUA-u8",
+    "channel": "Golf Channel",
+    "published": "2026-10-24T20:15:46+00:00",
+    "topic": "golf"
+   },
+   {
+    "title": "Power from 74!🎯⛳️",
+    "url": "https://www.youtube.com/watch?v=_TW33cmrbmg",
+    "channel": "Golf Channel",
+    "published": "2026-10-24T19:03:37+00:00",
+    "topic": "golf"
+   },
+   {
+    "title": "LPGA Highlights: 2026 BMW Ladies Championship, Third Round | Golf Channel",
+    "url": "https://www.youtube.com/watch?v=Xe6N5nmxUjY",
+    "channel": "Golf Channel",
+    "published": "2026-10-24T15:19:34+00:00",
+    "topic": "golf"
+   },
+   {
+    "title": "Blades Brown is officially headed to the PGA Tour! 👏",
+    "url": "https://www.youtube.com/watch?v=6UpoqjkRQwY",
+    "channel": "PGA TOUR",
+    "published": "2026-10-24T13:34:58+00:00",
+    "topic": "golf"
+   },
+   {
+    "title": "Who will earn a PGA Tour Card?! All-Access to the Korn Ferry Tour Finals | Korn Ferry Presents",
+    "url": "https://www.youtube.com/watch?v=DrWmOVIYOg0",
+    "channel": "PGA TOUR",
+    "published": "2026-10-24T13:30:14+00:00",
+    "topic": "golf"
+   },
+   {
+    "title": "NO LUCK with THIS bounce 😬",
+    "url": "https://www.youtube.com/watch?v=AUqCdRDUVAQ",
+    "channel": "DP World Tour",
+    "published": "2026-10-24T13:00:22+00:00",
+    "topic": "golf"
+   },
+   {
+    "title": "Round 3 Highlights | 2026 Genesis Championship",
+    "url": "https://www.youtube.com/watch?v=18spuHyzivM",
+    "channel": "DP World Tour",
+    "published": "2026-10-24T09:09:45+00:00",
+    "topic": "golf"
+   },
+   {
+    "title": "PGA Tour Highlights: 2026 Butterfield Bermuda Championship, Second Round | Golf Channel",
+    "url": "https://www.youtube.com/watch?v=ykME8VEEiLE",
+    "channel": "Golf Channel",
+    "published": "2026-10-23T21:06:07+00:00",
+    "topic": "golf"
+   },
+   {
+    "title": "PGA Tour Highlights | Round 2 | Butterfield Bermuda Championship | 2026",
+    "url": "https://www.youtube.com/watch?v=r3a5R4qS9zk",
+    "channel": "PGA TOUR",
+    "published": "2026-10-23T21:06:02+00:00",
+    "topic": "golf"
+   },
+   {
+    "title": "Andrea Lee is taking home a bonus MINI from the BMW Ladies Championship in Korea 🚙",
+    "url": "https://www.youtube.com/watch?v=V_RQkIDTcDQ",
+    "channel": "Golf Channel",
+    "published": "2026-10-23T18:54:58+00:00",
+    "topic": "golf"
+   },
+   {
+    "title": "Hole-out ✅ Tip the cap ✅",
+    "url": "https://www.youtube.com/watch?v=YxbF-MpSwUE",
+    "channel": "PGA TOUR",
+    "published": "2026-10-23T14:33:41+00:00",
+    "topic": "golf"
+   },
+   {
+    "title": "LPGA Highlights: 2026 BMW Ladies Championship, Second Round | Golf Channel",
+    "url": "https://www.youtube.com/watch?v=oA4NTzHw27k",
+    "channel": "Golf Channel",
+    "published": "2026-10-23T14:29:32+00:00",
+    "topic": "golf"
+   },
+   {
+    "title": "Rory McIlroy’s bunker HOLE-OUT 🤩",
+    "url": "https://www.youtube.com/watch?v=bbt2PhESdmA",
+    "channel": "DP World Tour",
+    "published": "2026-10-23T13:00:22+00:00",
+    "topic": "golf"
+   },
+   {
+    "title": "Round 2 Highlights | 2026 Genesis Championship",
+    "url": "https://www.youtube.com/watch?v=DgVWMiONaVw",
+    "channel": "DP World Tour",
+    "published": "2026-10-23T12:18:31+00:00",
+    "topic": "golf"
+   },
+   {
+    "title": "PGA Tour Highlights | Round 1 | Butterfield Bermuda Championship | 2026",
+    "url": "https://www.youtube.com/watch?v=gjfX13DgxM8",
+    "channel": "PGA TOUR",
+    "published": "2026-10-22T20:36:13+00:00",
+    "topic": "golf"
+   },
+   {
+    "title": "Even in paradise... Golf is hard 😬",
+    "url": "https://www.youtube.com/watch?v=XT3xOkpyEVI",
+    "channel": "PGA TOUR",
+    "published": "2026-10-22T20:00:32+00:00",
+    "topic": "golf"
+   },
+   {
+    "title": "How to Hit Your Driver Further & Better | A Lesson from a Tour Pro",
+    "url": "https://www.youtube.com/watch?v=EHtTj_5Rvqk",
+    "channel": "DP World Tour",
+    "published": "2026-10-22T16:00:15+00:00",
+    "topic": "golf"
+   },
+   {
+    "title": "Hovland's PERFECT set up! 🤩",
+    "url": "https://www.youtube.com/watch?v=t5rhHBisYbk",
+    "channel": "DP World Tour",
+    "published": "2026-10-22T15:00:16+00:00",
+    "topic": "golf"
+   }
+  ],
+  "rugby": [
+   {
+    "title": "Simply a stunner from Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "url": "https://www.youtube.com/watch?v=9JCabN7Vlsw",
+    "channel": "Six Nations Rugby",
+    "published": "2026-10-26T09:29:42+00:00",
+    "topic": "rugby"
+   },
+   {
+    "title": "Michael Hooper goes whack at #RWC2019 💥",
+    "url": "https://www.youtube.com/watch?v=UG3t5On-Te4",
+    "channel": "World Rugby",
+    "published": "2026-10-25T12:00:17+00:00",
+    "topic": "rugby"
+   },
+   {
+    "title": "Santiago Carreras creating something from nothing! 😮‍💨",
+    "url": "https://www.youtube.com/watch?v=mpsu_f3QmtI",
+    "channel": "World Rugby",
+    "published": "2026-10-24T14:45:28+00:00",
+    "topic": "rugby"
+   },
+   {
+    "title": "Rugby Referee explains the new laws around hip drop tackles | Whistle Watch Presented by Emirates",
+    "url": "https://www.youtube.com/watch?v=zNBCPFe-0-M",
+    "channel": "World Rugby",
+    "published": "2026-10-23T10:32:25+00:00",
+    "topic": "rugby"
+   },
+   {
+    "title": "In the perfect position to cash in for the try 🏉",
+    "url": "https://www.youtube.com/watch?v=C64iSxZqa2c",
+    "channel": "World Rugby",
+    "published": "2026-10-23T10:00:36+00:00",
+    "topic": "rugby"
+   },
+   {
+    "title": "RE-WATCH | England v France | 2023 | A record win in London!",
+    "url": "https://www.youtube.com/watch?v=GNzPcf24dzI",
+    "channel": "Six Nations Rugby",
+    "published": "2026-10-23T08:42:30+00:00",
+    "topic": "rugby"
+   },
+   {
+    "title": "🔴 LIVE | Ireland v Argentina | Nations Championship 2026 | International Rugby Test",
+    "url": "https://www.youtube.com/watch?v=G1w3vDLjVWs",
+    "channel": "World Rugby",
+    "published": "2026-10-22T15:34:16+00:00",
+    "topic": "rugby"
+   },
+   {
+    "title": "🔴 LIVE | France v Fiji | Nations Championship 2026 | International Rugby Test",
+    "url": "https://www.youtube.com/watch?v=w8ToavqWHx4",
+    "channel": "World Rugby",
+    "published": "2026-10-22T15:28:16+00:00",
+    "topic": "rugby"
+   },
+   {
+    "title": "🔴 LIVE | England v Australia | Nations Championship 2026 | International Rugby Test",
+    "url": "https://www.youtube.com/watch?v=VBY2LNTVK-0",
+    "channel": "World Rugby",
+    "published": "2026-10-22T15:20:57+00:00",
+    "topic": "rugby"
+   },
+   {
+    "title": "🔴 LIVE | Wales v New Zealand | Nations Championship 2026 | International Rugby Test",
+    "url": "https://www.youtube.com/watch?v=1Vt3Wl_OuVc",
+    "channel": "World Rugby",
+    "published": "2026-10-22T15:14:03+00:00",
+    "topic": "rugby"
+   },
+   {
+    "title": "Women’s rugby is brutal!",
+    "url": "https://www.youtube.com/watch?v=_9HOoZUl350",
+    "channel": "RugbyPass",
+    "published": "2026-10-22T14:15:58+00:00",
+    "topic": "rugby"
+   },
+   {
+    "title": "The offloads or the hair, not sure what is better 😮‍💨",
+    "url": "https://www.youtube.com/watch?v=_5dm3T8Ek4o",
+    "channel": "Six Nations Rugby",
+    "published": "2026-10-22T12:47:13+00:00",
+    "topic": "rugby"
+   },
+   {
+    "title": "Rugby referee controls the fight",
+    "url": "https://www.youtube.com/watch?v=pQEih5ZTS08",
+    "channel": "RugbyPass",
+    "published": "2026-10-22T10:55:36+00:00",
+    "topic": "rugby"
+   },
+   {
+    "title": "This is USA Rugby’s strongest rugby player 🤯 #rugby #WXVGlobal",
+    "url": "https://www.youtube.com/watch?v=3Thl-NDz6QU",
+    "channel": "RugbyPass",
+    "published": "2026-10-19T17:28:51+00:00",
+    "topic": "rugby"
+   }
+  ],
+  "football": [
+   {
+    "title": "​👀​ Qui va gagner ? Les règles du vote organisé pour élire le Ballon d'Or 2026 #ballondor",
+    "url": "https://www.youtube.com/watch?v=k1LjvP8ozOs",
+    "channel": "L'Équipe",
+    "published": "2026-10-26T09:51:30+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "➡️​ Voici quels ont été les 3 Ballons d'Or les plus serrés depuis 30 ans #ballondor #ballondor2026",
+    "url": "https://www.youtube.com/watch?v=1pnal0O2pRk",
+    "channel": "L'Équipe",
+    "published": "2026-10-26T09:50:11+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "PREMIÈRE HISTORIQUE EN FRANCE ! Les Steelers s’imposent face aux Saints à Paris (résumé)",
+    "url": "https://www.youtube.com/watch?v=QrSqgs84gtE",
+    "channel": "L'Équipe",
+    "published": "2026-10-26T09:39:36+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "Le trail est-il devenu un sport de riches ?",
+    "url": "https://www.youtube.com/watch?v=pVwK2shHTkw",
+    "channel": "L'Équipe",
+    "published": "2026-10-26T09:00:08+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "Loyal fans 🔥",
+    "url": "https://www.youtube.com/watch?v=LrYV0AffzVs",
+    "channel": "ESPN FC",
+    "published": "2026-10-26T01:10:25+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "What a win for Real Madrid 🔥",
+    "url": "https://www.youtube.com/watch?v=uPg7KXWrdOQ",
+    "channel": "ESPN FC",
+    "published": "2026-10-26T01:00:11+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "He knew the massive shift his backup goalkeeper put in on short notice 👏",
+    "url": "https://www.youtube.com/watch?v=XAyaE4Xs88E",
+    "channel": "ESPN FC",
+    "published": "2026-10-26T00:53:16+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "Huge game for the 19-year-old 🤫",
+    "url": "https://www.youtube.com/watch?v=mc8OAYc1EsQ",
+    "channel": "ESPN FC",
+    "published": "2026-10-26T00:51:30+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "FULL REACTION to Real Madrid’s win over Barcelona in El Clasico 🍿 + Man United lose again | ESPN FC",
+    "url": "https://www.youtube.com/watch?v=zLgg4ZIUQBI",
+    "channel": "ESPN FC",
+    "published": "2026-10-26T00:05:17+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "Badminton : HISTORIQUE ! Christo Popov s'offre les Internationaux de France et devient n°1 mondial",
+    "url": "https://www.youtube.com/watch?v=9Ax54bAmIvA",
+    "channel": "L'Équipe",
+    "published": "2026-10-26T00:04:50+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "Arsenal FC vs. Newell’s Old Boys | Messi Cup Highlights | ESPN on Disney+",
+    "url": "https://www.youtube.com/watch?v=HN7svg-OMhQ",
+    "channel": "ESPN FC",
+    "published": "2026-10-25T23:30:11+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "Is Real Madrid back in the LALIGA title race after defeating Barcelona in El Clasico? 👀  | ESPN FC",
+    "url": "https://www.youtube.com/watch?v=BQlopYHmGqU",
+    "channel": "ESPN FC",
+    "published": "2026-10-25T23:25:31+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "An outstanding performance? 🔥 Reacting to Liverpool’s win vs. Brighton | ESPN FC",
+    "url": "https://www.youtube.com/watch?v=3l2mGy7uHWI",
+    "channel": "ESPN FC",
+    "published": "2026-10-25T23:13:13+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "Mbappe bags LATE El Clasico winner! | Barcelona 1-2 Real Madrid | LA Liga",
+    "url": "https://www.youtube.com/watch?v=Ta0T7_H2jWk",
+    "channel": "Sky Sports Football",
+    "published": "2026-10-25T22:51:18+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "Olise scores again in Bayern win! | Freiburg 1-3 Bayern Munich | Bundesliga Highlights",
+    "url": "https://www.youtube.com/watch?v=69PJwGQJgaw",
+    "channel": "Sky Sports Football",
+    "published": "2026-10-25T20:30:36+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "Durán restores Hoops' four-point lead! 🔝 | Hibernian 1-2 Celtic | Scottish Premiership Highlights",
+    "url": "https://www.youtube.com/watch?v=bLdPxrM_weY",
+    "channel": "Sky Sports Football",
+    "published": "2026-10-25T20:02:41+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "Braga and Miller guide Hearts to victory! | Motherwell 0-2 Hearts | Scottish Premiership Highlights",
+    "url": "https://www.youtube.com/watch?v=b_Al2hBt5BE",
+    "channel": "Sky Sports Football",
+    "published": "2026-10-25T20:00:32+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "Inter score 91st and 98th min goals to win it! | Inter 2-1 Fiorentina | Serie A Highlights",
+    "url": "https://www.youtube.com/watch?v=uzNpri15b4c",
+    "channel": "Sky Sports Football",
+    "published": "2026-10-25T15:26:36+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "Did you know competitive bricklaying is a sport?",
+    "url": "https://www.youtube.com/watch?v=w4qJHzORHKw",
+    "channel": "Tifo Sports (The Athletic)",
+    "published": "2026-10-25T14:00:33+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "NFL : Entretien avec Ismaël Camara, le nouveau Wemby du Foot US",
+    "url": "https://www.youtube.com/watch?v=rVGAKOlSIwk",
+    "channel": "L'Équipe",
+    "published": "2026-10-25T11:04:38+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "🥹 L'hommage touchant de Brahim Asloum à Mike Tyson après la sortie de son documentaire #miketyson",
+    "url": "https://www.youtube.com/watch?v=nu4CBxnV3zI",
+    "channel": "L'Équipe",
+    "published": "2026-10-25T11:00:11+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "McTominay scores twice in six-goal thriller! | Napoli 3-3 Roma | Serie A Highlights",
+    "url": "https://www.youtube.com/watch?v=H_S6QJQAuio",
+    "channel": "Sky Sports Football",
+    "published": "2026-10-24T20:36:13+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "Rangers close gap to Celtic! | Rangers 4-0 St. Johnstone | Scottish Premiership Highlights",
+    "url": "https://www.youtube.com/watch?v=jEoqFd16x2I",
+    "channel": "Sky Sports Football",
+    "published": "2026-10-24T20:10:27+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "Badminton : DÉMONSTRATION ! Christo Popov se qualifie en finale face à Zhe An Hu",
+    "url": "https://www.youtube.com/watch?v=gkbpcJAgXnQ",
+    "channel": "L'Équipe",
+    "published": "2026-10-24T18:59:35+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "Two red cards in six goal THRILLER 😱 | Rotherham 3-3 Shrewsbury | EFL Highlights",
+    "url": "https://www.youtube.com/watch?v=Tiu526xDvu0",
+    "channel": "Sky Sports Football",
+    "published": "2026-10-24T17:43:10+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "Why is it called the World Series if it's played in the U.S.?",
+    "url": "https://www.youtube.com/watch?v=n3lb7XHuCyY",
+    "channel": "Tifo Sports (The Athletic)",
+    "published": "2026-10-22T15:03:49+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "Why do NHL teams deliberately remove their goalie?",
+    "url": "https://www.youtube.com/watch?v=j479bF-3JPA",
+    "channel": "Tifo Sports (The Athletic)",
+    "published": "2026-10-19T14:00:25+00:00",
+    "topic": "football"
+   }
+  ],
+  "f1": [
+   {
+    "title": "Why Verstappen and Hadjar are furious with Red Bull",
+    "url": "https://www.youtube.com/watch?v=W0XEirYSv0o",
+    "channel": "The Race",
+    "published": "2026-10-26T04:22:36+00:00",
+    "topic": "f1"
+   },
+   {
+    "title": "Bono Gets Drenched! 🍾",
+    "url": "https://www.youtube.com/watch?v=Cx3tGlLxcCs",
+    "channel": "FORMULA 1",
+    "published": "2026-10-26T02:44:42+00:00",
+    "topic": "f1"
+   },
+   {
+    "title": "Drivers React After The Race | 2026 United States Grand Prix",
+    "url": "https://www.youtube.com/watch?v=q03CkMtY9CE",
+    "channel": "FORMULA 1",
+    "published": "2026-10-26T02:34:20+00:00",
+    "topic": "f1"
+   },
+   {
+    "title": "'Rubbish' Russell searching for answers 😞",
+    "url": "https://www.youtube.com/watch?v=Coq7wv3wIN0",
+    "channel": "The Race",
+    "published": "2026-10-26T01:43:16+00:00",
+    "topic": "f1"
+   },
+   {
+    "title": "LIVE: United States Grand Prix Post-Race Show",
+    "url": "https://www.youtube.com/watch?v=1-YT9_ywVZo",
+    "channel": "FORMULA 1",
+    "published": "2026-10-25T22:58:28+00:00",
+    "topic": "f1"
+   },
+   {
+    "title": "Race Highlights | 2026 United States Grand Prix",
+    "url": "https://www.youtube.com/watch?v=srLm23RUAH0",
+    "channel": "FORMULA 1",
+    "published": "2026-10-25T22:33:34+00:00",
+    "topic": "f1"
+   },
+   {
+    "title": "What A View Of The Race Start 😍",
+    "url": "https://www.youtube.com/watch?v=a_mmSEIVFLk",
+    "channel": "FORMULA 1",
+    "published": "2026-10-25T21:13:07+00:00",
+    "topic": "f1"
+   },
+   {
+    "title": "LIVE: F1 Grid Gigs With Train | 2026 United States Grand Prix",
+    "url": "https://www.youtube.com/watch?v=-UExJTmV0Ag",
+    "channel": "FORMULA 1",
+    "published": "2026-10-25T19:22:14+00:00",
+    "topic": "f1"
+   },
+   {
+    "title": "George's Cunning Plan 🤣",
+    "url": "https://www.youtube.com/watch?v=f-NMB0Fz05A",
+    "channel": "FORMULA 1",
+    "published": "2026-10-25T19:15:27+00:00",
+    "topic": "f1"
+   },
+   {
+    "title": "A Wholesome Year So Far For Charles & Lewis 🥹",
+    "url": "https://www.youtube.com/watch?v=W0Y8OoRRtVE",
+    "channel": "FORMULA 1",
+    "published": "2026-10-25T18:28:37+00:00",
+    "topic": "f1"
+   },
+   {
+    "title": "How F1 polices track limits 🚓",
+    "url": "https://www.youtube.com/watch?v=Jl4GesKw68M",
+    "channel": "The Race",
+    "published": "2026-10-25T09:00:12+00:00",
+    "topic": "f1"
+   },
+   {
+    "title": "Bottas could lose Cadillac F1 seat to Herta 😮",
+    "url": "https://www.youtube.com/watch?v=2fAOZ0XiN4s",
+    "channel": "The Race",
+    "published": "2026-10-24T20:27:08+00:00",
+    "topic": "f1"
+   },
+   {
+    "title": "Newey on 'disappointing' Honda progress 📊",
+    "url": "https://www.youtube.com/watch?v=vUfj3DEoT_E",
+    "channel": "The Race",
+    "published": "2026-10-23T23:22:50+00:00",
+    "topic": "f1"
+   },
+   {
+    "title": "When Gasly pretended to be a NASCAR driver 🇺🇸",
+    "url": "https://www.youtube.com/watch?v=V_XqbD_5ACg",
+    "channel": "The Race",
+    "published": "2026-10-23T19:10:55+00:00",
+    "topic": "f1"
+   },
+   {
+    "title": "FIA's plan for HUGE F1 car weight loss ⚖️",
+    "url": "https://www.youtube.com/watch?v=JM-vcS0HW4M",
+    "channel": "The Race",
+    "published": "2026-10-23T08:17:06+00:00",
+    "topic": "f1"
+   },
+   {
+    "title": "F1's extreme new rules to stop cost cap cheating",
+    "url": "https://www.youtube.com/watch?v=rKTrmM5yfPo",
+    "channel": "The Race",
+    "published": "2026-10-22T13:00:33+00:00",
+    "topic": "f1"
+   }
+  ],
+  "markets": [
+   {
+    "title": "Lula's victory forces investors to rethink Brazil bets | Reuters Morning Bid",
+    "url": "https://www.youtube.com/watch?v=FsaN9RKgLVY",
+    "channel": "Reuters",
+    "published": "2026-10-26T09:43:29+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Johannesburg’s Infrastructure Crisis Puts South Africa’s Investment at Risk",
+    "url": "https://www.youtube.com/watch?v=GMaiW1hFOjA",
+    "channel": "Bloomberg Television",
+    "published": "2026-10-26T09:42:17+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "France's far-right leader Marine Le Pen launches presidency bid",
+    "url": "https://www.youtube.com/watch?v=4sBFZs1zBzc",
+    "channel": "Reuters",
+    "published": "2026-10-26T09:34:44+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Élections de mi-mandat : Trump affaibli par la guerre commerciale",
+    "url": "https://www.youtube.com/watch?v=oLnx4JwAFoM",
+    "channel": "BFM Business",
+    "published": "2026-10-26T09:30:40+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Note de la France inchangée par Moody's : \"C'est un peu lunaire car le marché a déjà tranché\"",
+    "url": "https://www.youtube.com/watch?v=Ngp1M1o3i7o",
+    "channel": "BFM Business",
+    "published": "2026-10-26T09:27:19+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Brazil Election: Lula Wins Fourth Term as Bolsonaro Calls for Annulment",
+    "url": "https://www.youtube.com/watch?v=x_cLfSj29dw",
+    "channel": "Bloomberg Television",
+    "published": "2026-10-26T09:04:23+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Brazil Braces for More Market Turbulence: Market Analysis",
+    "url": "https://www.youtube.com/watch?v=ERZOK53QZLk",
+    "channel": "Bloomberg Television",
+    "published": "2026-10-26T08:42:04+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Brazil election: Lula vows to govern for all after comeback win",
+    "url": "https://www.youtube.com/watch?v=b8HuJWRli-k",
+    "channel": "Reuters",
+    "published": "2026-10-26T08:38:51+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Bolsonaro refuses to concede and demands annulment of Brazil vote",
+    "url": "https://www.youtube.com/watch?v=hhQJ35cc974",
+    "channel": "Reuters",
+    "published": "2026-10-26T08:35:43+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Iran to Meet Regional Leaders as Trump Weighs Next Step",
+    "url": "https://www.youtube.com/watch?v=NSES9rCDDc4",
+    "channel": "Bloomberg Television",
+    "published": "2026-10-26T07:50:11+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Brazil Election: Lula Wins Fourth Term in Surprise Comeback",
+    "url": "https://www.youtube.com/watch?v=fhcQrvhNHp0",
+    "channel": "Bloomberg Television",
+    "published": "2026-10-26T07:49:21+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "French Tech avec Rayan Nezzar, créateur du jeu \"La bataille de l’Élysée\"",
+    "url": "https://www.youtube.com/watch?v=XxmN9WXh530",
+    "channel": "BFM Business",
+    "published": "2026-10-26T07:47:37+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Médecine : Une IA deux fois meilleure qu'un généraliste pour les diagnostics",
+    "url": "https://www.youtube.com/watch?v=8mYua4OZZ4c",
+    "channel": "BFM Business",
+    "published": "2026-10-26T07:45:47+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Dette française : les marchés sous-estiment le risque",
+    "url": "https://www.youtube.com/watch?v=G5GnkL0ULe4",
+    "channel": "BFM Business",
+    "published": "2026-10-26T07:38:24+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Charlie Nunn: 'My biggest concern about the world is we're not strategic enough' | FT #shorts",
+    "url": "https://www.youtube.com/watch?v=pl0NgewCBww",
+    "channel": "Financial Times",
+    "published": "2026-10-26T07:36:27+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Venezuela's opposition leader Machado returns home",
+    "url": "https://www.youtube.com/watch?v=hCzLBf3qjG4",
+    "channel": "Reuters",
+    "published": "2026-10-26T07:32:29+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "USA : Audi va investir 4,2 milliards de dollars pour une usine en Géorgie",
+    "url": "https://www.youtube.com/watch?v=qp2vnnYc0vo",
+    "channel": "BFM Business",
+    "published": "2026-10-26T07:27:51+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "France Avoids Repeat of Violence But Pressure Remains",
+    "url": "https://www.youtube.com/watch?v=zQcJm-O98Vs",
+    "channel": "Bloomberg Television",
+    "published": "2026-10-26T07:25:29+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "\"Les États-Unis représentent près 50% de notre business\" (Thierry Delaporte, Sodexo)",
+    "url": "https://www.youtube.com/watch?v=p-X1NeDrx84",
+    "channel": "BFM Business",
+    "published": "2026-10-26T07:20:39+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Consumers Remain Resilient As Gas Prices Rise 10/26/26",
+    "url": "https://www.youtube.com/watch?v=j2yIHv38fkg",
+    "channel": "CNBC Television",
+    "published": "2026-10-26T07:00:18+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Tensions avant les négocations commerciales",
+    "url": "https://www.youtube.com/watch?v=3PwxGTQjabs",
+    "channel": "BFM Business",
+    "published": "2026-10-26T06:56:57+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Brazil’s Bolsonaro refuses to concede",
+    "url": "https://www.youtube.com/watch?v=CDiV2Skw6W0",
+    "channel": "Reuters",
+    "published": "2026-10-26T06:55:00+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "The infinite career - why we can't retire | FT Working It",
+    "url": "https://www.youtube.com/watch?v=jNvyxJEtKx8",
+    "channel": "Financial Times",
+    "published": "2026-10-26T06:45:25+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Brazil’s Lula vows to govern for all after comeback win",
+    "url": "https://www.youtube.com/watch?v=_B4OgK-Wp2I",
+    "channel": "Reuters",
+    "published": "2026-10-26T06:30:07+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Supporters celebrate Lula's presidential re-election in Brazil",
+    "url": "https://www.youtube.com/watch?v=c1oHmXQCSH8",
+    "channel": "Reuters",
+    "published": "2026-10-26T05:39:26+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Luiz Inácio Lula da Silva wins Brazil election after stunning comeback | FT #shorts",
+    "url": "https://www.youtube.com/watch?v=vp7_bQsJ4gc",
+    "channel": "Financial Times",
+    "published": "2026-10-26T05:33:36+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Moonshot's Latest AI Upgrade Takes on Top-Tier US Models",
+    "url": "https://www.youtube.com/watch?v=IQOlynguqmQ",
+    "channel": "Bloomberg Television",
+    "published": "2026-10-26T05:33:23+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Markets Brace After Lula's Surprise Comeback Win In Brazil Elections",
+    "url": "https://www.youtube.com/watch?v=RFkPGyDhsJI",
+    "channel": "Bloomberg Television",
+    "published": "2026-10-26T05:14:16+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Le business méconnu des préfabriqués",
+    "url": "https://www.youtube.com/watch?v=hxrocwRe0aE",
+    "channel": "Les Echos",
+    "published": "2026-10-25T17:00:01+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Milwaukee Bucks president on airing every Bucks game for free in Wisconsin",
+    "url": "https://www.youtube.com/watch?v=7sPoLCqfIzY",
+    "channel": "CNBC Television",
+    "published": "2026-10-24T13:30:24+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Draymond Green on why the NBA needs dynasties",
+    "url": "https://www.youtube.com/watch?v=Qkm-DnJuRXc",
+    "channel": "CNBC Television",
+    "published": "2026-10-24T13:00:08+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Le PEA : ce que votre banquier ne vous dit pas",
+    "url": "https://www.youtube.com/watch?v=J3qBRSJgzfM",
+    "channel": "Les Echos",
+    "published": "2026-10-24T08:30:30+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Can the world still trust America?  | Martin Wolf on the US midterms | FT",
+    "url": "https://www.youtube.com/watch?v=_t-8qel69PY",
+    "channel": "Financial Times",
+    "published": "2026-10-24T04:00:04+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Mad Money 10/23/26 | Audio Only",
+    "url": "https://www.youtube.com/watch?v=GicC8WBZL1k",
+    "channel": "CNBC Television",
+    "published": "2026-10-23T23:04:06+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "iPhone Duo release is first major test for Apple's push to bring new products to market",
+    "url": "https://www.youtube.com/watch?v=4cJV81F6ts4",
+    "channel": "CNBC Television",
+    "published": "2026-10-23T21:45:23+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Why CoreWeave is in the crosshairs of the AI selloff",
+    "url": "https://www.youtube.com/watch?v=teZeRgRwUQU",
+    "channel": "CNBC Television",
+    "published": "2026-10-23T21:30:29+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Draymond Green on if this is his last year with the Golden State Warriors",
+    "url": "https://www.youtube.com/watch?v=LeKZZakdwh0",
+    "channel": "CNBC Television",
+    "published": "2026-10-23T21:15:06+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "U.S. dropping some Canada tariffs as trade war looms over Maine Senate race",
+    "url": "https://www.youtube.com/watch?v=vt5VpJG_KD0",
+    "channel": "CNBC Television",
+    "published": "2026-10-23T21:00:16+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Le Chili produit moins de cuivre et ça perturbe l'équilibre du marché mondial. Raphaëlle t'explique.",
+    "url": "https://www.youtube.com/watch?v=qgx-D9SAXPk",
+    "channel": "Les Echos",
+    "published": "2026-10-23T17:45:21+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "How Uber explains the Brazilian election | FT #shorts",
+    "url": "https://www.youtube.com/watch?v=eFWZTiwXmL8",
+    "channel": "Financial Times",
+    "published": "2026-10-23T17:00:05+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Andy Burnham’s first Budget: what to expect | FT #shorts",
+    "url": "https://www.youtube.com/watch?v=I-W_d_3lHJ8",
+    "channel": "Financial Times",
+    "published": "2026-10-23T13:59:24+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Les Pokémon sont-ils vraiment aussi forts que Nvidia ? Raphaëlle t'explique.",
+    "url": "https://www.youtube.com/watch?v=LRum_pIs0Dc",
+    "channel": "Les Echos",
+    "published": "2026-10-23T08:30:20+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Can anyone beat Netanyahu? | FT #shorts",
+    "url": "https://www.youtube.com/watch?v=ojszwZ_T3uo",
+    "channel": "Financial Times",
+    "published": "2026-10-23T07:17:56+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "[Podcast] · DZ Mafia : les dessous du business du crime",
+    "url": "https://www.youtube.com/watch?v=jSb2A8hgjEY",
+    "channel": "Les Echos",
+    "published": "2026-10-22T23:08:14+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Could a third world war really happen? | FT #shorts",
+    "url": "https://www.youtube.com/watch?v=G1EyUKM1hek",
+    "channel": "Financial Times",
+    "published": "2026-10-22T19:00:19+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Le taux d’emprunt de la France s’envole. Pauline t'explique.",
+    "url": "https://www.youtube.com/watch?v=owbTPm95MIA",
+    "channel": "Les Echos",
+    "published": "2026-10-22T17:00:06+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Le PDG de Ryanair prédit une envolée « historique » des prix des billets d’avion. Olivier t'explique",
+    "url": "https://www.youtube.com/watch?v=gmDHfDjKYew",
+    "channel": "Les Echos",
+    "published": "2026-10-22T08:30:18+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Pourquoi ces quelques fleurs valent 22 millions d’euros ? Raphaëlle t'explique.",
+    "url": "https://www.youtube.com/watch?v=bChfIYMVvPk",
+    "channel": "Les Echos",
+    "published": "2026-10-21T16:30:20+00:00",
+    "topic": "markets"
+   }
+  ],
+  "ai-semis": [
+   {
+    "title": "How Linux (and Windows) Ate UNIX",
+    "url": "https://www.youtube.com/watch?v=ksx5g5WvAIw",
+    "channel": "Asianometry",
+    "published": "2026-10-25T23:00:15+00:00",
+    "topic": "ai-semis"
+   },
+   {
+    "title": "Y2K Created a Software Export Gold Rush",
+    "url": "https://www.youtube.com/watch?v=RMoEgchfDmg",
+    "channel": "Asianometry",
+    "published": "2026-10-24T19:00:36+00:00",
+    "topic": "ai-semis"
+   },
+   {
+    "title": "Why IBM Walked Out of India",
+    "url": "https://www.youtube.com/watch?v=zXlit97fLds",
+    "channel": "Asianometry",
+    "published": "2026-10-22T22:00:18+00:00",
+    "topic": "ai-semis"
+   }
+  ],
+  "transport": [
+   {
+    "title": "FreightWaves Today | October 23",
+    "url": "https://www.youtube.com/watch?v=X1XN4MZNsVg",
+    "channel": "FreightWaves",
+    "published": "2026-10-24T06:04:29+00:00",
+    "topic": "transport"
+   },
+   {
+    "title": "FreightWaves Today | October 23",
+    "url": "https://www.youtube.com/watch?v=KrleFE1-Jdw",
+    "channel": "FreightWaves",
+    "published": "2026-10-24T05:16:33+00:00",
+    "topic": "transport"
+   },
+   {
+    "title": "FreightWaves Today | October 23",
+    "url": "https://www.youtube.com/watch?v=YsAWETK0uVI",
+    "channel": "FreightWaves",
+    "published": "2026-10-23T19:58:27+00:00",
+    "topic": "transport"
+   },
+   {
+    "title": "Freight Brokers on the Hook for $700M+? | Freight Expectations",
+    "url": "https://www.youtube.com/watch?v=QTQCrPdQ_ow",
+    "channel": "FreightWaves",
+    "published": "2026-10-23T18:56:32+00:00",
+    "topic": "transport"
+   },
+   {
+    "title": "FreightWaves Today | October 23",
+    "url": "https://www.youtube.com/watch?v=wh5c4QnZPiQ",
+    "channel": "FreightWaves",
+    "published": "2026-10-23T18:02:12+00:00",
+    "topic": "transport"
+   },
+   {
+    "title": "FreightWaves Today | October 23",
+    "url": "https://www.youtube.com/watch?v=-iHuFtiiyvU",
+    "channel": "FreightWaves",
+    "published": "2026-10-23T17:35:21+00:00",
+    "topic": "transport"
+   },
+   {
+    "title": "How Much Do Rejected Loads REALLY Cost Shippers?",
+    "url": "https://www.youtube.com/watch?v=jpYupE5QUTw",
+    "channel": "FreightWaves",
+    "published": "2026-10-23T17:13:50+00:00",
+    "topic": "transport"
+   },
+   {
+    "title": "Trucking's \"Ruthless\" vs. \"Conservative:\" Who's Winning?",
+    "url": "https://www.youtube.com/watch?v=LXQS2xA7NqQ",
+    "channel": "FreightWaves",
+    "published": "2026-10-23T16:59:12+00:00",
+    "topic": "transport"
+   }
+  ],
+  "aerospace": [
+   {
+    "title": "Booster 22 FIRES UP ahead of Flight 15 - Starbase Summary",
+    "url": "https://www.youtube.com/watch?v=-JqfrRfbCs8",
+    "channel": "NASASpaceflight",
+    "published": "2026-10-25T22:00:09+00:00",
+    "topic": "aerospace"
+   },
+   {
+    "title": "SpaceX conducts Static Fire of Booster 22",
+    "url": "https://www.youtube.com/watch?v=BlyqwOjCJzA",
+    "channel": "NASASpaceflight",
+    "published": "2026-10-25T15:22:15+00:00",
+    "topic": "aerospace"
+   },
+   {
+    "title": "What is THIS? - The Flame Trench",
+    "url": "https://www.youtube.com/watch?v=1ByV3smKHBU",
+    "channel": "NASASpaceflight",
+    "published": "2026-10-24T00:47:45+00:00",
+    "topic": "aerospace"
+   },
+   {
+    "title": "Jared Isaacman Provides an Update on Artemis Acceleration Plans",
+    "url": "https://www.youtube.com/watch?v=f7ioFzmV91s",
+    "channel": "NASASpaceflight",
+    "published": "2026-10-23T20:42:02+00:00",
+    "topic": "aerospace"
+   },
+   {
+    "title": "Rethinking networks in space with Aalyria’s Brian Barritt",
+    "url": "https://www.youtube.com/watch?v=50H2Uqed8NA",
+    "channel": "SpaceNews",
+    "published": "2026-10-23T19:04:19+00:00",
+    "topic": "aerospace"
+   },
+   {
+    "title": "Acting Army Secretary Adam Telle says managing test ranges is now much easier. Here's why. #AUSA2026",
+    "url": "https://www.youtube.com/watch?v=octfdlY26tw",
+    "channel": "Breaking Defense",
+    "published": "2026-10-23T18:38:24+00:00",
+    "topic": "aerospace"
+   },
+   {
+    "title": "Japan Launches To Phobos, Rocket Lab Delays, SpaceX Flies Car - Deep Space Updates October 22",
+    "url": "https://www.youtube.com/watch?v=FGAVQgpt76w",
+    "channel": "Scott Manley",
+    "published": "2026-10-23T15:46:48+00:00",
+    "topic": "aerospace"
+   },
+   {
+    "title": "Pad 2 is getting ready for flight.. and two catches! - Starbase Summary",
+    "url": "https://www.youtube.com/watch?v=5NPgyfCRg5A",
+    "channel": "NASASpaceflight",
+    "published": "2026-10-23T03:08:02+00:00",
+    "topic": "aerospace"
+   },
+   {
+    "title": "The First Spaceship Named After A Comic Book Character?",
+    "url": "https://www.youtube.com/watch?v=TS6T4fQFiek",
+    "channel": "Scott Manley",
+    "published": "2026-10-22T16:40:20+00:00",
+    "topic": "aerospace"
+   },
+   {
+    "title": "Elon Says SpaceX Is Go For Double Catch | Starship Update",
+    "url": "https://www.youtube.com/watch?v=jpmXdGzy4gk",
+    "channel": "NASASpaceflight",
+    "published": "2026-10-21T23:06:10+00:00",
+    "topic": "aerospace"
+   },
+   {
+    "title": "Army CTO Alex Miller describes big changes at the Drone Marketplace over the past year.",
+    "url": "https://www.youtube.com/watch?v=4pjkV3-B0rA",
+    "channel": "Breaking Defense",
+    "published": "2026-10-21T23:00:10+00:00",
+    "topic": "aerospace"
+   },
+   {
+    "title": "Soon Becoming Reality? Starship Catch At Starbase! #spacex #starship #elonmusk",
+    "url": "https://www.youtube.com/watch?v=4UpRUQfczpg",
+    "channel": "NASASpaceflight",
+    "published": "2026-10-21T22:40:34+00:00",
+    "topic": "aerospace"
+   },
+   {
+    "title": "Why US Army leaders are in a holding pattern for now... | The Weekly Break Out | Breaking Defense",
+    "url": "https://www.youtube.com/watch?v=pUnmQXI7dJc",
+    "channel": "Breaking Defense",
+    "published": "2026-10-21T19:00:14+00:00",
+    "topic": "aerospace"
+   },
+   {
+    "title": "Army’s tech chief talks autonomy, acquisition and the future of drones",
+    "url": "https://www.youtube.com/watch?v=vUuwbeWf2uw",
+    "channel": "Breaking Defense",
+    "published": "2026-10-21T14:30:15+00:00",
+    "topic": "aerospace"
+   },
+   {
+    "title": "Finding the adversary’s hidden signals is the Army’s next electromagnetic warfare challenge",
+    "url": "https://www.youtube.com/watch?v=_Zfm0KcLqzY",
+    "channel": "Breaking Defense",
+    "published": "2026-10-20T22:15:49+00:00",
+    "topic": "aerospace"
+   },
+   {
+    "title": "Drones take over AUSA, plus the Army’s plan to bring in new vendors",
+    "url": "https://www.youtube.com/watch?v=PJEENVQ6AZg",
+    "channel": "Breaking Defense",
+    "published": "2026-10-20T14:22:28+00:00",
+    "topic": "aerospace"
+   },
+   {
+    "title": "At least one key lawmaker is promising faster aid to Ukraine — if Dems win the House in November.",
+    "url": "https://www.youtube.com/watch?v=_qLtE13v6QU",
+    "channel": "Breaking Defense",
+    "published": "2026-10-20T14:17:08+00:00",
+    "topic": "aerospace"
+   },
+   {
+    "title": "SpaceX Launches Falcon 9 with Bandwagon-5",
+    "url": "https://www.youtube.com/watch?v=8t6CQp9-bpk",
+    "channel": "NASASpaceflight",
+    "published": "2026-10-20T11:42:45+00:00",
+    "topic": "aerospace"
+   }
+  ],
+  "minerals": [
+   {
+    "title": "Lithium carbonate falls to $15.30/kg | Benchmark Mineral Intelligence LME Week Update",
+    "url": "https://www.youtube.com/watch?v=5zV6RN-SkY4",
+    "channel": "Benchmark Mineral Intelligence",
+    "published": "2026-10-22T16:25:39+00:00",
+    "topic": "minerals"
+   }
+  ],
   "energy": [],
-  "crypto": [],
-  "tennis": [],
-  "luxury": [],
-  "robotics": [],
-  "us": [],
-  "europe": [],
-  "brics": []
+  "crypto": [
+   {
+    "title": "Bitcoin: Bears Regaining Control",
+    "url": "https://www.youtube.com/watch?v=bWdXPK3Hlok",
+    "channel": "Into the Cryptoverse (Benjamin Cowen)",
+    "published": "2026-10-25T22:24:26+00:00",
+    "topic": "crypto"
+   },
+   {
+    "title": "Bitcoin: A Precarious Position",
+    "url": "https://www.youtube.com/watch?v=eN6dpreDIk4",
+    "channel": "Into the Cryptoverse (Benjamin Cowen)",
+    "published": "2026-10-24T00:47:58+00:00",
+    "topic": "crypto"
+   },
+   {
+    "title": "Investing Through The Cycles Conference",
+    "url": "https://www.youtube.com/watch?v=W6iabSsJ_x8",
+    "channel": "Into the Cryptoverse (Benjamin Cowen)",
+    "published": "2026-10-23T22:56:14+00:00",
+    "topic": "crypto"
+   },
+   {
+    "title": "Polymarket Fires CMO Over Fake-Trades Scandal",
+    "url": "https://www.youtube.com/watch?v=_6O8fwgnd4Q",
+    "channel": "CoinDesk",
+    "published": "2026-10-23T16:00:11+00:00",
+    "topic": "crypto"
+   },
+   {
+    "title": "Stablecoins Causing Bank Deposit Flight Is 'Mathematically Not Possible' Says CEO",
+    "url": "https://www.youtube.com/watch?v=nI0guWw48s8",
+    "channel": "CoinDesk",
+    "published": "2026-10-23T15:00:37+00:00",
+    "topic": "crypto"
+   },
+   {
+    "title": "China Moves to Seize 61,800 Bitcoin in $5.7B Fraud Case",
+    "url": "https://www.youtube.com/watch?v=j1_MraUHXPI",
+    "channel": "CoinDesk",
+    "published": "2026-10-22T15:34:16+00:00",
+    "topic": "crypto"
+   },
+   {
+    "title": "Bitcoin Bull Market Support Band",
+    "url": "https://www.youtube.com/watch?v=KZ1Jro92t48",
+    "channel": "Into the Cryptoverse (Benjamin Cowen)",
+    "published": "2026-10-22T14:32:40+00:00",
+    "topic": "crypto"
+   },
+   {
+    "title": "NFA LIVE: Bitcoin Breaks $82K Support as Everything Sells Off.",
+    "url": "https://www.youtube.com/watch?v=dBcJ4VJeFA8",
+    "channel": "Into the Cryptoverse (Benjamin Cowen)",
+    "published": "2026-10-22T13:34:05+00:00",
+    "topic": "crypto"
+   },
+   {
+    "title": "Upbit Explores U.S. Market After Meetings With SEC and CFTC Chairs",
+    "url": "https://www.youtube.com/watch?v=1G4Hs04PoR4",
+    "channel": "CoinDesk",
+    "published": "2026-10-22T12:00:08+00:00",
+    "topic": "crypto"
+   },
+   {
+    "title": "The Market Doesn't Seem To Think There Will Be A Rate Hike In October",
+    "url": "https://www.youtube.com/watch?v=DyAcYp0hklU",
+    "channel": "Into the Cryptoverse (Benjamin Cowen)",
+    "published": "2026-10-22T02:24:05+00:00",
+    "topic": "crypto"
+   },
+   {
+    "title": "Bitcoin Hovers Above $83k",
+    "url": "https://www.youtube.com/watch?v=oYPawyUxnnE",
+    "channel": "Into the Cryptoverse (Benjamin Cowen)",
+    "published": "2026-10-21T20:04:34+00:00",
+    "topic": "crypto"
+   },
+   {
+    "title": "Why Banks Can't Move Beyond Blockchain Pilots, According to Matter Labs",
+    "url": "https://www.youtube.com/watch?v=kp7mW2ByVDE",
+    "channel": "CoinDesk",
+    "published": "2026-10-21T17:31:40+00:00",
+    "topic": "crypto"
+   },
+   {
+    "title": "Musk Floats SpaceX-Tesla Merger With 30,000 Bitcoin",
+    "url": "https://www.youtube.com/watch?v=PdH0hERf064",
+    "channel": "CoinDesk",
+    "published": "2026-10-21T15:50:00+00:00",
+    "topic": "crypto"
+   },
+   {
+    "title": "South Korean Lawmakers Seek Lessons From U.S. GENIUS Act, Former White House Advisor Says",
+    "url": "https://www.youtube.com/watch?v=_iKFstztvYs",
+    "channel": "CoinDesk",
+    "published": "2026-10-21T12:00:39+00:00",
+    "topic": "crypto"
+   },
+   {
+    "title": "JPMorgan Says Bitcoin Will Beat Stocks, Bonds and Gold",
+    "url": "https://www.youtube.com/watch?v=h31e8hRS7-o",
+    "channel": "CoinDesk",
+    "published": "2026-10-20T16:05:36+00:00",
+    "topic": "crypto"
+   },
+   {
+    "title": "Oil Prices Keep Rising, Is a Market Correction Coming",
+    "url": "https://www.youtube.com/watch?v=Z8NVlmD2hs8",
+    "channel": "Into the Cryptoverse (Benjamin Cowen)",
+    "published": "2026-10-19T23:25:32+00:00",
+    "topic": "crypto"
+   }
+  ],
+  "tennis": [
+   {
+    "title": "Jan-Lennard Struff vs Tallon Griekspoor For The Title 🏆 | Brussels 2026 Final Highlights",
+    "url": "https://www.youtube.com/watch?v=5QJhIZiwxYc",
+    "channel": "Tennis TV",
+    "published": "2026-10-25T18:10:44+00:00",
+    "topic": "tennis"
+   },
+   {
+    "title": "Tallon TRUIMPHS in Brussels 🥳🏆",
+    "url": "https://www.youtube.com/watch?v=8U7fvAcbJJI",
+    "channel": "Tennis TV",
+    "published": "2026-10-25T18:08:41+00:00",
+    "topic": "tennis"
+   },
+   {
+    "title": "Musetti Claims Third Career Title! 🏆🏆🏆",
+    "url": "https://www.youtube.com/watch?v=V8EK4ImxXcE",
+    "channel": "Tennis TV",
+    "published": "2026-10-25T16:11:19+00:00",
+    "topic": "tennis"
+   },
+   {
+    "title": "Lorenzo Musetti vs Taylor Fritz Title Match 🏆 | Lyon 2026 Final Highlights",
+    "url": "https://www.youtube.com/watch?v=p4kd_M0zk9I",
+    "channel": "Tennis TV",
+    "published": "2026-10-25T15:37:46+00:00",
+    "topic": "tennis"
+   },
+   {
+    "title": "Jannik Sinner vs Ben Shelton Heavy-Hitting First Round 💥 | Vienna 2023 Highlights",
+    "url": "https://www.youtube.com/watch?v=zM_h7emxU4E",
+    "channel": "Tennis TV",
+    "published": "2026-10-25T15:30:03+00:00",
+    "topic": "tennis"
+   },
+   {
+    "title": "Musetti Is The Lyon Champion! 🏆",
+    "url": "https://www.youtube.com/watch?v=SaemNuNII-Y",
+    "channel": "Tennis TV",
+    "published": "2026-10-25T15:24:17+00:00",
+    "topic": "tennis"
+   },
+   {
+    "title": "Daniil Medvedev vs Nikoloz Basilashvili For The Title 🏆 | Almaty 2026 Final Highlights",
+    "url": "https://www.youtube.com/watch?v=caCEoWln_aU",
+    "channel": "Tennis TV",
+    "published": "2026-10-25T12:53:13+00:00",
+    "topic": "tennis"
+   },
+   {
+    "title": "Medvedev Wins Almaty! 🏆",
+    "url": "https://www.youtube.com/watch?v=JpcZNath2lk",
+    "channel": "Tennis TV",
+    "published": "2026-10-25T12:40:36+00:00",
+    "topic": "tennis"
+   }
+  ],
+  "luxury": [
+   {
+    "title": "How to Measure the Marketing Impact of Desirability | BoF LIVE",
+    "url": "https://www.youtube.com/watch?v=ElEl4B0eD6g",
+    "channel": "Business of Fashion",
+    "published": "2026-10-22T16:24:01+00:00",
+    "topic": "luxury"
+   }
+  ],
+  "robotics": [
+   {
+    "title": "Microducks Took Over GTC Berlin #NVIDIAGTC #Robots #Microducks",
+    "url": "https://www.youtube.com/watch?v=MLHcSiNVIto",
+    "channel": "NVIDIA",
+    "published": "2026-10-25T23:00:08+00:00",
+    "topic": "robotics"
+   },
+   {
+    "title": "Favorite Robot at GTC Berlin #nvidiagtc #robots #robotics",
+    "url": "https://www.youtube.com/watch?v=nSjyyZEtYEg",
+    "channel": "NVIDIA",
+    "published": "2026-10-25T19:37:57+00:00",
+    "topic": "robotics"
+   },
+   {
+    "title": "Jensen Huang’s Keynote Highlights at NVIDIA GTC Berlin 2026",
+    "url": "https://www.youtube.com/watch?v=rF1EsryCAwc",
+    "channel": "NVIDIA",
+    "published": "2026-10-25T17:10:16+00:00",
+    "topic": "robotics"
+   },
+   {
+    "title": "NVIDIA GTC Berlin 2026 | Live Keynote Pregame",
+    "url": "https://www.youtube.com/watch?v=rySnll4sgu4",
+    "channel": "NVIDIA",
+    "published": "2026-10-24T10:42:33+00:00",
+    "topic": "robotics"
+   },
+   {
+    "title": "A New Look for Minecraft: Java Edition with NVIDIA RTX Remix",
+    "url": "https://www.youtube.com/watch?v=a7cnTxoV3v0",
+    "channel": "NVIDIA",
+    "published": "2026-10-23T22:26:51+00:00",
+    "topic": "robotics"
+   },
+   {
+    "title": "NVIDIA Halos SAFE: Autonomous Vehicle Safety Evaluation From Road Testing to Simulation",
+    "url": "https://www.youtube.com/watch?v=c_igmkuu0sI",
+    "channel": "NVIDIA",
+    "published": "2026-10-23T20:44:58+00:00",
+    "topic": "robotics"
+   },
+   {
+    "title": "Accelerating Robot Development With AI Agents and NVIDIA Isaac",
+    "url": "https://www.youtube.com/watch?v=roUZ7_Rsf5c",
+    "channel": "NVIDIA",
+    "published": "2026-10-23T20:44:08+00:00",
+    "topic": "robotics"
+   },
+   {
+    "title": "How Nokia and NVIDIA Are Accelerating the Future of AI-Native Networks",
+    "url": "https://www.youtube.com/watch?v=W3fUEVcaXwg",
+    "channel": "NVIDIA",
+    "published": "2026-10-23T17:00:03+00:00",
+    "topic": "robotics"
+   }
+  ],
+  "us": [
+   {
+    "title": "Brazilian President Lula wins historic fourth term",
+    "url": "https://www.youtube.com/watch?v=WYq85vYtkNk",
+    "channel": "NBC News",
+    "published": "2026-10-26T08:56:46+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "NFL game kicks off in Paris amid massive protests",
+    "url": "https://www.youtube.com/watch?v=wZcWNPNOCgU",
+    "channel": "NBC News",
+    "published": "2026-10-26T07:46:14+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Fire at Oregon seafood plant prompts evacuations",
+    "url": "https://www.youtube.com/watch?v=RwhBGdrUrc8",
+    "channel": "NBC News",
+    "published": "2026-10-26T07:04:19+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Paris police answer rioting, violence with force as Americans visit for Steelers-Saints game",
+    "url": "https://www.youtube.com/watch?v=p8NCDwuQ1ig",
+    "channel": "CBS News",
+    "published": "2026-10-26T01:28:42+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Serbian student-led movement celebrates election result",
+    "url": "https://www.youtube.com/watch?v=EUzG9US68lc",
+    "channel": "NBC News",
+    "published": "2026-10-26T00:23:46+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Trump campaigns in Michigan, joined by Nicki Minaj",
+    "url": "https://www.youtube.com/watch?v=dLhEekpKNHc",
+    "channel": "CBS News",
+    "published": "2026-10-26T00:04:13+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Israel faces historic election as crowds gather in Tel Aviv against Netanyahu",
+    "url": "https://www.youtube.com/watch?v=78N_GFWdXtE",
+    "channel": "CBS News",
+    "published": "2026-10-26T00:01:51+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "NBC Nightly News Full Episode - Oct. 25",
+    "url": "https://www.youtube.com/watch?v=-ruULCHm9eQ",
+    "channel": "NBC News",
+    "published": "2026-10-25T23:50:02+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Trump and Obama rally supporters in key battleground states ahead of midterms",
+    "url": "https://www.youtube.com/watch?v=6CLDvqUhGQA",
+    "channel": "NBC News",
+    "published": "2026-10-25T23:28:12+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Voters sound off about the economy ahead of critical midterm elections",
+    "url": "https://www.youtube.com/watch?v=M9q8BEHqtmI",
+    "channel": "NBC News",
+    "published": "2026-10-25T23:27:35+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Good News: Retired custodian surprised with new school named in her honor",
+    "url": "https://www.youtube.com/watch?v=c3hLqriqViU",
+    "channel": "NBC News",
+    "published": "2026-10-25T23:27:28+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Officer who shot and killed 1-year-old boy has resigned",
+    "url": "https://www.youtube.com/watch?v=fI733MhOWdU",
+    "channel": "PBS NewsHour",
+    "published": "2026-10-25T18:00:24+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "The problem with Trump seeing Putin as a partner",
+    "url": "https://www.youtube.com/watch?v=Jw5r8x0G2oI",
+    "channel": "PBS NewsHour",
+    "published": "2026-10-25T17:00:15+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Why doctors are campaigning to reduce gun violence",
+    "url": "https://www.youtube.com/watch?v=bsvKjUvUPKg",
+    "channel": "PBS NewsHour",
+    "published": "2026-10-25T16:00:28+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Obama campaigns for Democrats in Ohio and Michigan as early voting opens in several states",
+    "url": "https://www.youtube.com/watch?v=jM70lfzHS0w",
+    "channel": "CBS News",
+    "published": "2026-10-25T01:34:39+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "High tides set to worsen flooding from storms along West Coast",
+    "url": "https://www.youtube.com/watch?v=buAw3MTyzaw",
+    "channel": "CBS News",
+    "published": "2026-10-25T01:33:10+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Meet the volunteers helping adults navigate their health",
+    "url": "https://www.youtube.com/watch?v=76LcDoehtic",
+    "channel": "CBS News",
+    "published": "2026-10-24T22:38:59+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Small businesses struggling with inflation amid Trump tariffs ahead of midterms",
+    "url": "https://www.youtube.com/watch?v=uM5sQJ9AiEQ",
+    "channel": "CBS News",
+    "published": "2026-10-24T22:15:14+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Company says these smart insoles could help avid runners avoid injury",
+    "url": "https://www.youtube.com/watch?v=N90xtYqdGvI",
+    "channel": "CBS News",
+    "published": "2026-10-24T22:02:22+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Trump lifts some Canada tariffs ahead of midterms",
+    "url": "https://www.youtube.com/watch?v=eFehHl1HmAY",
+    "channel": "PBS NewsHour",
+    "published": "2026-10-24T19:30:21+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Melania Trump brokers ceasefire in Ukrainian city",
+    "url": "https://www.youtube.com/watch?v=cOtWI1nzDOo",
+    "channel": "PBS NewsHour",
+    "published": "2026-10-24T18:00:36+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "'Corrupt' regimes find influence in Trump's D.C.",
+    "url": "https://www.youtube.com/watch?v=nER0R6p6yVw",
+    "channel": "PBS NewsHour",
+    "published": "2026-10-24T17:00:25+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Reframing gun violence as a public health concern",
+    "url": "https://www.youtube.com/watch?v=GXrysKzyY1M",
+    "channel": "PBS NewsHour",
+    "published": "2026-10-24T16:00:12+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Israeli military says 2 soldiers were killed in West Bank",
+    "url": "https://www.youtube.com/watch?v=4NfwfmKmXBM",
+    "channel": "PBS NewsHour",
+    "published": "2026-10-24T15:45:24+00:00",
+    "topic": "us"
+   }
+  ],
+  "europe": [
+   {
+    "title": "Brazil: What challenges await Lula in his fourth term as president? • FRANCE 24 English",
+    "url": "https://www.youtube.com/watch?v=OBl9XTeECsg",
+    "channel": "FRANCE 24 English",
+    "published": "2026-10-26T09:46:35+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Brazil's Lula wins historic fourth term • FRANCE 24 English",
+    "url": "https://www.youtube.com/watch?v=qjSNU9Dl-50",
+    "channel": "FRANCE 24 English",
+    "published": "2026-10-26T09:44:57+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Serbia's student movement ousts longtime leader Vucic in parliament poll • FRANCE 24 English",
+    "url": "https://www.youtube.com/watch?v=bEzRYOgc2go",
+    "channel": "FRANCE 24 English",
+    "published": "2026-10-26T09:41:13+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Brazil's Lula seals re-election in surprise win • FRANCE 24 English",
+    "url": "https://www.youtube.com/watch?v=PHGPWzIupdc",
+    "channel": "FRANCE 24 English",
+    "published": "2026-10-26T09:33:24+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Paris protests restricted as Le Pen launches presidential bid",
+    "url": "https://www.youtube.com/watch?v=sp1XxAFOcRA",
+    "channel": "euronews",
+    "published": "2026-10-26T09:17:16+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Storm Boelo clean-up begins as thousands left without power in UK | BBC News",
+    "url": "https://www.youtube.com/watch?v=5xGNe6vBa_w",
+    "channel": "BBC News",
+    "published": "2026-10-26T09:08:59+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Doctors told Ozzy not to do his final show, he said 'I'm doing it'. #OzzyOsbourne #BBCNews",
+    "url": "https://www.youtube.com/watch?v=Yxfi5F_RpMM",
+    "channel": "BBC News",
+    "published": "2026-10-26T09:00:32+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Crowds and colour in central Belgrade as Vucic dethroned",
+    "url": "https://www.youtube.com/watch?v=k4JCHdanvrw",
+    "channel": "euronews",
+    "published": "2026-10-26T08:48:23+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Lula's 'extraordinary victory' faces growing middle class, deeply-entrenched bolsonarismo & Big Tech",
+    "url": "https://www.youtube.com/watch?v=ww9J1A_unpI",
+    "channel": "FRANCE 24 English",
+    "published": "2026-10-26T08:41:45+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Celebrations in Serbia after elections",
+    "url": "https://www.youtube.com/watch?v=_-3zZgQyRzs",
+    "channel": "DW News",
+    "published": "2026-10-26T08:39:07+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Israel is 'on its way become normal again', says former prime minister Ehud Olmert",
+    "url": "https://www.youtube.com/watch?v=x6lx3TlGjGw",
+    "channel": "euronews",
+    "published": "2026-10-26T08:29:28+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "'Extraordinary historical moment' in Serbian democracy, following Vučić defeat",
+    "url": "https://www.youtube.com/watch?v=ubYS1KzFhP0",
+    "channel": "euronews",
+    "published": "2026-10-26T08:18:36+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Ehud Olmert: Netanyahu’s future could be a disaster for Israel.",
+    "url": "https://www.youtube.com/watch?v=9H-dQHqHcfo",
+    "channel": "euronews",
+    "published": "2026-10-26T08:17:02+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Can socialization fix Berlin’s housing crisis? | DW News",
+    "url": "https://www.youtube.com/watch?v=cFo2LuG4IPA",
+    "channel": "DW News",
+    "published": "2026-10-26T08:00:32+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Europe Today: Serbia’s students topple Vučić as Israel braces for crucial election",
+    "url": "https://www.youtube.com/watch?v=wapNddUyen8",
+    "channel": "euronews",
+    "published": "2026-10-26T08:00:31+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Sharon Osbourne reflects on Ozzy's final moments: 'He asked me to hold him tight' | BBC News",
+    "url": "https://www.youtube.com/watch?v=K1Ufboz7gZs",
+    "channel": "BBC News",
+    "published": "2026-10-26T07:57:48+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Sharon Osbourne reveals her final moments with Ozzy. #OzzyOsbourne #SharonOsbourne #BBCNews",
+    "url": "https://www.youtube.com/watch?v=pO-M7Hso5Z4",
+    "channel": "BBC News",
+    "published": "2026-10-26T07:57:04+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Serbia’s students change the political game, says political expert",
+    "url": "https://www.youtube.com/watch?v=mb8U72H5fp0",
+    "channel": "euronews",
+    "published": "2026-10-26T07:47:21+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Student List wins Serbian election in political earthquake as Vučić concedes defeat",
+    "url": "https://www.youtube.com/watch?v=1b1qWuNSYcw",
+    "channel": "euronews",
+    "published": "2026-10-26T07:42:17+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "'An everyday habit': 2.5 billion lines of cocaine snorted in England per year • FRANCE 24 English",
+    "url": "https://www.youtube.com/watch?v=3Zd4DX9X0c0",
+    "channel": "FRANCE 24 English",
+    "published": "2026-10-26T07:33:55+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Real Madrid win Clasico against Barcelona thanks to Mbappé • FRANCE 24 English",
+    "url": "https://www.youtube.com/watch?v=zx70hIFfAOI",
+    "channel": "FRANCE 24 English",
+    "published": "2026-10-26T06:11:15+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Belgrade erupts in joy after longtime president Vucic voted out | DW News",
+    "url": "https://www.youtube.com/watch?v=qR3ejtj5XBY",
+    "channel": "DW News",
+    "published": "2026-10-26T06:00:26+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Prince William leads tributes to Sir Kevin Sinfield in new BBC documentary | BBC News",
+    "url": "https://www.youtube.com/watch?v=xhr_2sylEEc",
+    "channel": "BBC News",
+    "published": "2026-10-26T06:00:11+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Prince William praises Sir Kevin Sinfield. #MND #Royals #BBCNews",
+    "url": "https://www.youtube.com/watch?v=Q1QN3yyTiX0",
+    "channel": "BBC News",
+    "published": "2026-10-26T06:00:03+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Brazil’s comeback election shocks the country | DW News",
+    "url": "https://www.youtube.com/watch?v=KzYsDAMD8Kg",
+    "channel": "DW News",
+    "published": "2026-10-26T05:32:26+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Bolsonaro calls for Brazil election result to be annulled after defeat. #BBCNews",
+    "url": "https://www.youtube.com/watch?v=2LzdCtUGRHY",
+    "channel": "BBC News",
+    "published": "2026-10-26T04:51:10+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Leftist incumbent edges out far-right Bolsonaro | DW News",
+    "url": "https://www.youtube.com/watch?v=T3WVeeGNyRM",
+    "channel": "DW News",
+    "published": "2026-10-26T04:21:37+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Brazil's President Lula says election win is a 'defeat of lies'. #BBCNews",
+    "url": "https://www.youtube.com/watch?v=NzWqKrp58Vg",
+    "channel": "BBC News",
+    "published": "2026-10-26T03:51:35+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Brazil's President Lula da Silva beats Flavio Bolsonaro to win re-election • FRANCE 24 English",
+    "url": "https://www.youtube.com/watch?v=gPTnDcSNbnE",
+    "channel": "FRANCE 24 English",
+    "published": "2026-10-26T02:06:27+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Audi CEO joins Trump rally ahead of US midterms | DW News",
+    "url": "https://www.youtube.com/watch?v=2c-vY2k9MN4",
+    "channel": "DW News",
+    "published": "2026-10-25T22:12:44+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Le Pen, protests, and the future of France | DW News",
+    "url": "https://www.youtube.com/watch?v=VZornO9_XdU",
+    "channel": "DW News",
+    "published": "2026-10-25T19:58:10+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Marine Le Pen launches presidential campaign amid unrest in France | DW News",
+    "url": "https://www.youtube.com/watch?v=j2OlLYqsGEc",
+    "channel": "DW News",
+    "published": "2026-10-25T19:55:04+00:00",
+    "topic": "europe"
+   }
+  ],
+  "brics": [
+   {
+    "title": "Himanta Biswa Sarma's Dancing AI Video Goes Viral | WION Originals",
+    "url": "https://www.youtube.com/watch?v=NO-4DuK-hG8",
+    "channel": "WION",
+    "published": "2026-10-26T09:46:29+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Manchester United Booed as Carrick Gets Old Trafford's Support | First Sports With Rupha Ramani",
+    "url": "https://www.youtube.com/watch?v=lBFoxltifEM",
+    "channel": "Firstpost",
+    "published": "2026-10-26T09:45:01+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Inside Israel’s National Library: Exploring The Nation’s History | WION Shorts",
+    "url": "https://www.youtube.com/watch?v=bQQtW_1_PJw",
+    "channel": "WION",
+    "published": "2026-10-26T09:41:27+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Zelensky Meeting With Russia, US In November | China's XI Opens Communist Party Plenum | Headlines",
+    "url": "https://www.youtube.com/watch?v=h-tkfJLQSFY",
+    "channel": "WION",
+    "published": "2026-10-26T09:37:49+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "BJP Demands Apology From Kharge, Rahul Gandhi & Sonia Gandhi | WION News",
+    "url": "https://www.youtube.com/watch?v=KzPSn2A85-w",
+    "channel": "WION",
+    "published": "2026-10-26T09:33:36+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "China Accuses Taiwan's Dpp Leadership Of Seeking Outside Support | WION News",
+    "url": "https://www.youtube.com/watch?v=KdYtdMUEK9s",
+    "channel": "WION",
+    "published": "2026-10-26T09:33:06+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Your PF Interest May Get A Rs.25,000 Crore Shield | WION News",
+    "url": "https://www.youtube.com/watch?v=4lvsKcUwxBE",
+    "channel": "WION",
+    "published": "2026-10-26T09:30:01+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Netanyahu Warns Iran Against Interfering In Israel’s Elections | WION World News",
+    "url": "https://www.youtube.com/watch?v=8rxxeBORgQI",
+    "channel": "WION",
+    "published": "2026-10-26T09:29:16+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "France’s Bardella Leads National Anthem as Security Removes Heckler| N18G",
+    "url": "https://www.youtube.com/watch?v=20WvuqmZ6rE",
+    "channel": "Firstpost",
+    "published": "2026-10-26T09:28:24+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Houthi Guns 'Blast' Saudi Tanks, 'Troops Flee In...' | Firstpost Live",
+    "url": "https://www.youtube.com/watch?v=rdAJj1dMhZg",
+    "channel": "Firstpost",
+    "published": "2026-10-26T09:25:51+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Iran to host Türkiye, Saudi Arabia, Pakistan for security talks",
+    "url": "https://www.youtube.com/watch?v=japqvzEKtjo",
+    "channel": "TRT World",
+    "published": "2026-10-26T09:21:07+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Netanyahu Says Israeli Army is Ready If Iran Tries to Disrupt Vote    |  N18G",
+    "url": "https://www.youtube.com/watch?v=0M1lYCYssnc",
+    "channel": "Firstpost",
+    "published": "2026-10-26T09:17:30+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "US Midterms 2026: AI & Data Centres Spark Voter Backlash",
+    "url": "https://www.youtube.com/watch?v=q2O0IQYVyvU",
+    "channel": "Firstpost",
+    "published": "2026-10-26T09:10:35+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Rate hikes add to Australia's cost-of-living squeeze",
+    "url": "https://www.youtube.com/watch?v=QWz-hrI3zRs",
+    "channel": "TRT World",
+    "published": "2026-10-26T09:07:05+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Who is Gadi Eisenkot? Netanyahu's main rival in Israel's election",
+    "url": "https://www.youtube.com/watch?v=QR7AqhZjGa4",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-26T09:00:05+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Student-led movement ousts Serbian president Vucic",
+    "url": "https://www.youtube.com/watch?v=xqt5DgFAsL0",
+    "channel": "TRT World",
+    "published": "2026-10-26T08:59:11+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Serbia's student movement ousts Vucic in parliament poll",
+    "url": "https://www.youtube.com/watch?v=bhMR7uUYryM",
+    "channel": "TRT World",
+    "published": "2026-10-26T08:58:34+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "LIVE: PM Modi Arrives for the 12th BRICS Parliamentary Forum in Delhi | BRICS 2026",
+    "url": "https://www.youtube.com/watch?v=otJxJg-a0OA",
+    "channel": "Firstpost",
+    "published": "2026-10-26T08:49:38+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Thousands of Malawians get cash to boost local economy",
+    "url": "https://www.youtube.com/watch?v=zlpsCNENGhs",
+    "channel": "TRT World",
+    "published": "2026-10-26T08:47:29+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "How Israel’s 2026 election works and the race to reach 61 seats",
+    "url": "https://www.youtube.com/watch?v=B-OQdTc1nqU",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-26T08:45:27+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "The Moelln Letters | Storyteller | Full Film",
+    "url": "https://www.youtube.com/watch?v=3DEDweYu4qQ",
+    "channel": "TRT World",
+    "published": "2026-10-26T08:42:07+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Celebrations in Serbia after elections",
+    "url": "https://www.youtube.com/watch?v=_-3zZgQyRzs",
+    "channel": "DW News",
+    "published": "2026-10-26T08:39:07+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Trump makes explicit remarks about Nicki Minaj at Michigan midterm rally | AJ #shorts",
+    "url": "https://www.youtube.com/watch?v=uZpyuicEfP8",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-26T08:20:12+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Israel's shrinking left as right-wing parties dominate the campaign",
+    "url": "https://www.youtube.com/watch?v=jXouB6fTXhQ",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-26T08:02:55+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Can socialization fix Berlin’s housing crisis? | DW News",
+    "url": "https://www.youtube.com/watch?v=cFo2LuG4IPA",
+    "channel": "DW News",
+    "published": "2026-10-26T08:00:32+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Netanyahu stronghold in northern Israel faces electoral test",
+    "url": "https://www.youtube.com/watch?v=y-hFAnqYBB4",
+    "channel": "TRT World",
+    "published": "2026-10-26T07:59:06+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "US homes feel financial impact of Iran war",
+    "url": "https://www.youtube.com/watch?v=E4U12K_vxD8",
+    "channel": "TRT World",
+    "published": "2026-10-26T07:52:28+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "LIVE: Rubio Sounds Alarm Over Tehran's Ship Attacks | Iran's Baghaei Briefs Amid Rising US Tensions",
+    "url": "https://www.youtube.com/watch?v=x1usunnCgjo",
+    "channel": "Firstpost",
+    "published": "2026-10-26T07:49:28+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Saudi Under Attack LIVE: Houthis Claim Fresh Missile Attack on King Khalid Airport | WION",
+    "url": "https://www.youtube.com/watch?v=9JEgZGAupHo",
+    "channel": "WION",
+    "published": "2026-10-26T07:44:25+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Ossoff leads Georgia Senate race as Trump rallies again",
+    "url": "https://www.youtube.com/watch?v=JIam-_LA0EI",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-26T06:20:28+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Belgrade erupts in joy after longtime president Vucic voted out | DW News",
+    "url": "https://www.youtube.com/watch?v=qR3ejtj5XBY",
+    "channel": "DW News",
+    "published": "2026-10-26T06:00:26+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Brazil’s comeback election shocks the country | DW News",
+    "url": "https://www.youtube.com/watch?v=KzYsDAMD8Kg",
+    "channel": "DW News",
+    "published": "2026-10-26T05:32:26+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Social video captures moment Brazil's election turned",
+    "url": "https://www.youtube.com/watch?v=jBW9Z-krtLM",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-26T05:01:54+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Bolsonaro calls for Brazil election result to be annulled | AJ #shorts",
+    "url": "https://www.youtube.com/watch?v=BqDOxyweOQU",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-26T04:34:43+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Leftist incumbent edges out far-right Bolsonaro | DW News",
+    "url": "https://www.youtube.com/watch?v=T3WVeeGNyRM",
+    "channel": "DW News",
+    "published": "2026-10-26T04:21:37+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "LIVE: ‘Beyond Imagination’: Iran's Red Alert After Trump Floats ‘Epic Fury’ Revival | Firstpost",
+    "url": "https://www.youtube.com/watch?v=bKzd9u5t2SE",
+    "channel": "Firstpost",
+    "published": "2026-10-26T03:19:35+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Lula thanks Brazil's youth for historic election win | AJ #shorts",
+    "url": "https://www.youtube.com/watch?v=iqAbT2kkOuk",
+    "channel": "Al Jazeera English",
+    "published": "2026-10-26T03:13:14+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Audi CEO joins Trump rally ahead of US midterms | DW News",
+    "url": "https://www.youtube.com/watch?v=2c-vY2k9MN4",
+    "channel": "DW News",
+    "published": "2026-10-25T22:12:44+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Le Pen, protests, and the future of France | DW News",
+    "url": "https://www.youtube.com/watch?v=VZornO9_XdU",
+    "channel": "DW News",
+    "published": "2026-10-25T19:58:10+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Marine Le Pen launches presidential campaign amid unrest in France | DW News",
+    "url": "https://www.youtube.com/watch?v=j2OlLYqsGEc",
+    "channel": "DW News",
+    "published": "2026-10-25T19:55:04+00:00",
+    "topic": "brics"
+   }
+  ]
  },
  "errors": [
-  "franceinfo: HTTP Error 404: Not Found",
-  "HugoDécrypte – Actus du jour: HTTP Error 404: Not Found",
-  "Le Monde: HTTP Error 404: Not Found",
-  "FRANCE 24: HTTP Error 404: Not Found",
-  "Le Dessous des Cartes – ARTE: HTTP Error 404: Not Found",
-  "Al Jazeera English: HTTP Error 404: Not Found",
-  "FRANCE 24 English: HTTP Error 500: Internal Server Error",
-  "Middle East Eye: HTTP Error 404: Not Found",
-  "BBC News: HTTP Error 404: Not Found",
-  "Arab News: HTTP Error 404: Not Found",
-  "Al Arabiya English: HTTP Error 404: Not Found",
-  "Asharq News: HTTP Error 404: Not Found",
-  "i24NEWS English: HTTP Error 404: Not Found",
-  "PGA TOUR: HTTP Error 404: Not Found",
-  "DP World Tour: HTTP Error 404: Not Found",
-  "LIV Golf: HTTP Error 404: Not Found",
-  "Golf Channel: HTTP Error 404: Not Found",
-  "World Rugby: HTTP Error 404: Not Found",
-  "RugbyPass: HTTP Error 404: Not Found",
-  "Six Nations Rugby: HTTP Error 404: Not Found",
-  "L'Équipe: HTTP Error 404: Not Found",
-  "Tifo Sports (The Athletic): HTTP Error 404: Not Found",
-  "ESPN FC: HTTP Error 404: Not Found",
-  "Sky Sports Football: HTTP Error 404: Not Found",
-  "FORMULA 1: HTTP Error 404: Not Found",
-  "The Race: HTTP Error 404: Not Found",
-  "Bloomberg Television: HTTP Error 404: Not Found",
-  "Reuters: HTTP Error 404: Not Found",
-  "Financial Times: HTTP Error 404: Not Found",
-  "BFM Business: HTTP Error 404: Not Found",
-  "Les Echos: HTTP Error 404: Not Found",
-  "CNBC Television: HTTP Error 404: Not Found",
-  "TechTechPotato: HTTP Error 404: Not Found",
-  "Asianometry: HTTP Error 404: Not Found",
-  "FreightWaves: HTTP Error 404: Not Found",
-  "NASASpaceflight: HTTP Error 404: Not Found",
-  "Scott Manley: HTTP Error 404: Not Found",
-  "Breaking Defense: HTTP Error 404: Not Found",
-  "SpaceNews: HTTP Error 404: Not Found",
-  "Defense News: HTTP Error 404: Not Found",
-  "Benchmark Mineral Intelligence: HTTP Error 404: Not Found",
-  "IEA: HTTP Error 404: Not Found",
-  "Into the Cryptoverse (Benjamin Cowen): HTTP Error 404: Not Found",
-  "CoinDesk: HTTP Error 404: Not Found",
-  "Tennis TV: HTTP Error 404: Not Found",
-  "Business of Fashion: HTTP Error 404: Not Found",
-  "NVIDIA: HTTP Error 404: Not Found",
-  "PBS NewsHour: HTTP Error 404: Not Found",
-  "Associated Press: HTTP Error 404: Not Found",
-  "NBC News: HTTP Error 404: Not Found",
-  "CBS News: HTTP Error 500: Internal Server Error",
-  "DW News: HTTP Error 404: Not Found",
-  "euronews: HTTP Error 404: Not Found",
-  "FRANCE 24 English: HTTP Error 404: Not Found",
-  "BBC News: HTTP Error 404: Not Found",
-  "WION: HTTP Error 404: Not Found",
-  "CGTN: HTTP Error 404: Not Found",
-  "Al Jazeera English: HTTP Error 500: Internal Server Error",
-  "DW News: HTTP Error 404: Not Found",
-  "Firstpost: HTTP Error 404: Not Found",
-  "TRT World: HTTP Error 404: Not Found"
+  "CGTN: HTTP Error 404: Not Found"
  ]
 }
