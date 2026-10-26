@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-26T03:46:48.802571+00:00",
+ "generatedAt": "2026-10-26T06:59:12.800395+00:00",
  "topics": {
   "fr-national": [],
   "fr-international": [],
@@ -9,148 +9,12 @@
   "football": [],
   "f1": [],
   "markets": [],
-  "ai-semis": [
-   {
-    "title": "How Linux (and Windows) Ate UNIX",
-    "url": "https://www.youtube.com/watch?v=ksx5g5WvAIw",
-    "channel": "Asianometry",
-    "published": "2026-10-25T23:00:15+00:00",
-    "topic": "ai-semis"
-   },
-   {
-    "title": "Y2K Created a Software Export Gold Rush",
-    "url": "https://www.youtube.com/watch?v=RMoEgchfDmg",
-    "channel": "Asianometry",
-    "published": "2026-10-24T19:00:36+00:00",
-    "topic": "ai-semis"
-   },
-   {
-    "title": "Why IBM Walked Out of India",
-    "url": "https://www.youtube.com/watch?v=zXlit97fLds",
-    "channel": "Asianometry",
-    "published": "2026-10-22T22:00:18+00:00",
-    "topic": "ai-semis"
-   }
-  ],
+  "ai-semis": [],
   "transport": [],
-  "aerospace": [
-   {
-    "title": "Booster 22 FIRES UP ahead of Flight 15 - Starbase Summary",
-    "url": "https://www.youtube.com/watch?v=-JqfrRfbCs8",
-    "channel": "NASASpaceflight",
-    "published": "2026-10-25T22:00:09+00:00",
-    "topic": "aerospace"
-   },
-   {
-    "title": "SpaceX conducts Static Fire of Booster 22",
-    "url": "https://www.youtube.com/watch?v=BlyqwOjCJzA",
-    "channel": "NASASpaceflight",
-    "published": "2026-10-25T15:22:15+00:00",
-    "topic": "aerospace"
-   },
-   {
-    "title": "What is THIS? - The Flame Trench",
-    "url": "https://www.youtube.com/watch?v=1ByV3smKHBU",
-    "channel": "NASASpaceflight",
-    "published": "2026-10-24T00:47:45+00:00",
-    "topic": "aerospace"
-   },
-   {
-    "title": "Jared Isaacman Provides an Update on Artemis Acceleration Plans",
-    "url": "https://www.youtube.com/watch?v=f7ioFzmV91s",
-    "channel": "NASASpaceflight",
-    "published": "2026-10-23T20:42:02+00:00",
-    "topic": "aerospace"
-   },
-   {
-    "title": "Pad 2 is getting ready for flight.. and two catches! - Starbase Summary",
-    "url": "https://www.youtube.com/watch?v=5NPgyfCRg5A",
-    "channel": "NASASpaceflight",
-    "published": "2026-10-23T03:08:02+00:00",
-    "topic": "aerospace"
-   },
-   {
-    "title": "Elon Says SpaceX Is Go For Double Catch | Starship Update",
-    "url": "https://www.youtube.com/watch?v=jpmXdGzy4gk",
-    "channel": "NASASpaceflight",
-    "published": "2026-10-21T23:06:10+00:00",
-    "topic": "aerospace"
-   },
-   {
-    "title": "Soon Becoming Reality? Starship Catch At Starbase! #spacex #starship #elonmusk",
-    "url": "https://www.youtube.com/watch?v=4UpRUQfczpg",
-    "channel": "NASASpaceflight",
-    "published": "2026-10-21T22:40:34+00:00",
-    "topic": "aerospace"
-   },
-   {
-    "title": "SpaceX Launches Falcon 9 with Bandwagon-5",
-    "url": "https://www.youtube.com/watch?v=8t6CQp9-bpk",
-    "channel": "NASASpaceflight",
-    "published": "2026-10-20T11:42:45+00:00",
-    "topic": "aerospace"
-   }
-  ],
+  "aerospace": [],
   "minerals": [],
   "energy": [],
-  "crypto": [
-   {
-    "title": "Polymarket Fires CMO Over Fake-Trades Scandal",
-    "url": "https://www.youtube.com/watch?v=_6O8fwgnd4Q",
-    "channel": "CoinDesk",
-    "published": "2026-10-23T16:00:11+00:00",
-    "topic": "crypto"
-   },
-   {
-    "title": "Stablecoins Causing Bank Deposit Flight Is 'Mathematically Not Possible' Says CEO",
-    "url": "https://www.youtube.com/watch?v=nI0guWw48s8",
-    "channel": "CoinDesk",
-    "published": "2026-10-23T15:00:37+00:00",
-    "topic": "crypto"
-   },
-   {
-    "title": "China Moves to Seize 61,800 Bitcoin in $5.7B Fraud Case",
-    "url": "https://www.youtube.com/watch?v=j1_MraUHXPI",
-    "channel": "CoinDesk",
-    "published": "2026-10-22T15:34:16+00:00",
-    "topic": "crypto"
-   },
-   {
-    "title": "Upbit Explores U.S. Market After Meetings With SEC and CFTC Chairs",
-    "url": "https://www.youtube.com/watch?v=1G4Hs04PoR4",
-    "channel": "CoinDesk",
-    "published": "2026-10-22T12:00:08+00:00",
-    "topic": "crypto"
-   },
-   {
-    "title": "Why Banks Can't Move Beyond Blockchain Pilots, According to Matter Labs",
-    "url": "https://www.youtube.com/watch?v=kp7mW2ByVDE",
-    "channel": "CoinDesk",
-    "published": "2026-10-21T17:31:40+00:00",
-    "topic": "crypto"
-   },
-   {
-    "title": "Musk Floats SpaceX-Tesla Merger With 30,000 Bitcoin",
-    "url": "https://www.youtube.com/watch?v=PdH0hERf064",
-    "channel": "CoinDesk",
-    "published": "2026-10-21T15:50:00+00:00",
-    "topic": "crypto"
-   },
-   {
-    "title": "South Korean Lawmakers Seek Lessons From U.S. GENIUS Act, Former White House Advisor Says",
-    "url": "https://www.youtube.com/watch?v=_iKFstztvYs",
-    "channel": "CoinDesk",
-    "published": "2026-10-21T12:00:39+00:00",
-    "topic": "crypto"
-   },
-   {
-    "title": "JPMorgan Says Bitcoin Will Beat Stocks, Bonds and Gold",
-    "url": "https://www.youtube.com/watch?v=h31e8hRS7-o",
-    "channel": "CoinDesk",
-    "published": "2026-10-20T16:05:36+00:00",
-    "topic": "crypto"
-   }
-  ],
+  "crypto": [],
   "tennis": [],
   "luxury": [],
   "robotics": [],
@@ -165,7 +29,7 @@
   "FRANCE 24: HTTP Error 404: Not Found",
   "Le Dessous des Cartes – ARTE: HTTP Error 404: Not Found",
   "Al Jazeera English: HTTP Error 404: Not Found",
-  "FRANCE 24 English: HTTP Error 404: Not Found",
+  "FRANCE 24 English: HTTP Error 500: Internal Server Error",
   "Middle East Eye: HTTP Error 404: Not Found",
   "BBC News: HTTP Error 404: Not Found",
   "Arab News: HTTP Error 404: Not Found",
@@ -192,7 +56,9 @@
   "Les Echos: HTTP Error 404: Not Found",
   "CNBC Television: HTTP Error 404: Not Found",
   "TechTechPotato: HTTP Error 404: Not Found",
+  "Asianometry: HTTP Error 404: Not Found",
   "FreightWaves: HTTP Error 404: Not Found",
+  "NASASpaceflight: HTTP Error 404: Not Found",
   "Scott Manley: HTTP Error 404: Not Found",
   "Breaking Defense: HTTP Error 404: Not Found",
   "SpaceNews: HTTP Error 404: Not Found",
@@ -200,20 +66,21 @@
   "Benchmark Mineral Intelligence: HTTP Error 404: Not Found",
   "IEA: HTTP Error 404: Not Found",
   "Into the Cryptoverse (Benjamin Cowen): HTTP Error 404: Not Found",
+  "CoinDesk: HTTP Error 404: Not Found",
   "Tennis TV: HTTP Error 404: Not Found",
   "Business of Fashion: HTTP Error 404: Not Found",
   "NVIDIA: HTTP Error 404: Not Found",
   "PBS NewsHour: HTTP Error 404: Not Found",
   "Associated Press: HTTP Error 404: Not Found",
   "NBC News: HTTP Error 404: Not Found",
-  "CBS News: HTTP Error 404: Not Found",
+  "CBS News: HTTP Error 500: Internal Server Error",
   "DW News: HTTP Error 404: Not Found",
   "euronews: HTTP Error 404: Not Found",
   "FRANCE 24 English: HTTP Error 404: Not Found",
   "BBC News: HTTP Error 404: Not Found",
   "WION: HTTP Error 404: Not Found",
   "CGTN: HTTP Error 404: Not Found",
-  "Al Jazeera English: HTTP Error 404: Not Found",
+  "Al Jazeera English: HTTP Error 500: Internal Server Error",
   "DW News: HTTP Error 404: Not Found",
   "Firstpost: HTTP Error 404: Not Found",
   "TRT World: HTTP Error 404: Not Found"
