@@ -1,577 +1,24 @@
 {
- "generatedAt": "2026-10-29T01:07:20.817439+00:00",
+ "generatedAt": "2026-10-29T03:55:58.280528+00:00",
  "topics": {
   "fr-national": [],
   "fr-international": [],
   "me-region": [],
-  "golf": [
-   {
-    "title": "Back-to-back PGA Tour Wins, a WILD finish in Bermuda & Mexico Preview | The Drop",
-    "url": "https://www.youtube.com/watch?v=6j8Sha7btMk",
-    "channel": "PGA TOUR",
-    "published": "2026-10-29T00:00:19+00:00",
-    "topic": "golf"
-   },
-   {
-    "title": "Luckiest break ever?!",
-    "url": "https://www.youtube.com/watch?v=s_l3sVZ-LCY",
-    "channel": "PGA TOUR",
-    "published": "2026-10-28T23:00:14+00:00",
-    "topic": "golf"
-   },
-   {
-    "title": "\"Have you ever seen a Tour player hit a shot like that?!\"",
-    "url": "https://www.youtube.com/watch?v=NvNqkpuCxms",
-    "channel": "PGA TOUR",
-    "published": "2026-10-28T17:45:31+00:00",
-    "topic": "golf"
-   },
-   {
-    "title": "They hit the DECK to avoid those bees! 🐝",
-    "url": "https://www.youtube.com/watch?v=rfmcQLj6d08",
-    "channel": "PGA TOUR",
-    "published": "2026-10-27T21:00:06+00:00",
-    "topic": "golf"
-   },
-   {
-    "title": "Now that's how you go DOD 😤",
-    "url": "https://www.youtube.com/watch?v=JRM-5TreiGI",
-    "channel": "PGA TOUR",
-    "published": "2026-10-27T18:00:35+00:00",
-    "topic": "golf"
-   },
-   {
-    "title": "Up-and-downs that leave you speechless 😳",
-    "url": "https://www.youtube.com/watch?v=rMsVhBTF22c",
-    "channel": "PGA TOUR",
-    "published": "2026-10-26T16:39:25+00:00",
-    "topic": "golf"
-   },
-   {
-    "title": "Two wins in two starts 😳👏",
-    "url": "https://www.youtube.com/watch?v=dSaVVPFVnWs",
-    "channel": "PGA TOUR",
-    "published": "2026-10-26T16:00:35+00:00",
-    "topic": "golf"
-   },
-   {
-    "title": "Every shot from WEATHER DELAY 3-hole playoff | Butterfield Bermuda Championship | 2026",
-    "url": "https://www.youtube.com/watch?v=virGQAaJsB8",
-    "channel": "PGA TOUR",
-    "published": "2026-10-26T14:34:43+00:00",
-    "topic": "golf"
-   }
-  ],
+  "golf": [],
   "rugby": [],
-  "football": [
-   {
-    "title": "Carabao Cup Reaction 🍿 Liverpool & Man City advance on penalties | ESPN FC",
-    "url": "https://www.youtube.com/watch?v=ygbfafSjsDM",
-    "channel": "ESPN FC",
-    "published": "2026-10-28T23:53:56+00:00",
-    "topic": "football"
-   },
-   {
-    "title": "Has Harry Kane become England’s greatest forward after winning the Ballon d’Or? | ESPN FC Extra Time",
-    "url": "https://www.youtube.com/watch?v=SW7jBkD-BhU",
-    "channel": "ESPN FC",
-    "published": "2026-10-28T23:24:54+00:00",
-    "topic": "football"
-   },
-   {
-    "title": "Michael Carrick to continue at Man United 👀 Craig Burley calls them CLUELESS | ESPN FC",
-    "url": "https://www.youtube.com/watch?v=JAvSm_00GOs",
-    "channel": "ESPN FC",
-    "published": "2026-10-28T23:12:16+00:00",
-    "topic": "football"
-   },
-   {
-    "title": "Was Mikel Arteta too harsh with Max Dowman? | ESPN FC",
-    "url": "https://www.youtube.com/watch?v=NjKNcYczP80",
-    "channel": "ESPN FC",
-    "published": "2026-10-28T23:02:02+00:00",
-    "topic": "football"
-   },
-   {
-    "title": "Liverpool’s reserves knocked out Chelsea’s top squad – Steve Nicol | ESPN FC",
-    "url": "https://www.youtube.com/watch?v=N00Bw7VAjMo",
-    "channel": "ESPN FC",
-    "published": "2026-10-28T22:47:02+00:00",
-    "topic": "football"
-   },
-   {
-    "title": "Inter Miami CF vs. Arsenal FC | Messi Cup Highlights | ESPN on Disney+",
-    "url": "https://www.youtube.com/watch?v=uetyiHcE5-c",
-    "channel": "ESPN FC",
-    "published": "2026-10-28T17:48:29+00:00",
-    "topic": "football"
-   },
-   {
-    "title": "Messi gave the thumbs up 👍",
-    "url": "https://www.youtube.com/watch?v=P7NabzH5Fs4",
-    "channel": "ESPN FC",
-    "published": "2026-10-28T14:00:09+00:00",
-    "topic": "football"
-   },
-   {
-    "title": "Manchester City vs. UE Cornellà | Messi Cup Highlights | ESPN on Disney+",
-    "url": "https://www.youtube.com/watch?v=Higx-9sfh2w",
-    "channel": "ESPN FC",
-    "published": "2026-10-28T11:06:58+00:00",
-    "topic": "football"
-   }
-  ],
-  "f1": [
-   {
-    "title": "The shock new twist in F1's 2027 driver market",
-    "url": "https://www.youtube.com/watch?v=EcLOYcjbuYY",
-    "channel": "The Race",
-    "published": "2026-10-28T12:00:27+00:00",
-    "topic": "f1"
-   },
-   {
-    "title": "Hamilton’s ‘pivotal’ Ferrari moment 👀",
-    "url": "https://www.youtube.com/watch?v=dN2VSXohZfo",
-    "channel": "The Race",
-    "published": "2026-10-27T20:00:08+00:00",
-    "topic": "f1"
-   },
-   {
-    "title": "Alonso’s ‘low quality’ F1 grid claim 📉",
-    "url": "https://www.youtube.com/watch?v=OvJdW2EyLns",
-    "channel": "The Race",
-    "published": "2026-10-27T10:44:56+00:00",
-    "topic": "f1"
-   },
-   {
-    "title": "Alonso claims 33% of the F1 grid is 'low quality' - is he right?",
-    "url": "https://www.youtube.com/watch?v=ar2RI7BMIos",
-    "channel": "The Race",
-    "published": "2026-10-27T10:38:51+00:00",
-    "topic": "f1"
-   },
-   {
-    "title": "Red Bull drivers furious at the team 😡",
-    "url": "https://www.youtube.com/watch?v=lxfxyr8kB1o",
-    "channel": "The Race",
-    "published": "2026-10-26T13:21:59+00:00",
-    "topic": "f1"
-   },
-   {
-    "title": "Why Verstappen and Hadjar are furious with Red Bull",
-    "url": "https://www.youtube.com/watch?v=W0XEirYSv0o",
-    "channel": "The Race",
-    "published": "2026-10-26T04:22:36+00:00",
-    "topic": "f1"
-   },
-   {
-    "title": "'Rubbish' Russell searching for answers 😞",
-    "url": "https://www.youtube.com/watch?v=Coq7wv3wIN0",
-    "channel": "The Race",
-    "published": "2026-10-26T01:43:16+00:00",
-    "topic": "f1"
-   },
-   {
-    "title": "How F1 polices track limits 🚓",
-    "url": "https://www.youtube.com/watch?v=Jl4GesKw68M",
-    "channel": "The Race",
-    "published": "2026-10-25T09:00:12+00:00",
-    "topic": "f1"
-   }
-  ],
-  "markets": [
-   {
-    "title": "ServiceNow CEO Bill McDermott: This is a unicorn growth company",
-    "url": "https://www.youtube.com/watch?v=u8VulUV3PNQ",
-    "channel": "CNBC Television",
-    "published": "2026-10-29T00:54:30+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Mad Money 10/28/26 | Audio Only",
-    "url": "https://www.youtube.com/watch?v=BskygNpT_ww",
-    "channel": "CNBC Television",
-    "published": "2026-10-28T23:58:28+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Apple's new touchscreen Macbook Pro — first impressions",
-    "url": "https://www.youtube.com/watch?v=9_MG1tR5esk",
-    "channel": "CNBC Television",
-    "published": "2026-10-28T22:33:29+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Mythomètre : \"La BCE viendra à la rescousse pour tout régler\", FAUX répond Jean-François Robin",
-    "url": "https://www.youtube.com/watch?v=K6JplJvwZ24",
-    "channel": "BFM Business",
-    "published": "2026-10-28T22:21:15+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Market Close: Stocks Higher, Fed Holds Rates Steady, Alphabet Results Disappoint • 10/28/26",
-    "url": "https://www.youtube.com/watch?v=t3rxiV0_T-w",
-    "channel": "CNBC Television",
-    "published": "2026-10-28T20:44:29+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Bond investor Jeff Gundlach on Fed's rate pause: 'What are you waiting for?'",
-    "url": "https://www.youtube.com/watch?v=VAgS-F2NhtM",
-    "channel": "CNBC Television",
-    "published": "2026-10-28T20:00:25+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Jeffrey Gundlach: Fed should be raising rates based on the two-year and yield curve steepening",
-    "url": "https://www.youtube.com/watch?v=v_Amo2a8BKA",
-    "channel": "CNBC Television",
-    "published": "2026-10-28T19:58:46+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Fed Chairman Warsh: Economic activity is expanding at a strong pace, inflation remains elevated",
-    "url": "https://www.youtube.com/watch?v=6az4zH0_jLM",
-    "channel": "CNBC Television",
-    "published": "2026-10-28T19:58:34+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Federal Reserve Chairman Kevin Warsh speaks after Fed holds interest rates steady — 10/28/2026",
-    "url": "https://www.youtube.com/watch?v=0JEkVViEo-E",
-    "channel": "CNBC Television",
-    "published": "2026-10-28T19:50:24+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Trump avait promis l’âge d’or. Voilà le résultat",
-    "url": "https://www.youtube.com/watch?v=fTF_8zQ2H5M",
-    "channel": "Les Echos",
-    "published": "2026-10-28T17:30:14+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Cette raffinerie vaut 49 milliards de dollars. Harold t'explique.",
-    "url": "https://www.youtube.com/watch?v=XV8bJC1fCww",
-    "channel": "Les Echos",
-    "published": "2026-10-28T17:30:10+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Chômage : quelles mesures pour inverser la tendance ?",
-    "url": "https://www.youtube.com/watch?v=TK5hOjlLIck",
-    "channel": "BFM Business",
-    "published": "2026-10-28T17:30:03+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Dette française : la BCE viendra-t-elle vraiment sauver la France ?",
-    "url": "https://www.youtube.com/watch?v=ci9n2SI5RqU",
-    "channel": "BFM Business",
-    "published": "2026-10-28T17:04:24+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "FED : Qu’attendre des commentaires de Kevin Warsh ?",
-    "url": "https://www.youtube.com/watch?v=uCveRB8IpRE",
-    "channel": "BFM Business",
-    "published": "2026-10-28T15:48:26+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "\"Paradoxalement, l'inflation contribue au développement de la consommation\"  (Emmanuel Sales)",
-    "url": "https://www.youtube.com/watch?v=1x-_gnrsPzk",
-    "channel": "BFM Business",
-    "published": "2026-10-28T15:24:08+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Le BHV Marais demande son placement en redressement judiciaire",
-    "url": "https://www.youtube.com/watch?v=Qg9vG_xjXUE",
-    "channel": "BFM Business",
-    "published": "2026-10-28T14:59:56+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Récit d'un succès international : l'exemple de Lison Paris",
-    "url": "https://www.youtube.com/watch?v=zDmhU0bSSwA",
-    "channel": "BFM Business",
-    "published": "2026-10-28T12:03:57+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "\"L'usage du mot inflation est devenu pervers\" (Jean-Marc Daniel)",
-    "url": "https://www.youtube.com/watch?v=FvBmGsEcdlw",
-    "channel": "BFM Business",
-    "published": "2026-10-28T11:52:31+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Comment Live Nation gagne (vraiment) son argent ?",
-    "url": "https://www.youtube.com/watch?v=qATJCHSEuVc",
-    "channel": "Les Echos",
-    "published": "2026-10-28T11:45:21+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Pourquoi le plus grand fabricant d’obus français est en grande difficulté. Olivier t'explique.",
-    "url": "https://www.youtube.com/watch?v=h2fA9u0y-EY",
-    "channel": "Les Echos",
-    "published": "2026-10-28T09:30:04+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "La bourse brésilienne s'effondre après la réélection de Lula. Fleur t'explique.",
-    "url": "https://www.youtube.com/watch?v=N1p838tjfJs",
-    "channel": "Les Echos",
-    "published": "2026-10-27T20:30:02+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Kylian Mbappé au coeur d'une polémique en Chine. Eva t'explique.",
-    "url": "https://www.youtube.com/watch?v=kPJFJ2ngTVs",
-    "channel": "Les Echos",
-    "published": "2026-10-27T17:30:29+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Les dark pools : le concurrent obscur de la bourse",
-    "url": "https://www.youtube.com/watch?v=VdfbszbPjT4",
-    "channel": "Les Echos",
-    "published": "2026-10-27T09:56:17+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "L'Ukraine vend ses premiers missiles low-cost à l'Allemagne. Pauline t'explique.",
-    "url": "https://www.youtube.com/watch?v=2QydKVgVXF4",
-    "channel": "Les Echos",
-    "published": "2026-10-27T09:30:23+00:00",
-    "topic": "markets"
-   }
-  ],
-  "ai-semis": [
-   {
-    "title": "Edison’s Half Mile Problem",
-    "url": "https://www.youtube.com/watch?v=ub00LkAWPe4",
-    "channel": "Asianometry",
-    "published": "2026-10-28T22:00:14+00:00",
-    "topic": "ai-semis"
-   },
-   {
-    "title": "The Million Kilometer Earthquake Detector",
-    "url": "https://www.youtube.com/watch?v=-dkjlB3slSo",
-    "channel": "Asianometry",
-    "published": "2026-10-27T22:00:13+00:00",
-    "topic": "ai-semis"
-   },
-   {
-    "title": "How Unimation Put Robots to Work",
-    "url": "https://www.youtube.com/watch?v=-lsjjOLTCSg",
-    "channel": "Asianometry",
-    "published": "2026-10-26T23:39:17+00:00",
-    "topic": "ai-semis"
-   },
-   {
-    "title": "The Lintel Conquest of UNIX",
-    "url": "https://www.youtube.com/watch?v=ksx5g5WvAIw",
-    "channel": "Asianometry",
-    "published": "2026-10-25T23:00:15+00:00",
-    "topic": "ai-semis"
-   },
-   {
-    "title": "Y2K Created a Software Export Gold Rush",
-    "url": "https://www.youtube.com/watch?v=RMoEgchfDmg",
-    "channel": "Asianometry",
-    "published": "2026-10-24T19:00:36+00:00",
-    "topic": "ai-semis"
-   },
-   {
-    "title": "Why IBM Walked Out of India",
-    "url": "https://www.youtube.com/watch?v=zXlit97fLds",
-    "channel": "Asianometry",
-    "published": "2026-10-22T22:00:18+00:00",
-    "topic": "ai-semis"
-   }
-  ],
+  "football": [],
+  "f1": [],
+  "markets": [],
+  "ai-semis": [],
   "transport": [],
-  "aerospace": [
-   {
-    "title": "THREE Starship Firings in ONE Week! #spacex #starship #elonmusk",
-    "url": "https://www.youtube.com/watch?v=la7OESWB48g",
-    "channel": "NASASpaceflight",
-    "published": "2026-10-29T00:47:16+00:00",
-    "topic": "aerospace"
-   },
-   {
-    "title": "Two More Static Fires for Starship Flight 15 - Starbase Summary",
-    "url": "https://www.youtube.com/watch?v=pdRxsdBDV98",
-    "channel": "NASASpaceflight",
-    "published": "2026-10-27T23:58:56+00:00",
-    "topic": "aerospace"
-   },
-   {
-    "title": "SpaceX conducts Six Engine Static Fire of Ship 42",
-    "url": "https://www.youtube.com/watch?v=C0lC4tb1sDE",
-    "channel": "NASASpaceflight",
-    "published": "2026-10-27T22:56:04+00:00",
-    "topic": "aerospace"
-   },
-   {
-    "title": "SpaceX conducts Single Engine Static Fire of Ship 42",
-    "url": "https://www.youtube.com/watch?v=t8RZHIfgQ3A",
-    "channel": "NASASpaceflight",
-    "published": "2026-10-27T03:00:28+00:00",
-    "topic": "aerospace"
-   },
-   {
-    "title": "Starship’s Double Catch Mission Takes Shape as Booster 22 Fires Up | This Week in Spaceflight",
-    "url": "https://www.youtube.com/watch?v=udys8It4_ps",
-    "channel": "NASASpaceflight",
-    "published": "2026-10-27T02:54:08+00:00",
-    "topic": "aerospace"
-   },
-   {
-    "title": "Booster 22 FIRES UP ahead of Flight 15 - Starbase Summary",
-    "url": "https://www.youtube.com/watch?v=-JqfrRfbCs8",
-    "channel": "NASASpaceflight",
-    "published": "2026-10-25T22:00:09+00:00",
-    "topic": "aerospace"
-   },
-   {
-    "title": "SpaceX conducts Static Fire of Booster 22",
-    "url": "https://www.youtube.com/watch?v=BlyqwOjCJzA",
-    "channel": "NASASpaceflight",
-    "published": "2026-10-25T15:22:15+00:00",
-    "topic": "aerospace"
-   },
-   {
-    "title": "What is THIS? - The Flame Trench",
-    "url": "https://www.youtube.com/watch?v=1ByV3smKHBU",
-    "channel": "NASASpaceflight",
-    "published": "2026-10-24T00:47:45+00:00",
-    "topic": "aerospace"
-   }
-  ],
+  "aerospace": [],
   "minerals": [],
   "energy": [],
   "crypto": [],
   "tennis": [],
   "luxury": [],
   "robotics": [],
-  "us": [
-   {
-    "title": "Study estimates 75% of NFL players who died in recent years had signs of CTE",
-    "url": "https://www.youtube.com/watch?v=B_uKj5zlqxg",
-    "channel": "CBS News",
-    "published": "2026-10-29T00:30:52+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Remembering labor and civil rights leader Dolores Huerta",
-    "url": "https://www.youtube.com/watch?v=GTIl6WVqU-s",
-    "channel": "PBS NewsHour",
-    "published": "2026-10-29T00:28:54+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Maine's secretary of state says federal election monitors' role is \"observation only\"",
-    "url": "https://www.youtube.com/watch?v=0LspZIV4_kE",
-    "channel": "CBS News",
-    "published": "2026-10-29T00:27:55+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "As Trump campaigns in Ohio, data centers are on the ballot in the Buckeye State",
-    "url": "https://www.youtube.com/watch?v=0UsQSMs9OIQ",
-    "channel": "CBS News",
-    "published": "2026-10-29T00:10:10+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "At least 68 killed in high-speed train accident in Spain",
-    "url": "https://www.youtube.com/watch?v=hhMSMA-XBFg",
-    "channel": "CBS News",
-    "published": "2026-10-29T00:05:49+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Trump pushes for GOP candidates in Ohio, Obama stumps for Democrats in Georgia, more | The Takeout",
-    "url": "https://www.youtube.com/watch?v=VC8OaFGfX_s",
-    "channel": "CBS News",
-    "published": "2026-10-28T23:31:05+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "PBS News Hour full episode, Oct. 28, 2026",
-    "url": "https://www.youtube.com/watch?v=q88wL4MDzxw",
-    "channel": "PBS NewsHour",
-    "published": "2026-10-28T23:29:03+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Democrats pushed to get second Dan Sullivan on Alaska ballot with Peltola's help, NYT reports",
-    "url": "https://www.youtube.com/watch?v=-_bgFJNOZb8",
-    "channel": "CBS News",
-    "published": "2026-10-28T23:08:02+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "America's long history of gerrymandering and its role in this year's midterms",
-    "url": "https://www.youtube.com/watch?v=f3QXNlhPbPc",
-    "channel": "PBS NewsHour",
-    "published": "2026-10-28T22:59:03+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "How the Associated Press tracks and calls races on Election Night",
-    "url": "https://www.youtube.com/watch?v=-3jqSTBrv_E",
-    "channel": "PBS NewsHour",
-    "published": "2026-10-28T22:53:19+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Graham, Andrews tied in South Carolina Senate race, new poll shows",
-    "url": "https://www.youtube.com/watch?v=boAc02m1R84",
-    "channel": "CBS News",
-    "published": "2026-10-28T22:53:10+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Democratic and GOP strategists assess midterm landscape in final week",
-    "url": "https://www.youtube.com/watch?v=fHrUDgAAP8U",
-    "channel": "PBS NewsHour",
-    "published": "2026-10-28T22:46:31+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Where key Senate races stand in the final days of campaigning",
-    "url": "https://www.youtube.com/watch?v=Z_ZUaN9OhcQ",
-    "channel": "PBS NewsHour",
-    "published": "2026-10-28T22:35:51+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Brazil's Flávio Bolsonaro flees to U.S. after election loss",
-    "url": "https://www.youtube.com/watch?v=mHrkbhfqpDA",
-    "channel": "PBS NewsHour",
-    "published": "2026-10-28T22:31:55+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-    "url": "https://www.youtube.com/watch?v=fh4jbOeNJYk",
-    "channel": "CBS News",
-    "published": "2026-10-28T22:00:12+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "WATCH LIVE: Trump rallies voters in Ohio after divisive Ramaswamy campaign ad",
-    "url": "https://www.youtube.com/watch?v=HhFb6W8HIb8",
-    "channel": "PBS NewsHour",
-    "published": "2026-10-27T16:51:55+00:00",
-    "topic": "us"
-   }
-  ],
+  "us": [],
   "europe": [],
   "brics": []
  },
@@ -579,51 +26,61 @@
   "franceinfo: HTTP Error 404: Not Found",
   "HugoDécrypte – Actus du jour: HTTP Error 404: Not Found",
   "Le Monde: HTTP Error 500: Internal Server Error",
-  "FRANCE 24: HTTP Error 500: Internal Server Error",
+  "FRANCE 24: HTTP Error 404: Not Found",
   "Le Dessous des Cartes – ARTE: HTTP Error 404: Not Found",
   "Al Jazeera English: HTTP Error 404: Not Found",
-  "FRANCE 24 English: HTTP Error 404: Not Found",
+  "FRANCE 24 English: HTTP Error 500: Internal Server Error",
   "Middle East Eye: HTTP Error 404: Not Found",
   "BBC News: HTTP Error 404: Not Found",
   "Arab News: HTTP Error 404: Not Found",
   "Al Arabiya English: HTTP Error 404: Not Found",
   "Asharq News: HTTP Error 404: Not Found",
   "i24NEWS English: HTTP Error 500: Internal Server Error",
+  "PGA TOUR: HTTP Error 404: Not Found",
   "DP World Tour: HTTP Error 404: Not Found",
   "LIV Golf: HTTP Error 404: Not Found",
-  "Golf Channel: HTTP Error 500: Internal Server Error",
+  "Golf Channel: HTTP Error 404: Not Found",
   "World Rugby: HTTP Error 404: Not Found",
-  "RugbyPass: HTTP Error 500: Internal Server Error",
+  "RugbyPass: HTTP Error 404: Not Found",
   "Six Nations Rugby: HTTP Error 404: Not Found",
   "L'Équipe: HTTP Error 404: Not Found",
   "Tifo Sports (The Athletic): HTTP Error 404: Not Found",
+  "ESPN FC: HTTP Error 404: Not Found",
   "Sky Sports Football: HTTP Error 404: Not Found",
   "FORMULA 1: HTTP Error 404: Not Found",
+  "The Race: HTTP Error 404: Not Found",
   "Bloomberg Television: HTTP Error 404: Not Found",
   "Reuters: HTTP Error 404: Not Found",
   "Financial Times: HTTP Error 404: Not Found",
+  "BFM Business: HTTP Error 404: Not Found",
+  "Les Echos: HTTP Error 404: Not Found",
+  "CNBC Television: HTTP Error 404: Not Found",
   "TechTechPotato: HTTP Error 404: Not Found",
-  "FreightWaves: HTTP Error 404: Not Found",
+  "Asianometry: HTTP Error 404: Not Found",
+  "FreightWaves: HTTP Error 500: Internal Server Error",
+  "NASASpaceflight: HTTP Error 404: Not Found",
   "Scott Manley: HTTP Error 404: Not Found",
-  "Breaking Defense: HTTP Error 500: Internal Server Error",
-  "SpaceNews: HTTP Error 500: Internal Server Error",
+  "Breaking Defense: HTTP Error 404: Not Found",
+  "SpaceNews: HTTP Error 404: Not Found",
   "Defense News: HTTP Error 404: Not Found",
-  "Benchmark Mineral Intelligence: HTTP Error 500: Internal Server Error",
+  "Benchmark Mineral Intelligence: HTTP Error 404: Not Found",
   "IEA: HTTP Error 500: Internal Server Error",
   "Into the Cryptoverse (Benjamin Cowen): HTTP Error 404: Not Found",
   "CoinDesk: HTTP Error 404: Not Found",
   "Tennis TV: HTTP Error 404: Not Found",
   "Business of Fashion: HTTP Error 404: Not Found",
   "NVIDIA: HTTP Error 404: Not Found",
+  "PBS NewsHour: HTTP Error 404: Not Found",
   "Associated Press: HTTP Error 404: Not Found",
   "NBC News: HTTP Error 404: Not Found",
+  "CBS News: HTTP Error 404: Not Found",
   "DW News: HTTP Error 404: Not Found",
   "euronews: HTTP Error 404: Not Found",
-  "FRANCE 24 English: HTTP Error 500: Internal Server Error",
+  "FRANCE 24 English: HTTP Error 404: Not Found",
   "BBC News: HTTP Error 404: Not Found",
   "WION: HTTP Error 404: Not Found",
   "CGTN: HTTP Error 404: Not Found",
-  "Al Jazeera English: HTTP Error 500: Internal Server Error",
+  "Al Jazeera English: HTTP Error 404: Not Found",
   "DW News: HTTP Error 404: Not Found",
   "Firstpost: HTTP Error 404: Not Found",
   "TRT World: HTTP Error 404: Not Found"
