@@ -1,139 +1,281 @@
 {
- "generatedAt": "2026-10-31T01:07:48.879632+00:00",
+ "generatedAt": "2026-10-31T03:53:46.686026+00:00",
  "topics": {
   "fr-national": [],
   "fr-international": [],
   "me-region": [],
   "golf": [],
   "rugby": [],
-  "football": [
+  "football": [],
+  "f1": [
    {
-    "title": "Flamengo vs. Barcelona | Messi Cup Highlights | ESPN on Disney+",
-    "url": "https://www.youtube.com/watch?v=mFNLOG-zGEQ",
-    "channel": "ESPN FC",
-    "published": "2026-10-30T23:58:29+00:00",
-    "topic": "football"
+    "title": "How Teams Have Modified Their Cars For Mexico | F1 TV Tech Talk",
+    "url": "https://www.youtube.com/watch?v=0sspCZ4fxUA",
+    "channel": "FORMULA 1",
+    "published": "2026-10-31T01:20:41+00:00",
+    "topic": "f1"
    },
    {
-    "title": "PREMIER LEAGUE WEEKEND PREVIEW ⚽️ Can Arsenal bounce back after Carabao Cup loss? | ESPN FC",
-    "url": "https://www.youtube.com/watch?v=PH2PB_jLKok",
-    "channel": "ESPN FC",
-    "published": "2026-10-30T22:51:16+00:00",
-    "topic": "football"
+    "title": "FP2 Highlights | 2026 Mexico City Grand Prix",
+    "url": "https://www.youtube.com/watch?v=tEEGnZna3Gc",
+    "channel": "FORMULA 1",
+    "published": "2026-10-31T00:26:19+00:00",
+    "topic": "f1"
    },
    {
-    "title": "Where does Harry Kane rank among the greatest English players ever? | ESPN FC Extra Time",
-    "url": "https://www.youtube.com/watch?v=NW5K2qC7VCU",
-    "channel": "ESPN FC",
-    "published": "2026-10-30T22:30:52+00:00",
-    "topic": "football"
+    "title": "That Shouldn't Be There 😳",
+    "url": "https://www.youtube.com/watch?v=n5rDuMyO3OM",
+    "channel": "FORMULA 1",
+    "published": "2026-10-31T00:06:08+00:00",
+    "topic": "f1"
    },
    {
-    "title": "‘ENOUGH EXCUSES’ 😳 Reaction to Barca players blaming ‘fatigue’ for loss to Real Madrid | ESPN FC",
-    "url": "https://www.youtube.com/watch?v=w9hZufSS1RI",
-    "channel": "ESPN FC",
-    "published": "2026-10-30T21:53:28+00:00",
-    "topic": "football"
+    "title": "Furstappen Spotted On Track After FP1! 🐶",
+    "url": "https://www.youtube.com/watch?v=bPWv9zoVXRw",
+    "channel": "FORMULA 1",
+    "published": "2026-10-30T21:53:56+00:00",
+    "topic": "f1"
    },
    {
-    "title": "Could Brighton bounce back and take down Man City in their rematch? 👀 EPL match preview | ESPN FC",
-    "url": "https://www.youtube.com/watch?v=8Rsda8H7J-Q",
-    "channel": "ESPN FC",
-    "published": "2026-10-30T21:52:40+00:00",
-    "topic": "football"
+    "title": "FP1 Highlights | 2026 Mexico City Grand Prix",
+    "url": "https://www.youtube.com/watch?v=zM4cNh5YRek",
+    "channel": "FORMULA 1",
+    "published": "2026-10-30T21:33:38+00:00",
+    "topic": "f1"
    },
    {
-    "title": "Can Michael Carrick lead man United to a win against Chelsea? | ESPN FC",
-    "url": "https://www.youtube.com/watch?v=tvVhsNa-BIw",
-    "channel": "ESPN FC",
-    "published": "2026-10-30T21:38:33+00:00",
-    "topic": "football"
+    "title": "RESUMEN | Todos Los Grandes Premios que Checo Pérez corrió en el Hermanos Rodríguez de México",
+    "url": "https://www.youtube.com/watch?v=akpACN_9Sps",
+    "channel": "FORMULA 1",
+    "published": "2026-10-30T17:03:34+00:00",
+    "topic": "f1"
    },
    {
-    "title": "Reaction to Mikel Arteta’s comments on Max Dowman’s red card + Preview vs. Liverpool | ESPN FC",
-    "url": "https://www.youtube.com/watch?v=HDbsVnBRXdI",
-    "channel": "ESPN FC",
-    "published": "2026-10-30T21:28:13+00:00",
-    "topic": "football"
+    "title": "Checo guesses the 300 club members! 🏁",
+    "url": "https://www.youtube.com/watch?v=dIBvRTqUkN0",
+    "channel": "FORMULA 1",
+    "published": "2026-10-30T15:15:31+00:00",
+    "topic": "f1"
    },
    {
-    "title": "El Clásico: Barcelona vs. Real Madrid | EXTENDED HIGHLIGHTS [October 25, 2026] | ESPN FC",
-    "url": "https://www.youtube.com/watch?v=g1h8PDqey6M",
-    "channel": "ESPN FC",
-    "published": "2026-10-30T17:59:31+00:00",
-    "topic": "football"
+    "title": "When George Went Undercover 🤣",
+    "url": "https://www.youtube.com/watch?v=gmkJBKiE77Q",
+    "channel": "FORMULA 1",
+    "published": "2026-10-30T12:00:23+00:00",
+    "topic": "f1"
    }
   ],
-  "f1": [],
   "markets": [],
   "ai-semis": [],
   "transport": [],
-  "aerospace": [],
-  "minerals": [],
-  "energy": [],
-  "crypto": [
+  "aerospace": [
    {
-    "title": "Bitcoin: The Q4 Dump is Here",
-    "url": "https://www.youtube.com/watch?v=bekghgecip8",
-    "channel": "Into the Cryptoverse (Benjamin Cowen)",
-    "published": "2026-10-30T14:12:39+00:00",
-    "topic": "crypto"
+    "title": "Can Cowboy Space Really Design A New Rocket in 2 Years?",
+    "url": "https://www.youtube.com/watch?v=XtUiXOaQMAE",
+    "channel": "Scott Manley",
+    "published": "2026-10-30T14:37:32+00:00",
+    "topic": "aerospace"
    },
    {
-    "title": "Bitcoin Q4 Dump (Live Show!)",
-    "url": "https://www.youtube.com/watch?v=g2MQiby7_qY",
-    "channel": "Into the Cryptoverse (Benjamin Cowen)",
-    "published": "2026-10-30T02:19:19+00:00",
-    "topic": "crypto"
+    "title": "New Dwarf Planet Discovered By Vera Rubin Telescope",
+    "url": "https://www.youtube.com/watch?v=ER7y7fW9tF4",
+    "channel": "Scott Manley",
+    "published": "2026-10-27T23:28:02+00:00",
+    "topic": "aerospace"
    },
    {
-    "title": "All of BTC's Prior Major Drops That Marked Market Cycle Bottoms Have Always Occurred..",
-    "url": "https://www.youtube.com/watch?v=oJQOxVxrNAg",
-    "channel": "Into the Cryptoverse (Benjamin Cowen)",
-    "published": "2026-10-29T20:43:25+00:00",
-    "topic": "crypto"
+    "title": "China's Super Secret Spaceplane Finally Revealed",
+    "url": "https://www.youtube.com/watch?v=BVaCZoWTZbo",
+    "channel": "Scott Manley",
+    "published": "2026-10-27T18:30:55+00:00",
+    "topic": "aerospace"
    },
    {
-    "title": "NFA Live! Bitcoin Losing Momentum? Fed Fallout & Midterm Market Risks",
-    "url": "https://www.youtube.com/watch?v=F5RZjBsFJ_g",
-    "channel": "Into the Cryptoverse (Benjamin Cowen)",
-    "published": "2026-10-29T13:47:55+00:00",
-    "topic": "crypto"
-   },
-   {
-    "title": "Bitcoin: Post-FOMC",
-    "url": "https://www.youtube.com/watch?v=21mBnslOLd0",
-    "channel": "Into the Cryptoverse (Benjamin Cowen)",
-    "published": "2026-10-29T03:32:05+00:00",
-    "topic": "crypto"
-   },
-   {
-    "title": "Gold: Dubious Speculation",
-    "url": "https://www.youtube.com/watch?v=4oHSuPTr8H0",
-    "channel": "Into the Cryptoverse (Benjamin Cowen)",
-    "published": "2026-10-27T19:56:01+00:00",
-    "topic": "crypto"
-   },
-   {
-    "title": "It Feels Like Everyone Is Waiting For A Headline And Then..",
-    "url": "https://www.youtube.com/watch?v=A0Vf_g9BoRw",
-    "channel": "Into the Cryptoverse (Benjamin Cowen)",
-    "published": "2026-10-27T18:22:40+00:00",
-    "topic": "crypto"
-   },
-   {
-    "title": "Bitcoin: Bears Regaining Control",
-    "url": "https://www.youtube.com/watch?v=bWdXPK3Hlok",
-    "channel": "Into the Cryptoverse (Benjamin Cowen)",
-    "published": "2026-10-25T22:24:26+00:00",
-    "topic": "crypto"
+    "title": "The Entire History Of The Moon",
+    "url": "https://www.youtube.com/watch?v=P1j2W4wnIUA",
+    "channel": "Scott Manley",
+    "published": "2026-10-27T16:40:58+00:00",
+    "topic": "aerospace"
    }
   ],
+  "minerals": [],
+  "energy": [],
+  "crypto": [],
   "tennis": [],
   "luxury": [],
   "robotics": [],
-  "us": [],
-  "europe": [],
+  "us": [
+   {
+    "title": "Actor Selma Blair apologizes after plane incident arrest",
+    "url": "https://www.youtube.com/watch?v=OiQKEKNNqD8",
+    "channel": "NBC News",
+    "published": "2026-10-31T03:39:31+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "NBC Nightly News with Tom Llamas Full Episode - Oct. 30",
+    "url": "https://www.youtube.com/watch?v=kxB2HqO-u7I",
+    "channel": "NBC News",
+    "published": "2026-10-31T01:55:16+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "WATCH LIVE: Trump speaks at Florida midterm rally as Election Day nears",
+    "url": "https://www.youtube.com/watch?v=zFhsBARQx4o",
+    "channel": "PBS NewsHour",
+    "published": "2026-10-31T01:46:15+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Steve Hilton makes his pitch for governor of California",
+    "url": "https://www.youtube.com/watch?v=5QJRLtY5Sjo",
+    "channel": "NBC News",
+    "published": "2026-10-31T01:20:59+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Hallie Jackson NOW - Oct. 30 | NBC News NOW",
+    "url": "https://www.youtube.com/watch?v=OdCw_EOt4lI",
+    "channel": "NBC News",
+    "published": "2026-10-31T01:14:08+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Stay Tuned NOW Streaming Behind The Scenes! - Oct 30",
+    "url": "https://www.youtube.com/watch?v=qTTnbE3lz-s",
+    "channel": "NBC News",
+    "published": "2026-10-31T01:04:36+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "How isolated is Israel internationally?",
+    "url": "https://www.youtube.com/watch?v=Uikp06Mrms4",
+    "channel": "PBS NewsHour",
+    "published": "2026-10-31T01:00:18+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "What’s Next After the Israeli Election; Author Min Jin Lee Questions the Education System - Oct. 30",
+    "url": "https://www.youtube.com/watch?v=qwrF5c_M-n8",
+    "channel": "NBC News",
+    "published": "2026-10-31T00:51:55+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Stocks take a hit amid AI concerns",
+    "url": "https://www.youtube.com/watch?v=uBg0KRvjEYE",
+    "channel": "NBC News",
+    "published": "2026-10-31T00:50:45+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Independent voters hold the key in New Hampshire's high-stakes Senate race",
+    "url": "https://www.youtube.com/watch?v=uZhq9CntvkM",
+    "channel": "NBC News",
+    "published": "2026-10-31T00:49:37+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "How reseller bots illegally inflate concert ticket prices",
+    "url": "https://www.youtube.com/watch?v=vauMl5hGzh0",
+    "channel": "PBS NewsHour",
+    "published": "2026-10-31T00:00:20+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Inside a Ukrainian city hit by Russian drones during the Starlink disruption",
+    "url": "https://www.youtube.com/watch?v=9wVvkVd7hos",
+    "channel": "PBS NewsHour",
+    "published": "2026-10-30T23:40:45+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "What Israel's election deadlock means for Netanyahu and the region",
+    "url": "https://www.youtube.com/watch?v=25PA9JPFS9o",
+    "channel": "PBS NewsHour",
+    "published": "2026-10-30T23:28:11+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Capehart and Continetti on closing messages and midterm predictions",
+    "url": "https://www.youtube.com/watch?v=7WnwQyBG9a0",
+    "channel": "PBS NewsHour",
+    "published": "2026-10-30T23:25:31+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "PBS News Hour full episode, Oct. 30, 2026",
+    "url": "https://www.youtube.com/watch?v=KIjeMHrR9IM",
+    "channel": "PBS NewsHour",
+    "published": "2026-10-30T23:21:58+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Candidates make final midterm stops as early voting surges",
+    "url": "https://www.youtube.com/watch?v=CZa3ugLSTqM",
+    "channel": "PBS NewsHour",
+    "published": "2026-10-30T23:10:55+00:00",
+    "topic": "us"
+   }
+  ],
+  "europe": [
+   {
+    "title": "Snow Forecast (2026/10/31)",
+    "url": "https://www.youtube.com/watch?v=E7kSl5PgnDk",
+    "channel": "euronews",
+    "published": "2026-10-31T00:01:13+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Canada aims to become EU's first 'associate member' by June 2027, Carney says",
+    "url": "https://www.youtube.com/watch?v=Y6dFDymxamc",
+    "channel": "euronews",
+    "published": "2026-10-30T20:25:40+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Abu Dhabi Grand Slam 2026: Middleweights Shine on Day 2",
+    "url": "https://www.youtube.com/watch?v=PKRhX7BT52M",
+    "channel": "euronews",
+    "published": "2026-10-30T20:24:17+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Canada aims to become EU's first 'associate member' by June 2027, Carney says",
+    "url": "https://www.youtube.com/watch?v=rzYPj4OMogw",
+    "channel": "euronews",
+    "published": "2026-10-30T20:22:23+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Residents leave Russian-occupied Oleshky amid local ceasefire",
+    "url": "https://www.youtube.com/watch?v=puuB75FkW2w",
+    "channel": "euronews",
+    "published": "2026-10-30T18:40:29+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Residents leave Russian-occupied Oleshky amid local ceasefire",
+    "url": "https://www.youtube.com/watch?v=_-NnWN57fu4",
+    "channel": "euronews",
+    "published": "2026-10-30T18:35:51+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "UN envoy pushes for renewed Cyprus talks before end of 2026",
+    "url": "https://www.youtube.com/watch?v=JZLyQ10TCOw",
+    "channel": "euronews",
+    "published": "2026-10-30T17:48:58+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "UN envoy pushes for renewed Cyprus talks before end of 2026",
+    "url": "https://www.youtube.com/watch?v=NA7u5g6hZs8",
+    "channel": "euronews",
+    "published": "2026-10-30T17:42:55+00:00",
+    "topic": "europe"
+   }
+  ],
   "brics": []
  },
  "errors": [
@@ -141,10 +283,10 @@
   "HugoDécrypte – Actus du jour: HTTP Error 404: Not Found",
   "Le Monde: HTTP Error 404: Not Found",
   "FRANCE 24: HTTP Error 404: Not Found",
-  "Le Dessous des Cartes – ARTE: HTTP Error 404: Not Found",
+  "Le Dessous des Cartes – ARTE: HTTP Error 500: Internal Server Error",
   "Al Jazeera English: HTTP Error 404: Not Found",
   "FRANCE 24 English: HTTP Error 404: Not Found",
-  "Middle East Eye: HTTP Error 404: Not Found",
+  "Middle East Eye: HTTP Error 500: Internal Server Error",
   "BBC News: HTTP Error 404: Not Found",
   "Arab News: HTTP Error 404: Not Found",
   "Al Arabiya English: HTTP Error 404: Not Found",
@@ -153,16 +295,16 @@
   "PGA TOUR: HTTP Error 404: Not Found",
   "DP World Tour: HTTP Error 404: Not Found",
   "LIV Golf: HTTP Error 404: Not Found",
-  "Golf Channel: HTTP Error 404: Not Found",
+  "Golf Channel: HTTP Error 500: Internal Server Error",
   "World Rugby: HTTP Error 404: Not Found",
   "RugbyPass: HTTP Error 404: Not Found",
   "Six Nations Rugby: HTTP Error 404: Not Found",
   "L'Équipe: HTTP Error 404: Not Found",
   "Tifo Sports (The Athletic): HTTP Error 404: Not Found",
-  "Sky Sports Football: HTTP Error 500: Internal Server Error",
-  "FORMULA 1: HTTP Error 500: Internal Server Error",
+  "ESPN FC: HTTP Error 404: Not Found",
+  "Sky Sports Football: HTTP Error 404: Not Found",
   "The Race: HTTP Error 404: Not Found",
-  "Bloomberg Television: HTTP Error 404: Not Found",
+  "Bloomberg Television: HTTP Error 500: Internal Server Error",
   "Reuters: HTTP Error 404: Not Found",
   "Financial Times: HTTP Error 404: Not Found",
   "BFM Business: HTTP Error 404: Not Found",
@@ -172,22 +314,19 @@
   "Asianometry: HTTP Error 404: Not Found",
   "FreightWaves: HTTP Error 404: Not Found",
   "NASASpaceflight: HTTP Error 404: Not Found",
-  "Scott Manley: HTTP Error 404: Not Found",
-  "Breaking Defense: HTTP Error 404: Not Found",
+  "Breaking Defense: HTTP Error 500: Internal Server Error",
   "SpaceNews: HTTP Error 404: Not Found",
   "Defense News: HTTP Error 404: Not Found",
   "Benchmark Mineral Intelligence: HTTP Error 404: Not Found",
   "IEA: HTTP Error 404: Not Found",
-  "CoinDesk: HTTP Error 404: Not Found",
+  "Into the Cryptoverse (Benjamin Cowen): HTTP Error 500: Internal Server Error",
+  "CoinDesk: HTTP Error 500: Internal Server Error",
   "Tennis TV: HTTP Error 404: Not Found",
   "Business of Fashion: HTTP Error 404: Not Found",
-  "NVIDIA: HTTP Error 404: Not Found",
-  "PBS NewsHour: HTTP Error 404: Not Found",
+  "NVIDIA: HTTP Error 500: Internal Server Error",
   "Associated Press: HTTP Error 404: Not Found",
-  "NBC News: HTTP Error 404: Not Found",
   "CBS News: HTTP Error 404: Not Found",
   "DW News: HTTP Error 404: Not Found",
-  "euronews: HTTP Error 404: Not Found",
   "FRANCE 24 English: HTTP Error 404: Not Found",
   "BBC News: HTTP Error 404: Not Found",
   "WION: HTTP Error 404: Not Found",
