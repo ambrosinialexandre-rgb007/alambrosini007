@@ -1,380 +1,97 @@
 {
- "generatedAt": "2026-11-03T01:14:31.010835+00:00",
+ "generatedAt": "2026-11-03T03:59:50.043760+00:00",
  "topics": {
   "fr-national": [],
   "fr-international": [],
-  "me-region": [
-   {
-    "title": "Emergency alerts hacking 'designed to undermine trust in government', expert says • FRANCE 24",
-    "url": "https://www.youtube.com/watch?v=NmJUGqcxrjg",
-    "channel": "FRANCE 24 English",
-    "published": "2026-11-02T22:28:34+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Uganda withdrawing troops from peacekeeping mission in Somalia • FRANCE 24 English",
-    "url": "https://www.youtube.com/watch?v=UhMutp5hFJU",
-    "channel": "FRANCE 24 English",
-    "published": "2026-11-02T21:24:55+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "The Long Hull: Karl Bushby reflects on perseverance & 'best of humanity' on his 28-year journey home",
-    "url": "https://www.youtube.com/watch?v=qQ0u3Fh96Ew",
-    "channel": "FRANCE 24 English",
-    "published": "2026-11-02T20:51:20+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "EU says fridge attacks 'deliberate attempt to disrupt' bloc's food supply • FRANCE 24 English",
-    "url": "https://www.youtube.com/watch?v=Xfs-aw6NJiA",
-    "channel": "FRANCE 24 English",
-    "published": "2026-11-02T20:30:06+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Trump promised 'no more wars'. His foreign policy tells another story • FRANCE 24 English",
-    "url": "https://www.youtube.com/watch?v=h-AQuQH5DLk",
-    "channel": "FRANCE 24 English",
-    "published": "2026-11-02T20:27:59+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Midterms 2026: Arab minority to play key role in Michigan race • FRANCE 24 English",
-    "url": "https://www.youtube.com/watch?v=LRioqVDb6k4",
-    "channel": "FRANCE 24 English",
-    "published": "2026-11-02T20:04:54+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "The Midterms and the state of US democracy • FRANCE 24 English",
-    "url": "https://www.youtube.com/watch?v=h1Zpx1zjGt4",
-    "channel": "FRANCE 24 English",
-    "published": "2026-11-02T19:36:57+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "MAGA: Why Trump's most loyal supporters are turning against him? • FRANCE 24 English",
-    "url": "https://www.youtube.com/watch?v=PfT5lDtsAaY",
-    "channel": "FRANCE 24 English",
-    "published": "2026-11-02T19:17:54+00:00",
-    "topic": "me-region"
-   }
-  ],
+  "me-region": [],
   "golf": [],
   "rugby": [],
   "football": [],
   "f1": [],
-  "markets": [
-   {
-    "title": "Kumar: Costs, ICE Are Pushing Latinos Toward Democrats",
-    "url": "https://www.youtube.com/watch?v=7QHt-OE6v4A",
-    "channel": "Bloomberg Television",
-    "published": "2026-11-03T00:14:19+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Trump Talks Reflecting Pool in Midterm Closing Message",
-    "url": "https://www.youtube.com/watch?v=-Xnz7tLtRKc",
-    "channel": "Bloomberg Television",
-    "published": "2026-11-03T00:13:10+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Robinhood CFO on Retail IPO Demand, Agentic Trading",
-    "url": "https://www.youtube.com/watch?v=-fJoBdNv-dw",
-    "channel": "Bloomberg Television",
-    "published": "2026-11-02T23:28:48+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Democrats Could Flip Senate Seat in North Carolina",
-    "url": "https://www.youtube.com/watch?v=WLvP-wGZH0k",
-    "channel": "Bloomberg Television",
-    "published": "2026-11-02T23:13:56+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Apple Sales Meet Estimates, China Is a Weak Spot",
-    "url": "https://www.youtube.com/watch?v=bjiF2zcvy30",
-    "channel": "Bloomberg Television",
-    "published": "2026-11-02T22:58:56+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "iPhone Duo Sales To Hit 7M in 2026, Predicts IDC Sr. Director",
-    "url": "https://www.youtube.com/watch?v=LZASJBzAYjg",
-    "channel": "Bloomberg Television",
-    "published": "2026-11-02T22:58:04+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Michigan Midterms, Apple Earnings & the Tech Selloff",
-    "url": "https://www.youtube.com/watch?v=4nRyHk-v4yw",
-    "channel": "Bloomberg Television",
-    "published": "2026-11-02T22:56:20+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Learjet May Have Broken Up Before Fatal Florida Crash, NTSB Says",
-    "url": "https://www.youtube.com/watch?v=OUfYpCf5ktc",
-    "channel": "Bloomberg Television",
-    "published": "2026-11-02T22:55:27+00:00",
-    "topic": "markets"
-   }
-  ],
+  "markets": [],
   "ai-semis": [],
-  "transport": [
-   {
-    "title": "FreightWaves Today | November 2",
-    "url": "https://www.youtube.com/watch?v=VmE_aI0Kwxg",
-    "channel": "FreightWaves",
-    "published": "2026-11-02T19:09:54+00:00",
-    "topic": "transport"
-   },
-   {
-    "title": "WARNING: Don't Expect This Freight Cycle to End Soon",
-    "url": "https://www.youtube.com/watch?v=hkx7GLOu7gU",
-    "channel": "FreightWaves",
-    "published": "2026-11-02T18:32:04+00:00",
-    "topic": "transport"
-   },
-   {
-    "title": "LTL vs. Truckload: Who Emerged Stronger From Q3 Earnings Reports?",
-    "url": "https://www.youtube.com/watch?v=2pL_MzTsETo",
-    "channel": "FreightWaves",
-    "published": "2026-11-02T18:28:14+00:00",
-    "topic": "transport"
-   },
-   {
-    "title": "Electric Trucking: Why 2,500 Tesla Semis Will Transform Freight",
-    "url": "https://www.youtube.com/watch?v=LtCkV-DuHfw",
-    "channel": "FreightWaves",
-    "published": "2026-11-02T18:28:09+00:00",
-    "topic": "transport"
-   },
-   {
-    "title": "FreightWaves Now | November 2",
-    "url": "https://www.youtube.com/watch?v=dxyFZWQx3_E",
-    "channel": "FreightWaves",
-    "published": "2026-11-02T16:59:34+00:00",
-    "topic": "transport"
-   },
-   {
-    "title": "THE FUTURE OF FREIGHT IS HERE… BUT ARE TRUCKERS INVITED? | BRAKE CHECK",
-    "url": "https://www.youtube.com/watch?v=h91DicvZdTE",
-    "channel": "FreightWaves",
-    "published": "2026-11-02T15:24:00+00:00",
-    "topic": "transport"
-   },
-   {
-    "title": "Flexport Volumes Surge 40%, Freight Cycles Defy Forecasting, & Covenant Eyes Double-Digit Hikes",
-    "url": "https://www.youtube.com/watch?v=9dpstRWZEX8",
-    "channel": "FreightWaves",
-    "published": "2026-11-02T14:10:11+00:00",
-    "topic": "transport"
-   },
-   {
-    "title": "FreightWaves Now | October 30",
-    "url": "https://www.youtube.com/watch?v=uXWOJ9z2rxo",
-    "channel": "FreightWaves",
-    "published": "2026-10-31T05:15:02+00:00",
-    "topic": "transport"
-   }
-  ],
+  "transport": [],
   "aerospace": [],
   "minerals": [],
   "energy": [],
-  "crypto": [
-   {
-    "title": "Stock Market Correction: Q4 2026",
-    "url": "https://www.youtube.com/watch?v=BBgxp2SvLuU",
-    "channel": "Into the Cryptoverse (Benjamin Cowen)",
-    "published": "2026-11-02T21:06:05+00:00",
-    "topic": "crypto"
-   },
-   {
-    "title": "Bitcoin: The Beauty of Mathematics (Part 74)",
-    "url": "https://www.youtube.com/watch?v=FoneKiojzzg",
-    "channel": "Into the Cryptoverse (Benjamin Cowen)",
-    "published": "2026-11-02T04:37:44+00:00",
-    "topic": "crypto"
-   },
-   {
-    "title": "Bitcoin: Dooobious Spookulation",
-    "url": "https://www.youtube.com/watch?v=VWU9sgbvnzw",
-    "channel": "Into the Cryptoverse (Benjamin Cowen)",
-    "published": "2026-11-01T03:18:25+00:00",
-    "topic": "crypto"
-   },
-   {
-    "title": "There Are Already A Lot Of Markets That Are Doing This",
-    "url": "https://www.youtube.com/watch?v=2FrzGDeTpC0",
-    "channel": "Into the Cryptoverse (Benjamin Cowen)",
-    "published": "2026-10-31T20:19:43+00:00",
-    "topic": "crypto"
-   },
-   {
-    "title": "Bitcoin: The Q4 Dump is Here",
-    "url": "https://www.youtube.com/watch?v=bekghgecip8",
-    "channel": "Into the Cryptoverse (Benjamin Cowen)",
-    "published": "2026-10-30T14:12:39+00:00",
-    "topic": "crypto"
-   },
-   {
-    "title": "Bitcoin Q4 Dump (Live Show!)",
-    "url": "https://www.youtube.com/watch?v=g2MQiby7_qY",
-    "channel": "Into the Cryptoverse (Benjamin Cowen)",
-    "published": "2026-10-30T02:19:19+00:00",
-    "topic": "crypto"
-   },
-   {
-    "title": "All of BTC's Prior Major Drops That Marked Market Cycle Bottoms Have Always Occurred..",
-    "url": "https://www.youtube.com/watch?v=oJQOxVxrNAg",
-    "channel": "Into the Cryptoverse (Benjamin Cowen)",
-    "published": "2026-10-29T20:43:25+00:00",
-    "topic": "crypto"
-   },
-   {
-    "title": "NFA Live! Bitcoin Losing Momentum? Fed Fallout & Midterm Market Risks",
-    "url": "https://www.youtube.com/watch?v=F5RZjBsFJ_g",
-    "channel": "Into the Cryptoverse (Benjamin Cowen)",
-    "published": "2026-10-29T13:47:55+00:00",
-    "topic": "crypto"
-   }
-  ],
+  "crypto": [],
   "tennis": [],
   "luxury": [],
   "robotics": [],
-  "us": [
+  "us": [],
+  "europe": [
    {
-    "title": "NBC News producer shares personal journey battling Alzheimer’s",
-    "url": "https://www.youtube.com/watch?v=GJkoZyzjU_g",
-    "channel": "NBC News",
-    "published": "2026-11-03T00:43:33+00:00",
-    "topic": "us"
+    "title": "Shop freezers in seven European countries hit by cyber-attack | BBC News",
+    "url": "https://www.youtube.com/watch?v=JAfSyPh4AW4",
+    "channel": "BBC News",
+    "published": "2026-11-03T02:28:04+00:00",
+    "topic": "europe"
    },
    {
-    "title": "Inside the AP's process for calling election races",
-    "url": "https://www.youtube.com/watch?v=6P5gYWJ1MGI",
-    "channel": "PBS NewsHour",
-    "published": "2026-11-03T00:42:58+00:00",
-    "topic": "us"
+    "title": "Countdown to US midterms: What will the results mean? | BBC News",
+    "url": "https://www.youtube.com/watch?v=vkrR26TuzEs",
+    "channel": "BBC News",
+    "published": "2026-11-03T00:45:25+00:00",
+    "topic": "europe"
    },
    {
-    "title": "Dangerous flash flooding threatens millions ",
-    "url": "https://www.youtube.com/watch?v=JBwgVJy6XUI",
-    "channel": "NBC News",
-    "published": "2026-11-03T00:37:31+00:00",
-    "topic": "us"
+    "title": "Why Anthropic's AI warning is targeting investors | The Global Story",
+    "url": "https://www.youtube.com/watch?v=li4wTehOFx8",
+    "channel": "BBC News",
+    "published": "2026-11-02T23:45:01+00:00",
+    "topic": "europe"
    },
    {
-    "title": "Co-pilot and passengers killed in learjet crash identified",
-    "url": "https://www.youtube.com/watch?v=q12jfQXI5AI",
-    "channel": "NBC News",
-    "published": "2026-11-03T00:36:23+00:00",
-    "topic": "us"
+    "title": "Democrat civil war in Michigan | BBC Americast",
+    "url": "https://www.youtube.com/watch?v=PWzj1ytRDiQ",
+    "channel": "BBC News",
+    "published": "2026-11-02T23:00:24+00:00",
+    "topic": "europe"
    },
    {
-    "title": "Tamara Keith and Amy Walter on the early signals to watch on Election Night",
-    "url": "https://www.youtube.com/watch?v=GsN3yyoNP6U",
-    "channel": "PBS NewsHour",
-    "published": "2026-11-03T00:35:04+00:00",
-    "topic": "us"
+    "title": "Trump delivers final speech ahead of midterms. #BBCNews",
+    "url": "https://www.youtube.com/watch?v=b-bSmfwfG-U",
+    "channel": "BBC News",
+    "published": "2026-11-02T22:39:56+00:00",
+    "topic": "europe"
    },
    {
-    "title": "PBS News Hour full episode, Nov. 2, 2026",
-    "url": "https://www.youtube.com/watch?v=OpJqDti4PrE",
-    "channel": "PBS NewsHour",
-    "published": "2026-11-03T00:34:56+00:00",
-    "topic": "us"
+    "title": "Everything you need to know about the US midterms and what they'll mean for America | BBC Newscast",
+    "url": "https://www.youtube.com/watch?v=h1rYHE3vS4g",
+    "channel": "BBC News",
+    "published": "2026-11-02T22:15:25+00:00",
+    "topic": "europe"
    },
    {
-    "title": "Hours away until critical midterm elections",
-    "url": "https://www.youtube.com/watch?v=KfESQf0l2nE",
-    "channel": "NBC News",
-    "published": "2026-11-03T00:32:58+00:00",
-    "topic": "us"
+    "title": "Strait of Hormuz could reopen within two days if the US agrees to demands, Iran says | BBC News",
+    "url": "https://www.youtube.com/watch?v=caIJY3kmzJY",
+    "channel": "BBC News",
+    "published": "2026-11-02T21:30:05+00:00",
+    "topic": "europe"
    },
    {
-    "title": "Some Jewish voters in Michigan support Stevens' endorsement",
-    "url": "https://www.youtube.com/watch?v=Zu2u1IqzZ38",
-    "channel": "NBC News",
-    "published": "2026-11-03T00:28:40+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Good News: 20-year-old finishes New York City Marathon after a car accident left her paralyzed",
-    "url": "https://www.youtube.com/watch?v=mbhQTXdHLMo",
-    "channel": "NBC News",
-    "published": "2026-11-03T00:28:18+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Muslim communities confront surge of hostility during midterms",
-    "url": "https://www.youtube.com/watch?v=qYMLlPYC91g",
-    "channel": "PBS NewsHour",
-    "published": "2026-11-03T00:17:42+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Zelenskyy on his 'emotional' relationship with Trump and fighting Russia",
-    "url": "https://www.youtube.com/watch?v=7wKUNLj1K3M",
-    "channel": "PBS NewsHour",
-    "published": "2026-11-03T00:15:52+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Surprise endorsement in Michigan Senate race a 'huge distraction,' says Rep. Dingell",
-    "url": "https://www.youtube.com/watch?v=IntWmD8LQIA",
-    "channel": "PBS NewsHour",
-    "published": "2026-11-02T23:59:30+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Stay Tuned NOW Streaming Behind The Scenes! - Nov 2",
-    "url": "https://www.youtube.com/watch?v=WmGHd3T0QbA",
-    "channel": "NBC News",
-    "published": "2026-11-02T23:57:53+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Advocates warn Afghans deported by U.S. will face 'certain death' under Taliban",
-    "url": "https://www.youtube.com/watch?v=OLnAEM3yvEM",
-    "channel": "PBS NewsHour",
-    "published": "2026-11-02T23:43:38+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "News Wrap: Parts of jet may have broken before Florida crash",
-    "url": "https://www.youtube.com/watch?v=0Ok40082Iys",
-    "channel": "PBS NewsHour",
-    "published": "2026-11-02T23:23:49+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "LIVE: NBC News NOW - Nov. 2",
-    "url": "https://www.youtube.com/watch?v=R6khjqIPmVA",
-    "channel": "NBC News",
-    "published": "2026-11-02T19:35:38+00:00",
-    "topic": "us"
+    "title": "The BBC gains rare access to people inside Iran | Global News Podcast",
+    "url": "https://www.youtube.com/watch?v=dwrFTJO3N5U",
+    "channel": "BBC News",
+    "published": "2026-11-02T20:45:39+00:00",
+    "topic": "europe"
    }
   ],
-  "europe": [],
   "brics": []
  },
  "errors": [
   "franceinfo: HTTP Error 404: Not Found",
   "HugoDécrypte – Actus du jour: HTTP Error 404: Not Found",
-  "Le Monde: HTTP Error 500: Internal Server Error",
-  "FRANCE 24: HTTP Error 500: Internal Server Error",
+  "Le Monde: HTTP Error 404: Not Found",
+  "FRANCE 24: HTTP Error 404: Not Found",
   "Le Dessous des Cartes – ARTE: HTTP Error 404: Not Found",
   "Al Jazeera English: HTTP Error 404: Not Found",
+  "FRANCE 24 English: HTTP Error 404: Not Found",
   "Middle East Eye: HTTP Error 404: Not Found",
-  "BBC News: HTTP Error 500: Internal Server Error",
+  "BBC News: HTTP Error 404: Not Found",
   "Arab News: HTTP Error 404: Not Found",
   "Al Arabiya English: HTTP Error 404: Not Found",
-  "Asharq News: HTTP Error 500: Internal Server Error",
+  "Asharq News: HTTP Error 404: Not Found",
   "i24NEWS English: HTTP Error 404: Not Found",
   "PGA TOUR: HTTP Error 404: Not Found",
   "DP World Tour: HTTP Error 404: Not Found",
@@ -387,15 +104,17 @@
   "Tifo Sports (The Athletic): HTTP Error 404: Not Found",
   "ESPN FC: HTTP Error 404: Not Found",
   "Sky Sports Football: HTTP Error 404: Not Found",
-  "FORMULA 1: HTTP Error 404: Not Found",
+  "FORMULA 1: HTTP Error 500: Internal Server Error",
   "The Race: HTTP Error 404: Not Found",
+  "Bloomberg Television: HTTP Error 404: Not Found",
   "Reuters: HTTP Error 404: Not Found",
-  "Financial Times: HTTP Error 500: Internal Server Error",
+  "Financial Times: HTTP Error 404: Not Found",
   "BFM Business: HTTP Error 404: Not Found",
   "Les Echos: HTTP Error 404: Not Found",
-  "CNBC Television: HTTP Error 404: Not Found",
+  "CNBC Television: HTTP Error 500: Internal Server Error",
   "TechTechPotato: HTTP Error 404: Not Found",
   "Asianometry: HTTP Error 404: Not Found",
+  "FreightWaves: HTTP Error 404: Not Found",
   "NASASpaceflight: HTTP Error 404: Not Found",
   "Scott Manley: HTTP Error 404: Not Found",
   "Breaking Defense: HTTP Error 404: Not Found",
@@ -403,16 +122,18 @@
   "Defense News: HTTP Error 404: Not Found",
   "Benchmark Mineral Intelligence: HTTP Error 404: Not Found",
   "IEA: HTTP Error 404: Not Found",
+  "Into the Cryptoverse (Benjamin Cowen): HTTP Error 404: Not Found",
   "CoinDesk: HTTP Error 404: Not Found",
   "Tennis TV: HTTP Error 404: Not Found",
   "Business of Fashion: HTTP Error 404: Not Found",
   "NVIDIA: HTTP Error 404: Not Found",
+  "PBS NewsHour: HTTP Error 404: Not Found",
   "Associated Press: HTTP Error 404: Not Found",
+  "NBC News: HTTP Error 404: Not Found",
   "CBS News: HTTP Error 404: Not Found",
   "DW News: HTTP Error 404: Not Found",
   "euronews: HTTP Error 404: Not Found",
   "FRANCE 24 English: HTTP Error 404: Not Found",
-  "BBC News: HTTP Error 404: Not Found",
   "WION: HTTP Error 404: Not Found",
   "CGTN: HTTP Error 404: Not Found",
   "Al Jazeera English: HTTP Error 404: Not Found",
