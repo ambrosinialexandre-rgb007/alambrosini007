@@ -1,61 +1,89 @@
 {
- "generatedAt": "2026-11-04T16:01:34.405113+00:00",
+ "generatedAt": "2026-11-04T19:07:37.503582+00:00",
  "topics": {
   "fr-national": [
    {
-    "title": "\"Les enquêtes parlementaires vont reprendre autour de Trump\" (Frédérique Sandretto)",
-    "url": "https://www.youtube.com/watch?v=QQBkFKJKZr0",
+    "title": "Attention aux fausses agences de mannequins",
+    "url": "https://www.youtube.com/watch?v=L4f406mf-TI",
     "channel": "franceinfo",
-    "published": "2026-11-04T15:51:19+00:00",
+    "published": "2026-11-04T19:01:50+00:00",
     "topic": "fr-national"
    },
    {
-    "title": "Bras de fer, veto, décrets : Comment Trump va-t-il gouverner après sa défaite aux midterms ?",
-    "url": "https://www.youtube.com/watch?v=pkUpZk0_DKo",
-    "channel": "franceinfo",
-    "published": "2026-11-04T15:38:16+00:00",
+    "title": "« Donald Trump prend vraiment une claque » : ce qu’il faut retenir des résultats des midterms 2026",
+    "url": "https://www.youtube.com/watch?v=9ikg0tq8y7A",
+    "channel": "Le Monde",
+    "published": "2026-11-04T18:48:30+00:00",
     "topic": "fr-national"
    },
    {
-    "title": "Le chanteur suisse Stephan Eicher dans Le monde d'Élodie, épiosde 2",
-    "url": "https://www.youtube.com/watch?v=8cNwjiiLGSA",
+    "title": "Hausse du Smic : \"C'est une folie, on pousse les patrons à mal payer les salariés\" (Thomas Vacheron)",
+    "url": "https://www.youtube.com/watch?v=fRLer9kiVMg",
     "channel": "franceinfo",
-    "published": "2026-11-04T15:03:11+00:00",
+    "published": "2026-11-04T18:45:38+00:00",
     "topic": "fr-national"
    },
    {
-    "title": "Midterms : Trump déteste les perdants",
-    "url": "https://www.youtube.com/watch?v=axepFNIBePk",
+    "title": "Dispositif policier du 5 novembre",
+    "url": "https://www.youtube.com/watch?v=yRBgsvLxe80",
     "channel": "franceinfo",
-    "published": "2026-11-04T15:01:43+00:00",
+    "published": "2026-11-04T18:40:19+00:00",
     "topic": "fr-national"
    },
    {
-    "title": "\"Le 17 octobre, la France a eu le sentiment d’être abandonnée par l’État\" (Bruno Cautrès)",
-    "url": "https://www.youtube.com/watch?v=UIXF-oq4nGg",
+    "title": "\"Un gros dispositif policier\" annoncé par Laurent Nuñez pour les manifestations du 5 novembre",
+    "url": "https://www.youtube.com/watch?v=k8aqP0X5lOY",
     "channel": "franceinfo",
-    "published": "2026-11-04T14:58:41+00:00",
+    "published": "2026-11-04T18:06:59+00:00",
     "topic": "fr-national"
    },
    {
-    "title": "\"Donald Trump avait promis de ne plus faire la guerre à l'Iran\" (Anthony Bellanger)",
-    "url": "https://www.youtube.com/watch?v=sJqJ_ifqo64",
+    "title": "Peut-on interdire une chaîne de télé ?",
+    "url": "https://www.youtube.com/watch?v=h-8FOaQTvak",
     "channel": "franceinfo",
-    "published": "2026-11-04T14:44:48+00:00",
+    "published": "2026-11-04T18:05:30+00:00",
     "topic": "fr-national"
    },
    {
-    "title": "Des SMS d'Emmanuel Macron dévoilés dans un livre",
-    "url": "https://www.youtube.com/watch?v=lniedbUadcg",
-    "channel": "franceinfo",
-    "published": "2026-11-04T14:27:02+00:00",
+    "title": "Guerre en Ukraine : Komychouvakha visée par une attaque meurtrière russe",
+    "url": "https://www.youtube.com/watch?v=U-R9Zywu0IU",
+    "channel": "Le Monde",
+    "published": "2026-11-04T17:53:29+00:00",
     "topic": "fr-national"
    },
    {
-    "title": "\"Donald Trump est un businessman et un showman, mais pas un politique\" (Jérôme Viala-Gaudefroy)",
-    "url": "https://www.youtube.com/watch?v=5Lh43ZZv9GQ",
+    "title": "Une enquête a été ouverte après des menaces de mort racistes visant des livreurs et des chauffeurs",
+    "url": "https://www.youtube.com/watch?v=ql_MzrOlI04",
+    "channel": "HugoDécrypte – Actus du jour",
+    "published": "2026-11-04T17:42:47+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "Cyberattaque du Crédit Mutuel Arkéa : \"Ça ouvre la boite de pandore\" (Sofiane Aklouf)",
+    "url": "https://www.youtube.com/watch?v=MGybEJ6ch8o",
     "channel": "franceinfo",
-    "published": "2026-11-04T13:52:13+00:00",
+    "published": "2026-11-04T17:35:49+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "Cyberattaques successives en France : \"C’est extrêmement grave\" (Sandra Aubert)",
+    "url": "https://www.youtube.com/watch?v=KBtgpW_4N3g",
+    "channel": "franceinfo",
+    "published": "2026-11-04T17:02:28+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "Pourquoi les projections cartographiques font autant débat  ?",
+    "url": "https://www.youtube.com/watch?v=uv35LgzWNm4",
+    "channel": "Le Monde",
+    "published": "2026-11-04T17:00:42+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "Ils surveillent l’usage de la force en manifestation.",
+    "url": "https://www.youtube.com/watch?v=ZFd2ylnKuF4",
+    "channel": "HugoDécrypte – Actus du jour",
+    "published": "2026-11-04T16:02:03+00:00",
     "topic": "fr-national"
    },
    {
@@ -84,6 +112,13 @@
     "url": "https://www.youtube.com/watch?v=_LjyG58_9_Q",
     "channel": "Le Monde",
     "published": "2026-11-04T07:45:29+00:00",
+    "topic": "fr-national"
+   },
+   {
+    "title": "Le journal de 20h de France Télévisions - 04 novembre 2026",
+    "url": "https://www.youtube.com/watch?v=nbMXh-2cl-E",
+    "channel": "franceinfo",
+    "published": "2026-11-04T07:00:03+00:00",
     "topic": "fr-national"
    },
    {
@@ -129,49 +164,49 @@
     "topic": "fr-national"
    },
    {
-    "title": "Comment l’administration de Donald Trump utilise des pays africains pour expulser des migrants",
-    "url": "https://www.youtube.com/watch?v=Zb9RNMhK7Y8",
-    "channel": "Le Monde",
-    "published": "2026-11-03T10:01:11+00:00",
-    "topic": "fr-national"
-   },
-   {
-    "title": "Sahara occidental : fin inattendue pour la mission de l'ONU",
-    "url": "https://www.youtube.com/watch?v=dh3N3Goq7kw",
-    "channel": "Le Monde",
-    "published": "2026-11-03T08:14:07+00:00",
-    "topic": "fr-national"
-   },
-   {
     "title": "Trump s'inquiète, l'Amérique pourrait basculer demain",
     "url": "https://www.youtube.com/watch?v=rQ_f3UOItL0",
     "channel": "HugoDécrypte – Actus du jour",
     "published": "2026-11-02T19:00:20+00:00",
     "topic": "fr-national"
-   },
-   {
-    "title": "Cet homme vient de passer 28 ans à faire le tour du monde",
-    "url": "https://www.youtube.com/watch?v=DDbzuk1vUeo",
-    "channel": "Le Monde",
-    "published": "2026-11-02T18:41:41+00:00",
-    "topic": "fr-national"
-   },
-   {
-    "title": "Une pétition pour la suppression de CNews pourrait être débattue à l’Assemblée nationale (02/11)",
-    "url": "https://www.youtube.com/watch?v=4vjA3fxx9QM",
-    "channel": "HugoDécrypte – Actus du jour",
-    "published": "2026-11-02T18:24:46+00:00",
-    "topic": "fr-national"
-   },
-   {
-    "title": "+ de 35 000 anciens athlètes français ne touchent pas de retraite pour leurs année de sportifs pro.",
-    "url": "https://www.youtube.com/watch?v=oACHvjiUXdQ",
-    "channel": "HugoDécrypte – Actus du jour",
-    "published": "2026-11-02T17:20:15+00:00",
-    "topic": "fr-national"
    }
   ],
   "fr-international": [
+   {
+    "title": "Midterms: et maintenant, quelle politique environnementale aux États-Unis? • FRANCE 24",
+    "url": "https://www.youtube.com/watch?v=UneXKq2tia0",
+    "channel": "FRANCE 24",
+    "published": "2026-11-04T17:24:20+00:00",
+    "topic": "fr-international"
+   },
+   {
+    "title": "Midterms : \"Trump n'est plus une machine à gagner\" pour les républicains • FRANCE 24",
+    "url": "https://www.youtube.com/watch?v=qR7A-AdJKoM",
+    "channel": "FRANCE 24",
+    "published": "2026-11-04T16:58:52+00:00",
+    "topic": "fr-international"
+   },
+   {
+    "title": "Midterms : changement en vue en Afrique ? • FRANCE 24",
+    "url": "https://www.youtube.com/watch?v=tKhiTIn3H8o",
+    "channel": "FRANCE 24",
+    "published": "2026-11-04T16:37:33+00:00",
+    "topic": "fr-international"
+   },
+   {
+    "title": "Éthiopie : Des milliers de déplacés privés d’aides humanitaires • FRANCE 24",
+    "url": "https://www.youtube.com/watch?v=tRUInmTRO9I",
+    "channel": "FRANCE 24",
+    "published": "2026-11-04T16:20:08+00:00",
+    "topic": "fr-international"
+   },
+   {
+    "title": "Midterms : la défaite de Trump va-t-elle avoir un effet sur sa politique étrangère ?  | ARTE",
+    "url": "https://www.youtube.com/watch?v=H2quLu7sMfU",
+    "channel": "Le Dessous des Cartes – ARTE",
+    "published": "2026-11-04T16:08:32+00:00",
+    "topic": "fr-international"
+   },
    {
     "title": "Afrique du Sud : les townships au cœur des élections municipales • FRANCE 24",
     "url": "https://www.youtube.com/watch?v=oTiPuIf_wm0",
@@ -198,34 +233,6 @@
     "url": "https://www.youtube.com/watch?v=7RXd3VafLoA",
     "channel": "FRANCE 24",
     "published": "2026-11-04T15:05:04+00:00",
-    "topic": "fr-international"
-   },
-   {
-    "title": "Midterms : les républicains de l'État du Wyoming conservent leur place • FRANCE 24",
-    "url": "https://www.youtube.com/watch?v=UZIJ023Wxb0",
-    "channel": "FRANCE 24",
-    "published": "2026-11-04T15:03:31+00:00",
-    "topic": "fr-international"
-   },
-   {
-    "title": "Midterms : \"mes lasers spatiaux dans les élections n'ont pas fonctionné cette fois\" • FRANCE 24",
-    "url": "https://www.youtube.com/watch?v=o3fimeZfnOE",
-    "channel": "FRANCE 24",
-    "published": "2026-11-04T15:00:10+00:00",
-    "topic": "fr-international"
-   },
-   {
-    "title": "Midterms : le démocrate Abdul El-Sayed devient le premier sénateur musulman des États-Unis",
-    "url": "https://www.youtube.com/watch?v=ZUReR6g-c8U",
-    "channel": "FRANCE 24",
-    "published": "2026-11-04T14:57:40+00:00",
-    "topic": "fr-international"
-   },
-   {
-    "title": "Midterms : le nouveau Congrès va-t-il permettre un retour à l'équilibre des pouvoirs ?",
-    "url": "https://www.youtube.com/watch?v=9-i85avTcJc",
-    "channel": "FRANCE 24",
-    "published": "2026-11-04T14:54:56+00:00",
     "topic": "fr-international"
    },
    {
@@ -262,84 +269,273 @@
     "channel": "Le Dessous des Cartes – ARTE",
     "published": "2026-10-29T16:30:42+00:00",
     "topic": "fr-international"
-   },
-   {
-    "title": "Israël : le casse-tête électoral | L'Essentiel du Dessous des cartes | ARTE",
-    "url": "https://www.youtube.com/watch?v=6nGZwoViUSE",
-    "channel": "Le Dessous des Cartes – ARTE",
-    "published": "2026-10-28T17:49:52+00:00",
-    "topic": "fr-international"
    }
   ],
   "me-region": [
    {
-    "title": "Trump after the midterms: Gridlock, impeachment and succession? • FRANCE 24 English",
+    "title": "\"It Will Be Harder for Us\": Israel's UN Ambassador responds to Democrat victory",
+    "url": "https://www.youtube.com/watch?v=T6bzLQDxrTk",
+    "channel": "i24NEWS English",
+    "published": "2026-11-04T19:01:04+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "US Senate Democrat Schumer says Iran war ‘must end’",
+    "url": "https://www.youtube.com/watch?v=R1xmCxsKAqw",
+    "channel": "Arab News",
+    "published": "2026-11-04T18:51:56+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Here's why US Republicans lost the midterms so badly",
+    "url": "https://www.youtube.com/watch?v=SxRE6Nw1ORo",
+    "channel": "Middle East Eye",
+    "published": "2026-11-04T18:50:53+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Saudi Arabia and Syria Sign Cooperation Agreements",
+    "url": "https://www.youtube.com/watch?v=cIjyfjPNGww",
+    "channel": "Al Arabiya English",
+    "published": "2026-11-04T18:32:13+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Democrats win back Congress. What will Donald Trump do next? | BBC Americast",
+    "url": "https://www.youtube.com/watch?v=8JoxLKBTPEw",
+    "channel": "BBC News",
+    "published": "2026-11-04T18:13:46+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Thousands Protest Education Cuts in Denmark",
+    "url": "https://www.youtube.com/watch?v=ijJbj1TevE8",
+    "channel": "Al Arabiya English",
+    "published": "2026-11-04T18:13:06+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Key moments as Democrats sweep to victories in US midterms | AJ #shorts",
+    "url": "https://www.youtube.com/watch?v=6tqY2HVO0J0",
+    "channel": "Al Jazeera English",
+    "published": "2026-11-04T18:11:00+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "‘This War Must End’: Schumer Slams Trump Over Iran Conflict",
+    "url": "https://www.youtube.com/watch?v=OSvmRrKZndg",
+    "channel": "Al Arabiya English",
+    "published": "2026-11-04T18:05:40+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Iran says Republican defeat shows US voted 'no to war'",
+    "url": "https://www.youtube.com/watch?v=z0nVAGEdqE8",
+    "channel": "i24NEWS English",
+    "published": "2026-11-04T18:00:33+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "US midterms could reshape Trump's foreign policy and the war with Iran",
+    "url": "https://www.youtube.com/watch?v=TEL-NCWWuzQ",
+    "channel": "Al Jazeera English",
+    "published": "2026-11-04T18:00:17+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Padel eyes Olympic debut at Brisbane 2032 as sport's popularity surges",
+    "url": "https://www.youtube.com/watch?v=MIwmBf81vpY",
+    "channel": "Al Jazeera English",
+    "published": "2026-11-04T18:00:16+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "ما هي أهم النقاط و السوابق التي سجلت ليلة أمس في انتخابات التجديد النصفي في أميركا؟ - البعد الرابع",
+    "url": "https://www.youtube.com/watch?v=3oG86zcjYNs",
+    "channel": "Asharq News",
+    "published": "2026-11-04T18:00:12+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Death toll rises in Ukraine after Russia attacks aid centre and hospital. #Ukraine #Russia #BBCNews",
+    "url": "https://www.youtube.com/watch?v=XKlADXX6gMM",
+    "channel": "BBC News",
+    "published": "2026-11-04T17:58:33+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "'Once-in-a-generation event: Historic election a shocking repudiation of Trump & the MAGA movement'",
+    "url": "https://www.youtube.com/watch?v=q0BKmA0pJo8",
+    "channel": "FRANCE 24 English",
+    "published": "2026-11-04T17:49:33+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "🚨 LIVE: Latest News, Interviews & More from Al Arabiya English",
+    "url": "https://www.youtube.com/watch?v=sLsSLNbyxOw",
+    "channel": "Al Arabiya English",
+    "published": "2026-11-04T17:46:31+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "VP Vance blames US war on Iran for Republican defeat in midterm elections",
+    "url": "https://www.youtube.com/watch?v=EmkYKaYeBx0",
+    "channel": "Al Jazeera English",
+    "published": "2026-11-04T17:45:12+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Defense & Middle East Specialist on Yemen, Houthi Threat And Iran | GNT",
+    "url": "https://www.youtube.com/watch?v=DMCU6TiEqiw",
+    "channel": "Al Arabiya English",
+    "published": "2026-11-04T17:45:05+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "BREAKING: Vance Blames Iran War for Midterms Loss. Is a Bust-Up With Trump on The Cards?",
+    "url": "https://www.youtube.com/watch?v=AAJBjrhVVCI",
+    "channel": "Al Arabiya English",
+    "published": "2026-11-04T17:33:45+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Will the US resume its attacks on Iran? | Inside Story",
+    "url": "https://www.youtube.com/watch?v=LuuJmQdzJEQ",
+    "channel": "Al Jazeera English",
+    "published": "2026-11-04T17:30:12+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Americans chose ‘the economy over extremism’ says House Democratic Leader Jeffries",
+    "url": "https://www.youtube.com/watch?v=KXnuNv6AR0g",
+    "channel": "Al Jazeera English",
+    "published": "2026-11-04T17:24:20+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "‘I Want to Guarantee Everybody Healthcare’: Abdul el-Sayed",
+    "url": "https://www.youtube.com/watch?v=gikdcGkKXVA",
+    "channel": "Al Arabiya English",
+    "published": "2026-11-04T17:10:02+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Mahmoud Khalil says El-Sayed’s win shows being ‘pro-Palestine is good policy’",
+    "url": "https://www.youtube.com/watch?v=cOba6NEmvRs",
+    "channel": "Middle East Eye",
+    "published": "2026-11-04T17:05:05+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Why did the Democrats win big?",
+    "url": "https://www.youtube.com/watch?v=D-gSigwwdEI",
+    "channel": "i24NEWS English",
+    "published": "2026-11-04T17:01:07+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "European leaders welcome Democrats' US midterms election win • FRANCE 24 English",
+    "url": "https://www.youtube.com/watch?v=DJE0kWmZNFY",
+    "channel": "FRANCE 24 English",
+    "published": "2026-11-04T17:00:08+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "ما وراء زيارة أحمد الشرع إلى الرياض الآن؟ - أخبار الشرق",
+    "url": "https://www.youtube.com/watch?v=9XV_KzL0-Og",
+    "channel": "Asharq News",
+    "published": "2026-11-04T17:00:04+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "US midterms bring a wave of historic firsts as minorities win key races • FRANCE 24 English",
+    "url": "https://www.youtube.com/watch?v=T3pB3kQ3IaI",
+    "channel": "FRANCE 24 English",
+    "published": "2026-11-04T16:51:37+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "#USmidterms: #Iran's deputy parliament speaker reacts to #Trump's elections setback • FRANCE 24",
+    "url": "https://www.youtube.com/watch?v=qLkw5pWh5EI",
+    "channel": "FRANCE 24 English",
+    "published": "2026-11-04T16:50:05+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Tenerife’s Jesus de Miguel remembered in moving tributes by football world",
+    "url": "https://www.youtube.com/watch?v=g-2kEN2uNb4",
+    "channel": "Al Jazeera English",
+    "published": "2026-11-04T16:45:36+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "REPLAY: Senate Democratic leader Chuck Schumer on US midterms • FRANCE 24 English",
+    "url": "https://www.youtube.com/watch?v=SsXFWD8FjI8",
+    "channel": "FRANCE 24 English",
+    "published": "2026-11-04T16:42:57+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Has Israel ousted Netanyahu for good?",
+    "url": "https://www.youtube.com/watch?v=EcPC1SYf8_Y",
+    "channel": "Middle East Eye",
+    "published": "2026-11-04T16:38:44+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Adam Hamawy celebrates ‘historic’ victory of US House seat in New Jersey",
+    "url": "https://www.youtube.com/watch?v=1tGUD7JciGk",
+    "channel": "Middle East Eye",
+    "published": "2026-11-04T16:31:57+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "UK Supreme Court hears appeal against Palestine Action’s proscription",
+    "url": "https://www.youtube.com/watch?v=mQ7Uoi_QRTY",
+    "channel": "Al Jazeera English",
+    "published": "2026-11-04T16:27:53+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "US Midterms: How will Trump manage working with Democrats? • FRANCE 24 English",
+    "url": "https://www.youtube.com/watch?v=QmQaEFkJcwg",
+    "channel": "FRANCE 24 English",
+    "published": "2026-11-04T16:24:55+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "🚨 LIVE: Latest News, Interviews & More from Al Arabiya English",
+    "url": "https://www.youtube.com/watch?v=5mVL19FBg2k",
+    "channel": "Al Arabiya English",
+    "published": "2026-11-04T16:13:17+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Tale of 2 midterms: Republican redistricting 'backfired' while Democrats 'exceeded all expectations'",
+    "url": "https://www.youtube.com/watch?v=XmZJv3OCc0E",
+    "channel": "FRANCE 24 English",
+    "published": "2026-11-04T16:08:59+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "رئيس إسرائيل الذي غنى للسلام ودفع الثمن بحياته | ملف الانتخابات الإسرائيلية مع ميراشا الجزء 4",
+    "url": "https://www.youtube.com/watch?v=GwXouQuCfY0",
+    "channel": "Asharq News",
+    "published": "2026-11-04T16:00:25+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Fake job interviews used in $6.3bn crypto hack. #BBCNews",
+    "url": "https://www.youtube.com/watch?v=auivg7iWHeI",
+    "channel": "BBC News",
+    "published": "2026-11-04T16:00:07+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "#Trump after the #midterms: Gridlock, impeachment and succession? • FRANCE 24 English",
     "url": "https://www.youtube.com/watch?v=2GAzCm1M5_M",
     "channel": "FRANCE 24 English",
     "published": "2026-11-04T15:54:57+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "US midterm elections: 'Maybe the best colour for Texas is purple' • FRANCE 24 English",
-    "url": "https://www.youtube.com/watch?v=f03sa4mFhk8",
-    "channel": "FRANCE 24 English",
-    "published": "2026-11-04T15:44:59+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Israeli Election Head: ‘Questioning Results  Poses Genuine Danger’",
-    "url": "https://www.youtube.com/watch?v=R748oPwCeC8",
-    "channel": "Al Arabiya English",
-    "published": "2026-11-04T15:43:27+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Democratic voters celebrate El-Sayed’s Michigan win in election ‘blue wave’ | #ajshorts",
-    "url": "https://www.youtube.com/watch?v=FRi3ytDmlbo",
-    "channel": "Al Jazeera English",
-    "published": "2026-11-04T15:40:49+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "King Charles Jokes About Getting Caught in the Rain",
-    "url": "https://www.youtube.com/watch?v=JzqqoXX6zfg",
-    "channel": "Al Arabiya English",
-    "published": "2026-11-04T15:37:25+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "'We are still red,' Florida’s first Black governor upon win",
-    "url": "https://www.youtube.com/watch?v=_IGv-NTt1rI",
-    "channel": "Al Jazeera English",
-    "published": "2026-11-04T15:30:08+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Democrats shock Texas as Talarico and Hinojosa win in Republican stronghold",
-    "url": "https://www.youtube.com/watch?v=mHJPKOtS8Fg",
-    "channel": "Al Jazeera English",
-    "published": "2026-11-04T15:26:40+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "'Is Republican Party able to pivot away from MAGA movement, or will it sputter forward leaderless?'",
-    "url": "https://www.youtube.com/watch?v=jJkP5_rqTrc",
-    "channel": "FRANCE 24 English",
-    "published": "2026-11-04T15:16:11+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "US midterm elections: Gen Z gives Democrats their strongest support • FRANCE 24 English",
-    "url": "https://www.youtube.com/watch?v=9rx354Rm8n0",
-    "channel": "FRANCE 24 English",
-    "published": "2026-11-04T15:10:11+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "How Trump's broken promises on war, inflation handed Democrats the midterms • FRANCE 24 English",
-    "url": "https://www.youtube.com/watch?v=gdOM4W6AWlA",
-    "channel": "FRANCE 24 English",
-    "published": "2026-11-04T15:02:05+00:00",
     "topic": "me-region"
    },
    {
@@ -371,41 +567,6 @@
     "topic": "me-region"
    },
    {
-    "title": "Democrats win US Congress in blue wave as voters reject Trump's agenda",
-    "url": "https://www.youtube.com/watch?v=OeqDJKTo7Ek",
-    "channel": "Al Jazeera English",
-    "published": "2026-11-04T14:44:33+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "‘Democracy Won in America’: Polish PM Tusk",
-    "url": "https://www.youtube.com/watch?v=Uy4tNGQ5Gt0",
-    "channel": "Al Arabiya English",
-    "published": "2026-11-04T14:33:35+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Midterms: How Abdul El-Sayed used 'humour and hope' to rebuff racism • FRANCE 24 English",
-    "url": "https://www.youtube.com/watch?v=FtJa86O4CiA",
-    "channel": "FRANCE 24 English",
-    "published": "2026-11-04T14:25:13+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Trump loses control of Congress | #ajshorts",
-    "url": "https://www.youtube.com/watch?v=JYpKQzWNHMI",
-    "channel": "Al Jazeera English",
-    "published": "2026-11-04T14:17:53+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Trump seeks to shift blame but has 'nowhere to hide' after midterms defeat • FRANCE 24 English",
-    "url": "https://www.youtube.com/watch?v=ki0PB6PEkjk",
-    "channel": "FRANCE 24 English",
-    "published": "2026-11-04T14:13:46+00:00",
-    "topic": "me-region"
-   },
-   {
     "title": "Midterms: Democrats win majority in house and Senate in blow to Republicans",
     "url": "https://www.youtube.com/watch?v=1EJr5FHW1FE",
     "channel": "i24NEWS English",
@@ -434,27 +595,6 @@
     "topic": "me-region"
    },
    {
-    "title": "Khamenei says US midterms won’t change Washington’s hostility towards Iran",
-    "url": "https://www.youtube.com/watch?v=eNeVgWmOfxc",
-    "channel": "Al Jazeera English",
-    "published": "2026-11-04T13:54:52+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Spanish Transport Minister resigns over train crash disasters",
-    "url": "https://www.youtube.com/watch?v=J4l8MPozkpo",
-    "channel": "Al Jazeera English",
-    "published": "2026-11-04T13:48:43+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "A Suburban Home Turned into a Crime Scene",
-    "url": "https://www.youtube.com/watch?v=jOBwAc5jVsU",
-    "channel": "Al Jazeera English",
-    "published": "2026-11-04T13:41:38+00:00",
-    "topic": "me-region"
-   },
-   {
     "title": "US voters have rejected Republicans - what does that mean for Trump? #USMidterms #BBCNews",
     "url": "https://www.youtube.com/watch?v=Y9R5e6BJ6cM",
     "channel": "BBC News",
@@ -476,24 +616,10 @@
     "topic": "me-region"
    },
    {
-    "title": "A look back at how Trump's political decisions saw his approval rating plummet • FRANCE 24 English",
-    "url": "https://www.youtube.com/watch?v=OwOrUJVOy_U",
-    "channel": "FRANCE 24 English",
-    "published": "2026-11-04T13:17:47+00:00",
-    "topic": "me-region"
-   },
-   {
     "title": "مباشر من بنسلفانيا.. أبرز وآخر النتائج في انتخابات التجديد النصفي - تغطية خاصة",
     "url": "https://www.youtube.com/watch?v=PefI94Klm4M",
     "channel": "Asharq News",
     "published": "2026-11-04T13:00:35+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "MBS Welcomes Al-Sharaa in Riyadh",
-    "url": "https://www.youtube.com/watch?v=NHciYY26pOQ",
-    "channel": "Al Arabiya English",
-    "published": "2026-11-04T12:53:38+00:00",
     "topic": "me-region"
    },
    {
@@ -532,41 +658,6 @@
     "topic": "me-region"
    },
    {
-    "title": "عاجل | لحظة وصول الرئيس السوري أحمد الشرع إلى الرياض",
-    "url": "https://www.youtube.com/watch?v=loGHGerFpdU",
-    "channel": "Asharq News",
-    "published": "2026-11-04T12:15:17+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "ما هو عامل المفاجأة في نتيجة انتخابات التجديد النصفي في أميركا؟ - تغطية خاصة",
-    "url": "https://www.youtube.com/watch?v=aOmYX7BXUiI",
-    "channel": "Asharq News",
-    "published": "2026-11-04T11:30:29+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Trump Remains in Charge of Foreign Policy: French Minister",
-    "url": "https://www.youtube.com/watch?v=4j9YyO7Xltw",
-    "channel": "Al Arabiya English",
-    "published": "2026-11-04T11:24:02+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "El-Sayed: From  ‘Inshallah’ to ‘Alhamdulillah’",
-    "url": "https://www.youtube.com/watch?v=Qeu2H0So6K4",
-    "channel": "Al Arabiya English",
-    "published": "2026-11-04T11:20:12+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Ukrainian Firefighters Battle Blaze at Odesa Shopping Center",
-    "url": "https://www.youtube.com/watch?v=1Wd6uCpSClI",
-    "channel": "Al Arabiya English",
-    "published": "2026-11-04T11:15:56+00:00",
-    "topic": "me-region"
-   },
-   {
     "title": "Intel reportedly set to acquire Israeli Quantum software company Classiq for $2.3B",
     "url": "https://www.youtube.com/watch?v=Lv0dUcrBs00",
     "channel": "i24NEWS English",
@@ -578,20 +669,6 @@
     "url": "https://www.youtube.com/watch?v=n96zNqiehk4",
     "channel": "BBC News",
     "published": "2026-11-04T11:00:12+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "عبد الرحمن السيد يوجه رسالة ساخرة إلى نائب ترمب.. ماذا قال؟",
-    "url": "https://www.youtube.com/watch?v=E26gjsSalHs",
-    "channel": "Asharq News",
-    "published": "2026-11-04T10:48:04+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Republican Supporters ‘Disappointed’ by Michigan Defeat",
-    "url": "https://www.youtube.com/watch?v=96coRNybHWA",
-    "channel": "Al Arabiya English",
-    "published": "2026-11-04T10:43:11+00:00",
     "topic": "me-region"
    },
    {
@@ -623,52 +700,10 @@
     "topic": "me-region"
    },
    {
-    "title": "Voters in US react to midterm results from across country #US #bbcnews",
-    "url": "https://www.youtube.com/watch?v=9qc7-GkwKuQ",
-    "channel": "BBC News",
-    "published": "2026-11-04T09:10:36+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Democrat Abdul El-Sayed to become first Muslim US senator after Michigan win. #BBCNews",
-    "url": "https://www.youtube.com/watch?v=ZJ-BNUS-ji0",
-    "channel": "BBC News",
-    "published": "2026-11-04T08:53:23+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Trump says Democrats 'did a good job' in US midterm elections. #BBCNews",
-    "url": "https://www.youtube.com/watch?v=tbYO-q1UzL0",
-    "channel": "BBC News",
-    "published": "2026-11-04T08:34:51+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Aber Kawas makes history as first Palestinian woman elected to New York State Legislature",
-    "url": "https://www.youtube.com/watch?v=jozeZ5CvCTo",
-    "channel": "Middle East Eye",
-    "published": "2026-11-04T08:19:11+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Abdul El-Sayed celebrates victory, takes aim at Aipac, JD, Trump",
-    "url": "https://www.youtube.com/watch?v=A6cgss6z80A",
-    "channel": "Middle East Eye",
-    "published": "2026-11-04T08:03:47+00:00",
-    "topic": "me-region"
-   },
-   {
     "title": "Trump acknowledges Iran war impact, says Democrats did 'good job'",
     "url": "https://www.youtube.com/watch?v=h7rJ7UGCjtI",
     "channel": "Arab News",
     "published": "2026-11-04T07:44:54+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Is Michigan about to elect its first Muslim Senator?",
-    "url": "https://www.youtube.com/watch?v=j-aoMvTSRG0",
-    "channel": "Middle East Eye",
-    "published": "2026-11-04T06:50:34+00:00",
     "topic": "me-region"
    },
    {
@@ -683,41 +718,6 @@
     "url": "https://www.youtube.com/watch?v=kfZjcexPUBw",
     "channel": "Arab News",
     "published": "2026-11-04T06:27:48+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Texas Democrats erupt in cheers as Talarico wins Senate seat",
-    "url": "https://www.youtube.com/watch?v=CHZe0OJ11nE",
-    "channel": "Arab News",
-    "published": "2026-11-04T05:45:09+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Eisenkot says he will act ‘quickly’ to prevent Netanyahu from clinging to power",
-    "url": "https://www.youtube.com/watch?v=IkgLsw6O4qA",
-    "channel": "Middle East Eye",
-    "published": "2026-11-04T04:50:17+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "The future of technology: $6.3B crypto heist, AI cyberattacks and quantum computing | Innov'Nation",
-    "url": "https://www.youtube.com/watch?v=cW_emup6fO0",
-    "channel": "i24NEWS English",
-    "published": "2026-11-04T04:00:16+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Boy George visits Nova massacre memorial, meets October 7 survivors",
-    "url": "https://www.youtube.com/watch?v=uUKzF0Ovrfw",
-    "channel": "i24NEWS English",
-    "published": "2026-11-04T02:00:37+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Saudi Arabia looking to circumvent Hormuz blockade",
-    "url": "https://www.youtube.com/watch?v=E18Tzl6M7is",
-    "channel": "i24NEWS English",
-    "published": "2026-11-04T01:00:41+00:00",
     "topic": "me-region"
    }
   ],
@@ -893,6 +893,13 @@
   ],
   "rugby": [
    {
+    "title": "A MUST-WIN in Shizuoka ⚡ | South Africa v Italy | Rugby World Cup 2019 | Full Match Replay",
+    "url": "https://www.youtube.com/watch?v=roFNhWHJEQQ",
+    "channel": "World Rugby",
+    "published": "2026-11-04T19:00:06+00:00",
+    "topic": "rugby"
+   },
+   {
     "title": "Can you step like him 😮‍💨 #rugby #WRNationsCup",
     "url": "https://www.youtube.com/watch?v=GthRbn1wXC0",
     "channel": "RugbyPass",
@@ -991,13 +998,6 @@
     "topic": "rugby"
    },
    {
-    "title": "Champagne rugby in Cardiff 😍",
-    "url": "https://www.youtube.com/watch?v=YjBluqFm4Os",
-    "channel": "World Rugby",
-    "published": "2026-10-31T12:30:29+00:00",
-    "topic": "rugby"
-   },
-   {
     "title": "The ending…",
     "url": "https://www.youtube.com/watch?v=0SUqmXe30Y0",
     "channel": "RugbyPass",
@@ -1020,6 +1020,41 @@
    }
   ],
   "football": [
+   {
+    "title": "Remontada Barça - PSG : Le plus grand scandale de l'histoire de la LDC ?",
+    "url": "https://www.youtube.com/watch?v=J-3Olz03psM",
+    "channel": "L'Équipe",
+    "published": "2026-11-04T19:00:24+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "PSG : Les hommes de Luis Enrique sont-ils encore meilleurs que l’année dernière ?",
+    "url": "https://www.youtube.com/watch?v=fBhTCJWLs7E",
+    "channel": "L'Équipe",
+    "published": "2026-11-04T17:00:32+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "Charlie Savage and Leam Richardson go head-to-head in Player vs Gaffer penalty shootout!",
+    "url": "https://www.youtube.com/watch?v=D9535uiPN9M",
+    "channel": "Sky Sports Football",
+    "published": "2026-11-04T16:51:03+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "Tennis de table : Le replay du match entre Simon Gauzy et Wim Verdonschot",
+    "url": "https://www.youtube.com/watch?v=2-E5QvT6Who",
+    "channel": "L'Équipe",
+    "published": "2026-11-04T16:25:44+00:00",
+    "topic": "football"
+   },
+   {
+    "title": "🔥 Un retour d'Antoine Griezmann en Bleus, ça vous chauffe ? #griezmann #football #zidane",
+    "url": "https://www.youtube.com/watch?v=wZTu0VswICU",
+    "channel": "L'Équipe",
+    "published": "2026-11-04T16:00:19+00:00",
+    "topic": "football"
+   },
    {
     "title": "🧐 Le rapport au sexe des footballeurs est-il déviant ? #football #lequipe #shorts",
     "url": "https://www.youtube.com/watch?v=PeH27pcewXY",
@@ -1046,34 +1081,6 @@
     "url": "https://www.youtube.com/watch?v=8g9QbcCgJw0",
     "channel": "L'Équipe",
     "published": "2026-11-04T13:00:39+00:00",
-    "topic": "football"
-   },
-   {
-    "title": "\"Avant j’étais un petit con\" reconnaît Jonathan Clauss avec sincérité #football #lequipe",
-    "url": "https://www.youtube.com/watch?v=HOJx_gzK3-Y",
-    "channel": "L'Équipe",
-    "published": "2026-11-04T13:00:23+00:00",
-    "topic": "football"
-   },
-   {
-    "title": "➡️ Louis Bielle-Biarrey est revenu sur le début de saison de Wainiqolo #rugby #lequipe",
-    "url": "https://www.youtube.com/watch?v=9yruRvSRKXA",
-    "channel": "L'Équipe",
-    "published": "2026-11-04T12:00:24+00:00",
-    "topic": "football"
-   },
-   {
-    "title": "PSG : Désiré Doué est-il déjà un joueur indispensable ?",
-    "url": "https://www.youtube.com/watch?v=WSLt5TexAPM",
-    "channel": "L'Équipe",
-    "published": "2026-11-04T11:00:23+00:00",
-    "topic": "football"
-   },
-   {
-    "title": "👀 Pourquoi Cédric Doumbè privilégie un combat face à Jake Paul plutôt qu'un retour en MMA ? #mma",
-    "url": "https://www.youtube.com/watch?v=TxsdhigLl3o",
-    "channel": "L'Équipe",
-    "published": "2026-11-04T11:00:21+00:00",
     "topic": "football"
    },
    {
@@ -1161,13 +1168,6 @@
     "topic": "football"
    },
    {
-    "title": "Top of the league Terriers held by Hatters! | Huddersfield 1-1 Luton | EFL highlights",
-    "url": "https://www.youtube.com/watch?v=PLkIqfWm02k",
-    "channel": "Sky Sports Football",
-    "published": "2026-11-03T22:08:57+00:00",
-    "topic": "football"
-   },
-   {
     "title": "Kounde 🤝 Tyler, The Creator (via @fcbarcelona/TT)",
     "url": "https://www.youtube.com/watch?v=-jJ3mBKcMGo",
     "channel": "ESPN FC",
@@ -1204,6 +1204,27 @@
    }
   ],
   "f1": [
+   {
+    "title": "Antonelli’s REAL advantage over Russell",
+    "url": "https://www.youtube.com/watch?v=EBISiiUm4cE",
+    "channel": "The Race",
+    "published": "2026-11-04T18:44:37+00:00",
+    "topic": "f1"
+   },
+   {
+    "title": "Nico Rosberg’s ‘Terrifying’, Triumphant 2016 | F1 Beyond The Grid Podcast",
+    "url": "https://www.youtube.com/watch?v=g5yMUlY3lbk",
+    "channel": "FORMULA 1",
+    "published": "2026-11-04T18:08:34+00:00",
+    "topic": "f1"
+   },
+   {
+    "title": "The downfall of Esteban Ocon",
+    "url": "https://www.youtube.com/watch?v=QVe9C0i6n2U",
+    "channel": "The Race",
+    "published": "2026-11-04T18:01:56+00:00",
+    "topic": "f1"
+   },
    {
     "title": "What dropping Ocon will cost Haas 💰",
     "url": "https://www.youtube.com/watch?v=oOweGnj9SHQ",
@@ -1282,13 +1303,6 @@
     "topic": "f1"
    },
    {
-    "title": "Kimi Antonelli Reacts To A Special Message From Sebastian Vettel",
-    "url": "https://www.youtube.com/watch?v=CnGosDHFe9Q",
-    "channel": "FORMULA 1",
-    "published": "2026-11-02T22:34:41+00:00",
-    "topic": "f1"
-   },
-   {
     "title": "Why ‘distraught’ Russell got fined 💰",
     "url": "https://www.youtube.com/watch?v=-Spi2EzbgrU",
     "channel": "The Race",
@@ -1301,35 +1315,203 @@
     "channel": "The Race",
     "published": "2026-11-02T10:14:56+00:00",
     "topic": "f1"
-   },
-   {
-    "title": "Hamilton’s scathing Leclerc criticism exposes big Ferrari F1 problem",
-    "url": "https://www.youtube.com/watch?v=hlkIcHPfBDM",
-    "channel": "The Race",
-    "published": "2026-11-02T03:35:15+00:00",
-    "topic": "f1"
-   },
-   {
-    "title": "Ocon denies Haas disagreement turned violent 😡",
-    "url": "https://www.youtube.com/watch?v=YxqpjdZd8vA",
-    "channel": "The Race",
-    "published": "2026-11-01T01:42:21+00:00",
-    "topic": "f1"
    }
   ],
   "markets": [
    {
-    "title": "Arrests outside UK Supreme Court at Palestine Action ban appeal",
-    "url": "https://www.youtube.com/watch?v=HW-LR8h5yZo",
-    "channel": "Reuters",
-    "published": "2026-11-04T15:49:42+00:00",
+    "title": "Oil Market Starting to Embed Geopolitical Risk, Says Rapidan’s McNally",
+    "url": "https://www.youtube.com/watch?v=7xJyT03KZqU",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-04T19:03:06+00:00",
     "topic": "markets"
    },
    {
-    "title": "LIVE: New York Stock Exchange opens after Democrats sweep midterms",
-    "url": "https://www.youtube.com/watch?v=dHkuksurAZk",
+    "title": "President Trump speaks following the Democratic midterm victory — 11/4/2026",
+    "url": "https://www.youtube.com/watch?v=_0eEwEmeOYw",
+    "channel": "CNBC Television",
+    "published": "2026-11-04T19:02:14+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Trump shows off White House ballroom after Democratic tsunami",
+    "url": "https://www.youtube.com/watch?v=0EbdHztsNpA",
+    "channel": "CNBC Television",
+    "published": "2026-11-04T18:45:39+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "The Investment Committee discusses market movement post-election",
+    "url": "https://www.youtube.com/watch?v=FE8hKkq6U7Q",
+    "channel": "CNBC Television",
+    "published": "2026-11-04T18:40:48+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "LIVE: Trump speaks at the White House",
+    "url": "https://www.youtube.com/watch?v=cwzBW6EE67g",
     "channel": "Reuters",
-    "published": "2026-11-04T15:49:15+00:00",
+    "published": "2026-11-04T18:40:15+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Rahm Emanuel: Democrats have a chance to be transformational",
+    "url": "https://www.youtube.com/watch?v=-qzRFBh5a58",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-04T18:39:46+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Orlando Bravo on regulating AI models: 'Let competition run free'",
+    "url": "https://www.youtube.com/watch?v=qRvrxk7FPaY",
+    "channel": "CNBC Television",
+    "published": "2026-11-04T18:34:21+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "President Trump on midterms: If I was on the ballot, we would have won",
+    "url": "https://www.youtube.com/watch?v=dIQ3GmvmAXo",
+    "channel": "CNBC Television",
+    "published": "2026-11-04T18:33:38+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Circle CEO: Accelerating agentic infrastructure is attacking at a scale and velocity never imagined",
+    "url": "https://www.youtube.com/watch?v=ZF25ozhmSN4",
+    "channel": "CNBC Television",
+    "published": "2026-11-04T18:33:34+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "LIVE: Pennsylvania Governor Josh Shapiro speaks after midterm election results",
+    "url": "https://www.youtube.com/watch?v=yfO_remL2no",
+    "channel": "Reuters",
+    "published": "2026-11-04T18:33:23+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Democrats sweep Congress, likely to freeze Trump agenda",
+    "url": "https://www.youtube.com/watch?v=aFU03D3wZD0",
+    "channel": "CNBC Television",
+    "published": "2026-11-04T18:30:05+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Democrats' Texas Shocker Caps Rebuilding by Party Chief",
+    "url": "https://www.youtube.com/watch?v=a-1sjh8C5aM",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-04T18:23:53+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Is the Binance hack an ‘existential moment’ for crypto? | FT #shorts",
+    "url": "https://www.youtube.com/watch?v=tG0UmSwW7F8",
+    "channel": "Financial Times",
+    "published": "2026-11-04T18:15:22+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Market Midday: Stocks Rally After Midterms, Dow Jumps More Than 1,500 Points • 11/4/26",
+    "url": "https://www.youtube.com/watch?v=AJodqocq7ns",
+    "channel": "CNBC Television",
+    "published": "2026-11-04T18:12:04+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Open Interest 11/4/2026",
+    "url": "https://www.youtube.com/watch?v=bTWu_mg2NTY",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-04T18:03:40+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Why the Fed Can’t Tame Rising Bond Yields | Presented by CME Group",
+    "url": "https://www.youtube.com/watch?v=CHIMEbvvkBY",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-04T17:56:27+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "The Fed Holds While Canada Plays Catch-Up | Presented by CME Group",
+    "url": "https://www.youtube.com/watch?v=Qx-Dr4ZCcxM",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-04T17:55:12+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Alaska's Senate Race Is Still Too Close to Call",
+    "url": "https://www.youtube.com/watch?v=uGptWaPM7po",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-04T17:53:57+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Schumer says Democrats have opportunity to earn America's trust",
+    "url": "https://www.youtube.com/watch?v=cxRhl8hgnGA",
+    "channel": "Reuters",
+    "published": "2026-11-04T17:53:26+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "France’s Turmoil Sends Investors Toward US Treasuries | Presented by CME Group",
+    "url": "https://www.youtube.com/watch?v=U3z8x-y2te0",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-04T17:53:02+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "LIVE: Hakeem Jeffries speaks after Democrat midterm victories",
+    "url": "https://www.youtube.com/watch?v=F9Xm8cHO6V4",
+    "channel": "Reuters",
+    "published": "2026-11-04T17:50:06+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Ukrainian rescuers search for remains after strike on civilians",
+    "url": "https://www.youtube.com/watch?v=p21FjkhtQ6Y",
+    "channel": "Reuters",
+    "published": "2026-11-04T17:16:47+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Pourquoi la Chine a 20 ans d'avance en Arctique",
+    "url": "https://www.youtube.com/watch?v=6oZWeUq0N70",
+    "channel": "Les Echos",
+    "published": "2026-11-04T17:00:30+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "From AI to the Fed: Five midterm takeaways for the markets",
+    "url": "https://www.youtube.com/watch?v=QapEGIoPuFQ",
+    "channel": "Reuters",
+    "published": "2026-11-04T16:52:41+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Fans and footballers honor Tenerife striker De Miguel",
+    "url": "https://www.youtube.com/watch?v=BOCTHlBsCzc",
+    "channel": "Reuters",
+    "published": "2026-11-04T16:47:16+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Arrests outside UK Supreme Court at Palestine Action ban appeal",
+    "url": "https://www.youtube.com/watch?v=EJNYokrnm-A",
+    "channel": "Reuters",
+    "published": "2026-11-04T16:41:29+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Défaite de Trump aux midterms : \"Les démocrates vont désormais maîtriser le narratif\"",
+    "url": "https://www.youtube.com/watch?v=qOeXNGwpULs",
+    "channel": "BFM Business",
+    "published": "2026-11-04T16:29:32+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Trump battu aux midterms : L'inflation est-elle la première cause de la défaite républicaine ?",
+    "url": "https://www.youtube.com/watch?v=FaRBgWwt6bw",
+    "channel": "BFM Business",
+    "published": "2026-11-04T16:25:04+00:00",
     "topic": "markets"
    },
    {
@@ -1337,146 +1519,6 @@
     "url": "https://www.youtube.com/watch?v=0HjJ8zWNkUI",
     "channel": "BFM Business",
     "published": "2026-11-04T15:39:09+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "LIVE: Senate Democratic Leader Chuck Schumer speaks on sweeping Democratic midterm victory — 11/4/26",
-    "url": "https://www.youtube.com/watch?v=4hTK7VjemJU",
-    "channel": "CNBC Television",
-    "published": "2026-11-04T15:33:46+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Uber CEO says AI agents could strengthen company's market position",
-    "url": "https://www.youtube.com/watch?v=mB9PQ5f7KMA",
-    "channel": "CNBC Television",
-    "published": "2026-11-04T15:30:22+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Market Open: Stocks Rally as Democrats Score Big Midterm Wins • 11/4/26",
-    "url": "https://www.youtube.com/watch?v=bggYF5QxZtI",
-    "channel": "CNBC Television",
-    "published": "2026-11-04T15:21:56+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "'An Unmitigated Repudiation of Donald Trump and a Very Clear Message' says Former DNC Chair",
-    "url": "https://www.youtube.com/watch?v=5s1hJl1U_ZQ",
-    "channel": "Bloomberg Television",
-    "published": "2026-11-04T15:20:16+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Byron Donalds: Florida Will Be a State for Everyone",
-    "url": "https://www.youtube.com/watch?v=lPTlbSUXxT8",
-    "channel": "Bloomberg Television",
-    "published": "2026-11-04T15:17:47+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "California's billionaire tax measure appears headed for defeat",
-    "url": "https://www.youtube.com/watch?v=UqOlM-xObY0",
-    "channel": "CNBC Television",
-    "published": "2026-11-04T15:15:08+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "How the world is reacting to the midterm results | Reuters World News",
-    "url": "https://www.youtube.com/watch?v=7NMhBt15r3A",
-    "channel": "Reuters",
-    "published": "2026-11-04T15:05:16+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Democrats Celebrate as Blue Wave Sweeps US",
-    "url": "https://www.youtube.com/watch?v=DdtzEKYYIVY",
-    "channel": "Bloomberg Television",
-    "published": "2026-11-04T15:01:22+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "These passengers paid for a years-long cruise. It left without them.",
-    "url": "https://www.youtube.com/watch?v=aPRh-MNAV6I",
-    "channel": "Reuters",
-    "published": "2026-11-04T15:00:42+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Democrats scored a seismic victory in the midterm elections",
-    "url": "https://www.youtube.com/watch?v=LlJfUtoRT1A",
-    "channel": "CNBC Television",
-    "published": "2026-11-04T15:00:38+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "South Africa president says US midterm results usher in new era",
-    "url": "https://www.youtube.com/watch?v=7Kx0hLPCuCw",
-    "channel": "Reuters",
-    "published": "2026-11-04T14:57:45+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Uber CEO Dara Khosrowshahi on Q3 results: We have more demand than we have supply",
-    "url": "https://www.youtube.com/watch?v=eK2s6DtMdG4",
-    "channel": "CNBC Television",
-    "published": "2026-11-04T14:56:49+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Morning Call panel discusses midterm backlash against AI data centers",
-    "url": "https://www.youtube.com/watch?v=yeuuRoXBjz8",
-    "channel": "CNBC Television",
-    "published": "2026-11-04T14:52:32+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Musk's Tesla and SpaceX Slide on Midterm Results",
-    "url": "https://www.youtube.com/watch?v=oVQiMrK-3jg",
-    "channel": "Bloomberg Television",
-    "published": "2026-11-04T14:52:12+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "LIVE: WHO brief media on global health issues",
-    "url": "https://www.youtube.com/watch?v=w0279uqz5jE",
-    "channel": "Reuters",
-    "published": "2026-11-04T14:50:51+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "AMD's Lisa Su: It is a very strong time in terms of demand for compute",
-    "url": "https://www.youtube.com/watch?v=33aHhmK3QE4",
-    "channel": "CNBC Television",
-    "published": "2026-11-04T14:49:17+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Democrats Sweep to Control of Congress in Rebuke of Trump",
-    "url": "https://www.youtube.com/watch?v=5wuTaVWk8mk",
-    "channel": "Bloomberg Television",
-    "published": "2026-11-04T14:39:27+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "What the Democrats’ Sweep of Congress Means for Trump",
-    "url": "https://www.youtube.com/watch?v=2WytUzIEb-Q",
-    "channel": "Bloomberg Television",
-    "published": "2026-11-04T14:33:48+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Stocks, Bonds Fluctuate After Democrats Win Control of US Congress",
-    "url": "https://www.youtube.com/watch?v=VIjqYndZ0m4",
-    "channel": "Bloomberg Television",
-    "published": "2026-11-04T14:20:46+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Democrats surpass wildest dreams in US midterm elections",
-    "url": "https://www.youtube.com/watch?v=5_Viw-rGzfY",
-    "channel": "Reuters",
-    "published": "2026-11-04T13:31:36+00:00",
     "topic": "markets"
    },
    {
@@ -1491,20 +1533,6 @@
     "url": "https://www.youtube.com/watch?v=308tEKpTszk",
     "channel": "BFM Business",
     "published": "2026-11-04T13:28:50+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Supporters celebrate Abdul El-Sayed's historic Senate win",
-    "url": "https://www.youtube.com/watch?v=9LphseoaQeQ",
-    "channel": "Reuters",
-    "published": "2026-11-04T13:19:41+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Democrats Win in Landslide, US Stock Futures Rebound",
-    "url": "https://www.youtube.com/watch?v=6rNPwABCuMk",
-    "channel": "Bloomberg Television",
-    "published": "2026-11-04T11:56:26+00:00",
     "topic": "markets"
    },
    {
@@ -1533,20 +1561,6 @@
     "url": "https://www.youtube.com/watch?v=vzOUNrcW304",
     "channel": "BFM Business",
     "published": "2026-11-04T10:54:25+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Budget 2027 : Quel impact pour Airbnb ?",
-    "url": "https://www.youtube.com/watch?v=T7yCSePNafk",
-    "channel": "BFM Business",
-    "published": "2026-11-04T10:03:11+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Destitution de Trump ? \"Qu’une procédure soit intentée est fortement possible…\" (Mathieu Jolivet)",
-    "url": "https://www.youtube.com/watch?v=FlYbepAeYI4",
-    "channel": "BFM Business",
-    "published": "2026-11-04T10:02:20+00:00",
     "topic": "markets"
    },
    {
@@ -1627,13 +1641,6 @@
     "topic": "markets"
    },
    {
-    "title": "What’s the risk of violence in the US midterm elections? | FT #shorts",
-    "url": "https://www.youtube.com/watch?v=wfM9UJhNKhs",
-    "channel": "Financial Times",
-    "published": "2026-11-02T17:30:03+00:00",
-    "topic": "markets"
-   },
-   {
     "title": "Les sports US sont-ils communistes ?",
     "url": "https://www.youtube.com/watch?v=Npj6Sq-EKlM",
     "channel": "Les Echos",
@@ -1645,13 +1652,6 @@
     "url": "https://www.youtube.com/watch?v=W5BrHDGb7SI",
     "channel": "Les Echos",
     "published": "2026-10-31T09:30:13+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Une cyberattaque à 6,3 milliards de dollars. Pauline t'explique.",
-    "url": "https://www.youtube.com/watch?v=fLkJCORpV1k",
-    "channel": "Les Echos",
-    "published": "2026-10-30T17:30:22+00:00",
     "topic": "markets"
    }
   ],
@@ -1708,6 +1708,20 @@
   ],
   "transport": [
    {
+    "title": "FreightWaves Today | November 4",
+    "url": "https://www.youtube.com/watch?v=3P350U4xSgM",
+    "channel": "FreightWaves",
+    "published": "2026-11-04T16:59:40+00:00",
+    "topic": "transport"
+   },
+   {
+    "title": "The Science of Hair Testing | Sense Per Mile",
+    "url": "https://www.youtube.com/watch?v=0LJwh2I0A6M",
+    "channel": "FreightWaves",
+    "published": "2026-11-04T16:30:21+00:00",
+    "topic": "transport"
+   },
+   {
     "title": "Expeditors' AI-Fueled Quarter, GXO Record Contract Wins, & Diesel Futures Whipsaw",
     "url": "https://www.youtube.com/watch?v=GJPsgJCTYd4",
     "channel": "FreightWaves",
@@ -1748,23 +1762,16 @@
     "channel": "FreightWaves",
     "published": "2026-11-03T18:11:48+00:00",
     "topic": "transport"
-   },
-   {
-    "title": "Logistics Alert: Capacity SHRINKS for 11 Straight Months",
-    "url": "https://www.youtube.com/watch?v=3xAcTdOz4RU",
-    "channel": "FreightWaves",
-    "published": "2026-11-03T18:10:28+00:00",
-    "topic": "transport"
-   },
-   {
-    "title": "Truckload Rates Explode: How Shippers Adapt to Rising Costs",
-    "url": "https://www.youtube.com/watch?v=idDTHLionrA",
-    "channel": "FreightWaves",
-    "published": "2026-11-03T17:40:23+00:00",
-    "topic": "transport"
    }
   ],
   "aerospace": [
+   {
+    "title": "Sequel to Space Race Gets Real - Deep Space Updates November 3rd",
+    "url": "https://www.youtube.com/watch?v=GzlnPsXOHgw",
+    "channel": "Scott Manley",
+    "published": "2026-11-04T18:02:01+00:00",
+    "topic": "aerospace"
+   },
    {
     "title": "The defense show circuit keeps rolling, plus Jimmy Stewart goes to war",
     "url": "https://www.youtube.com/watch?v=qQE2pt-i84w",
@@ -1968,6 +1975,13 @@
   ],
   "crypto": [
    {
+    "title": "Hunter Biden Says Democrats Have It Wrong on Crypto",
+    "url": "https://www.youtube.com/watch?v=RPHOf1fKiCI",
+    "channel": "CoinDesk",
+    "published": "2026-11-04T17:40:29+00:00",
+    "topic": "crypto"
+   },
+   {
     "title": "Democrats Take Congress After Crypto’s Election Spending Fails",
     "url": "https://www.youtube.com/watch?v=zeQzad75pYU",
     "channel": "CoinDesk",
@@ -2024,13 +2038,6 @@
     "topic": "crypto"
    },
    {
-    "title": "CZ Warns Pre-AI Security Systems May Not Hold Up",
-    "url": "https://www.youtube.com/watch?v=Gsk79DHj5nA",
-    "channel": "CoinDesk",
-    "published": "2026-11-03T15:46:38+00:00",
-    "topic": "crypto"
-   },
-   {
     "title": "Stock Market Correction: Q4 2026",
     "url": "https://www.youtube.com/watch?v=BBgxp2SvLuU",
     "channel": "Into the Cryptoverse (Benjamin Cowen)",
@@ -2082,6 +2089,27 @@
   ],
   "tennis": [
    {
+    "title": "Qualifier Rinky Hijikata Takes Down Novak Djokovic 🤯 | Paris 2026 Highlights",
+    "url": "https://www.youtube.com/watch?v=mHOfMWGOL-s",
+    "channel": "Tennis TV",
+    "published": "2026-11-04T17:16:09+00:00",
+    "topic": "tennis"
+   },
+   {
+    "title": "¡Buse Vence A Medvedev! 🇵🇪",
+    "url": "https://www.youtube.com/watch?v=oIIAmUzaB6c",
+    "channel": "Tennis TV",
+    "published": "2026-11-04T16:18:27+00:00",
+    "topic": "tennis"
+   },
+   {
+    "title": "Ignacio Buse vs Daniil Medvedev | Paris 2026 Match Highlights",
+    "url": "https://www.youtube.com/watch?v=YmuhzFlbLjY",
+    "channel": "Tennis TV",
+    "published": "2026-11-04T15:54:58+00:00",
+    "topic": "tennis"
+   },
+   {
     "title": "Musetti and Mini Musetti 🥹",
     "url": "https://www.youtube.com/watch?v=vWVw5hciQ_s",
     "channel": "Tennis TV",
@@ -2114,27 +2142,6 @@
     "url": "https://www.youtube.com/watch?v=dHym6OFUSL8",
     "channel": "Tennis TV",
     "published": "2026-11-04T13:25:20+00:00",
-    "topic": "tennis"
-   },
-   {
-    "title": "Match Point Saves In Tiafoe vs Halys Thriller 🔥 | Paris 2026 Highlights",
-    "url": "https://www.youtube.com/watch?v=juQCKLPqpAk",
-    "channel": "Tennis TV",
-    "published": "2026-11-04T12:48:49+00:00",
-    "topic": "tennis"
-   },
-   {
-    "title": "Djokovic Returns; Jodar vs Ruud; Rune, Shelton & Paul Feature | Paris 2026 Day 2 Highlights",
-    "url": "https://www.youtube.com/watch?v=Rk0qLfxBnRM",
-    "channel": "Tennis TV",
-    "published": "2026-11-03T21:54:11+00:00",
-    "topic": "tennis"
-   },
-   {
-    "title": "Gael Monfils Says Goodbye To Tennis 🥹 🇫🇷 | Rolex Paris Masters Farewell Ceremony",
-    "url": "https://www.youtube.com/watch?v=z3iBVSia2eo",
-    "channel": "Tennis TV",
-    "published": "2026-11-03T20:24:20+00:00",
     "topic": "tennis"
    }
   ],
@@ -2199,17 +2206,136 @@
   ],
   "us": [
    {
-    "title": "WATCH LIVE: Schumer holds post-election news conference after Democrats win both Senate and House",
-    "url": "https://www.youtube.com/watch?v=wN9lCVRaoFQ",
-    "channel": "PBS NewsHour",
-    "published": "2026-11-04T15:50:44+00:00",
+    "title": "Trump says he will 'probably' get along with Democrats after midterms",
+    "url": "https://www.youtube.com/watch?v=DJ2Wioh8k18",
+    "channel": "NBC News",
+    "published": "2026-11-04T18:58:37+00:00",
     "topic": "us"
    },
    {
-    "title": "Supreme Court hears Catholic preschools case",
-    "url": "https://www.youtube.com/watch?v=T7U6JgbA_T4",
+    "title": "Trump says war in Iran was worth the cost of losing control of Congress",
+    "url": "https://www.youtube.com/watch?v=rkB2Ro0U71Y",
+    "channel": "NBC News",
+    "published": "2026-11-04T18:56:53+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Trump says no regrets about 2026 campaign strategy",
+    "url": "https://www.youtube.com/watch?v=prhowXwyuxw",
+    "channel": "NBC News",
+    "published": "2026-11-04T18:55:33+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Hakeem Jeffries sends message to everyday Americans",
+    "url": "https://www.youtube.com/watch?v=VcSxvGBWGhs",
+    "channel": "NBC News",
+    "published": "2026-11-04T18:46:23+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Trump answers questions from reporters after Republican midterm losses",
+    "url": "https://www.youtube.com/watch?v=FI7r_sxrP3s",
+    "channel": "NBC News",
+    "published": "2026-11-04T18:44:55+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "WATCH: Trump talks GOP losses, Reflecting Pool speech at first public event after election",
+    "url": "https://www.youtube.com/watch?v=mIOzdwH5DLE",
     "channel": "PBS NewsHour",
-    "published": "2026-11-04T15:44:39+00:00",
+    "published": "2026-11-04T18:41:51+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "WATCH: Trump says 'it's largely true' that Iran war caused GOP midterm defeat",
+    "url": "https://www.youtube.com/watch?v=UP97pE-w31g",
+    "channel": "PBS NewsHour",
+    "published": "2026-11-04T18:38:46+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Trump ‘not even a little bit’ concerned about being impeached",
+    "url": "https://www.youtube.com/watch?v=v6EnghyyWAo",
+    "channel": "NBC News",
+    "published": "2026-11-04T18:37:31+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "WATCH: Trump previews ballroom construction the day after voters rejected Republican rule",
+    "url": "https://www.youtube.com/watch?v=2QzDks35aEA",
+    "channel": "PBS NewsHour",
+    "published": "2026-11-04T18:36:43+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "What's next for Democrats after party regains Senate and House control",
+    "url": "https://www.youtube.com/watch?v=cfgefvJSI9A",
+    "channel": "CBS News",
+    "published": "2026-11-04T18:26:47+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Schumer lauds blue wave as a \"generational remake of the Senate map\"",
+    "url": "https://www.youtube.com/watch?v=hOV2MV8Ui5o",
+    "channel": "CBS News",
+    "published": "2026-11-04T18:26:44+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Full Episode: TODAY Show - Nov. 4",
+    "url": "https://www.youtube.com/watch?v=iKChIqO4-zE",
+    "channel": "NBC News",
+    "published": "2026-11-04T18:25:51+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Trump speaks on camera for first time following election night",
+    "url": "https://www.youtube.com/watch?v=njDgPX2gQW4",
+    "channel": "NBC News",
+    "published": "2026-11-04T18:21:54+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "WATCH LIVE: Takeaways from the 2026 midterms and answers to your election questions",
+    "url": "https://www.youtube.com/watch?v=fMkZwBK6F6s",
+    "channel": "PBS NewsHour",
+    "published": "2026-11-04T18:03:45+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "WATCH LIVE: Pennsylvania Gov. Shapiro speaks after winning reelection",
+    "url": "https://www.youtube.com/watch?v=4ggrNYTSojs",
+    "channel": "PBS NewsHour",
+    "published": "2026-11-04T17:53:53+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "WATCH LIVE: Jeffries holds post-election news conference after Democrats clinch House control",
+    "url": "https://www.youtube.com/watch?v=CXoxfqf5Me4",
+    "channel": "PBS NewsHour",
+    "published": "2026-11-04T17:50:09+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "WATCH LIVE: Schumer holds post-election news conference after Democrats win both Senate and House",
+    "url": "https://www.youtube.com/watch?v=wN9lCVRaoFQ",
+    "channel": "PBS NewsHour",
+    "published": "2026-11-04T16:33:03+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "LISTEN LIVE: Supreme Court hears arguments in death row case Guerrero v. Johnson",
+    "url": "https://www.youtube.com/watch?v=DJD3DXNsDM8",
+    "channel": "PBS NewsHour",
+    "published": "2026-11-04T16:12:49+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Maryland's Gov. Wes Moore on Democratic victories, goals for state",
+    "url": "https://www.youtube.com/watch?v=GJErO582L3A",
+    "channel": "CBS News",
+    "published": "2026-11-04T15:51:06+00:00",
     "topic": "us"
    },
    {
@@ -2234,80 +2360,10 @@
     "topic": "us"
    },
    {
-    "title": "Kornacki's reaction to major race calls",
-    "url": "https://www.youtube.com/watch?v=WlQ5-2lLsqw",
-    "channel": "NBC News",
-    "published": "2026-11-04T15:27:27+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "El-Sayed weighs in on Schumer's Senate leadership",
-    "url": "https://www.youtube.com/watch?v=diEIOoHG2Ko",
-    "channel": "NBC News",
-    "published": "2026-11-04T15:24:22+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Morning News NOW Full Episode – Nov. 4",
-    "url": "https://www.youtube.com/watch?v=sMeEifEIy6c",
-    "channel": "NBC News",
-    "published": "2026-11-04T15:18:10+00:00",
-    "topic": "us"
-   },
-   {
     "title": "Voters rebuke Trump's agenda, carrying Democrats to House, Senate control",
     "url": "https://www.youtube.com/watch?v=qvBuLeVJ7TM",
     "channel": "CBS News",
     "published": "2026-11-04T14:55:37+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "WATCH LIVE: Jeffries holds post-election news conference after Democrats clinch House control",
-    "url": "https://www.youtube.com/watch?v=CXoxfqf5Me4",
-    "channel": "PBS NewsHour",
-    "published": "2026-11-04T14:38:02+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "LISTEN LIVE: Supreme Court hears arguments in death row case Guerrero v. Johnson",
-    "url": "https://www.youtube.com/watch?v=DJD3DXNsDM8",
-    "channel": "PBS NewsHour",
-    "published": "2026-11-04T14:31:07+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "How voters' opinions on the economy affected midterm elections",
-    "url": "https://www.youtube.com/watch?v=Ag5Edx7h3J4",
-    "channel": "NBC News",
-    "published": "2026-11-04T14:28:40+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Talarico calls for accountability and cooperation with Trump",
-    "url": "https://www.youtube.com/watch?v=DGwgea73PXo",
-    "channel": "NBC News",
-    "published": "2026-11-04T14:15:02+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Talarico and Hinojosa celebrate midterm success",
-    "url": "https://www.youtube.com/watch?v=921xi5KyloA",
-    "channel": "NBC News",
-    "published": "2026-11-04T14:03:27+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Trump threatens veto power after Democrats win Congress",
-    "url": "https://www.youtube.com/watch?v=fN8hf4G7SYQ",
-    "channel": "NBC News",
-    "published": "2026-11-04T13:36:26+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Democrat Amy Acton wins Ohio governor's race",
-    "url": "https://www.youtube.com/watch?v=ww3TpG-fwL4",
-    "channel": "NBC News",
-    "published": "2026-11-04T13:26:08+00:00",
     "topic": "us"
    },
    {
@@ -2316,98 +2372,168 @@
     "channel": "CBS News",
     "published": "2026-11-04T11:55:57+00:00",
     "topic": "us"
-   },
-   {
-    "title": "Recapping Democrats' massive wins in the 2026 midterm elections",
-    "url": "https://www.youtube.com/watch?v=yNa5UdPbG30",
-    "channel": "CBS News",
-    "published": "2026-11-04T07:38:23+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Democrats win House and Senate as more election results roll in | full coverage",
-    "url": "https://www.youtube.com/watch?v=zHlI3KJIWMA",
-    "channel": "CBS News",
-    "published": "2026-11-04T07:37:57+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Breaking down election results as Democrats take control of Congress | full video",
-    "url": "https://www.youtube.com/watch?v=psO-rZpWp7I",
-    "channel": "CBS News",
-    "published": "2026-11-04T07:30:13+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "Democrats ride 'blue wave' after midterm elections",
-    "url": "https://www.youtube.com/watch?v=Iva4Bd4vAnE",
-    "channel": "PBS NewsHour",
-    "published": "2026-11-04T06:57:55+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "WATCH: Democrat Abdul El-Sayed of Michigan speaks at election night watch party",
-    "url": "https://www.youtube.com/watch?v=FSAUyp01gOE",
-    "channel": "PBS NewsHour",
-    "published": "2026-11-04T06:53:14+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "WATCH: Democrats ride 'blue wave' after midterm elections",
-    "url": "https://www.youtube.com/watch?v=j6VorJ0FOCg",
-    "channel": "PBS NewsHour",
-    "published": "2026-11-04T06:52:03+00:00",
-    "topic": "us"
-   },
-   {
-    "title": "WATCH: GOP Sen. Jon Husted of Ohio speaks after losing Senate seat",
-    "url": "https://www.youtube.com/watch?v=-4t9EO3o7_c",
-    "channel": "PBS NewsHour",
-    "published": "2026-11-04T06:39:58+00:00",
-    "topic": "us"
    }
   ],
   "europe": [
    {
-    "title": "Trump after the midterms: Gridlock, impeachment and succession? • FRANCE 24 English",
+    "title": "Democrats won Congress. Now comes the hard part | DW News",
+    "url": "https://www.youtube.com/watch?v=Dy3B09ZYqUo",
+    "channel": "DW News",
+    "published": "2026-11-04T18:45:17+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "More than 50 trapped under rubble after Russian strike on school-turned-aid centre, Zelenskyy says",
+    "url": "https://www.youtube.com/watch?v=OvtYHzZhSs4",
+    "channel": "euronews",
+    "published": "2026-11-04T18:30:04+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "‘Everything is on the table’: EU to discuss new measures against Georgia in January, Kallas says",
+    "url": "https://www.youtube.com/watch?v=G25zmJXpOv4",
+    "channel": "euronews",
+    "published": "2026-11-04T18:25:18+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "More than 50 trapped under rubble after Russian strike on school-turned-aid centre, Zelenskyy says",
+    "url": "https://www.youtube.com/watch?v=A39OdyEWUSI",
+    "channel": "euronews",
+    "published": "2026-11-04T18:21:47+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "'A feeling of redemption': Young voters in Maine hail Democratic victory",
+    "url": "https://www.youtube.com/watch?v=1aIxltDkcPE",
+    "channel": "euronews",
+    "published": "2026-11-04T18:17:46+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Wild celebrations as Texas turns blue | DW News",
+    "url": "https://www.youtube.com/watch?v=tQgS80DTlXk",
+    "channel": "DW News",
+    "published": "2026-11-04T18:15:32+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Democrats win back Congress. What will Donald Trump do next? | BBC Americast",
+    "url": "https://www.youtube.com/watch?v=8JoxLKBTPEw",
+    "channel": "BBC News",
+    "published": "2026-11-04T18:13:46+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "'A feeling of redemption': Young voters in Maine hail Democratic victory",
+    "url": "https://www.youtube.com/watch?v=hVPUg_Ab8UY",
+    "channel": "euronews",
+    "published": "2026-11-04T18:12:27+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Live map: Who controls the US Senate? Follow election night results",
+    "url": "https://www.youtube.com/watch?v=1-GrZfywDSk",
+    "channel": "euronews",
+    "published": "2026-11-04T18:10:06+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Death toll rises in Ukraine after Russia attacks aid centre and hospital. #Ukraine #Russia #BBCNews",
+    "url": "https://www.youtube.com/watch?v=XKlADXX6gMM",
+    "channel": "BBC News",
+    "published": "2026-11-04T17:58:33+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "'Once-in-a-generation event: Historic election a shocking repudiation of Trump & the MAGA movement'",
+    "url": "https://www.youtube.com/watch?v=q0BKmA0pJo8",
+    "channel": "FRANCE 24 English",
+    "published": "2026-11-04T17:49:33+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "From veto threats to dealmaking: Trump's post-midterm balancing act | DW News",
+    "url": "https://www.youtube.com/watch?v=VylnjTpNqHk",
+    "channel": "DW News",
+    "published": "2026-11-04T17:45:38+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Europe’s tropical disease threat is moving north. Can it stop mosquitoes in their tracks?",
+    "url": "https://www.youtube.com/watch?v=dgUfz0fHxOs",
+    "channel": "euronews",
+    "published": "2026-11-04T17:37:47+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Iranian MP tells Euronews Tehran's missiles will strike Europe if US uses its bases there",
+    "url": "https://www.youtube.com/watch?v=IZsAdPsLeWw",
+    "channel": "euronews",
+    "published": "2026-11-04T17:21:39+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "European leaders welcome Democrats' US midterms election win • FRANCE 24 English",
+    "url": "https://www.youtube.com/watch?v=DJE0kWmZNFY",
+    "channel": "FRANCE 24 English",
+    "published": "2026-11-04T17:00:08+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "US midterms bring a wave of historic firsts as minorities win key races • FRANCE 24 English",
+    "url": "https://www.youtube.com/watch?v=T3pB3kQ3IaI",
+    "channel": "FRANCE 24 English",
+    "published": "2026-11-04T16:51:37+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "#USmidterms: #Iran's deputy parliament speaker reacts to #Trump's elections setback • FRANCE 24",
+    "url": "https://www.youtube.com/watch?v=qLkw5pWh5EI",
+    "channel": "FRANCE 24 English",
+    "published": "2026-11-04T16:50:05+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "US Midterms: What the new Congress means for Europe and the Transatlantic Alliance | DW News",
+    "url": "https://www.youtube.com/watch?v=ok091sO6WPE",
+    "channel": "DW News",
+    "published": "2026-11-04T16:45:34+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "REPLAY: Senate Democratic leader Chuck Schumer on US midterms • FRANCE 24 English",
+    "url": "https://www.youtube.com/watch?v=SsXFWD8FjI8",
+    "channel": "FRANCE 24 English",
+    "published": "2026-11-04T16:42:57+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "US Midterms: How will Trump manage working with Democrats? • FRANCE 24 English",
+    "url": "https://www.youtube.com/watch?v=QmQaEFkJcwg",
+    "channel": "FRANCE 24 English",
+    "published": "2026-11-04T16:24:55+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Tale of 2 midterms: Republican redistricting 'backfired' while Democrats 'exceeded all expectations'",
+    "url": "https://www.youtube.com/watch?v=XmZJv3OCc0E",
+    "channel": "FRANCE 24 English",
+    "published": "2026-11-04T16:08:59+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "Fake job interviews used in $6.3bn crypto hack. #BBCNews",
+    "url": "https://www.youtube.com/watch?v=auivg7iWHeI",
+    "channel": "BBC News",
+    "published": "2026-11-04T16:00:07+00:00",
+    "topic": "europe"
+   },
+   {
+    "title": "#Trump after the #midterms: Gridlock, impeachment and succession? • FRANCE 24 English",
     "url": "https://www.youtube.com/watch?v=2GAzCm1M5_M",
     "channel": "FRANCE 24 English",
     "published": "2026-11-04T15:54:57+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "German Foreign Minister comments on the US midterm election results.",
-    "url": "https://www.youtube.com/watch?v=IvWF7auVeQo",
-    "channel": "euronews",
-    "published": "2026-11-04T15:46:26+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "US midterm elections: 'Maybe the best colour for Texas is purple' • FRANCE 24 English",
-    "url": "https://www.youtube.com/watch?v=f03sa4mFhk8",
-    "channel": "FRANCE 24 English",
-    "published": "2026-11-04T15:44:59+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "'Is Republican Party able to pivot away from MAGA movement, or will it sputter forward leaderless?'",
-    "url": "https://www.youtube.com/watch?v=jJkP5_rqTrc",
-    "channel": "FRANCE 24 English",
-    "published": "2026-11-04T15:16:11+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "US midterm elections: Gen Z gives Democrats their strongest support • FRANCE 24 English",
-    "url": "https://www.youtube.com/watch?v=9rx354Rm8n0",
-    "channel": "FRANCE 24 English",
-    "published": "2026-11-04T15:10:11+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "How Trump's broken promises on war, inflation handed Democrats the midterms • FRANCE 24 English",
-    "url": "https://www.youtube.com/watch?v=gdOM4W6AWlA",
-    "channel": "FRANCE 24 English",
-    "published": "2026-11-04T15:02:05+00:00",
     "topic": "europe"
    },
    {
@@ -2418,34 +2544,6 @@
     "topic": "europe"
    },
    {
-    "title": "Europe’s military readiness plans at risk despite record defence spending",
-    "url": "https://www.youtube.com/watch?v=-KdySA-X6Wo",
-    "channel": "euronews",
-    "published": "2026-11-04T14:44:44+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Europe’s military readiness plans at risk despite record defence spending",
-    "url": "https://www.youtube.com/watch?v=h_xJIj-p-Ys",
-    "channel": "euronews",
-    "published": "2026-11-04T14:38:27+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Midterms: How Abdul El-Sayed used 'humour and hope' to rebuff racism • FRANCE 24 English",
-    "url": "https://www.youtube.com/watch?v=FtJa86O4CiA",
-    "channel": "FRANCE 24 English",
-    "published": "2026-11-04T14:25:13+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Trump seeks to shift blame but has 'nowhere to hide' after midterms defeat • FRANCE 24 English",
-    "url": "https://www.youtube.com/watch?v=ki0PB6PEkjk",
-    "channel": "FRANCE 24 English",
-    "published": "2026-11-04T14:13:46+00:00",
-    "topic": "europe"
-   },
-   {
     "title": "US voters have rejected Republicans - what does that mean for Trump? #USMidterms #BBCNews",
     "url": "https://www.youtube.com/watch?v=Y9R5e6BJ6cM",
     "channel": "BBC News",
@@ -2453,45 +2551,10 @@
     "topic": "europe"
    },
    {
-    "title": "A look back at how Trump's political decisions saw his approval rating plummet • FRANCE 24 English",
-    "url": "https://www.youtube.com/watch?v=OwOrUJVOy_U",
-    "channel": "FRANCE 24 English",
-    "published": "2026-11-04T13:17:47+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Iranian MP tells Euronews Tehran's missiles will strike Europe if US uses its bases there",
-    "url": "https://www.youtube.com/watch?v=u_so7VuhBGA",
-    "channel": "euronews",
-    "published": "2026-11-04T13:16:43+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "US midterms: What Trump's defeat means for Europe and global markets",
-    "url": "https://www.youtube.com/watch?v=InKcSK3NjmA",
-    "channel": "euronews",
-    "published": "2026-11-04T13:10:20+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Ranked: The world's 15 safest cities for travellers in 2027 – and nine are in Europe",
-    "url": "https://www.youtube.com/watch?v=kxNKJnfqHsE",
-    "channel": "euronews",
-    "published": "2026-11-04T12:57:52+00:00",
-    "topic": "europe"
-   },
-   {
     "title": "Live: Europe reacts to Trump’s US midterm defeat | DW News",
     "url": "https://www.youtube.com/watch?v=bzru_xBjZ3I",
     "channel": "DW News",
     "published": "2026-11-04T12:48:13+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Key Central Asian highway expands on trade route from China towards Europe",
-    "url": "https://www.youtube.com/watch?v=APBEEMQzbRM",
-    "channel": "euronews",
-    "published": "2026-11-04T12:38:02+00:00",
     "topic": "europe"
    },
    {
@@ -2506,13 +2569,6 @@
     "url": "https://www.youtube.com/watch?v=UK5rVgWRmAw",
     "channel": "DW News",
     "published": "2026-11-04T12:34:04+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Live map: Who controls the US Senate? Follow election night results",
-    "url": "https://www.youtube.com/watch?v=1-GrZfywDSk",
-    "channel": "euronews",
-    "published": "2026-11-04T11:04:40+00:00",
     "topic": "europe"
    },
    {
@@ -2542,126 +2598,231 @@
     "channel": "DW News",
     "published": "2026-11-04T09:13:06+00:00",
     "topic": "europe"
-   },
-   {
-    "title": "Voters in US react to midterm results from across country #US #bbcnews",
-    "url": "https://www.youtube.com/watch?v=9qc7-GkwKuQ",
-    "channel": "BBC News",
-    "published": "2026-11-04T09:10:36+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Democrat Abdul El-Sayed to become first Muslim US senator after Michigan win. #BBCNews",
-    "url": "https://www.youtube.com/watch?v=ZJ-BNUS-ji0",
-    "channel": "BBC News",
-    "published": "2026-11-04T08:53:23+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Trump's midterm nightmare: Regime change at home | DW News",
-    "url": "https://www.youtube.com/watch?v=oa5HTRhYz4E",
-    "channel": "DW News",
-    "published": "2026-11-04T08:50:50+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Live: Democratic wave reshapes America | DW News",
-    "url": "https://www.youtube.com/watch?v=D4CAOqgKIX0",
-    "channel": "DW News",
-    "published": "2026-11-04T08:49:35+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Trump says Democrats 'did a good job' in US midterm elections. #BBCNews",
-    "url": "https://www.youtube.com/watch?v=tbYO-q1UzL0",
-    "channel": "BBC News",
-    "published": "2026-11-04T08:34:51+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Live: Democrats shock Republicans in nationwide election sweep | DW News",
-    "url": "https://www.youtube.com/watch?v=1hoaSIpKOfU",
-    "channel": "DW News",
-    "published": "2026-11-04T07:17:54+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Talarico reacts to his US Senate win in Texas | DW News",
-    "url": "https://www.youtube.com/watch?v=2q3LPayQluY",
-    "channel": "DW News",
-    "published": "2026-11-04T06:59:06+00:00",
-    "topic": "europe"
    }
   ],
   "brics": [
    {
-    "title": "Jon Ossoff Speech LIVE: Georgia Senate Race Results | US Midterms Verdict 2026",
-    "url": "https://www.youtube.com/watch?v=DdLV7yghccE",
+    "title": "'If I Was On Ballot...': Trump Reacts After Midterm Embarrasment, Dems Roar Back | US Verdict",
+    "url": "https://www.youtube.com/watch?v=76vp6qzTlQU",
     "channel": "Firstpost",
-    "published": "2026-11-04T15:50:51+00:00",
+    "published": "2026-11-04T19:05:12+00:00",
     "topic": "brics"
    },
    {
-    "title": "'Tough Race, Bitter At Times': Vivek Ramaswamy Loses Ohio Despite Trump's Backing |Firstpost America",
-    "url": "https://www.youtube.com/watch?v=PoWM-EyIouA",
+    "title": "Elon Musk's Big Bet on Republicans Backfires | Vantage on Firstpost",
+    "url": "https://www.youtube.com/watch?v=d_zvSF04rSU",
     "channel": "Firstpost",
-    "published": "2026-11-04T15:50:38+00:00",
+    "published": "2026-11-04T19:00:37+00:00",
     "topic": "brics"
    },
    {
-    "title": "US Midterm Elections 2026 LIVE:  Chris Pappas Becomes First Openly Gay Senator-Elect From N.H.",
-    "url": "https://www.youtube.com/watch?v=TeiJvmohmCE",
+    "title": "'Defending the Homeland': Traore Mobilises 86,000 in Burkina Faso Military Push | Firstpost Africa",
+    "url": "https://www.youtube.com/watch?v=0XGVOb_d62E",
+    "channel": "Firstpost",
+    "published": "2026-11-04T19:00:06+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "US Midterm Elections LIVE: Chuck Schumer Addresses Media After Democrats’ Midterm Election Sweep",
+    "url": "https://www.youtube.com/watch?v=yEO7BI3mB7Y",
     "channel": "WION",
-    "published": "2026-11-04T15:44:01+00:00",
+    "published": "2026-11-04T18:58:36+00:00",
     "topic": "brics"
    },
    {
-    "title": "Indonesia Phone Tapping Case: Three Senior Officers Allegedly Orchestrated The Illegal Tapping",
-    "url": "https://www.youtube.com/watch?v=ydifMenP7sA",
+    "title": "Talarico LIVE: 'Texas, You've Done It!' Paxton Crushed As GOP Face Stunning Upset | US Midterms",
+    "url": "https://www.youtube.com/watch?v=Q42evJQnSME",
+    "channel": "Firstpost",
+    "published": "2026-11-04T18:57:24+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Survey: Job Satisfaction Hits A Record Low In UK | GRAVITAS",
+    "url": "https://www.youtube.com/watch?v=dJWZxzLJ6tU",
     "channel": "WION",
-    "published": "2026-11-04T15:43:51+00:00",
+    "published": "2026-11-04T18:56:36+00:00",
     "topic": "brics"
    },
    {
-    "title": "US Midterm Verdict LIVE: The Red Wall Falls! Democrats Snatch Control Of Congress From Republicans",
-    "url": "https://www.youtube.com/watch?v=70aYnX30qp8",
+    "title": "Spate Of Similar Deaths Raises Alarm Over Heart Health In Children | GRAVITAS",
+    "url": "https://www.youtube.com/watch?v=diR-j0dE0oQ",
+    "channel": "WION",
+    "published": "2026-11-04T18:55:04+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Iran Supreme Leader Warns War Would Be 'Much Wider' If It Resumes | WION",
+    "url": "https://www.youtube.com/watch?v=CRykgL5v0PI",
+    "channel": "WION",
+    "published": "2026-11-04T18:53:58+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "US Punishes Trump: Orange President Goes Red in Face, House Turns Blue | WION",
+    "url": "https://www.youtube.com/watch?v=-hC_BGHH_lk",
+    "channel": "WION",
+    "published": "2026-11-04T18:52:20+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "India Approves Rs 2,814 Crore Processing Scheme | WION",
+    "url": "https://www.youtube.com/watch?v=oTJCCbjIfzA",
+    "channel": "WION",
+    "published": "2026-11-04T18:51:17+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "US President Talks In Detail About White House Ballroom | WION BREAKING",
+    "url": "https://www.youtube.com/watch?v=49Gzo-oKnGk",
+    "channel": "WION",
+    "published": "2026-11-04T18:50:50+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "US Midterm Voting LIVE: 'Trump Broke All...': Americans Reveal What's At Stake Amid Polling",
+    "url": "https://www.youtube.com/watch?v=22j0lay9DEo",
     "channel": "Firstpost",
-    "published": "2026-11-04T15:43:20+00:00",
+    "published": "2026-11-04T18:48:55+00:00",
     "topic": "brics"
    },
    {
-    "title": "Indian-Americans Win BIG: Piya Dandiya, Ro Khanna, Subramanyam Storm to Victory | Firstpost America",
-    "url": "https://www.youtube.com/watch?v=bXmtIDFy-gs",
+    "title": "Democrats won Congress. Now comes the hard part | DW News",
+    "url": "https://www.youtube.com/watch?v=Dy3B09ZYqUo",
+    "channel": "DW News",
+    "published": "2026-11-04T18:45:17+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "World leaders react to US midterm election results",
+    "url": "https://www.youtube.com/watch?v=9xqt1e6XB7w",
+    "channel": "TRT World",
+    "published": "2026-11-04T18:38:02+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Drone attack sparks fire at Ozon warehouse in Russia",
+    "url": "https://www.youtube.com/watch?v=l_cmKGS1GTI",
+    "channel": "TRT World",
+    "published": "2026-11-04T18:34:02+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "'A Political Earthquake for Trump': Democrats' Historic Midterm Sweep Shakes Washington | Vantage",
+    "url": "https://www.youtube.com/watch?v=GT7XK3PMT2Y",
     "channel": "Firstpost",
-    "published": "2026-11-04T15:40:59+00:00",
+    "published": "2026-11-04T18:31:28+00:00",
     "topic": "brics"
    },
    {
-    "title": "Democratic voters celebrate El-Sayed’s Michigan win in election ‘blue wave’ | #ajshorts",
-    "url": "https://www.youtube.com/watch?v=FRi3ytDmlbo",
+    "title": "EL-SAYED VICTORY SPEECH LIVE: Michigan Senator-Elect Pokes Fun At Trump | US Midterms",
+    "url": "https://www.youtube.com/watch?v=Q51Rrc97z84",
+    "channel": "Firstpost",
+    "published": "2026-11-04T18:25:12+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Wild celebrations as Texas turns blue | DW News",
+    "url": "https://www.youtube.com/watch?v=tQgS80DTlXk",
+    "channel": "DW News",
+    "published": "2026-11-04T18:15:32+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Key moments as Democrats sweep to victories in US midterms | AJ #shorts",
+    "url": "https://www.youtube.com/watch?v=6tqY2HVO0J0",
     "channel": "Al Jazeera English",
-    "published": "2026-11-04T15:40:49+00:00",
+    "published": "2026-11-04T18:11:00+00:00",
     "topic": "brics"
    },
    {
-    "title": "US Midterms 2026: Chris Pappas Becomes First Openly Gay Senator-Elect From N.H. | Race To Power",
-    "url": "https://www.youtube.com/watch?v=v862IGZsyp0",
-    "channel": "WION",
-    "published": "2026-11-04T15:40:48+00:00",
+    "title": "LIVE: Watch TRT World",
+    "url": "https://www.youtube.com/watch?v=JV5w1MhzcfQ",
+    "channel": "TRT World",
+    "published": "2026-11-04T18:08:37+00:00",
     "topic": "brics"
    },
    {
-    "title": "US Midterms Elections 2026 LIVE: Democrats Sweep Senate Seats, Trouble Mounts For Trump | WION",
-    "url": "https://www.youtube.com/watch?v=InCxqo6gwbI",
-    "channel": "WION",
-    "published": "2026-11-04T15:37:09+00:00",
+    "title": "US midterms could reshape Trump's foreign policy and the war with Iran",
+    "url": "https://www.youtube.com/watch?v=TEL-NCWWuzQ",
+    "channel": "Al Jazeera English",
+    "published": "2026-11-04T18:00:17+00:00",
     "topic": "brics"
    },
    {
-    "title": "Poland In Crisis As Rivals Clash Over Top Court Control | Rcae To Power",
-    "url": "https://www.youtube.com/watch?v=1qs8JT413R4",
+    "title": "Padel eyes Olympic debut at Brisbane 2032 as sport's popularity surges",
+    "url": "https://www.youtube.com/watch?v=MIwmBf81vpY",
+    "channel": "Al Jazeera English",
+    "published": "2026-11-04T18:00:16+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "US Midterm Elections LIVE: US President Trump BREAKS SILENCE After Election Defeat | WION Live",
+    "url": "https://www.youtube.com/watch?v=pcNQlfXA8R0",
     "channel": "WION",
-    "published": "2026-11-04T15:34:40+00:00",
+    "published": "2026-11-04T18:00:05+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Donald Trump LIVE: POTUS Reacts to The American Blue Wave | White House Briefing",
+    "url": "https://www.youtube.com/watch?v=PK7TJOVPnvQ",
+    "channel": "Firstpost",
+    "published": "2026-11-04T17:50:31+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "From veto threats to dealmaking: Trump's post-midterm balancing act | DW News",
+    "url": "https://www.youtube.com/watch?v=VylnjTpNqHk",
+    "channel": "DW News",
+    "published": "2026-11-04T17:45:38+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "VP Vance blames US war on Iran for Republican defeat in midterm elections",
+    "url": "https://www.youtube.com/watch?v=EmkYKaYeBx0",
+    "channel": "Al Jazeera English",
+    "published": "2026-11-04T17:45:12+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Will the US resume its attacks on Iran? | Inside Story",
+    "url": "https://www.youtube.com/watch?v=LuuJmQdzJEQ",
+    "channel": "Al Jazeera English",
+    "published": "2026-11-04T17:30:12+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Americans chose ‘the economy over extremism’ says House Democratic Leader Jeffries",
+    "url": "https://www.youtube.com/watch?v=KXnuNv6AR0g",
+    "channel": "Al Jazeera English",
+    "published": "2026-11-04T17:24:20+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Tenerife’s Jesus de Miguel remembered in moving tributes by football world",
+    "url": "https://www.youtube.com/watch?v=g-2kEN2uNb4",
+    "channel": "Al Jazeera English",
+    "published": "2026-11-04T16:45:36+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "US Midterms: What the new Congress means for Europe and the Transatlantic Alliance | DW News",
+    "url": "https://www.youtube.com/watch?v=ok091sO6WPE",
+    "channel": "DW News",
+    "published": "2026-11-04T16:45:34+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "UK Supreme Court hears appeal against Palestine Action’s proscription",
+    "url": "https://www.youtube.com/watch?v=mQ7Uoi_QRTY",
+    "channel": "Al Jazeera English",
+    "published": "2026-11-04T16:27:53+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Could hackers using AI shut down essential services?",
+    "url": "https://www.youtube.com/watch?v=QkYnyvSopds",
+    "channel": "TRT World",
+    "published": "2026-11-04T16:10:33+00:00",
     "topic": "brics"
    },
    {
@@ -2669,27 +2830,6 @@
     "url": "https://www.youtube.com/watch?v=CvehuItVtZQ",
     "channel": "TRT World",
     "published": "2026-11-04T15:33:23+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "'We are still red,' Florida’s first Black governor upon win",
-    "url": "https://www.youtube.com/watch?v=_IGv-NTt1rI",
-    "channel": "Al Jazeera English",
-    "published": "2026-11-04T15:30:08+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Democrats shock Texas as Talarico and Hinojosa win in Republican stronghold",
-    "url": "https://www.youtube.com/watch?v=mHJPKOtS8Fg",
-    "channel": "Al Jazeera English",
-    "published": "2026-11-04T15:26:40+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "US Midterm Elections 2026 LIVE: Trump Suffers Massive Midterm Setback | Democrats Win House & Senate",
-    "url": "https://www.youtube.com/watch?v=jsfgbD0SHOU",
-    "channel": "WION",
-    "published": "2026-11-04T15:16:12+00:00",
     "topic": "brics"
    },
    {
@@ -2707,87 +2847,10 @@
     "topic": "brics"
    },
    {
-    "title": "Democrats win US Congress in blue wave as voters reject Trump's agenda",
-    "url": "https://www.youtube.com/watch?v=OeqDJKTo7Ek",
-    "channel": "Al Jazeera English",
-    "published": "2026-11-04T14:44:33+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "EL-SAYED VICTORY SPEECH LIVE: Michigan Senator-Elect Pokes Fun At Trump | US Midterms",
-    "url": "https://www.youtube.com/watch?v=7Vq1HaqVI0I",
-    "channel": "Firstpost",
-    "published": "2026-11-04T14:27:07+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "LIVE: From Trump's Midterm Shock To South Africa's Power Struggle And India's Political Showdown!",
-    "url": "https://www.youtube.com/watch?v=NBKkIj3O3BQ",
-    "channel": "WION",
-    "published": "2026-11-04T14:20:20+00:00",
-    "topic": "brics"
-   },
-   {
     "title": "Democrats win US Congress in historic midterm election sweep",
     "url": "https://www.youtube.com/watch?v=mBCDmh1WjG0",
     "channel": "TRT World",
     "published": "2026-11-04T14:19:15+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Trump loses control of Congress | #ajshorts",
-    "url": "https://www.youtube.com/watch?v=JYpKQzWNHMI",
-    "channel": "Al Jazeera English",
-    "published": "2026-11-04T14:17:53+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Khamenei says US midterms won’t change Washington’s hostility towards Iran",
-    "url": "https://www.youtube.com/watch?v=eNeVgWmOfxc",
-    "channel": "Al Jazeera English",
-    "published": "2026-11-04T13:54:52+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Spanish Transport Minister resigns over train crash disasters",
-    "url": "https://www.youtube.com/watch?v=J4l8MPozkpo",
-    "channel": "Al Jazeera English",
-    "published": "2026-11-04T13:48:43+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "A Suburban Home Turned into a Crime Scene",
-    "url": "https://www.youtube.com/watch?v=jOBwAc5jVsU",
-    "channel": "Al Jazeera English",
-    "published": "2026-11-04T13:41:38+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Democrat Roy Cooper wins key North Carolina Senate seat",
-    "url": "https://www.youtube.com/watch?v=qiosOrhPZOY",
-    "channel": "TRT World",
-    "published": "2026-11-04T13:40:26+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "LIVE | US Midterm Shock: Can India Escape Trump’s Tariffs, Iran War & H-1B Crackdown?",
-    "url": "https://www.youtube.com/watch?v=bgCdzY9O9QQ",
-    "channel": "Firstpost",
-    "published": "2026-11-04T13:13:20+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Democrats win control of US House and Senate",
-    "url": "https://www.youtube.com/watch?v=dan0w7GtYfQ",
-    "channel": "TRT World",
-    "published": "2026-11-04T12:57:58+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "AP: Democrats flip US Senate seat in Ohio, in boost for party",
-    "url": "https://www.youtube.com/watch?v=riM2AYDwd9M",
-    "channel": "TRT World",
-    "published": "2026-11-04T12:49:28+00:00",
     "topic": "brics"
    },
    {
@@ -2812,66 +2875,10 @@
     "topic": "brics"
    },
    {
-    "title": "More than 300,000 Lebanese remain displaced",
-    "url": "https://www.youtube.com/watch?v=y4w1nEopI_A",
-    "channel": "TRT World",
-    "published": "2026-11-04T12:01:22+00:00",
-    "topic": "brics"
-   },
-   {
     "title": "El-Sayed celebrates victory in Michigan Senate battle | DW News",
     "url": "https://www.youtube.com/watch?v=1YPmSTmmp6Q",
     "channel": "DW News",
     "published": "2026-11-04T09:13:06+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Trump's midterm nightmare: Regime change at home | DW News",
-    "url": "https://www.youtube.com/watch?v=oa5HTRhYz4E",
-    "channel": "DW News",
-    "published": "2026-11-04T08:50:50+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Live: Democratic wave reshapes America | DW News",
-    "url": "https://www.youtube.com/watch?v=D4CAOqgKIX0",
-    "channel": "DW News",
-    "published": "2026-11-04T08:49:35+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "LIVE: Iran Mocks Donald Trump's Massive Loss In Midterm Elections | Vantage on Firstpost",
-    "url": "https://www.youtube.com/watch?v=evxoblXyG_Y",
-    "channel": "Firstpost",
-    "published": "2026-11-04T08:29:05+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "LIVE: 'Will Turn Into...' Trump Meltdown After Midterm Loss | Vantage on Firstpost",
-    "url": "https://www.youtube.com/watch?v=D5nOk9ey99U",
-    "channel": "Firstpost",
-    "published": "2026-11-04T08:28:55+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "US Midterm Elections 2026 LIVE:  Democrats Flip First Senate Seat, Take N.Carolina From Republicans",
-    "url": "https://www.youtube.com/watch?v=zsy3OGwT-YQ",
-    "channel": "WION",
-    "published": "2026-11-04T08:11:32+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Live: Democrats shock Republicans in nationwide election sweep | DW News",
-    "url": "https://www.youtube.com/watch?v=1hoaSIpKOfU",
-    "channel": "DW News",
-    "published": "2026-11-04T07:17:54+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Talarico reacts to his US Senate win in Texas | DW News",
-    "url": "https://www.youtube.com/watch?v=2q3LPayQluY",
-    "channel": "DW News",
-    "published": "2026-11-04T06:59:06+00:00",
     "topic": "brics"
    }
   ]
