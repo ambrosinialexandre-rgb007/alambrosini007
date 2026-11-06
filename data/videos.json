@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T04:00:27.691798+00:00",
+ "generatedAt": "2026-11-06T07:26:46.392383+00:00",
  "topics": {
   "fr-national": [],
   "fr-international": [],
@@ -8,7 +8,64 @@
   "rugby": [],
   "football": [],
   "f1": [],
-  "markets": [],
+  "markets": [
+   {
+    "title": "Tourism vs conservation: Indonesia's whale shark conundrum",
+    "url": "https://www.youtube.com/watch?v=Bx3XmvEZAys",
+    "channel": "Reuters",
+    "published": "2026-11-06T06:54:46+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Paraguay's Pena resigns as bank collapse triggers protests",
+    "url": "https://www.youtube.com/watch?v=e4C9jeNYl1U",
+    "channel": "Reuters",
+    "published": "2026-11-06T06:38:42+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Paraguay's president resigns after bank collapse",
+    "url": "https://www.youtube.com/watch?v=T3rWwuLjAGE",
+    "channel": "Reuters",
+    "published": "2026-11-06T06:24:03+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "LIVE: Pope Leo departs Rome to visit South America",
+    "url": "https://www.youtube.com/watch?v=psGg9QKR8Fs",
+    "channel": "Reuters",
+    "published": "2026-11-06T06:13:58+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Hegseth vows to fight any impeachment, defends Iran war",
+    "url": "https://www.youtube.com/watch?v=GI92rl0ZOVI",
+    "channel": "Reuters",
+    "published": "2026-11-06T05:06:10+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Nithya Raman ousts Karen Bass as Los Angeles mayor",
+    "url": "https://www.youtube.com/watch?v=hjz62BsfK8A",
+    "channel": "Reuters",
+    "published": "2026-11-06T05:05:42+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "Hegseth vows to fight impeachment efforts",
+    "url": "https://www.youtube.com/watch?v=8Uoa-WNFqOY",
+    "channel": "Reuters",
+    "published": "2026-11-06T04:08:22+00:00",
+    "topic": "markets"
+   },
+   {
+    "title": "LIVE: Kilauea volcano spews lava",
+    "url": "https://www.youtube.com/watch?v=U5VPmMCzS6c",
+    "channel": "Reuters",
+    "published": "2026-11-06T02:07:31+00:00",
+    "topic": "markets"
+   }
+  ],
   "ai-semis": [],
   "transport": [],
   "aerospace": [],
@@ -18,15 +75,72 @@
   "tennis": [],
   "luxury": [],
   "robotics": [],
-  "us": [],
+  "us": [
+   {
+    "title": "Iowa post office shooting suspect identified as 39 year old USPS employee #shorts",
+    "url": "https://www.youtube.com/watch?v=p5jGYkmELQc",
+    "channel": "CBS News",
+    "published": "2026-11-06T05:06:29+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Watch: Protesters build fake arch in protest over Trump’s planned D C  monument #shorts",
+    "url": "https://www.youtube.com/watch?v=yS6JtsM3sFM",
+    "channel": "CBS News",
+    "published": "2026-11-06T05:06:03+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Parts of Georgia and Tennessee underwater amid torrential rain #shorts",
+    "url": "https://www.youtube.com/watch?v=n4inKaUKBAg",
+    "channel": "CBS News",
+    "published": "2026-11-06T05:05:32+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Watch: Dangerous flooding hits Georgia, Tennessee",
+    "url": "https://www.youtube.com/watch?v=6Xl3PQ1fVKE",
+    "channel": "CBS News",
+    "published": "2026-11-06T03:41:57+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Political twists and turns of the 2026 midterms",
+    "url": "https://www.youtube.com/watch?v=j3wYVXw9HtA",
+    "channel": "CBS News",
+    "published": "2026-11-06T01:24:57+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Pete Hegseth doubles down on Iran war in new video despite election losses",
+    "url": "https://www.youtube.com/watch?v=7YzrryutvAI",
+    "channel": "CBS News",
+    "published": "2026-11-06T01:23:47+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "The new voice of Boston Logan Airport on winning contest: \"I am so honored\"",
+    "url": "https://www.youtube.com/watch?v=PzAgZIQYFpo",
+    "channel": "CBS News",
+    "published": "2026-11-06T01:23:44+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Trump lawyers try to appeal convictions in his Stormy Daniels \"hush money\" case",
+    "url": "https://www.youtube.com/watch?v=bLv_dLWY6mU",
+    "channel": "CBS News",
+    "published": "2026-11-06T01:16:37+00:00",
+    "topic": "us"
+   }
+  ],
   "europe": [],
   "brics": []
  },
  "errors": [
-  "franceinfo: HTTP Error 404: Not Found",
+  "franceinfo: HTTP Error 500: Internal Server Error",
   "HugoDécrypte – Actus du jour: HTTP Error 404: Not Found",
   "Le Monde: HTTP Error 404: Not Found",
-  "FRANCE 24: HTTP Error 404: Not Found",
+  "FRANCE 24: HTTP Error 500: Internal Server Error",
   "Le Dessous des Cartes – ARTE: HTTP Error 404: Not Found",
   "Al Jazeera English: HTTP Error 404: Not Found",
   "FRANCE 24 English: HTTP Error 404: Not Found",
@@ -50,7 +164,6 @@
   "FORMULA 1: HTTP Error 404: Not Found",
   "The Race: HTTP Error 404: Not Found",
   "Bloomberg Television: HTTP Error 404: Not Found",
-  "Reuters: HTTP Error 404: Not Found",
   "Financial Times: HTTP Error 404: Not Found",
   "BFM Business: HTTP Error 404: Not Found",
   "Les Echos: HTTP Error 404: Not Found",
@@ -73,16 +186,15 @@
   "PBS NewsHour: HTTP Error 404: Not Found",
   "Associated Press: HTTP Error 404: Not Found",
   "NBC News: HTTP Error 404: Not Found",
-  "CBS News: HTTP Error 404: Not Found",
   "DW News: HTTP Error 404: Not Found",
   "euronews: HTTP Error 404: Not Found",
-  "FRANCE 24 English: HTTP Error 500: Internal Server Error",
+  "FRANCE 24 English: HTTP Error 404: Not Found",
   "BBC News: HTTP Error 404: Not Found",
   "WION: HTTP Error 404: Not Found",
   "CGTN: HTTP Error 404: Not Found",
   "Al Jazeera English: HTTP Error 404: Not Found",
   "DW News: HTTP Error 404: Not Found",
   "Firstpost: HTTP Error 404: Not Found",
-  "TRT World: HTTP Error 500: Internal Server Error"
+  "TRT World: HTTP Error 404: Not Found"
  ]
 }
