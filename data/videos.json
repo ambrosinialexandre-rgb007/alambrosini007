@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-07T03:58:07.884175+00:00",
+ "generatedAt": "2026-11-07T07:09:53.694473+00:00",
  "topics": {
   "fr-national": [],
   "fr-international": [],
@@ -18,7 +18,64 @@
   "tennis": [],
   "luxury": [],
   "robotics": [],
-  "us": [],
+  "us": [
+   {
+    "title": "'America is back' after midterm election, expert says",
+    "url": "https://www.youtube.com/watch?v=1rV2tqK6TmI",
+    "channel": "PBS NewsHour",
+    "published": "2026-11-07T02:00:35+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "What will be lost when ISS is decommissioned",
+    "url": "https://www.youtube.com/watch?v=U7SnkBM0v9s",
+    "channel": "PBS NewsHour",
+    "published": "2026-11-07T01:01:45+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "How the world is reacting to America's midterm results",
+    "url": "https://www.youtube.com/watch?v=oGFZj0R1BdQ",
+    "channel": "PBS NewsHour",
+    "published": "2026-11-07T00:28:11+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "PBS News Hour full episode, Nov. 6, 2026",
+    "url": "https://www.youtube.com/watch?v=J-IJ3XU7tT8",
+    "channel": "PBS NewsHour",
+    "published": "2026-11-07T00:26:36+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Remembering Jay Rockefeller’s life and legacy of public service",
+    "url": "https://www.youtube.com/watch?v=eEny8AtA7-M",
+    "channel": "PBS NewsHour",
+    "published": "2026-11-07T00:11:14+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Brooks and Capehart on Trump’s White House shakeup and fallout from the midterms",
+    "url": "https://www.youtube.com/watch?v=tafaiDPPKts",
+    "channel": "PBS NewsHour",
+    "published": "2026-11-07T00:02:09+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Astronauts reflect on living aboard the International Space Station",
+    "url": "https://www.youtube.com/watch?v=QWtwV_MzGHc",
+    "channel": "PBS NewsHour",
+    "published": "2026-11-06T23:58:08+00:00",
+    "topic": "us"
+   },
+   {
+    "title": "Former Sen. Flake, outspoken Trump critic, on the GOP reckoning post-midterms",
+    "url": "https://www.youtube.com/watch?v=VOr5e4un_X0",
+    "channel": "PBS NewsHour",
+    "published": "2026-11-06T23:53:55+00:00",
+    "topic": "us"
+   }
+  ],
   "europe": [],
   "brics": []
  },
@@ -32,7 +89,7 @@
   "FRANCE 24 English: HTTP Error 404: Not Found",
   "Middle East Eye: HTTP Error 404: Not Found",
   "BBC News: HTTP Error 404: Not Found",
-  "Arab News: HTTP Error 500: Internal Server Error",
+  "Arab News: HTTP Error 404: Not Found",
   "Al Arabiya English: HTTP Error 404: Not Found",
   "Asharq News: HTTP Error 404: Not Found",
   "i24NEWS English: HTTP Error 404: Not Found",
@@ -41,14 +98,14 @@
   "LIV Golf: HTTP Error 404: Not Found",
   "Golf Channel: HTTP Error 404: Not Found",
   "World Rugby: HTTP Error 404: Not Found",
-  "RugbyPass: HTTP Error 500: Internal Server Error",
+  "RugbyPass: HTTP Error 404: Not Found",
   "Six Nations Rugby: HTTP Error 404: Not Found",
   "L'Équipe: HTTP Error 404: Not Found",
   "Tifo Sports (The Athletic): HTTP Error 404: Not Found",
   "ESPN FC: HTTP Error 404: Not Found",
-  "Sky Sports Football: HTTP Error 404: Not Found",
+  "Sky Sports Football: HTTP Error 500: Internal Server Error",
   "FORMULA 1: HTTP Error 404: Not Found",
-  "The Race: HTTP Error 404: Not Found",
+  "The Race: HTTP Error 500: Internal Server Error",
   "Bloomberg Television: HTTP Error 404: Not Found",
   "Reuters: HTTP Error 404: Not Found",
   "Financial Times: HTTP Error 404: Not Found",
@@ -62,15 +119,14 @@
   "Scott Manley: HTTP Error 404: Not Found",
   "Breaking Defense: HTTP Error 404: Not Found",
   "SpaceNews: HTTP Error 404: Not Found",
-  "Defense News: HTTP Error 500: Internal Server Error",
+  "Defense News: HTTP Error 404: Not Found",
   "Benchmark Mineral Intelligence: HTTP Error 404: Not Found",
-  "IEA: HTTP Error 500: Internal Server Error",
+  "IEA: HTTP Error 404: Not Found",
   "Into the Cryptoverse (Benjamin Cowen): HTTP Error 404: Not Found",
   "CoinDesk: HTTP Error 404: Not Found",
   "Tennis TV: HTTP Error 404: Not Found",
   "Business of Fashion: HTTP Error 404: Not Found",
   "NVIDIA: HTTP Error 404: Not Found",
-  "PBS NewsHour: HTTP Error 404: Not Found",
   "Associated Press: HTTP Error 404: Not Found",
   "NBC News: HTTP Error 404: Not Found",
   "CBS News: HTTP Error 404: Not Found",
