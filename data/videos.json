@@ -1,196 +1,40 @@
 {
- "generatedAt": "2026-11-08T01:15:24.195353+00:00",
+ "generatedAt": "2026-11-08T04:00:00.301936+00:00",
  "topics": {
   "fr-national": [],
   "fr-international": [],
-  "me-region": [
-   {
-    "title": "27 Yemenis killed in Sanaa by Saudi led-coalition strike",
-    "url": "https://www.youtube.com/watch?v=wpDrwL8DBX0",
-    "channel": "Middle East Eye",
-    "published": "2026-11-07T23:02:00+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Abdul El-Sayed makes comical remark following election victory",
-    "url": "https://www.youtube.com/watch?v=4mRtjG69n0Q",
-    "channel": "Middle East Eye",
-    "published": "2026-11-07T22:00:35+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Women and children primarily attacked in Saudi bombing of Yemen's capital",
-    "url": "https://www.youtube.com/watch?v=8Z59a1a4Zjg",
-    "channel": "Middle East Eye",
-    "published": "2026-11-07T21:16:35+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Humanitarian initiative sponsors mass Gaza wedding celebration",
-    "url": "https://www.youtube.com/watch?v=mUV7LaKgCdE",
-    "channel": "Middle East Eye",
-    "published": "2026-11-07T19:04:10+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Gaza families face another winter in flooded tents amid aid restrictions",
-    "url": "https://www.youtube.com/watch?v=flGMPO_0eJM",
-    "channel": "Middle East Eye",
-    "published": "2026-11-07T16:46:34+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "How Europe is adopting Israel’s methods against dissent | Francesca Albanese | UNAPOLOGETIC",
-    "url": "https://www.youtube.com/watch?v=Cb7cPVZMIJg",
-    "channel": "Middle East Eye",
-    "published": "2026-11-07T15:09:03+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "‘Nauseous’: London audiences react to NAZA film",
-    "url": "https://www.youtube.com/watch?v=4GOswfEsatc",
-    "channel": "Middle East Eye",
-    "published": "2026-11-07T14:53:59+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Palestinians in Gaza struggle as rain floods their tents",
-    "url": "https://www.youtube.com/watch?v=xRL28Ga68nQ",
-    "channel": "Middle East Eye",
-    "published": "2026-11-07T13:08:14+00:00",
-    "topic": "me-region"
-   }
-  ],
+  "me-region": [],
   "golf": [],
   "rugby": [],
   "football": [],
   "f1": [],
-  "markets": [
-   {
-    "title": "Las Vegas Aces owner on the next WNBA commissioner",
-    "url": "https://www.youtube.com/watch?v=UsrogiDU8EM",
-    "channel": "CNBC Television",
-    "published": "2026-11-07T14:00:38+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Mad Money 11/06/26 | Audio Only",
-    "url": "https://www.youtube.com/watch?v=MAVNXbhaCV8",
-    "channel": "CNBC Television",
-    "published": "2026-11-07T00:40:22+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "President Trump delivers remarks at the John F. Kennedy Space Center — 11/6/2026",
-    "url": "https://www.youtube.com/watch?v=aAb47yRRDyQ",
-    "channel": "CNBC Television",
-    "published": "2026-11-06T23:34:32+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "OpenAI could become the 'WeWork of AI,' says NYU Professor Gary Marcus",
-    "url": "https://www.youtube.com/watch?v=TisVdUTFntg",
-    "channel": "CNBC Television",
-    "published": "2026-11-06T23:07:52+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Nvidia CEO Jensen Huang seen as target of Chinese spy plot, according to the New York Times",
-    "url": "https://www.youtube.com/watch?v=PoM9HlBl9Y8",
-    "channel": "CNBC Television",
-    "published": "2026-11-06T22:41:03+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Lumentum CEO Michael Hurlston: Our demand couldn't be stronger but we're seeing a massive sell-off",
-    "url": "https://www.youtube.com/watch?v=zbp8UIoURg4",
-    "channel": "CNBC Television",
-    "published": "2026-11-06T22:34:26+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "'Very good chance' we go back to conflict in Iran, says fmr. WH senior advisor Amos Hochstein",
-    "url": "https://www.youtube.com/watch?v=4CCywMt5cQ8",
-    "channel": "CNBC Television",
-    "published": "2026-11-06T22:25:40+00:00",
-    "topic": "markets"
-   },
-   {
-    "title": "Inflations plus strong jobs number could give Fed 'latitude' to raise rates, says Moody's Mark Zandi",
-    "url": "https://www.youtube.com/watch?v=EhiboN7ZDd0",
-    "channel": "CNBC Television",
-    "published": "2026-11-06T22:20:37+00:00",
-    "topic": "markets"
-   }
-  ],
+  "markets": [],
   "ai-semis": [],
   "transport": [],
   "aerospace": [],
   "minerals": [],
-  "energy": [],
+  "energy": [
+   {
+    "title": "Renewables 2026",
+    "url": "https://www.youtube.com/watch?v=69NBR6LcKug",
+    "channel": "IEA",
+    "published": "2026-11-06T22:22:58+00:00",
+    "topic": "energy"
+   },
+   {
+    "title": "What the Hormuz Crisis Could Mean For Electrification",
+    "url": "https://www.youtube.com/watch?v=ODVCwdChpKQ",
+    "channel": "IEA",
+    "published": "2026-11-03T15:33:47+00:00",
+    "topic": "energy"
+   }
+  ],
   "crypto": [],
   "tennis": [],
   "luxury": [],
   "robotics": [],
   "us": [],
-  "europe": [
-   {
-    "title": "Trump asks UFC boss to be White House press secretary | BBC News",
-    "url": "https://www.youtube.com/watch?v=GSm7SzmHtSk",
-    "channel": "BBC News",
-    "published": "2026-11-07T23:41:10+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Krakow gunman who killed 6 is “ultra-nationalist inspired by far-right ideology” | BBC News",
-    "url": "https://www.youtube.com/watch?v=jwxe0E1tOe4",
-    "channel": "BBC News",
-    "published": "2026-11-07T23:12:33+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "The race for 2028 has already begun | BBC Americast",
-    "url": "https://www.youtube.com/watch?v=VxRukuIEB5I",
-    "channel": "BBC News",
-    "published": "2026-11-07T19:00:18+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "At the scene of the shooting in Krakow | BBC News",
-    "url": "https://www.youtube.com/watch?v=h4fhtWY6BaA",
-    "channel": "BBC News",
-    "published": "2026-11-07T18:10:55+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Russian strikes in Ukraine leave nine injured and damage power network | BBC News",
-    "url": "https://www.youtube.com/watch?v=rJUsZC2fq_I",
-    "channel": "BBC News",
-    "published": "2026-11-07T16:30:19+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Five killed and dozen more injured in Krakow shooting, police say | BBC News",
-    "url": "https://www.youtube.com/watch?v=-1h0A8X10Ic",
-    "channel": "BBC News",
-    "published": "2026-11-07T15:47:51+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "What do we know about Stranger Things prequel series? #StrangerThings #Netflix #BBCNews",
-    "url": "https://www.youtube.com/watch?v=pIjbDM9QTRc",
-    "channel": "BBC News",
-    "published": "2026-11-07T12:15:37+00:00",
-    "topic": "europe"
-   },
-   {
-    "title": "Naomi Watts 'deeply impressed' by Kim Kardashian's acting. #BBCNews",
-    "url": "https://www.youtube.com/watch?v=1pAgLpuxIdQ",
-    "channel": "BBC News",
-    "published": "2026-11-07T11:50:51+00:00",
-    "topic": "europe"
-   }
-  ],
+  "europe": [],
   "brics": []
  },
  "errors": [
@@ -201,6 +45,7 @@
   "Le Dessous des Cartes – ARTE: HTTP Error 404: Not Found",
   "Al Jazeera English: HTTP Error 404: Not Found",
   "FRANCE 24 English: HTTP Error 404: Not Found",
+  "Middle East Eye: HTTP Error 404: Not Found",
   "BBC News: HTTP Error 404: Not Found",
   "Arab News: HTTP Error 404: Not Found",
   "Al Arabiya English: HTTP Error 404: Not Found",
@@ -208,7 +53,7 @@
   "i24NEWS English: HTTP Error 404: Not Found",
   "PGA TOUR: HTTP Error 404: Not Found",
   "DP World Tour: HTTP Error 404: Not Found",
-  "LIV Golf: HTTP Error 500: Internal Server Error",
+  "LIV Golf: HTTP Error 404: Not Found",
   "Golf Channel: HTTP Error 404: Not Found",
   "World Rugby: HTTP Error 404: Not Found",
   "RugbyPass: HTTP Error 404: Not Found",
@@ -221,36 +66,37 @@
   "The Race: HTTP Error 404: Not Found",
   "Bloomberg Television: HTTP Error 404: Not Found",
   "Reuters: HTTP Error 404: Not Found",
-  "Financial Times: HTTP Error 404: Not Found",
-  "BFM Business: HTTP Error 500: Internal Server Error",
+  "Financial Times: HTTP Error 500: Internal Server Error",
+  "BFM Business: HTTP Error 404: Not Found",
   "Les Echos: HTTP Error 404: Not Found",
-  "TechTechPotato: HTTP Error 404: Not Found",
+  "CNBC Television: HTTP Error 404: Not Found",
+  "TechTechPotato: HTTP Error 500: Internal Server Error",
   "Asianometry: HTTP Error 404: Not Found",
   "FreightWaves: HTTP Error 404: Not Found",
   "NASASpaceflight: HTTP Error 404: Not Found",
   "Scott Manley: HTTP Error 404: Not Found",
-  "Breaking Defense: HTTP Error 500: Internal Server Error",
+  "Breaking Defense: HTTP Error 404: Not Found",
   "SpaceNews: HTTP Error 404: Not Found",
   "Defense News: HTTP Error 404: Not Found",
   "Benchmark Mineral Intelligence: HTTP Error 404: Not Found",
-  "IEA: HTTP Error 404: Not Found",
   "Into the Cryptoverse (Benjamin Cowen): HTTP Error 404: Not Found",
   "CoinDesk: HTTP Error 404: Not Found",
   "Tennis TV: HTTP Error 404: Not Found",
   "Business of Fashion: HTTP Error 404: Not Found",
   "NVIDIA: HTTP Error 404: Not Found",
-  "PBS NewsHour: HTTP Error 500: Internal Server Error",
+  "PBS NewsHour: HTTP Error 404: Not Found",
   "Associated Press: HTTP Error 404: Not Found",
   "NBC News: HTTP Error 404: Not Found",
   "CBS News: HTTP Error 404: Not Found",
   "DW News: HTTP Error 404: Not Found",
   "euronews: HTTP Error 404: Not Found",
   "FRANCE 24 English: HTTP Error 404: Not Found",
+  "BBC News: HTTP Error 404: Not Found",
   "WION: HTTP Error 404: Not Found",
   "CGTN: HTTP Error 404: Not Found",
   "Al Jazeera English: HTTP Error 404: Not Found",
   "DW News: HTTP Error 404: Not Found",
-  "Firstpost: HTTP Error 500: Internal Server Error",
+  "Firstpost: HTTP Error 404: Not Found",
   "TRT World: HTTP Error 404: Not Found"
  ]
 }
