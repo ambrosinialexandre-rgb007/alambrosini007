@@ -99,5 +99,16 @@
   "DW News": "@dwnews",
   "Firstpost": "@Firstpost",
   "TRT World": "@trtworld"
+ },
+ "qwatch": {
+  "IppSec": "@ippsec",
+  "John Hammond": "@_JohnHammond",
+  "David Bombal": "@davidbombal",
+  "NetworkChuck": "@NetworkChuck",
+  "13Cubed": "@13Cubed",
+  "PortSwigger": "@PortSwiggerTV",
+  "SANS DFIR": "@SANSForensics",
+  "DEF CON": "user/DEFCONConference",
+  "Black Hat": "@BlackHatOfficialYT"
  }
 }
