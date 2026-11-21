@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T12:33:39.989801+00:00",
+ "generatedAt": "2026-11-21T12:35:22.033967+00:00",
  "topics": {
   "fr-national": [
    {
@@ -273,27 +273,6 @@
   ],
   "me-region": [
    {
-    "title": "Ethiopia: Tackling period poverty and stigma • FRANCE 24 English",
-    "url": "https://www.youtube.com/watch?v=OBmP117w7FM",
-    "channel": "FRANCE 24 English",
-    "published": "2026-11-21T12:22:42+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Ethiopia - Eritrea: Troops mobilise along the border • FRANCE 24 English",
-    "url": "https://www.youtube.com/watch?v=lyY15mNalDY",
-    "channel": "FRANCE 24 English",
-    "published": "2026-11-21T12:19:20+00:00",
-    "topic": "me-region"
-   },
-   {
-    "title": "Music strikes a chord at French protest • FRANCE 24 English",
-    "url": "https://www.youtube.com/watch?v=MXeLSFx_IE4",
-    "channel": "FRANCE 24 English",
-    "published": "2026-11-21T12:17:50+00:00",
-    "topic": "me-region"
-   },
-   {
     "title": "Israel's blind spot on the war in Gaza | Israel Out Loud",
     "url": "https://www.youtube.com/watch?v=zCuq1iVzQjg",
     "channel": "i24NEWS English",
@@ -445,6 +424,27 @@
     "url": "https://www.youtube.com/watch?v=xZViUK3Isog",
     "channel": "FRANCE 24 English",
     "published": "2026-11-21T09:47:04+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "Tech stock sell-off drags markets down • FRANCE 24 English",
+    "url": "https://www.youtube.com/watch?v=dfJRYR0guTg",
+    "channel": "FRANCE 24 English",
+    "published": "2026-11-21T09:45:46+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "EU, UK reach reset deal after Brexit • FRANCE 24 English",
+    "url": "https://www.youtube.com/watch?v=BWttn6jk_Cw",
+    "channel": "FRANCE 24 English",
+    "published": "2026-11-21T09:43:41+00:00",
+    "topic": "me-region"
+   },
+   {
+    "title": "New mass protests expected on Saturday across Europe • FRANCE 24 English",
+    "url": "https://www.youtube.com/watch?v=4Q_8SAi-gkE",
+    "channel": "FRANCE 24 English",
+    "published": "2026-11-21T09:39:49+00:00",
     "topic": "me-region"
    },
    {
@@ -2560,6 +2560,13 @@
   ],
   "brics": [
    {
+    "title": "Floodwaters Swamp Streets in Florida as Troops Respond | WION Shorts",
+    "url": "https://www.youtube.com/watch?v=kWMzh2D07to",
+    "channel": "WION",
+    "published": "2026-11-21T12:33:19+00:00",
+    "topic": "brics"
+   },
+   {
     "title": "Can Regional Indian Food Go Global? | Manish Mehrotra | International Foodie",
     "url": "https://www.youtube.com/watch?v=O77xBNN-loY",
     "channel": "Firstpost",
@@ -2599,6 +2606,13 @@
     "url": "https://www.youtube.com/watch?v=yya7ERCEKc8",
     "channel": "WION",
     "published": "2026-11-21T12:23:57+00:00",
+    "topic": "brics"
+   },
+   {
+    "title": "Florida residents turn to kayaks and rafts as floods swamp streets | AJ #shorts",
+    "url": "https://www.youtube.com/watch?v=b_YRqrSw98U",
+    "channel": "Al Jazeera English",
+    "published": "2026-11-21T12:18:30+00:00",
     "topic": "brics"
    },
    {
@@ -2686,13 +2700,6 @@
     "topic": "brics"
    },
    {
-    "title": "Ukraine: 12 Injured In Russian Attacks | SCO: Pak Minister Backs PM Modi's Proposal | WION",
-    "url": "https://www.youtube.com/watch?v=hN1ZgCLVFpg",
-    "channel": "WION",
-    "published": "2026-11-21T11:38:12+00:00",
-    "topic": "brics"
-   },
-   {
     "title": "Migrants caravan in Mexico walks towards US border | AJ #shorts",
     "url": "https://www.youtube.com/watch?v=TbQxUwulsFc",
     "channel": "Al Jazeera English",
@@ -2753,13 +2760,6 @@
     "url": "https://www.youtube.com/watch?v=RXmvREMnD1k",
     "channel": "TRT World",
     "published": "2026-11-21T09:30:31+00:00",
-    "topic": "brics"
-   },
-   {
-    "title": "Fire sprinkler sprays water at flame-covered sign in China | AJ #shorts",
-    "url": "https://www.youtube.com/watch?v=FCYMaUBpAdk",
-    "channel": "Al Jazeera English",
-    "published": "2026-11-21T09:19:49+00:00",
     "topic": "brics"
    },
    {
@@ -3112,7 +3112,6 @@
   ]
  },
  "errors": [
-  "CGTN: HTTP Error 404: Not Found",
-  "Lesics: HTTP Error 404: Not Found"
+  "CGTN: HTTP Error 404: Not Found"
  ]
 }
